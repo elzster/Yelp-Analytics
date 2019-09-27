@@ -1,0 +1,1051 @@
+,Business,Business ID,City,State,Category,Latitude,Longitude,Reviews
+0,The Halal Guys,xEnNFXtMLDF5kZDxfaCJgA,New York,NY,Food Stands,40.7617559582706,-73.979229927063,9249
+1,Katz's Delicatessen,V7lXZKBDzScDeGB8JmnzSA,New York,NY,Delis,40.722237,-73.98743,11693
+2,Ippudo NY,44SY464xDHbvOcjDzRbKkQ,New York,NY,Ramen,40.73092,-73.99015,9845
+3,The Metropolitan Museum of Art,jVncyqXwlx_D9f2xZn05tg,New York,NY,Art Museums,40.779254271604,-73.9628841731528,2761
+4,Central Park,xOw4aafJRji9XomGunlvcQ,New York,NY,Parks,40.782418740809,-73.9656022837641,2357
+5,Los Tacos No.1,jnEv25Y2DosTq2sNnvmC9g,New York,NY,Tacos,40.7425547,-74.0060838,2811
+6,Bibble & Sip,WHRHK3S1mQc3PmhwsGRvbw,New York,NY,Coffee & Tea,40.76282,-73.98518,4585
+7,Burger & Lobster,UA2M9QFZghe-9th2KwLoWQ,New York,NY,Seafood,40.74007,-73.99344,5268
+8,Best Bagel & Coffee,j1S3NUrkB3BVT49n_e76NQ,New York,NY,Bagels,40.7522683,-73.9910861,3067
+9,Gramercy Tavern,veq1Bl1DW3UWMekZJUsG1Q,New York,NY,American (New),40.738527,-73.988417,2816
+10,LoveMama,jjJc_CrkB2HodEinB6cWww,New York,NY,Thai,40.7303859,-73.9860613,4543
+11,Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,New York,NY,Pizza,40.7229087705545,-73.9944863319397,3112
+12,The High Line,JION8hhg7q6zyayHYwhxIw,New York,NY,Parks,40.7479831752801,-74.0048906107511,2298
+13,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.7163944930004,-73.9886098620298,3173
+14,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,5527
+15,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+16,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2872
+17,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+18,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+19,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+20,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+21,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+22,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+23,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+24,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+25,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+26,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+27,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+28,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+29,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+30,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+31,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+32,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+33,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+34,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+35,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2086
+36,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+37,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+38,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+39,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+40,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+41,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+42,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+43,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+44,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+45,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+46,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+47,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+48,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+49,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+50,Katz's Delicatessen,V7lXZKBDzScDeGB8JmnzSA,New York,NY,Delis,40.722237,-73.98743,11693
+51,Ippudo NY,44SY464xDHbvOcjDzRbKkQ,New York,NY,Ramen,40.73092,-73.99015,9845
+52,The Metropolitan Museum of Art,jVncyqXwlx_D9f2xZn05tg,New York,NY,Art Museums,40.779254271604,-73.9628841731528,2761
+53,Central Park,xOw4aafJRji9XomGunlvcQ,New York,NY,Parks,40.782418740809,-73.9656022837641,2357
+54,Los Tacos No.1,jnEv25Y2DosTq2sNnvmC9g,New York,NY,Tacos,40.7425547,-74.0060838,2811
+55,Bibble & Sip,WHRHK3S1mQc3PmhwsGRvbw,New York,NY,Coffee & Tea,40.76282,-73.98518,4585
+56,Burger & Lobster,UA2M9QFZghe-9th2KwLoWQ,New York,NY,Seafood,40.74007,-73.99344,5268
+57,Best Bagel & Coffee,j1S3NUrkB3BVT49n_e76NQ,New York,NY,Bagels,40.7522683,-73.9910861,3067
+58,Gramercy Tavern,veq1Bl1DW3UWMekZJUsG1Q,New York,NY,American (New),40.738527,-73.988417,2816
+59,LoveMama,jjJc_CrkB2HodEinB6cWww,New York,NY,Thai,40.7303859,-73.9860613,4543
+60,Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,New York,NY,Pizza,40.7229087705545,-73.9944863319397,3112
+61,The High Line,JION8hhg7q6zyayHYwhxIw,New York,NY,Parks,40.7479831752801,-74.0048906107511,2298
+62,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.7163944930004,-73.9886098620298,3173
+63,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,5527
+64,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+65,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2872
+66,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+67,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+68,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+69,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+70,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+71,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+72,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+73,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+74,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+75,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+76,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+77,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+78,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+79,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+80,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+81,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+82,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+83,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+84,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2086
+85,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+86,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+87,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+88,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+89,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+90,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+91,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+92,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+93,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+94,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+95,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+96,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+97,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+98,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+99,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2119
+100,Ippudo NY,44SY464xDHbvOcjDzRbKkQ,New York,NY,Ramen,40.73092,-73.99015,9845
+101,The Metropolitan Museum of Art,jVncyqXwlx_D9f2xZn05tg,New York,NY,Art Museums,40.779254271604,-73.9628841731528,2761
+102,Central Park,xOw4aafJRji9XomGunlvcQ,New York,NY,Parks,40.782418740809,-73.9656022837641,2357
+103,Los Tacos No.1,jnEv25Y2DosTq2sNnvmC9g,New York,NY,Tacos,40.7425547,-74.0060838,2811
+104,Bibble & Sip,WHRHK3S1mQc3PmhwsGRvbw,New York,NY,Coffee & Tea,40.76282,-73.98518,4585
+105,Burger & Lobster,UA2M9QFZghe-9th2KwLoWQ,New York,NY,Seafood,40.74007,-73.99344,5268
+106,Best Bagel & Coffee,j1S3NUrkB3BVT49n_e76NQ,New York,NY,Bagels,40.7522683,-73.9910861,3067
+107,Gramercy Tavern,veq1Bl1DW3UWMekZJUsG1Q,New York,NY,American (New),40.738527,-73.988417,2816
+108,LoveMama,jjJc_CrkB2HodEinB6cWww,New York,NY,Thai,40.7303859,-73.9860613,4543
+109,Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,New York,NY,Pizza,40.7229087705545,-73.9944863319397,3112
+110,The High Line,JION8hhg7q6zyayHYwhxIw,New York,NY,Parks,40.7479831752801,-74.0048906107511,2298
+111,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.7163944930004,-73.9886098620298,3173
+112,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,5527
+113,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+114,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2873
+115,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+116,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+117,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+118,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+119,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+120,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+121,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+122,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+123,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+124,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+125,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+126,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+127,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+128,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+129,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+130,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+131,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+132,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+133,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2086
+134,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+135,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+136,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+137,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+138,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+139,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+140,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+141,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+142,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+143,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+144,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+145,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+146,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+147,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+148,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2119
+149,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+150,Levain Bakery,H4jJ7XB3CetIr1pg56CczQ,New York,NY,Bakeries,40.7799404643263,-73.980282552649,7768
+151,The Halal Guys,xEnNFXtMLDF5kZDxfaCJgA,New York,NY,Food Stands,40.7617559582706,-73.979229927063,9249
+152,Katz's Delicatessen,V7lXZKBDzScDeGB8JmnzSA,New York,NY,Delis,40.722237,-73.98743,11693
+153,Ippudo NY,44SY464xDHbvOcjDzRbKkQ,New York,NY,Ramen,40.73092,-73.99015,9845
+154,The Metropolitan Museum of Art,jVncyqXwlx_D9f2xZn05tg,New York,NY,Art Museums,40.779254271604,-73.9628841731528,2761
+155,Central Park,xOw4aafJRji9XomGunlvcQ,New York,NY,Parks,40.782418740809,-73.9656022837641,2357
+156,Los Tacos No.1,jnEv25Y2DosTq2sNnvmC9g,New York,NY,Tacos,40.7425547,-74.0060838,2811
+157,Bibble & Sip,WHRHK3S1mQc3PmhwsGRvbw,New York,NY,Coffee & Tea,40.76282,-73.98518,4585
+158,Burger & Lobster,UA2M9QFZghe-9th2KwLoWQ,New York,NY,Seafood,40.74007,-73.99344,5268
+159,Best Bagel & Coffee,j1S3NUrkB3BVT49n_e76NQ,New York,NY,Bagels,40.7522683,-73.9910861,3067
+160,Gramercy Tavern,veq1Bl1DW3UWMekZJUsG1Q,New York,NY,American (New),40.738527,-73.988417,2816
+161,LoveMama,jjJc_CrkB2HodEinB6cWww,New York,NY,Thai,40.7303859,-73.9860613,4543
+162,Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,New York,NY,Pizza,40.7229087705545,-73.9944863319397,3112
+163,The High Line,JION8hhg7q6zyayHYwhxIw,New York,NY,Parks,40.7479831752801,-74.0048906107511,2298
+164,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.7163944930004,-73.9886098620298,3173
+165,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,5527
+166,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+167,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2873
+168,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+169,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+170,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+171,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+172,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+173,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+174,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+175,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+176,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+177,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+178,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+179,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+180,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+181,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+182,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+183,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+184,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+185,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+186,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+187,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+188,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+189,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+190,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+191,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+192,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+193,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+194,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+195,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+196,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+197,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+198,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+199,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+200,The Metropolitan Museum of Art,jVncyqXwlx_D9f2xZn05tg,New York,NY,Art Museums,40.779254271604,-73.9628841731528,2761
+201,Central Park,xOw4aafJRji9XomGunlvcQ,New York,NY,Parks,40.782418740809,-73.9656022837641,2357
+202,Los Tacos No.1,jnEv25Y2DosTq2sNnvmC9g,New York,NY,Tacos,40.7425547,-74.0060838,2811
+203,Bibble & Sip,WHRHK3S1mQc3PmhwsGRvbw,New York,NY,Coffee & Tea,40.76282,-73.98518,4585
+204,Burger & Lobster,UA2M9QFZghe-9th2KwLoWQ,New York,NY,Seafood,40.74007,-73.99344,5268
+205,Best Bagel & Coffee,j1S3NUrkB3BVT49n_e76NQ,New York,NY,Bagels,40.7522683,-73.9910861,3067
+206,Gramercy Tavern,veq1Bl1DW3UWMekZJUsG1Q,New York,NY,American (New),40.738527,-73.988417,2816
+207,LoveMama,jjJc_CrkB2HodEinB6cWww,New York,NY,Thai,40.7303859,-73.9860613,4543
+208,Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,New York,NY,Pizza,40.7229087705545,-73.9944863319397,3112
+209,The High Line,JION8hhg7q6zyayHYwhxIw,New York,NY,Parks,40.7479831752801,-74.0048906107511,2298
+210,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.7163944930004,-73.9886098620298,3173
+211,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,5527
+212,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+213,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2873
+214,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+215,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+216,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+217,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+218,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+219,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+220,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+221,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+222,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+223,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+224,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+225,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+226,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+227,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+228,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+229,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+230,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+231,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+232,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+233,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+234,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+235,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+236,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+237,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+238,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+239,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+240,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+241,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+242,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+243,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+244,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+245,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+246,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+247,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+248,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+249,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+250,Central Park,xOw4aafJRji9XomGunlvcQ,New York,NY,Parks,40.782418740809,-73.9656022837641,2357
+251,Los Tacos No.1,jnEv25Y2DosTq2sNnvmC9g,New York,NY,Tacos,40.7425547,-74.0060838,2811
+252,Bibble & Sip,WHRHK3S1mQc3PmhwsGRvbw,New York,NY,Coffee & Tea,40.76282,-73.98518,4585
+253,Burger & Lobster,UA2M9QFZghe-9th2KwLoWQ,New York,NY,Seafood,40.74007,-73.99344,5268
+254,Best Bagel & Coffee,j1S3NUrkB3BVT49n_e76NQ,New York,NY,Bagels,40.7522683,-73.9910861,3067
+255,Gramercy Tavern,veq1Bl1DW3UWMekZJUsG1Q,New York,NY,American (New),40.738527,-73.988417,2816
+256,LoveMama,jjJc_CrkB2HodEinB6cWww,New York,NY,Thai,40.7303859,-73.9860613,4543
+257,Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,New York,NY,Pizza,40.7229087705545,-73.9944863319397,3112
+258,The High Line,JION8hhg7q6zyayHYwhxIw,New York,NY,Parks,40.7479831752801,-74.0048906107511,2298
+259,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.7163944930004,-73.9886098620298,3173
+260,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,5527
+261,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+262,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2873
+263,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+264,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+265,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+266,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+267,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+268,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+269,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+270,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+271,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+272,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+273,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+274,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+275,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+276,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+277,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+278,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+279,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+280,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+281,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+282,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+283,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+284,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+285,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+286,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+287,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+288,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+289,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+290,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+291,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+292,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+293,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+294,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+295,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+296,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+297,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+298,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+299,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.7582662685627,-73.98654,4362
+300,Los Tacos No.1,jnEv25Y2DosTq2sNnvmC9g,New York,NY,Tacos,40.7425547,-74.0060838,2811
+301,Bibble & Sip,WHRHK3S1mQc3PmhwsGRvbw,New York,NY,Coffee & Tea,40.76282,-73.98518,4585
+302,Burger & Lobster,UA2M9QFZghe-9th2KwLoWQ,New York,NY,Seafood,40.74007,-73.99344,5268
+303,Best Bagel & Coffee,j1S3NUrkB3BVT49n_e76NQ,New York,NY,Bagels,40.7522683,-73.9910861,3067
+304,Gramercy Tavern,veq1Bl1DW3UWMekZJUsG1Q,New York,NY,American (New),40.738527,-73.988417,2816
+305,LoveMama,jjJc_CrkB2HodEinB6cWww,New York,NY,Thai,40.7303859,-73.9860613,4543
+306,Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,New York,NY,Pizza,40.7229087705545,-73.9944863319397,3112
+307,The High Line,JION8hhg7q6zyayHYwhxIw,New York,NY,Parks,40.7479831752801,-74.0048906107511,2298
+308,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.7163944930004,-73.9886098620298,3173
+309,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,5527
+310,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+311,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2873
+312,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+313,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+314,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+315,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+316,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+317,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+318,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+319,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+320,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+321,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+322,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+323,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+324,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+325,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+326,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+327,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+328,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+329,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+330,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+331,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+332,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+333,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+334,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+335,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+336,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+337,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+338,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+339,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+340,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+341,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+342,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+343,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+344,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+345,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+346,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+347,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+348,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.7582662685627,-73.98654,4362
+349,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.7667736797858,-73.967607,1548
+350,Bibble & Sip,WHRHK3S1mQc3PmhwsGRvbw,New York,NY,Coffee & Tea,40.76282,-73.98518,4585
+351,Burger & Lobster,UA2M9QFZghe-9th2KwLoWQ,New York,NY,Seafood,40.74007,-73.99344,5268
+352,Best Bagel & Coffee,j1S3NUrkB3BVT49n_e76NQ,New York,NY,Bagels,40.7522683,-73.9910861,3067
+353,Gramercy Tavern,veq1Bl1DW3UWMekZJUsG1Q,New York,NY,American (New),40.738527,-73.988417,2816
+354,LoveMama,jjJc_CrkB2HodEinB6cWww,New York,NY,Thai,40.7303859,-73.9860613,4543
+355,Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,New York,NY,Pizza,40.7229087705545,-73.9944863319397,3112
+356,The High Line,JION8hhg7q6zyayHYwhxIw,New York,NY,Parks,40.7479831752801,-74.0048906107511,2298
+357,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.7163944930004,-73.9886098620298,3173
+358,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,5527
+359,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+360,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2873
+361,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+362,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+363,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+364,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+365,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+366,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+367,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+368,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+369,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+370,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+371,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+372,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+373,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+374,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+375,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+376,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+377,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+378,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+379,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+380,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+381,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+382,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+383,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+384,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+385,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+386,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+387,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+388,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+389,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+390,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+391,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+392,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+393,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+394,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+395,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+396,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+397,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.7582662685627,-73.98654,4362
+398,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.7667736797858,-73.967607,1548
+399,Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,New York,NY,Middle Eastern,40.7302874,-74.0004383,2344
+400,Burger & Lobster,UA2M9QFZghe-9th2KwLoWQ,New York,NY,Seafood,40.74007,-73.99344,5268
+401,Best Bagel & Coffee,j1S3NUrkB3BVT49n_e76NQ,New York,NY,Bagels,40.7522683,-73.9910861,3067
+402,Gramercy Tavern,veq1Bl1DW3UWMekZJUsG1Q,New York,NY,American (New),40.738527,-73.988417,2816
+403,LoveMama,jjJc_CrkB2HodEinB6cWww,New York,NY,Thai,40.7303859,-73.9860613,4543
+404,Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,New York,NY,Pizza,40.7229087705545,-73.9944863319397,3112
+405,The High Line,JION8hhg7q6zyayHYwhxIw,New York,NY,Parks,40.7479831752801,-74.0048906107511,2298
+406,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.7163944930004,-73.9886098620298,3173
+407,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,5527
+408,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+409,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2873
+410,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+411,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+412,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+413,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+414,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+415,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+416,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+417,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+418,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+419,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+420,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+421,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+422,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+423,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+424,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+425,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+426,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+427,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+428,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+429,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+430,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+431,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+432,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+433,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+434,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+435,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+436,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+437,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+438,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+439,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+440,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+441,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+442,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+443,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+444,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+445,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+446,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.7582662685627,-73.98654,4362
+447,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.7667736797858,-73.967607,1548
+448,Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,New York,NY,Middle Eastern,40.7302874,-74.0004383,2344
+449,L'Artusi,rp8S7scxOkVVeG7dNneMGQ,New York,NY,Italian,40.733714,-74.005068,1750
+450,Best Bagel & Coffee,j1S3NUrkB3BVT49n_e76NQ,New York,NY,Bagels,40.7522683,-73.9910861,3067
+451,Gramercy Tavern,veq1Bl1DW3UWMekZJUsG1Q,New York,NY,American (New),40.738527,-73.988417,2816
+452,LoveMama,jjJc_CrkB2HodEinB6cWww,New York,NY,Thai,40.7303859,-73.9860613,4543
+453,Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,New York,NY,Pizza,40.7229087705545,-73.9944863319397,3112
+454,The High Line,JION8hhg7q6zyayHYwhxIw,New York,NY,Parks,40.7479831752801,-74.0048906107511,2298
+455,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.7163944930004,-73.9886098620298,3173
+456,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,5527
+457,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+458,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2873
+459,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+460,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+461,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+462,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+463,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+464,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+465,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+466,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+467,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+468,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+469,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+470,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+471,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+472,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+473,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+474,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+475,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+476,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+477,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+478,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+479,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+480,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+481,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+482,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+483,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+484,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+485,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+486,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+487,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+488,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+489,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+490,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+491,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+492,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+493,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+494,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+495,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.7582662685627,-73.98654,4362
+496,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.7667736797858,-73.967607,1548
+497,Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,New York,NY,Middle Eastern,40.7302874,-74.0004383,2344
+498,L'Artusi,rp8S7scxOkVVeG7dNneMGQ,New York,NY,Italian,40.733714,-74.005068,1750
+499,Eileen's Special Cheesecake,6G_NSMacAfdf-WYOpcQ4uw,New York,NY,Bakeries,40.7215431969029,-73.9972332037048,1563
+500,Gramercy Tavern,veq1Bl1DW3UWMekZJUsG1Q,New York,NY,American (New),40.738527,-73.988417,2816
+501,LoveMama,jjJc_CrkB2HodEinB6cWww,New York,NY,Thai,40.7303859,-73.9860613,4543
+502,Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,New York,NY,Pizza,40.7229087705545,-73.9944863319397,3112
+503,The High Line,JION8hhg7q6zyayHYwhxIw,New York,NY,Parks,40.7479831752801,-74.0048906107511,2298
+504,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.7163944930004,-73.9886098620298,3173
+505,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,5527
+506,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+507,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2873
+508,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+509,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+510,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+511,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+512,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+513,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+514,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+515,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+516,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+517,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+518,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+519,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+520,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+521,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+522,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+523,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+524,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+525,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+526,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+527,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+528,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+529,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+530,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+531,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+532,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+533,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+534,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+535,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+536,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+537,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+538,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+539,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+540,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+541,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+542,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+543,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+544,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.7582662685627,-73.98654,4362
+545,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.7667736797858,-73.967607,1548
+546,Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,New York,NY,Middle Eastern,40.7302874,-74.0004383,2344
+547,L'Artusi,rp8S7scxOkVVeG7dNneMGQ,New York,NY,Italian,40.733714,-74.005068,1750
+548,Eileen's Special Cheesecake,6G_NSMacAfdf-WYOpcQ4uw,New York,NY,Bakeries,40.7215431969029,-73.9972332037048,1563
+549,Rubirosa,WG639VkTjmK5dzydd1BBJA,New York,NY,Italian,40.72275,-73.99622,2035
+550,LoveMama,jjJc_CrkB2HodEinB6cWww,New York,NY,Thai,40.7303859,-73.9860613,4543
+551,Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,New York,NY,Pizza,40.7229087705545,-73.9944863319397,3112
+552,The High Line,JION8hhg7q6zyayHYwhxIw,New York,NY,Parks,40.7479831752801,-74.0048906107511,2298
+553,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.7163944930004,-73.9886098620298,3173
+554,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,5527
+555,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+556,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2873
+557,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+558,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+559,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+560,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+561,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+562,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+563,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+564,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+565,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+566,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+567,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+568,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+569,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+570,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+571,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+572,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+573,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+574,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+575,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+576,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+577,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+578,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+579,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+580,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+581,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+582,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+583,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+584,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+585,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+586,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+587,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+588,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+589,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+590,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+591,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+592,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+593,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.7582662685627,-73.98654,4362
+594,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.7667736797858,-73.967607,1548
+595,Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,New York,NY,Middle Eastern,40.7302874,-74.0004383,2344
+596,L'Artusi,rp8S7scxOkVVeG7dNneMGQ,New York,NY,Italian,40.733714,-74.005068,1750
+597,Eileen's Special Cheesecake,6G_NSMacAfdf-WYOpcQ4uw,New York,NY,Bakeries,40.7215431969029,-73.9972332037048,1563
+598,Rubirosa,WG639VkTjmK5dzydd1BBJA,New York,NY,Italian,40.72275,-73.99622,2035
+599,Beauty & Essex,pfmAcS-g6SiNG0KlLvrqnA,New York,NY,American (New),40.72037,-73.98677,3366
+600,Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,New York,NY,Pizza,40.7229087705545,-73.9944863319397,3112
+601,The High Line,JION8hhg7q6zyayHYwhxIw,New York,NY,Parks,40.7479831752801,-74.0048906107511,2298
+602,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.7163944930004,-73.9886098620298,3173
+603,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,5527
+604,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+605,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2873
+606,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+607,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+608,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+609,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+610,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+611,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+612,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+613,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+614,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+615,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+616,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+617,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+618,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+619,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+620,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+621,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+622,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+623,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+624,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+625,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+626,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+627,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+628,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+629,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+630,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+631,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+632,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+633,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+634,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+635,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+636,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+637,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+638,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+639,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+640,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+641,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+642,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.7582662685627,-73.98654,4362
+643,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.7667736797858,-73.967607,1548
+644,Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,New York,NY,Middle Eastern,40.7302874,-74.0004383,2344
+645,L'Artusi,rp8S7scxOkVVeG7dNneMGQ,New York,NY,Italian,40.733714,-74.005068,1750
+646,Eileen's Special Cheesecake,6G_NSMacAfdf-WYOpcQ4uw,New York,NY,Bakeries,40.7215431969029,-73.9972332037048,1563
+647,Rubirosa,WG639VkTjmK5dzydd1BBJA,New York,NY,Italian,40.72275,-73.99622,2035
+648,Beauty & Essex,pfmAcS-g6SiNG0KlLvrqnA,New York,NY,American (New),40.72037,-73.98677,3366
+649,Bryant Park,MJJi_5tGkWYI1VReTjhCCA,New York,NY,Parks,40.7538842911333,-73.9836510457098,1114
+650,The High Line,JION8hhg7q6zyayHYwhxIw,New York,NY,Parks,40.7479831752801,-74.0048906107511,2298
+651,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.7163944930004,-73.9886098620298,3173
+652,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,5527
+653,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+654,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2873
+655,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+656,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+657,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+658,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+659,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+660,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+661,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+662,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+663,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+664,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+665,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+666,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+667,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+668,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+669,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+670,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+671,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+672,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+673,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+674,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+675,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+676,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+677,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+678,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+679,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+680,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+681,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+682,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+683,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+684,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+685,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+686,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+687,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+688,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+689,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+690,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+691,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.7582662685627,-73.98654,4362
+692,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.7667736797858,-73.967607,1548
+693,Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,New York,NY,Middle Eastern,40.7302874,-74.0004383,2344
+694,L'Artusi,rp8S7scxOkVVeG7dNneMGQ,New York,NY,Italian,40.733714,-74.005068,1750
+695,Eileen's Special Cheesecake,6G_NSMacAfdf-WYOpcQ4uw,New York,NY,Bakeries,40.7215431969029,-73.9972332037048,1563
+696,Rubirosa,WG639VkTjmK5dzydd1BBJA,New York,NY,Italian,40.72275,-73.99622,2035
+697,Beauty & Essex,pfmAcS-g6SiNG0KlLvrqnA,New York,NY,American (New),40.72037,-73.98677,3366
+698,Bryant Park,MJJi_5tGkWYI1VReTjhCCA,New York,NY,Parks,40.7538842911333,-73.9836510457098,1114
+699,Izakaya MEW,klAhw3xLQi9GF1tf_HnS7w,New York,NY,Tapas Bars,40.7501853096499,-73.9863203465939,2164
+700,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.7163944930004,-73.9886098620298,3173
+701,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,5527
+702,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+703,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2873
+704,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+705,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+706,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+707,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+708,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+709,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+710,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+711,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+712,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+713,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+714,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+715,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+716,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+717,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+718,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+719,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+720,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+721,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+722,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+723,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+724,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+725,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+726,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+727,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+728,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+729,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+730,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+731,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+732,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+733,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+734,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+735,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+736,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+737,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+738,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+739,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+740,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.7582662685627,-73.98654,4362
+741,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.7667736797858,-73.967607,1548
+742,Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,New York,NY,Middle Eastern,40.7302874,-74.0004383,2344
+743,L'Artusi,rp8S7scxOkVVeG7dNneMGQ,New York,NY,Italian,40.733714,-74.005068,1750
+744,Eileen's Special Cheesecake,6G_NSMacAfdf-WYOpcQ4uw,New York,NY,Bakeries,40.7215431969029,-73.9972332037048,1563
+745,Rubirosa,WG639VkTjmK5dzydd1BBJA,New York,NY,Italian,40.72275,-73.99622,2035
+746,Beauty & Essex,pfmAcS-g6SiNG0KlLvrqnA,New York,NY,American (New),40.72037,-73.98677,3366
+747,Bryant Park,MJJi_5tGkWYI1VReTjhCCA,New York,NY,Parks,40.7538842911333,-73.9836510457098,1114
+748,Izakaya MEW,klAhw3xLQi9GF1tf_HnS7w,New York,NY,Tapas Bars,40.7501853096499,-73.9863203465939,2164
+749,The Boil,tiSw-6DIm3-mMORyEIOVyg,New York,NY,Cajun/Creole,40.71974,-73.99339,1839
+750,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,5527
+751,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+752,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2873
+753,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+754,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+755,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+756,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+757,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+758,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+759,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+760,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+761,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+762,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+763,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+764,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+765,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+766,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+767,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+768,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+769,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+770,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+771,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+772,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+773,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+774,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+775,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+776,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+777,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+778,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+779,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+780,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+781,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+782,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+783,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+784,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+785,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+786,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+787,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+788,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+789,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.7582662685627,-73.98654,4362
+790,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.7667736797858,-73.967607,1548
+791,Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,New York,NY,Middle Eastern,40.7302874,-74.0004383,2344
+792,L'Artusi,rp8S7scxOkVVeG7dNneMGQ,New York,NY,Italian,40.733714,-74.005068,1750
+793,Eileen's Special Cheesecake,6G_NSMacAfdf-WYOpcQ4uw,New York,NY,Bakeries,40.7215431969029,-73.9972332037048,1563
+794,Rubirosa,WG639VkTjmK5dzydd1BBJA,New York,NY,Italian,40.72275,-73.99622,2035
+795,Beauty & Essex,pfmAcS-g6SiNG0KlLvrqnA,New York,NY,American (New),40.72037,-73.98677,3366
+796,Bryant Park,MJJi_5tGkWYI1VReTjhCCA,New York,NY,Parks,40.7538842911333,-73.9836510457098,1114
+797,Izakaya MEW,klAhw3xLQi9GF1tf_HnS7w,New York,NY,Tapas Bars,40.7501853096499,-73.9863203465939,2164
+798,The Boil,tiSw-6DIm3-mMORyEIOVyg,New York,NY,Cajun/Creole,40.71974,-73.99339,1839
+799,Top of the Rock,36krOhexcsA8Uetoq52A7g,New York,NY,Landmarks & Historical Buildings,40.7593342608422,-73.9794015884399,1595
+800,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1369
+801,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2873
+802,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+803,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+804,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+805,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+806,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+807,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+808,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+809,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+810,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+811,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+812,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+813,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+814,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+815,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+816,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+817,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+818,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+819,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+820,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+821,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+822,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+823,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+824,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+825,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+826,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+827,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+828,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+829,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+830,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+831,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+832,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+833,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+834,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+835,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+836,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+837,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+838,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.7582662685627,-73.98654,4362
+839,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.7667736797858,-73.967607,1548
+840,Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,New York,NY,Middle Eastern,40.7302874,-74.0004383,2344
+841,L'Artusi,rp8S7scxOkVVeG7dNneMGQ,New York,NY,Italian,40.733714,-74.005068,1750
+842,Eileen's Special Cheesecake,6G_NSMacAfdf-WYOpcQ4uw,New York,NY,Bakeries,40.7215431969029,-73.9972332037048,1563
+843,Rubirosa,WG639VkTjmK5dzydd1BBJA,New York,NY,Italian,40.72275,-73.99622,2035
+844,Beauty & Essex,pfmAcS-g6SiNG0KlLvrqnA,New York,NY,American (New),40.72037,-73.98677,3366
+845,Bryant Park,MJJi_5tGkWYI1VReTjhCCA,New York,NY,Parks,40.7538842911333,-73.9836510457098,1114
+846,Izakaya MEW,klAhw3xLQi9GF1tf_HnS7w,New York,NY,Tapas Bars,40.7501853096499,-73.9863203465939,2164
+847,The Boil,tiSw-6DIm3-mMORyEIOVyg,New York,NY,Cajun/Creole,40.71974,-73.99339,1839
+848,Top of the Rock,36krOhexcsA8Uetoq52A7g,New York,NY,Landmarks & Historical Buildings,40.7593342608422,-73.9794015884399,1595
+849,Wafels & Dinges,xJSH3EM1iZtOh4WZti4qjg,New York,NY,Belgian,40.7392845153809,-73.9989318847656,1532
+850,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2873
+851,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+852,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+853,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+854,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+855,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+856,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+857,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+858,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+859,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+860,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+861,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+862,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+863,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+864,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+865,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+866,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+867,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+868,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+869,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+870,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+871,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+872,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+873,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+874,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+875,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+876,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+877,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+878,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+879,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+880,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+881,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+882,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+883,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+884,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+885,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+886,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+887,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.7582662685627,-73.98654,4362
+888,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.7667736797858,-73.967607,1548
+889,Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,New York,NY,Middle Eastern,40.7302874,-74.0004383,2344
+890,L'Artusi,rp8S7scxOkVVeG7dNneMGQ,New York,NY,Italian,40.733714,-74.005068,1750
+891,Eileen's Special Cheesecake,6G_NSMacAfdf-WYOpcQ4uw,New York,NY,Bakeries,40.7215431969029,-73.9972332037048,1563
+892,Rubirosa,WG639VkTjmK5dzydd1BBJA,New York,NY,Italian,40.72275,-73.99622,2035
+893,Beauty & Essex,pfmAcS-g6SiNG0KlLvrqnA,New York,NY,American (New),40.72037,-73.98677,3366
+894,Bryant Park,MJJi_5tGkWYI1VReTjhCCA,New York,NY,Parks,40.7538842911333,-73.9836510457098,1114
+895,Izakaya MEW,klAhw3xLQi9GF1tf_HnS7w,New York,NY,Tapas Bars,40.7501853096499,-73.9863203465939,2164
+896,The Boil,tiSw-6DIm3-mMORyEIOVyg,New York,NY,Cajun/Creole,40.71974,-73.99339,1839
+897,Top of the Rock,36krOhexcsA8Uetoq52A7g,New York,NY,Landmarks & Historical Buildings,40.7593342608422,-73.9794015884399,1595
+898,Wafels & Dinges,xJSH3EM1iZtOh4WZti4qjg,New York,NY,Belgian,40.7392845153809,-73.9989318847656,1532
+899,Doughnut Plant,XskangHFq3JD9klJFuGH8w,New York,NY,Donuts,40.7444886,-73.9969095,2454
+900,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.7414000197233,-73.98815019045,5550
+901,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+902,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+903,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+904,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+905,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+906,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+907,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+908,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+909,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+910,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+911,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+912,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+913,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+914,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+915,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+916,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+917,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+918,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+919,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+920,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+921,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+922,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+923,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+924,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+925,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+926,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+927,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+928,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+929,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+930,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+931,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+932,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+933,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+934,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+935,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+936,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.7582662685627,-73.98654,4362
+937,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.7667736797858,-73.967607,1548
+938,Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,New York,NY,Middle Eastern,40.7302874,-74.0004383,2344
+939,L'Artusi,rp8S7scxOkVVeG7dNneMGQ,New York,NY,Italian,40.733714,-74.005068,1750
+940,Eileen's Special Cheesecake,6G_NSMacAfdf-WYOpcQ4uw,New York,NY,Bakeries,40.7215431969029,-73.9972332037048,1563
+941,Rubirosa,WG639VkTjmK5dzydd1BBJA,New York,NY,Italian,40.72275,-73.99622,2035
+942,Beauty & Essex,pfmAcS-g6SiNG0KlLvrqnA,New York,NY,American (New),40.72037,-73.98677,3366
+943,Bryant Park,MJJi_5tGkWYI1VReTjhCCA,New York,NY,Parks,40.7538842911333,-73.9836510457098,1114
+944,Izakaya MEW,klAhw3xLQi9GF1tf_HnS7w,New York,NY,Tapas Bars,40.7501853096499,-73.9863203465939,2164
+945,The Boil,tiSw-6DIm3-mMORyEIOVyg,New York,NY,Cajun/Creole,40.71974,-73.99339,1839
+946,Top of the Rock,36krOhexcsA8Uetoq52A7g,New York,NY,Landmarks & Historical Buildings,40.7593342608422,-73.9794015884399,1595
+947,Wafels & Dinges,xJSH3EM1iZtOh4WZti4qjg,New York,NY,Belgian,40.7392845153809,-73.9989318847656,1532
+948,Doughnut Plant,XskangHFq3JD9klJFuGH8w,New York,NY,Donuts,40.7444886,-73.9969095,2454
+949,Thursday Kitchen,fVbUVAiLiGgLA_nxBFxyww,New York,NY,Korean,40.7275,-73.9838,1240
+950,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,4844
+951,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+952,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+953,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+954,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+955,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+956,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+957,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+958,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+959,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+960,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+961,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+962,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+963,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+964,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+965,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+966,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+967,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+968,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+969,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+970,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+971,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+972,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+973,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+974,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+975,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+976,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+977,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+978,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+979,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+980,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+981,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+982,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+983,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+984,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+985,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.7582662685627,-73.98654,4362
+986,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.7667736797858,-73.967607,1548
+987,Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,New York,NY,Middle Eastern,40.7302874,-74.0004383,2344
+988,L'Artusi,rp8S7scxOkVVeG7dNneMGQ,New York,NY,Italian,40.733714,-74.005068,1750
+989,Eileen's Special Cheesecake,6G_NSMacAfdf-WYOpcQ4uw,New York,NY,Bakeries,40.7215431969029,-73.9972332037048,1563
+990,Rubirosa,WG639VkTjmK5dzydd1BBJA,New York,NY,Italian,40.72275,-73.99622,2035
+991,Beauty & Essex,pfmAcS-g6SiNG0KlLvrqnA,New York,NY,American (New),40.72037,-73.98677,3366
+992,Bryant Park,MJJi_5tGkWYI1VReTjhCCA,New York,NY,Parks,40.7538842911333,-73.9836510457098,1114
+993,Izakaya MEW,klAhw3xLQi9GF1tf_HnS7w,New York,NY,Tapas Bars,40.7501853096499,-73.9863203465939,2164
+994,The Boil,tiSw-6DIm3-mMORyEIOVyg,New York,NY,Cajun/Creole,40.71974,-73.99339,1839
+995,Top of the Rock,36krOhexcsA8Uetoq52A7g,New York,NY,Landmarks & Historical Buildings,40.7593342608422,-73.9794015884399,1595
+996,Wafels & Dinges,xJSH3EM1iZtOh4WZti4qjg,New York,NY,Belgian,40.7392845153809,-73.9989318847656,1532
+997,Doughnut Plant,XskangHFq3JD9klJFuGH8w,New York,NY,Donuts,40.7444886,-73.9969095,2454
+998,Thursday Kitchen,fVbUVAiLiGgLA_nxBFxyww,New York,NY,Korean,40.7275,-73.9838,1240
+999,Sugar Sweet Sunshine Bakery,qVSOes5JoWc5_umv4nd4Hg,New York,NY,Bakeries,40.719851,-73.987011,2030
+1000,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,2453
+1001,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2506
+1002,Brooklyn Bridge,mvn2XFJfIPNAlvsy-arzkA,Brooklyn,NY,Landmarks & Historical Buildings,40.7059677364821,-73.9966657489186,1323
+1003,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,2756
+1004,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,4311
+1005,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.7422762672197,-74.0048000961542,3859
+1006,Juliana's Pizza,ysqgdbSrezXgVwER2kQWKA,Brooklyn,NY,Pizza,40.7026153030093,-73.9934159993549,2078
+1007,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2560
+1008,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.9882828294139,2089
+1009,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.7146691442891,-73.9977602206654,5939
+1010,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,2675
+1011,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.7866504411994,-73.9755284786224,3887
+1012,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195877796,-73.989716662832,5374
+1013,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,2675
+1014,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,5343
+1015,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215934960083,-73.9955956044561,5964
+1016,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.7416907417333,-73.9872074872255,2087
+1017,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,3568
+1018,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,2864
+1019,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2871
+1020,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1462
+1021,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.7263139141197,-73.9864901976935,1782
+1022,Dough,P58WuRP1AGD9ruE2bZ2urw,Brooklyn,NY,Donuts,40.6890699083996,-73.9571077502625,1708
+1023,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1359
+1024,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2538
+1025,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,2919
+1026,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2970
+1027,Traif,qLLxS7RwNEjP_jq_KQrPfA,Brooklyn,NY,American (New),40.710658,-73.958872,1831
+1028,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,1623
+1029,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.7297097529882,-73.9891492245369,2061
+1030,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,2988
+1031,Up Thai,-OixbLnFLCzQclxCSbUQ8w,New York,NY,Thai,40.7698275926665,-73.9576330868512,2120
+1032,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.7681528889558,-73.9827629623657,1599
+1033,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,3121
+1034,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.7582662685627,-73.98654,4362
+1035,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.7667736797858,-73.967607,1548
+1036,Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,New York,NY,Middle Eastern,40.7302874,-74.0004383,2344
+1037,L'Artusi,rp8S7scxOkVVeG7dNneMGQ,New York,NY,Italian,40.733714,-74.005068,1750
+1038,Eileen's Special Cheesecake,6G_NSMacAfdf-WYOpcQ4uw,New York,NY,Bakeries,40.7215431969029,-73.9972332037048,1563
+1039,Rubirosa,WG639VkTjmK5dzydd1BBJA,New York,NY,Italian,40.72275,-73.99622,2035
+1040,Beauty & Essex,pfmAcS-g6SiNG0KlLvrqnA,New York,NY,American (New),40.72037,-73.98677,3366
+1041,Bryant Park,MJJi_5tGkWYI1VReTjhCCA,New York,NY,Parks,40.7538842911333,-73.9836510457098,1114
+1042,Izakaya MEW,klAhw3xLQi9GF1tf_HnS7w,New York,NY,Tapas Bars,40.7501853096499,-73.9863203465939,2164
+1043,The Boil,tiSw-6DIm3-mMORyEIOVyg,New York,NY,Cajun/Creole,40.71974,-73.99339,1839
+1044,Top of the Rock,36krOhexcsA8Uetoq52A7g,New York,NY,Landmarks & Historical Buildings,40.7593342608422,-73.9794015884399,1595
+1045,Wafels & Dinges,xJSH3EM1iZtOh4WZti4qjg,New York,NY,Belgian,40.7392845153809,-73.9989318847656,1532
+1046,Doughnut Plant,XskangHFq3JD9klJFuGH8w,New York,NY,Donuts,40.7444886,-73.9969095,2454
+1047,Thursday Kitchen,fVbUVAiLiGgLA_nxBFxyww,New York,NY,Korean,40.7275,-73.9838,1240
+1048,Sugar Sweet Sunshine Bakery,qVSOes5JoWc5_umv4nd4Hg,New York,NY,Bakeries,40.719851,-73.987011,2030
+1049,Carmine's Italian Restaurant - Times Square,22nKUyCIbpnzR6R3_g1ptQ,New York,NY,Italian,40.7574955824307,-73.9866844540098,3581

@@ -1,0 +1,4 @@
+# Enter your API keys
+gkey = "AIzaSyA-EHzoIscZ8oA76yk_f8MPhphW1PPIKnk"
+
+api_key ="Q2j-86k5gJi2KE2k8AsD-0HornkGTIk5aSLBieNq9_zuf5Sw5EdxmroERGahsOC5e4EtSKnSoAZC7vVkfdOhlRg4EIPqgWsiCnVBDULEskDGY9rEhgjcj7iREhuNXXYx"

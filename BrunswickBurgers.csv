@@ -1,0 +1,401 @@
+,Business,Business ID,City,State,Category,Latitude,Longitude,Price,Reviews
+0,418 Burgers,hmrXk8jrLredlvQmcYtvjA,Highland Park,NJ,American (Traditional),40.49993610299,-74.4253161549568,$,165
+1,Diesel and Duke,IOyhF0TRcIFm5dwdIsUjVA,New Brunswick,NJ,Burgers,40.4997241,-74.4532267,$,176
+2,Seed Burger,Gh35sccryAIodatISAUKJg,New Brunswick,NJ,Burgers,40.49993,-74.45495,$$,53
+3,White Rose Burgers,sDFz3CorqCqxTL9_HFPRMg,Highland Park,NJ,Burgers,40.502314,-74.415314,$,207
+4,Elevation Burger,QatkL63akw5foYQIcEzq_g,New Brunswick,NJ,Burgers,40.499325,-74.448637,0,34
+5,Tavern on George,wM8fhnGuFGKrgPWpoVV77Q,New Brunswick,NJ,Bars,40.49497,-74.44359,$$,81
+6,The Blue Horse,im0lceO_PEluTMZdcrC3uA,Highland Park,NJ,Diners,40.4992115419489,-74.4281546026468,$$,75
+7,Burgerim,Mr5g_xDNl1ghk8bRa0m79Q,New Brunswick,NJ,Burgers,40.49798,-74.44832,0,22
+8,Destination Dogs,SVWxU5obi6tnHIGVl2a5fQ,New Brunswick,NJ,Hot Dogs,40.4947108291364,-74.4481708172015,$$,869
+9,Fritz's Restaurant,KpJKPYcH9V37JE5gsWz0yQ,New Brunswick,NJ,American (Traditional),40.4992391255818,-74.451983932837,$,241
+10,25 Burgers & Pizza,hSY-Fy7WrouIfm4BOqrC7g,New Brunswick,NJ,Burgers,40.4966223,-74.4468286,$,139
+11,Zinburger Wine & Burger Bar,pJ7rVXvAmUjrFpBDvTNMRQ,Edison,NJ,Wine Bars,40.516728,-74.372622,$$,349
+12,Hansel 'n Griddle,t_adP1UMr8Hkjn3K--Y8Aw,New Brunswick,NJ,Sandwiches,40.4991354060364,-74.4527822900469,$,273
+13,Smashburger,d8pOa2NMk8HGdefVon-CwA,North Brunswick,NJ,Burgers,40.4620365252511,-74.4605427027242,$$,102
+14,INC American Bar & Kitchen,S9qg-6LQtkk99kBHZLv1Jg,New Brunswick,NJ,American (New),40.4925980248019,-74.4435093298896,$$,229
+15,30 Burgers,cSLYiw4NLrgnDbtc_0k9Jw,East Brunswick,NJ,Burgers,40.45422,-74.39928,$,53
+16,Five Guys,5yuZ8xyIcb11uNr8Y1XOug,North Brunswick,NJ,Burgers,40.4609401,-74.4587139,$$,37
+17,Scarlet 158 Deli,QoR7j4VW2PShyy9CTiGm1Q,New Brunswick,NJ,Delis,40.49829,-74.45765,0,3
+18,Elixir Bar & Grill,jakk8dqkNPArNqNg3mHeHA,Edison,NJ,Tex-Mex,40.5011909066979,-74.3927383121075,$$,153
+19,Gio's Deli,fO4SH50_5yPL_8wsXwSLzg,New Brunswick,NJ,Wraps,40.495466,-74.444838,$$,10
+20,George Street Ale House,Wn4OJxDd4wZFAZet-eSrhw,New Brunswick,NJ,Gastropubs,40.49567,-74.44435,$$,245
+21,Five Guys,ydINVSu6fYeLyoXH66P5-w,South Plainfield,NJ,Burgers,40.54962,-74.42569,$,39
+22,Park Place,jrancCVFAe3VGLnUM0cQaw,Highland Park,NJ,Kosher,40.498001,-74.431449,$$,18
+23,White Castle,BFApZ1ZH4-dBU7lrVk15Ag,New Brunswick,NJ,Fast Food,40.4855431672125,-74.4713161793865,$,44
+24,Clydz,MCn2ruEcchjL0UOqROaEMQ,New Brunswick,NJ,American (New),40.495089,-74.445487,$$,644
+25,Flame Kabob House,rpJhltERJlUuFcV3iQur7w,Franklin Township,NJ,Halal,40.51532,-74.48855,0,14
+26,PJ's Grill & Pizza,Sxl30p6GXmHfEmXzEPPsSQ,New Brunswick,NJ,Pizza,40.4998488455674,-74.4544027263963,$,119
+27,Old Man Rafferty's,kPqMRmkKbz88cOJdcsifVA,New Brunswick,NJ,Bars,40.4965737,-74.4437916,$$,545
+28,Stage Left Steak,DPyTHTX6jr1ND7PXYS9z4Q,New Brunswick,NJ,American (Traditional),40.493785005224,-74.4437874349408,$$$,187
+29,Golden Lion Inn,V406kWdv4-G-YBIEwc3i5g,Milltown,NJ,American (Traditional),40.45094,-74.43569,$,76
+30,"MOOYAH Burgers, Fries & Shakes",wHl41FX3fEHVQbEqeFAl7w,Franklin Township,NJ,Burgers,40.529237,-74.539237,$$,56
+31,Red Robin Gourmet Burgers and Brews,5INBYUVqCav0R0ZTOG02Ng,South Plainfield,NJ,Burgers,40.55531,-74.430693,$$,162
+32,Smashburger,5BDRCRNPCPGlWmNq_oNESw,East Brunswick,NJ,Burgers,40.434729749932,-74.3913401920461,$,130
+33,Harvest Moon Brewery / Cafe,JpQznQlrkgZQogLOQXH9mg,New Brunswick,NJ,Beer Bar,40.4961759134207,-74.4443214067832,$$,407
+34,Judy's kitchen,aFhQeJQIrR1imAhjUMAccw,New Brunswick,NJ,Spanish,40.4979628408067,-74.451482825053,$,25
+35,Changarro Las Rosas Chimi Pollo,YxwYAEilsW9n266B7Ko9gw,New Brunswick,NJ,Latin American,40.480004,-74.445358,0,1
+36,Five Guys,6Sleh5v7oAHCgfIoijtupg,East Brunswick,NJ,Burgers,40.428452,-74.3861491,$,12
+37,Burgerim - Metuchen,o1Y-sXvZeNHhPgm_jr_N7w,Metuchen,NJ,Burgers,40.54079,-74.3675,0,19
+38,Twenty/20 Taphouse,plbuCrJd7_mlDLERvV-39Q,Somerset,NJ,Burgers,40.533787,-74.509521,$$,87
+39,Veganized,QMBbqDZmYZc0dXFwBgf1_g,New Brunswick,NJ,Vegan,40.494828,-74.444994,$$,524
+40,Brick House Bar & Grill,zlLs4R_oYlcwgRLLGInVkg,Sayreville,NJ,Bars,40.45869,-74.35179,$$,45
+41,Hub City Brewhouse,9LarearMJdGmt7lWY3OUtA,New Brunswick,NJ,Sports Bars,40.4942410909884,-74.4432822580296,$$,74
+42,Deccan Delights,V7EgzmIMisdYWVA8S07fUA,New Brunswick,NJ,Indian,40.49968,-74.45304,0,1
+43,Stuff Yer Face,-PlK17Po5nchDnqNoYG9xQ,New Brunswick,NJ,Pubs,40.4980567440164,-74.4489870653596,$$,600
+44,Arooga's,L62G08xR1OuXzMOgaqlMsg,East Brunswick,NJ,Sports Bars,40.415067,-74.371187,$$,284
+45,Jk Luncheonette and Grill,BqSvB1K3F3N60uyW1cCoog,New Brunswick,NJ,Breakfast & Brunch,40.49269,-74.44793,0,4
+46,Blackthorn Restaurant and Irish Pub,t9TNKhddbmd9S7PSWJLeRg,New Brunswick,NJ,Irish,40.4961717,-74.4432955,$$,42
+47,In N Out Deli & Grocery,hc_XXIJlnZmydY3IrL2AEA,New Brunswick,NJ,Delis,40.497466,-74.452231,0,1
+48,Sophie's Bistro,PnGgduDWQOOEIrDJpqpxcg,Somerset,NJ,French,40.491369,-74.4723549,$$,210
+49,Red Robin Gourmet Burgers and Brews,4ZaL8izfckslCUWZJL_a2w,East Brunswick,NJ,Burgers,40.4237875523922,-74.3817118166718,$$,92
+50,Diesel and Duke,IOyhF0TRcIFm5dwdIsUjVA,New Brunswick,NJ,Burgers,40.4997241,-74.4532267,$,176
+51,Seed Burger,Gh35sccryAIodatISAUKJg,New Brunswick,NJ,Burgers,40.49993,-74.45495,$$,53
+52,White Rose Burgers,sDFz3CorqCqxTL9_HFPRMg,Highland Park,NJ,Burgers,40.502314,-74.415314,$,207
+53,Elevation Burger,QatkL63akw5foYQIcEzq_g,New Brunswick,NJ,Burgers,40.499325,-74.448637,0,34
+54,Tavern on George,wM8fhnGuFGKrgPWpoVV77Q,New Brunswick,NJ,Bars,40.49497,-74.44359,$$,81
+55,The Blue Horse,im0lceO_PEluTMZdcrC3uA,Highland Park,NJ,Diners,40.4992115419489,-74.4281546026468,$$,75
+56,Burgerim,Mr5g_xDNl1ghk8bRa0m79Q,New Brunswick,NJ,Burgers,40.49798,-74.44832,0,22
+57,Destination Dogs,SVWxU5obi6tnHIGVl2a5fQ,New Brunswick,NJ,Hot Dogs,40.4947108291364,-74.4481708172015,$$,869
+58,Fritz's Restaurant,KpJKPYcH9V37JE5gsWz0yQ,New Brunswick,NJ,American (Traditional),40.4992391255818,-74.451983932837,$,241
+59,25 Burgers & Pizza,hSY-Fy7WrouIfm4BOqrC7g,New Brunswick,NJ,Burgers,40.4966223,-74.4468286,$,139
+60,Zinburger Wine & Burger Bar,pJ7rVXvAmUjrFpBDvTNMRQ,Edison,NJ,Wine Bars,40.516728,-74.372622,$$,349
+61,Hansel 'n Griddle,t_adP1UMr8Hkjn3K--Y8Aw,New Brunswick,NJ,Sandwiches,40.4991354060364,-74.4527822900469,$,273
+62,Smashburger,d8pOa2NMk8HGdefVon-CwA,North Brunswick,NJ,Burgers,40.4620365252511,-74.4605427027242,$$,102
+63,INC American Bar & Kitchen,S9qg-6LQtkk99kBHZLv1Jg,New Brunswick,NJ,American (New),40.4925980248019,-74.4435093298896,$$,229
+64,30 Burgers,cSLYiw4NLrgnDbtc_0k9Jw,East Brunswick,NJ,Burgers,40.45422,-74.39928,$,53
+65,Five Guys,5yuZ8xyIcb11uNr8Y1XOug,North Brunswick,NJ,Burgers,40.4609401,-74.4587139,$$,37
+66,Scarlet 158 Deli,QoR7j4VW2PShyy9CTiGm1Q,New Brunswick,NJ,Delis,40.49829,-74.45765,0,3
+67,Elixir Bar & Grill,jakk8dqkNPArNqNg3mHeHA,Edison,NJ,Tex-Mex,40.5011909066979,-74.3927383121075,$$,153
+68,Gio's Deli,fO4SH50_5yPL_8wsXwSLzg,New Brunswick,NJ,Wraps,40.495466,-74.444838,$$,10
+69,George Street Ale House,Wn4OJxDd4wZFAZet-eSrhw,New Brunswick,NJ,Gastropubs,40.49567,-74.44435,$$,245
+70,Five Guys,ydINVSu6fYeLyoXH66P5-w,South Plainfield,NJ,Burgers,40.54962,-74.42569,$,39
+71,Park Place,jrancCVFAe3VGLnUM0cQaw,Highland Park,NJ,Kosher,40.498001,-74.431449,$$,18
+72,White Castle,BFApZ1ZH4-dBU7lrVk15Ag,New Brunswick,NJ,Fast Food,40.4855431672125,-74.4713161793865,$,44
+73,Clydz,MCn2ruEcchjL0UOqROaEMQ,New Brunswick,NJ,American (New),40.495089,-74.445487,$$,644
+74,Flame Kabob House,rpJhltERJlUuFcV3iQur7w,Franklin Township,NJ,Halal,40.51532,-74.48855,0,14
+75,PJ's Grill & Pizza,Sxl30p6GXmHfEmXzEPPsSQ,New Brunswick,NJ,Pizza,40.4998488455674,-74.4544027263963,$,119
+76,Old Man Rafferty's,kPqMRmkKbz88cOJdcsifVA,New Brunswick,NJ,Bars,40.4965737,-74.4437916,$$,545
+77,Stage Left Steak,DPyTHTX6jr1ND7PXYS9z4Q,New Brunswick,NJ,American (Traditional),40.493785005224,-74.4437874349408,$$$,187
+78,Golden Lion Inn,V406kWdv4-G-YBIEwc3i5g,Milltown,NJ,American (Traditional),40.45094,-74.43569,$,76
+79,"MOOYAH Burgers, Fries & Shakes",wHl41FX3fEHVQbEqeFAl7w,Franklin Township,NJ,Burgers,40.529237,-74.539237,$$,56
+80,Red Robin Gourmet Burgers and Brews,5INBYUVqCav0R0ZTOG02Ng,South Plainfield,NJ,Burgers,40.55531,-74.430693,$$,162
+81,Smashburger,5BDRCRNPCPGlWmNq_oNESw,East Brunswick,NJ,Burgers,40.434729749932,-74.3913401920461,$,130
+82,Harvest Moon Brewery / Cafe,JpQznQlrkgZQogLOQXH9mg,New Brunswick,NJ,Beer Bar,40.4961759134207,-74.4443214067832,$$,407
+83,Judy's kitchen,aFhQeJQIrR1imAhjUMAccw,New Brunswick,NJ,Spanish,40.4979628408067,-74.451482825053,$,25
+84,Changarro Las Rosas Chimi Pollo,YxwYAEilsW9n266B7Ko9gw,New Brunswick,NJ,Latin American,40.480004,-74.445358,0,1
+85,Five Guys,6Sleh5v7oAHCgfIoijtupg,East Brunswick,NJ,Burgers,40.428452,-74.3861491,$,12
+86,Burgerim - Metuchen,o1Y-sXvZeNHhPgm_jr_N7w,Metuchen,NJ,Burgers,40.54079,-74.3675,0,19
+87,Twenty/20 Taphouse,plbuCrJd7_mlDLERvV-39Q,Somerset,NJ,Burgers,40.533787,-74.509521,$$,87
+88,Veganized,QMBbqDZmYZc0dXFwBgf1_g,New Brunswick,NJ,Vegan,40.494828,-74.444994,$$,524
+89,Brick House Bar & Grill,zlLs4R_oYlcwgRLLGInVkg,Sayreville,NJ,Bars,40.45869,-74.35179,$$,45
+90,Hub City Brewhouse,9LarearMJdGmt7lWY3OUtA,New Brunswick,NJ,Sports Bars,40.4942410909884,-74.4432822580296,$$,74
+91,Deccan Delights,V7EgzmIMisdYWVA8S07fUA,New Brunswick,NJ,Indian,40.49968,-74.45304,0,1
+92,Stuff Yer Face,-PlK17Po5nchDnqNoYG9xQ,New Brunswick,NJ,Pubs,40.4980567440164,-74.4489870653596,$$,600
+93,Arooga's,L62G08xR1OuXzMOgaqlMsg,East Brunswick,NJ,Sports Bars,40.415067,-74.371187,$$,284
+94,Jk Luncheonette and Grill,BqSvB1K3F3N60uyW1cCoog,New Brunswick,NJ,Breakfast & Brunch,40.49269,-74.44793,0,4
+95,Blackthorn Restaurant and Irish Pub,t9TNKhddbmd9S7PSWJLeRg,New Brunswick,NJ,Irish,40.4961717,-74.4432955,$$,42
+96,In N Out Deli & Grocery,hc_XXIJlnZmydY3IrL2AEA,New Brunswick,NJ,Delis,40.497466,-74.452231,0,1
+97,Sophie's Bistro,PnGgduDWQOOEIrDJpqpxcg,Somerset,NJ,French,40.491369,-74.4723549,$$,210
+98,Red Robin Gourmet Burgers and Brews,4ZaL8izfckslCUWZJL_a2w,East Brunswick,NJ,Burgers,40.4237875523922,-74.3817118166718,$$,92
+99,Halal Boys,0C_UFtpdDNOg6V622PHfLQ,North Brunswick,NJ,Middle Eastern,40.458932727708,-74.4726570312134,$,38
+100,Seed Burger,Gh35sccryAIodatISAUKJg,New Brunswick,NJ,Burgers,40.49993,-74.45495,$$,53
+101,White Rose Burgers,sDFz3CorqCqxTL9_HFPRMg,Highland Park,NJ,Burgers,40.502314,-74.415314,$,207
+102,Elevation Burger,QatkL63akw5foYQIcEzq_g,New Brunswick,NJ,Burgers,40.499325,-74.448637,0,34
+103,Tavern on George,wM8fhnGuFGKrgPWpoVV77Q,New Brunswick,NJ,Bars,40.49497,-74.44359,$$,81
+104,The Blue Horse,im0lceO_PEluTMZdcrC3uA,Highland Park,NJ,Diners,40.4992115419489,-74.4281546026468,$$,75
+105,Burgerim,Mr5g_xDNl1ghk8bRa0m79Q,New Brunswick,NJ,Burgers,40.49798,-74.44832,0,22
+106,Destination Dogs,SVWxU5obi6tnHIGVl2a5fQ,New Brunswick,NJ,Hot Dogs,40.4947108291364,-74.4481708172015,$$,869
+107,Fritz's Restaurant,KpJKPYcH9V37JE5gsWz0yQ,New Brunswick,NJ,American (Traditional),40.4992391255818,-74.451983932837,$,241
+108,25 Burgers & Pizza,hSY-Fy7WrouIfm4BOqrC7g,New Brunswick,NJ,Burgers,40.4966223,-74.4468286,$,139
+109,Zinburger Wine & Burger Bar,pJ7rVXvAmUjrFpBDvTNMRQ,Edison,NJ,Wine Bars,40.516728,-74.372622,$$,349
+110,Hansel 'n Griddle,t_adP1UMr8Hkjn3K--Y8Aw,New Brunswick,NJ,Sandwiches,40.4991354060364,-74.4527822900469,$,273
+111,Smashburger,d8pOa2NMk8HGdefVon-CwA,North Brunswick,NJ,Burgers,40.4620365252511,-74.4605427027242,$$,102
+112,INC American Bar & Kitchen,S9qg-6LQtkk99kBHZLv1Jg,New Brunswick,NJ,American (New),40.4925980248019,-74.4435093298896,$$,229
+113,30 Burgers,cSLYiw4NLrgnDbtc_0k9Jw,East Brunswick,NJ,Burgers,40.45422,-74.39928,$,53
+114,Five Guys,5yuZ8xyIcb11uNr8Y1XOug,North Brunswick,NJ,Burgers,40.4609401,-74.4587139,$$,37
+115,Scarlet 158 Deli,QoR7j4VW2PShyy9CTiGm1Q,New Brunswick,NJ,Delis,40.49829,-74.45765,0,3
+116,Elixir Bar & Grill,jakk8dqkNPArNqNg3mHeHA,Edison,NJ,Tex-Mex,40.5011909066979,-74.3927383121075,$$,153
+117,Gio's Deli,fO4SH50_5yPL_8wsXwSLzg,New Brunswick,NJ,Wraps,40.495466,-74.444838,$$,10
+118,George Street Ale House,Wn4OJxDd4wZFAZet-eSrhw,New Brunswick,NJ,Gastropubs,40.49567,-74.44435,$$,245
+119,Five Guys,ydINVSu6fYeLyoXH66P5-w,South Plainfield,NJ,Burgers,40.54962,-74.42569,$,39
+120,Park Place,jrancCVFAe3VGLnUM0cQaw,Highland Park,NJ,Kosher,40.498001,-74.431449,$$,18
+121,White Castle,BFApZ1ZH4-dBU7lrVk15Ag,New Brunswick,NJ,Fast Food,40.4855431672125,-74.4713161793865,$,44
+122,Clydz,MCn2ruEcchjL0UOqROaEMQ,New Brunswick,NJ,American (New),40.495089,-74.445487,$$,644
+123,Flame Kabob House,rpJhltERJlUuFcV3iQur7w,Franklin Township,NJ,Halal,40.51532,-74.48855,0,14
+124,PJ's Grill & Pizza,Sxl30p6GXmHfEmXzEPPsSQ,New Brunswick,NJ,Pizza,40.4998488455674,-74.4544027263963,$,119
+125,Old Man Rafferty's,kPqMRmkKbz88cOJdcsifVA,New Brunswick,NJ,Bars,40.4965737,-74.4437916,$$,545
+126,Stage Left Steak,DPyTHTX6jr1ND7PXYS9z4Q,New Brunswick,NJ,American (Traditional),40.493785005224,-74.4437874349408,$$$,187
+127,Golden Lion Inn,V406kWdv4-G-YBIEwc3i5g,Milltown,NJ,American (Traditional),40.45094,-74.43569,$,76
+128,"MOOYAH Burgers, Fries & Shakes",wHl41FX3fEHVQbEqeFAl7w,Franklin Township,NJ,Burgers,40.529237,-74.539237,$$,56
+129,Red Robin Gourmet Burgers and Brews,5INBYUVqCav0R0ZTOG02Ng,South Plainfield,NJ,Burgers,40.55531,-74.430693,$$,162
+130,Smashburger,5BDRCRNPCPGlWmNq_oNESw,East Brunswick,NJ,Burgers,40.434729749932,-74.3913401920461,$,130
+131,Harvest Moon Brewery / Cafe,JpQznQlrkgZQogLOQXH9mg,New Brunswick,NJ,Beer Bar,40.4961759134207,-74.4443214067832,$$,407
+132,Judy's kitchen,aFhQeJQIrR1imAhjUMAccw,New Brunswick,NJ,Spanish,40.4979628408067,-74.451482825053,$,25
+133,Changarro Las Rosas Chimi Pollo,YxwYAEilsW9n266B7Ko9gw,New Brunswick,NJ,Latin American,40.480004,-74.445358,0,1
+134,Five Guys,6Sleh5v7oAHCgfIoijtupg,East Brunswick,NJ,Burgers,40.428452,-74.3861491,$,12
+135,Burgerim - Metuchen,o1Y-sXvZeNHhPgm_jr_N7w,Metuchen,NJ,Burgers,40.54079,-74.3675,0,19
+136,Twenty/20 Taphouse,plbuCrJd7_mlDLERvV-39Q,Somerset,NJ,Burgers,40.533787,-74.509521,$$,87
+137,Veganized,QMBbqDZmYZc0dXFwBgf1_g,New Brunswick,NJ,Vegan,40.494828,-74.444994,$$,524
+138,Brick House Bar & Grill,zlLs4R_oYlcwgRLLGInVkg,Sayreville,NJ,Bars,40.45869,-74.35179,$$,45
+139,Hub City Brewhouse,9LarearMJdGmt7lWY3OUtA,New Brunswick,NJ,Sports Bars,40.4942410909884,-74.4432822580296,$$,74
+140,Deccan Delights,V7EgzmIMisdYWVA8S07fUA,New Brunswick,NJ,Indian,40.49968,-74.45304,0,1
+141,Stuff Yer Face,-PlK17Po5nchDnqNoYG9xQ,New Brunswick,NJ,Pubs,40.4980567440164,-74.4489870653596,$$,600
+142,Arooga's,L62G08xR1OuXzMOgaqlMsg,East Brunswick,NJ,Sports Bars,40.415067,-74.371187,$$,284
+143,Jk Luncheonette and Grill,BqSvB1K3F3N60uyW1cCoog,New Brunswick,NJ,Breakfast & Brunch,40.49269,-74.44793,0,4
+144,Blackthorn Restaurant and Irish Pub,t9TNKhddbmd9S7PSWJLeRg,New Brunswick,NJ,Irish,40.4961717,-74.4432955,$$,42
+145,In N Out Deli & Grocery,hc_XXIJlnZmydY3IrL2AEA,New Brunswick,NJ,Delis,40.497466,-74.452231,0,1
+146,Sophie's Bistro,PnGgduDWQOOEIrDJpqpxcg,Somerset,NJ,French,40.491369,-74.4723549,$$,210
+147,Red Robin Gourmet Burgers and Brews,4ZaL8izfckslCUWZJL_a2w,East Brunswick,NJ,Burgers,40.4237875523922,-74.3817118166718,$$,92
+148,Halal Boys,0C_UFtpdDNOg6V622PHfLQ,North Brunswick,NJ,Middle Eastern,40.458932727708,-74.4726570312134,$,38
+149,Campus Pizza,bHGqy6vif35iJ4OawId_2A,New Brunswick,NJ,Pizza,40.49969,-74.454055,0,2
+150,White Rose Burgers,sDFz3CorqCqxTL9_HFPRMg,Highland Park,NJ,Burgers,40.502314,-74.415314,$,207
+151,Elevation Burger,QatkL63akw5foYQIcEzq_g,New Brunswick,NJ,Burgers,40.499325,-74.448637,0,34
+152,Tavern on George,wM8fhnGuFGKrgPWpoVV77Q,New Brunswick,NJ,Bars,40.49497,-74.44359,$$,81
+153,The Blue Horse,im0lceO_PEluTMZdcrC3uA,Highland Park,NJ,Diners,40.4992115419489,-74.4281546026468,$$,75
+154,Burgerim,Mr5g_xDNl1ghk8bRa0m79Q,New Brunswick,NJ,Burgers,40.49798,-74.44832,0,22
+155,Destination Dogs,SVWxU5obi6tnHIGVl2a5fQ,New Brunswick,NJ,Hot Dogs,40.4947108291364,-74.4481708172015,$$,869
+156,Fritz's Restaurant,KpJKPYcH9V37JE5gsWz0yQ,New Brunswick,NJ,American (Traditional),40.4992391255818,-74.451983932837,$,241
+157,25 Burgers & Pizza,hSY-Fy7WrouIfm4BOqrC7g,New Brunswick,NJ,Burgers,40.4966223,-74.4468286,$,139
+158,Zinburger Wine & Burger Bar,pJ7rVXvAmUjrFpBDvTNMRQ,Edison,NJ,Wine Bars,40.516728,-74.372622,$$,349
+159,Hansel 'n Griddle,t_adP1UMr8Hkjn3K--Y8Aw,New Brunswick,NJ,Sandwiches,40.4991354060364,-74.4527822900469,$,273
+160,Smashburger,d8pOa2NMk8HGdefVon-CwA,North Brunswick,NJ,Burgers,40.4620365252511,-74.4605427027242,$$,102
+161,INC American Bar & Kitchen,S9qg-6LQtkk99kBHZLv1Jg,New Brunswick,NJ,American (New),40.4925980248019,-74.4435093298896,$$,229
+162,30 Burgers,cSLYiw4NLrgnDbtc_0k9Jw,East Brunswick,NJ,Burgers,40.45422,-74.39928,$,53
+163,Five Guys,5yuZ8xyIcb11uNr8Y1XOug,North Brunswick,NJ,Burgers,40.4609401,-74.4587139,$$,37
+164,Scarlet 158 Deli,QoR7j4VW2PShyy9CTiGm1Q,New Brunswick,NJ,Delis,40.49829,-74.45765,0,3
+165,Elixir Bar & Grill,jakk8dqkNPArNqNg3mHeHA,Edison,NJ,Tex-Mex,40.5011909066979,-74.3927383121075,$$,153
+166,Gio's Deli,fO4SH50_5yPL_8wsXwSLzg,New Brunswick,NJ,Wraps,40.495466,-74.444838,$$,10
+167,George Street Ale House,Wn4OJxDd4wZFAZet-eSrhw,New Brunswick,NJ,Gastropubs,40.49567,-74.44435,$$,245
+168,Five Guys,ydINVSu6fYeLyoXH66P5-w,South Plainfield,NJ,Burgers,40.54962,-74.42569,$,39
+169,Park Place,jrancCVFAe3VGLnUM0cQaw,Highland Park,NJ,Kosher,40.498001,-74.431449,$$,18
+170,White Castle,BFApZ1ZH4-dBU7lrVk15Ag,New Brunswick,NJ,Fast Food,40.4855431672125,-74.4713161793865,$,44
+171,Clydz,MCn2ruEcchjL0UOqROaEMQ,New Brunswick,NJ,American (New),40.495089,-74.445487,$$,644
+172,Flame Kabob House,rpJhltERJlUuFcV3iQur7w,Franklin Township,NJ,Halal,40.51532,-74.48855,0,14
+173,PJ's Grill & Pizza,Sxl30p6GXmHfEmXzEPPsSQ,New Brunswick,NJ,Pizza,40.4998488455674,-74.4544027263963,$,119
+174,Old Man Rafferty's,kPqMRmkKbz88cOJdcsifVA,New Brunswick,NJ,Bars,40.4965737,-74.4437916,$$,545
+175,Stage Left Steak,DPyTHTX6jr1ND7PXYS9z4Q,New Brunswick,NJ,American (Traditional),40.493785005224,-74.4437874349408,$$$,187
+176,Golden Lion Inn,V406kWdv4-G-YBIEwc3i5g,Milltown,NJ,American (Traditional),40.45094,-74.43569,$,76
+177,"MOOYAH Burgers, Fries & Shakes",wHl41FX3fEHVQbEqeFAl7w,Franklin Township,NJ,Burgers,40.529237,-74.539237,$$,56
+178,Red Robin Gourmet Burgers and Brews,5INBYUVqCav0R0ZTOG02Ng,South Plainfield,NJ,Burgers,40.55531,-74.430693,$$,162
+179,Smashburger,5BDRCRNPCPGlWmNq_oNESw,East Brunswick,NJ,Burgers,40.434729749932,-74.3913401920461,$,130
+180,Harvest Moon Brewery / Cafe,JpQznQlrkgZQogLOQXH9mg,New Brunswick,NJ,Beer Bar,40.4961759134207,-74.4443214067832,$$,407
+181,Judy's kitchen,aFhQeJQIrR1imAhjUMAccw,New Brunswick,NJ,Spanish,40.4979628408067,-74.451482825053,$,25
+182,Changarro Las Rosas Chimi Pollo,YxwYAEilsW9n266B7Ko9gw,New Brunswick,NJ,Latin American,40.480004,-74.445358,0,1
+183,Five Guys,6Sleh5v7oAHCgfIoijtupg,East Brunswick,NJ,Burgers,40.428452,-74.3861491,$,12
+184,Burgerim - Metuchen,o1Y-sXvZeNHhPgm_jr_N7w,Metuchen,NJ,Burgers,40.54079,-74.3675,0,19
+185,Twenty/20 Taphouse,plbuCrJd7_mlDLERvV-39Q,Somerset,NJ,Burgers,40.533787,-74.509521,$$,87
+186,Veganized,QMBbqDZmYZc0dXFwBgf1_g,New Brunswick,NJ,Vegan,40.494828,-74.444994,$$,524
+187,Brick House Bar & Grill,zlLs4R_oYlcwgRLLGInVkg,Sayreville,NJ,Bars,40.45869,-74.35179,$$,45
+188,Hub City Brewhouse,9LarearMJdGmt7lWY3OUtA,New Brunswick,NJ,Sports Bars,40.4942410909884,-74.4432822580296,$$,74
+189,Deccan Delights,V7EgzmIMisdYWVA8S07fUA,New Brunswick,NJ,Indian,40.49968,-74.45304,0,1
+190,Stuff Yer Face,-PlK17Po5nchDnqNoYG9xQ,New Brunswick,NJ,Pubs,40.4980567440164,-74.4489870653596,$$,600
+191,Arooga's,L62G08xR1OuXzMOgaqlMsg,East Brunswick,NJ,Sports Bars,40.415067,-74.371187,$$,284
+192,Jk Luncheonette and Grill,BqSvB1K3F3N60uyW1cCoog,New Brunswick,NJ,Breakfast & Brunch,40.49269,-74.44793,0,4
+193,Blackthorn Restaurant and Irish Pub,t9TNKhddbmd9S7PSWJLeRg,New Brunswick,NJ,Irish,40.4961717,-74.4432955,$$,42
+194,In N Out Deli & Grocery,hc_XXIJlnZmydY3IrL2AEA,New Brunswick,NJ,Delis,40.497466,-74.452231,0,1
+195,Sophie's Bistro,PnGgduDWQOOEIrDJpqpxcg,Somerset,NJ,French,40.491369,-74.4723549,$$,210
+196,Red Robin Gourmet Burgers and Brews,4ZaL8izfckslCUWZJL_a2w,East Brunswick,NJ,Burgers,40.4237875523922,-74.3817118166718,$$,92
+197,Halal Boys,0C_UFtpdDNOg6V622PHfLQ,North Brunswick,NJ,Middle Eastern,40.458932727708,-74.4726570312134,$,38
+198,Campus Pizza,bHGqy6vif35iJ4OawId_2A,New Brunswick,NJ,Pizza,40.49969,-74.454055,0,2
+199,Gusto Grill,1QBqkHaHZf2WxdDG9olYtg,East Brunswick,NJ,Bars,40.419075,-74.374159,$$,348
+200,Elevation Burger,QatkL63akw5foYQIcEzq_g,New Brunswick,NJ,Burgers,40.499325,-74.448637,0,34
+201,Tavern on George,wM8fhnGuFGKrgPWpoVV77Q,New Brunswick,NJ,Bars,40.49497,-74.44359,$$,81
+202,The Blue Horse,im0lceO_PEluTMZdcrC3uA,Highland Park,NJ,Diners,40.4992115419489,-74.4281546026468,$$,75
+203,Burgerim,Mr5g_xDNl1ghk8bRa0m79Q,New Brunswick,NJ,Burgers,40.49798,-74.44832,0,22
+204,Destination Dogs,SVWxU5obi6tnHIGVl2a5fQ,New Brunswick,NJ,Hot Dogs,40.4947108291364,-74.4481708172015,$$,869
+205,Fritz's Restaurant,KpJKPYcH9V37JE5gsWz0yQ,New Brunswick,NJ,American (Traditional),40.4992391255818,-74.451983932837,$,241
+206,25 Burgers & Pizza,hSY-Fy7WrouIfm4BOqrC7g,New Brunswick,NJ,Burgers,40.4966223,-74.4468286,$,139
+207,Zinburger Wine & Burger Bar,pJ7rVXvAmUjrFpBDvTNMRQ,Edison,NJ,Wine Bars,40.516728,-74.372622,$$,349
+208,Hansel 'n Griddle,t_adP1UMr8Hkjn3K--Y8Aw,New Brunswick,NJ,Sandwiches,40.4991354060364,-74.4527822900469,$,273
+209,Smashburger,d8pOa2NMk8HGdefVon-CwA,North Brunswick,NJ,Burgers,40.4620365252511,-74.4605427027242,$$,102
+210,INC American Bar & Kitchen,S9qg-6LQtkk99kBHZLv1Jg,New Brunswick,NJ,American (New),40.4925980248019,-74.4435093298896,$$,229
+211,30 Burgers,cSLYiw4NLrgnDbtc_0k9Jw,East Brunswick,NJ,Burgers,40.45422,-74.39928,$,53
+212,Five Guys,5yuZ8xyIcb11uNr8Y1XOug,North Brunswick,NJ,Burgers,40.4609401,-74.4587139,$$,37
+213,Scarlet 158 Deli,QoR7j4VW2PShyy9CTiGm1Q,New Brunswick,NJ,Delis,40.49829,-74.45765,0,3
+214,Elixir Bar & Grill,jakk8dqkNPArNqNg3mHeHA,Edison,NJ,Tex-Mex,40.5011909066979,-74.3927383121075,$$,153
+215,Gio's Deli,fO4SH50_5yPL_8wsXwSLzg,New Brunswick,NJ,Wraps,40.495466,-74.444838,$$,10
+216,George Street Ale House,Wn4OJxDd4wZFAZet-eSrhw,New Brunswick,NJ,Gastropubs,40.49567,-74.44435,$$,245
+217,Five Guys,ydINVSu6fYeLyoXH66P5-w,South Plainfield,NJ,Burgers,40.54962,-74.42569,$,39
+218,Park Place,jrancCVFAe3VGLnUM0cQaw,Highland Park,NJ,Kosher,40.498001,-74.431449,$$,18
+219,White Castle,BFApZ1ZH4-dBU7lrVk15Ag,New Brunswick,NJ,Fast Food,40.4855431672125,-74.4713161793865,$,44
+220,Clydz,MCn2ruEcchjL0UOqROaEMQ,New Brunswick,NJ,American (New),40.495089,-74.445487,$$,644
+221,Flame Kabob House,rpJhltERJlUuFcV3iQur7w,Franklin Township,NJ,Halal,40.51532,-74.48855,0,14
+222,PJ's Grill & Pizza,Sxl30p6GXmHfEmXzEPPsSQ,New Brunswick,NJ,Pizza,40.4998488455674,-74.4544027263963,$,119
+223,Old Man Rafferty's,kPqMRmkKbz88cOJdcsifVA,New Brunswick,NJ,Bars,40.4965737,-74.4437916,$$,545
+224,Stage Left Steak,DPyTHTX6jr1ND7PXYS9z4Q,New Brunswick,NJ,American (Traditional),40.493785005224,-74.4437874349408,$$$,187
+225,Golden Lion Inn,V406kWdv4-G-YBIEwc3i5g,Milltown,NJ,American (Traditional),40.45094,-74.43569,$,76
+226,"MOOYAH Burgers, Fries & Shakes",wHl41FX3fEHVQbEqeFAl7w,Franklin Township,NJ,Burgers,40.529237,-74.539237,$$,56
+227,Red Robin Gourmet Burgers and Brews,5INBYUVqCav0R0ZTOG02Ng,South Plainfield,NJ,Burgers,40.55531,-74.430693,$$,162
+228,Smashburger,5BDRCRNPCPGlWmNq_oNESw,East Brunswick,NJ,Burgers,40.434729749932,-74.3913401920461,$,130
+229,Harvest Moon Brewery / Cafe,JpQznQlrkgZQogLOQXH9mg,New Brunswick,NJ,Beer Bar,40.4961759134207,-74.4443214067832,$$,407
+230,Judy's kitchen,aFhQeJQIrR1imAhjUMAccw,New Brunswick,NJ,Spanish,40.4979628408067,-74.451482825053,$,25
+231,Changarro Las Rosas Chimi Pollo,YxwYAEilsW9n266B7Ko9gw,New Brunswick,NJ,Latin American,40.480004,-74.445358,0,1
+232,Five Guys,6Sleh5v7oAHCgfIoijtupg,East Brunswick,NJ,Burgers,40.428452,-74.3861491,$,12
+233,Burgerim - Metuchen,o1Y-sXvZeNHhPgm_jr_N7w,Metuchen,NJ,Burgers,40.54079,-74.3675,0,19
+234,Twenty/20 Taphouse,plbuCrJd7_mlDLERvV-39Q,Somerset,NJ,Burgers,40.533787,-74.509521,$$,87
+235,Veganized,QMBbqDZmYZc0dXFwBgf1_g,New Brunswick,NJ,Vegan,40.494828,-74.444994,$$,524
+236,Brick House Bar & Grill,zlLs4R_oYlcwgRLLGInVkg,Sayreville,NJ,Bars,40.45869,-74.35179,$$,45
+237,Hub City Brewhouse,9LarearMJdGmt7lWY3OUtA,New Brunswick,NJ,Sports Bars,40.4942410909884,-74.4432822580296,$$,74
+238,Deccan Delights,V7EgzmIMisdYWVA8S07fUA,New Brunswick,NJ,Indian,40.49968,-74.45304,0,1
+239,Stuff Yer Face,-PlK17Po5nchDnqNoYG9xQ,New Brunswick,NJ,Pubs,40.4980567440164,-74.4489870653596,$$,600
+240,Arooga's,L62G08xR1OuXzMOgaqlMsg,East Brunswick,NJ,Sports Bars,40.415067,-74.371187,$$,284
+241,Jk Luncheonette and Grill,BqSvB1K3F3N60uyW1cCoog,New Brunswick,NJ,Breakfast & Brunch,40.49269,-74.44793,0,4
+242,Blackthorn Restaurant and Irish Pub,t9TNKhddbmd9S7PSWJLeRg,New Brunswick,NJ,Irish,40.4961717,-74.4432955,$$,42
+243,In N Out Deli & Grocery,hc_XXIJlnZmydY3IrL2AEA,New Brunswick,NJ,Delis,40.497466,-74.452231,0,1
+244,Sophie's Bistro,PnGgduDWQOOEIrDJpqpxcg,Somerset,NJ,French,40.491369,-74.4723549,$$,210
+245,Red Robin Gourmet Burgers and Brews,4ZaL8izfckslCUWZJL_a2w,East Brunswick,NJ,Burgers,40.4237875523922,-74.3817118166718,$$,92
+246,Halal Boys,0C_UFtpdDNOg6V622PHfLQ,North Brunswick,NJ,Middle Eastern,40.458932727708,-74.4726570312134,$,38
+247,Campus Pizza,bHGqy6vif35iJ4OawId_2A,New Brunswick,NJ,Pizza,40.49969,-74.454055,0,2
+248,Gusto Grill,1QBqkHaHZf2WxdDG9olYtg,East Brunswick,NJ,Bars,40.419075,-74.374159,$$,348
+249,King Of Gyro,jyNryxAdX4AC__6vRK8aBA,New Brunswick,NJ,Halal,40.4990135,-74.4515216,$,52
+250,Tavern on George,wM8fhnGuFGKrgPWpoVV77Q,New Brunswick,NJ,Bars,40.49497,-74.44359,$$,81
+251,The Blue Horse,im0lceO_PEluTMZdcrC3uA,Highland Park,NJ,Diners,40.4992115419489,-74.4281546026468,$$,75
+252,Burgerim,Mr5g_xDNl1ghk8bRa0m79Q,New Brunswick,NJ,Burgers,40.49798,-74.44832,0,22
+253,Destination Dogs,SVWxU5obi6tnHIGVl2a5fQ,New Brunswick,NJ,Hot Dogs,40.4947108291364,-74.4481708172015,$$,869
+254,Fritz's Restaurant,KpJKPYcH9V37JE5gsWz0yQ,New Brunswick,NJ,American (Traditional),40.4992391255818,-74.451983932837,$,241
+255,25 Burgers & Pizza,hSY-Fy7WrouIfm4BOqrC7g,New Brunswick,NJ,Burgers,40.4966223,-74.4468286,$,139
+256,Zinburger Wine & Burger Bar,pJ7rVXvAmUjrFpBDvTNMRQ,Edison,NJ,Wine Bars,40.516728,-74.372622,$$,349
+257,Hansel 'n Griddle,t_adP1UMr8Hkjn3K--Y8Aw,New Brunswick,NJ,Sandwiches,40.4991354060364,-74.4527822900469,$,273
+258,Smashburger,d8pOa2NMk8HGdefVon-CwA,North Brunswick,NJ,Burgers,40.4620365252511,-74.4605427027242,$$,102
+259,INC American Bar & Kitchen,S9qg-6LQtkk99kBHZLv1Jg,New Brunswick,NJ,American (New),40.4925980248019,-74.4435093298896,$$,229
+260,30 Burgers,cSLYiw4NLrgnDbtc_0k9Jw,East Brunswick,NJ,Burgers,40.45422,-74.39928,$,53
+261,Five Guys,5yuZ8xyIcb11uNr8Y1XOug,North Brunswick,NJ,Burgers,40.4609401,-74.4587139,$$,37
+262,Scarlet 158 Deli,QoR7j4VW2PShyy9CTiGm1Q,New Brunswick,NJ,Delis,40.49829,-74.45765,0,3
+263,Elixir Bar & Grill,jakk8dqkNPArNqNg3mHeHA,Edison,NJ,Tex-Mex,40.5011909066979,-74.3927383121075,$$,153
+264,Gio's Deli,fO4SH50_5yPL_8wsXwSLzg,New Brunswick,NJ,Wraps,40.495466,-74.444838,$$,10
+265,George Street Ale House,Wn4OJxDd4wZFAZet-eSrhw,New Brunswick,NJ,Gastropubs,40.49567,-74.44435,$$,245
+266,Five Guys,ydINVSu6fYeLyoXH66P5-w,South Plainfield,NJ,Burgers,40.54962,-74.42569,$,39
+267,Park Place,jrancCVFAe3VGLnUM0cQaw,Highland Park,NJ,Kosher,40.498001,-74.431449,$$,18
+268,White Castle,BFApZ1ZH4-dBU7lrVk15Ag,New Brunswick,NJ,Fast Food,40.4855431672125,-74.4713161793865,$,44
+269,Clydz,MCn2ruEcchjL0UOqROaEMQ,New Brunswick,NJ,American (New),40.495089,-74.445487,$$,644
+270,Flame Kabob House,rpJhltERJlUuFcV3iQur7w,Franklin Township,NJ,Halal,40.51532,-74.48855,0,14
+271,PJ's Grill & Pizza,Sxl30p6GXmHfEmXzEPPsSQ,New Brunswick,NJ,Pizza,40.4998488455674,-74.4544027263963,$,119
+272,Old Man Rafferty's,kPqMRmkKbz88cOJdcsifVA,New Brunswick,NJ,Bars,40.4965737,-74.4437916,$$,545
+273,Stage Left Steak,DPyTHTX6jr1ND7PXYS9z4Q,New Brunswick,NJ,American (Traditional),40.493785005224,-74.4437874349408,$$$,187
+274,Golden Lion Inn,V406kWdv4-G-YBIEwc3i5g,Milltown,NJ,American (Traditional),40.45094,-74.43569,$,76
+275,"MOOYAH Burgers, Fries & Shakes",wHl41FX3fEHVQbEqeFAl7w,Franklin Township,NJ,Burgers,40.529237,-74.539237,$$,56
+276,Red Robin Gourmet Burgers and Brews,5INBYUVqCav0R0ZTOG02Ng,South Plainfield,NJ,Burgers,40.55531,-74.430693,$$,162
+277,Smashburger,5BDRCRNPCPGlWmNq_oNESw,East Brunswick,NJ,Burgers,40.434729749932,-74.3913401920461,$,130
+278,Harvest Moon Brewery / Cafe,JpQznQlrkgZQogLOQXH9mg,New Brunswick,NJ,Beer Bar,40.4961759134207,-74.4443214067832,$$,407
+279,Judy's kitchen,aFhQeJQIrR1imAhjUMAccw,New Brunswick,NJ,Spanish,40.4979628408067,-74.451482825053,$,25
+280,Changarro Las Rosas Chimi Pollo,YxwYAEilsW9n266B7Ko9gw,New Brunswick,NJ,Latin American,40.480004,-74.445358,0,1
+281,Five Guys,6Sleh5v7oAHCgfIoijtupg,East Brunswick,NJ,Burgers,40.428452,-74.3861491,$,12
+282,Burgerim - Metuchen,o1Y-sXvZeNHhPgm_jr_N7w,Metuchen,NJ,Burgers,40.54079,-74.3675,0,19
+283,Twenty/20 Taphouse,plbuCrJd7_mlDLERvV-39Q,Somerset,NJ,Burgers,40.533787,-74.509521,$$,87
+284,Veganized,QMBbqDZmYZc0dXFwBgf1_g,New Brunswick,NJ,Vegan,40.494828,-74.444994,$$,524
+285,Brick House Bar & Grill,zlLs4R_oYlcwgRLLGInVkg,Sayreville,NJ,Bars,40.45869,-74.35179,$$,45
+286,Hub City Brewhouse,9LarearMJdGmt7lWY3OUtA,New Brunswick,NJ,Sports Bars,40.4942410909884,-74.4432822580296,$$,74
+287,Deccan Delights,V7EgzmIMisdYWVA8S07fUA,New Brunswick,NJ,Indian,40.49968,-74.45304,0,1
+288,Stuff Yer Face,-PlK17Po5nchDnqNoYG9xQ,New Brunswick,NJ,Pubs,40.4980567440164,-74.4489870653596,$$,600
+289,Arooga's,L62G08xR1OuXzMOgaqlMsg,East Brunswick,NJ,Sports Bars,40.415067,-74.371187,$$,284
+290,Jk Luncheonette and Grill,BqSvB1K3F3N60uyW1cCoog,New Brunswick,NJ,Breakfast & Brunch,40.49269,-74.44793,0,4
+291,Blackthorn Restaurant and Irish Pub,t9TNKhddbmd9S7PSWJLeRg,New Brunswick,NJ,Irish,40.4961717,-74.4432955,$$,42
+292,In N Out Deli & Grocery,hc_XXIJlnZmydY3IrL2AEA,New Brunswick,NJ,Delis,40.497466,-74.452231,0,1
+293,Sophie's Bistro,PnGgduDWQOOEIrDJpqpxcg,Somerset,NJ,French,40.491369,-74.4723549,$$,210
+294,Red Robin Gourmet Burgers and Brews,4ZaL8izfckslCUWZJL_a2w,East Brunswick,NJ,Burgers,40.4237875523922,-74.3817118166718,$$,92
+295,Halal Boys,0C_UFtpdDNOg6V622PHfLQ,North Brunswick,NJ,Middle Eastern,40.458932727708,-74.4726570312134,$,38
+296,Campus Pizza,bHGqy6vif35iJ4OawId_2A,New Brunswick,NJ,Pizza,40.49969,-74.454055,0,2
+297,Gusto Grill,1QBqkHaHZf2WxdDG9olYtg,East Brunswick,NJ,Bars,40.419075,-74.374159,$$,348
+298,King Of Gyro,jyNryxAdX4AC__6vRK8aBA,New Brunswick,NJ,Halal,40.4990135,-74.4515216,$,52
+299,Le Peep,E-zF5ocp_HWWcADrUnz0-w,Edison,NJ,Breakfast & Brunch,40.5073550016936,-74.3939203310226,$$,490
+300,The Blue Horse,im0lceO_PEluTMZdcrC3uA,Highland Park,NJ,Diners,40.4992115419489,-74.4281546026468,$$,75
+301,Burgerim,Mr5g_xDNl1ghk8bRa0m79Q,New Brunswick,NJ,Burgers,40.49798,-74.44832,0,22
+302,Destination Dogs,SVWxU5obi6tnHIGVl2a5fQ,New Brunswick,NJ,Hot Dogs,40.4947108291364,-74.4481708172015,$$,869
+303,Fritz's Restaurant,KpJKPYcH9V37JE5gsWz0yQ,New Brunswick,NJ,American (Traditional),40.4992391255818,-74.451983932837,$,241
+304,25 Burgers & Pizza,hSY-Fy7WrouIfm4BOqrC7g,New Brunswick,NJ,Burgers,40.4966223,-74.4468286,$,139
+305,Zinburger Wine & Burger Bar,pJ7rVXvAmUjrFpBDvTNMRQ,Edison,NJ,Wine Bars,40.516728,-74.372622,$$,349
+306,Hansel 'n Griddle,t_adP1UMr8Hkjn3K--Y8Aw,New Brunswick,NJ,Sandwiches,40.4991354060364,-74.4527822900469,$,273
+307,Smashburger,d8pOa2NMk8HGdefVon-CwA,North Brunswick,NJ,Burgers,40.4620365252511,-74.4605427027242,$$,102
+308,INC American Bar & Kitchen,S9qg-6LQtkk99kBHZLv1Jg,New Brunswick,NJ,American (New),40.4925980248019,-74.4435093298896,$$,229
+309,30 Burgers,cSLYiw4NLrgnDbtc_0k9Jw,East Brunswick,NJ,Burgers,40.45422,-74.39928,$,53
+310,Five Guys,5yuZ8xyIcb11uNr8Y1XOug,North Brunswick,NJ,Burgers,40.4609401,-74.4587139,$$,37
+311,Scarlet 158 Deli,QoR7j4VW2PShyy9CTiGm1Q,New Brunswick,NJ,Delis,40.49829,-74.45765,0,3
+312,Elixir Bar & Grill,jakk8dqkNPArNqNg3mHeHA,Edison,NJ,Tex-Mex,40.5011909066979,-74.3927383121075,$$,153
+313,Gio's Deli,fO4SH50_5yPL_8wsXwSLzg,New Brunswick,NJ,Wraps,40.495466,-74.444838,$$,10
+314,George Street Ale House,Wn4OJxDd4wZFAZet-eSrhw,New Brunswick,NJ,Gastropubs,40.49567,-74.44435,$$,245
+315,Five Guys,ydINVSu6fYeLyoXH66P5-w,South Plainfield,NJ,Burgers,40.54962,-74.42569,$,39
+316,Park Place,jrancCVFAe3VGLnUM0cQaw,Highland Park,NJ,Kosher,40.498001,-74.431449,$$,18
+317,White Castle,BFApZ1ZH4-dBU7lrVk15Ag,New Brunswick,NJ,Fast Food,40.4855431672125,-74.4713161793865,$,44
+318,Clydz,MCn2ruEcchjL0UOqROaEMQ,New Brunswick,NJ,American (New),40.495089,-74.445487,$$,644
+319,Flame Kabob House,rpJhltERJlUuFcV3iQur7w,Franklin Township,NJ,Halal,40.51532,-74.48855,0,14
+320,PJ's Grill & Pizza,Sxl30p6GXmHfEmXzEPPsSQ,New Brunswick,NJ,Pizza,40.4998488455674,-74.4544027263963,$,119
+321,Old Man Rafferty's,kPqMRmkKbz88cOJdcsifVA,New Brunswick,NJ,Bars,40.4965737,-74.4437916,$$,545
+322,Stage Left Steak,DPyTHTX6jr1ND7PXYS9z4Q,New Brunswick,NJ,American (Traditional),40.493785005224,-74.4437874349408,$$$,187
+323,Golden Lion Inn,V406kWdv4-G-YBIEwc3i5g,Milltown,NJ,American (Traditional),40.45094,-74.43569,$,76
+324,"MOOYAH Burgers, Fries & Shakes",wHl41FX3fEHVQbEqeFAl7w,Franklin Township,NJ,Burgers,40.529237,-74.539237,$$,56
+325,Red Robin Gourmet Burgers and Brews,5INBYUVqCav0R0ZTOG02Ng,South Plainfield,NJ,Burgers,40.55531,-74.430693,$$,162
+326,Smashburger,5BDRCRNPCPGlWmNq_oNESw,East Brunswick,NJ,Burgers,40.434729749932,-74.3913401920461,$,130
+327,Harvest Moon Brewery / Cafe,JpQznQlrkgZQogLOQXH9mg,New Brunswick,NJ,Beer Bar,40.4961759134207,-74.4443214067832,$$,407
+328,Judy's kitchen,aFhQeJQIrR1imAhjUMAccw,New Brunswick,NJ,Spanish,40.4979628408067,-74.451482825053,$,25
+329,Changarro Las Rosas Chimi Pollo,YxwYAEilsW9n266B7Ko9gw,New Brunswick,NJ,Latin American,40.480004,-74.445358,0,1
+330,Five Guys,6Sleh5v7oAHCgfIoijtupg,East Brunswick,NJ,Burgers,40.428452,-74.3861491,$,12
+331,Burgerim - Metuchen,o1Y-sXvZeNHhPgm_jr_N7w,Metuchen,NJ,Burgers,40.54079,-74.3675,0,19
+332,Twenty/20 Taphouse,plbuCrJd7_mlDLERvV-39Q,Somerset,NJ,Burgers,40.533787,-74.509521,$$,87
+333,Veganized,QMBbqDZmYZc0dXFwBgf1_g,New Brunswick,NJ,Vegan,40.494828,-74.444994,$$,524
+334,Brick House Bar & Grill,zlLs4R_oYlcwgRLLGInVkg,Sayreville,NJ,Bars,40.45869,-74.35179,$$,45
+335,Hub City Brewhouse,9LarearMJdGmt7lWY3OUtA,New Brunswick,NJ,Sports Bars,40.4942410909884,-74.4432822580296,$$,74
+336,Deccan Delights,V7EgzmIMisdYWVA8S07fUA,New Brunswick,NJ,Indian,40.49968,-74.45304,0,1
+337,Stuff Yer Face,-PlK17Po5nchDnqNoYG9xQ,New Brunswick,NJ,Pubs,40.4980567440164,-74.4489870653596,$$,600
+338,Arooga's,L62G08xR1OuXzMOgaqlMsg,East Brunswick,NJ,Sports Bars,40.415067,-74.371187,$$,284
+339,Jk Luncheonette and Grill,BqSvB1K3F3N60uyW1cCoog,New Brunswick,NJ,Breakfast & Brunch,40.49269,-74.44793,0,4
+340,Blackthorn Restaurant and Irish Pub,t9TNKhddbmd9S7PSWJLeRg,New Brunswick,NJ,Irish,40.4961717,-74.4432955,$$,42
+341,In N Out Deli & Grocery,hc_XXIJlnZmydY3IrL2AEA,New Brunswick,NJ,Delis,40.497466,-74.452231,0,1
+342,Sophie's Bistro,PnGgduDWQOOEIrDJpqpxcg,Somerset,NJ,French,40.491369,-74.4723549,$$,210
+343,Red Robin Gourmet Burgers and Brews,4ZaL8izfckslCUWZJL_a2w,East Brunswick,NJ,Burgers,40.4237875523922,-74.3817118166718,$$,92
+344,Halal Boys,0C_UFtpdDNOg6V622PHfLQ,North Brunswick,NJ,Middle Eastern,40.458932727708,-74.4726570312134,$,38
+345,Campus Pizza,bHGqy6vif35iJ4OawId_2A,New Brunswick,NJ,Pizza,40.49969,-74.454055,0,2
+346,Gusto Grill,1QBqkHaHZf2WxdDG9olYtg,East Brunswick,NJ,Bars,40.419075,-74.374159,$$,348
+347,King Of Gyro,jyNryxAdX4AC__6vRK8aBA,New Brunswick,NJ,Halal,40.4990135,-74.4515216,$,52
+348,Le Peep,E-zF5ocp_HWWcADrUnz0-w,Edison,NJ,Breakfast & Brunch,40.5073550016936,-74.3939203310226,$$,490
+349,Burger King,3CMnG2QwW_iXTP-ZFIWDZw,New Brunswick,NJ,Burgers,40.49541,-74.44362,$,11
+350,Burgerim,Mr5g_xDNl1ghk8bRa0m79Q,New Brunswick,NJ,Burgers,40.49798,-74.44832,0,22
+351,Destination Dogs,SVWxU5obi6tnHIGVl2a5fQ,New Brunswick,NJ,Hot Dogs,40.4947108291364,-74.4481708172015,$$,869
+352,Fritz's Restaurant,KpJKPYcH9V37JE5gsWz0yQ,New Brunswick,NJ,American (Traditional),40.4992391255818,-74.451983932837,$,241
+353,25 Burgers & Pizza,hSY-Fy7WrouIfm4BOqrC7g,New Brunswick,NJ,Burgers,40.4966223,-74.4468286,$,139
+354,Zinburger Wine & Burger Bar,pJ7rVXvAmUjrFpBDvTNMRQ,Edison,NJ,Wine Bars,40.516728,-74.372622,$$,349
+355,Hansel 'n Griddle,t_adP1UMr8Hkjn3K--Y8Aw,New Brunswick,NJ,Sandwiches,40.4991354060364,-74.4527822900469,$,273
+356,Smashburger,d8pOa2NMk8HGdefVon-CwA,North Brunswick,NJ,Burgers,40.4620365252511,-74.4605427027242,$$,102
+357,INC American Bar & Kitchen,S9qg-6LQtkk99kBHZLv1Jg,New Brunswick,NJ,American (New),40.4925980248019,-74.4435093298896,$$,229
+358,30 Burgers,cSLYiw4NLrgnDbtc_0k9Jw,East Brunswick,NJ,Burgers,40.45422,-74.39928,$,53
+359,Five Guys,5yuZ8xyIcb11uNr8Y1XOug,North Brunswick,NJ,Burgers,40.4609401,-74.4587139,$$,37
+360,Scarlet 158 Deli,QoR7j4VW2PShyy9CTiGm1Q,New Brunswick,NJ,Delis,40.49829,-74.45765,0,3
+361,Elixir Bar & Grill,jakk8dqkNPArNqNg3mHeHA,Edison,NJ,Tex-Mex,40.5011909066979,-74.3927383121075,$$,153
+362,Gio's Deli,fO4SH50_5yPL_8wsXwSLzg,New Brunswick,NJ,Wraps,40.495466,-74.444838,$$,10
+363,George Street Ale House,Wn4OJxDd4wZFAZet-eSrhw,New Brunswick,NJ,Gastropubs,40.49567,-74.44435,$$,245
+364,Five Guys,ydINVSu6fYeLyoXH66P5-w,South Plainfield,NJ,Burgers,40.54962,-74.42569,$,39
+365,Park Place,jrancCVFAe3VGLnUM0cQaw,Highland Park,NJ,Kosher,40.498001,-74.431449,$$,18
+366,White Castle,BFApZ1ZH4-dBU7lrVk15Ag,New Brunswick,NJ,Fast Food,40.4855431672125,-74.4713161793865,$,44
+367,Clydz,MCn2ruEcchjL0UOqROaEMQ,New Brunswick,NJ,American (New),40.495089,-74.445487,$$,644
+368,Flame Kabob House,rpJhltERJlUuFcV3iQur7w,Franklin Township,NJ,Halal,40.51532,-74.48855,0,14
+369,PJ's Grill & Pizza,Sxl30p6GXmHfEmXzEPPsSQ,New Brunswick,NJ,Pizza,40.4998488455674,-74.4544027263963,$,119
+370,Old Man Rafferty's,kPqMRmkKbz88cOJdcsifVA,New Brunswick,NJ,Bars,40.4965737,-74.4437916,$$,545
+371,Stage Left Steak,DPyTHTX6jr1ND7PXYS9z4Q,New Brunswick,NJ,American (Traditional),40.493785005224,-74.4437874349408,$$$,187
+372,Golden Lion Inn,V406kWdv4-G-YBIEwc3i5g,Milltown,NJ,American (Traditional),40.45094,-74.43569,$,76
+373,"MOOYAH Burgers, Fries & Shakes",wHl41FX3fEHVQbEqeFAl7w,Franklin Township,NJ,Burgers,40.529237,-74.539237,$$,56
+374,Red Robin Gourmet Burgers and Brews,5INBYUVqCav0R0ZTOG02Ng,South Plainfield,NJ,Burgers,40.55531,-74.430693,$$,162
+375,Smashburger,5BDRCRNPCPGlWmNq_oNESw,East Brunswick,NJ,Burgers,40.434729749932,-74.3913401920461,$,130
+376,Harvest Moon Brewery / Cafe,JpQznQlrkgZQogLOQXH9mg,New Brunswick,NJ,Beer Bar,40.4961759134207,-74.4443214067832,$$,407
+377,Judy's kitchen,aFhQeJQIrR1imAhjUMAccw,New Brunswick,NJ,Spanish,40.4979628408067,-74.451482825053,$,25
+378,Changarro Las Rosas Chimi Pollo,YxwYAEilsW9n266B7Ko9gw,New Brunswick,NJ,Latin American,40.480004,-74.445358,0,1
+379,Five Guys,6Sleh5v7oAHCgfIoijtupg,East Brunswick,NJ,Burgers,40.428452,-74.3861491,$,12
+380,Burgerim - Metuchen,o1Y-sXvZeNHhPgm_jr_N7w,Metuchen,NJ,Burgers,40.54079,-74.3675,0,19
+381,Twenty/20 Taphouse,plbuCrJd7_mlDLERvV-39Q,Somerset,NJ,Burgers,40.533787,-74.509521,$$,87
+382,Veganized,QMBbqDZmYZc0dXFwBgf1_g,New Brunswick,NJ,Vegan,40.494828,-74.444994,$$,524
+383,Brick House Bar & Grill,zlLs4R_oYlcwgRLLGInVkg,Sayreville,NJ,Bars,40.45869,-74.35179,$$,45
+384,Hub City Brewhouse,9LarearMJdGmt7lWY3OUtA,New Brunswick,NJ,Sports Bars,40.4942410909884,-74.4432822580296,$$,74
+385,Deccan Delights,V7EgzmIMisdYWVA8S07fUA,New Brunswick,NJ,Indian,40.49968,-74.45304,0,1
+386,Stuff Yer Face,-PlK17Po5nchDnqNoYG9xQ,New Brunswick,NJ,Pubs,40.4980567440164,-74.4489870653596,$$,600
+387,Arooga's,L62G08xR1OuXzMOgaqlMsg,East Brunswick,NJ,Sports Bars,40.415067,-74.371187,$$,284
+388,Jk Luncheonette and Grill,BqSvB1K3F3N60uyW1cCoog,New Brunswick,NJ,Breakfast & Brunch,40.49269,-74.44793,0,4
+389,Blackthorn Restaurant and Irish Pub,t9TNKhddbmd9S7PSWJLeRg,New Brunswick,NJ,Irish,40.4961717,-74.4432955,$$,42
+390,In N Out Deli & Grocery,hc_XXIJlnZmydY3IrL2AEA,New Brunswick,NJ,Delis,40.497466,-74.452231,0,1
+391,Sophie's Bistro,PnGgduDWQOOEIrDJpqpxcg,Somerset,NJ,French,40.491369,-74.4723549,$$,210
+392,Red Robin Gourmet Burgers and Brews,4ZaL8izfckslCUWZJL_a2w,East Brunswick,NJ,Burgers,40.4237875523922,-74.3817118166718,$$,92
+393,Halal Boys,0C_UFtpdDNOg6V622PHfLQ,North Brunswick,NJ,Middle Eastern,40.458932727708,-74.4726570312134,$,38
+394,Campus Pizza,bHGqy6vif35iJ4OawId_2A,New Brunswick,NJ,Pizza,40.49969,-74.454055,0,2
+395,Gusto Grill,1QBqkHaHZf2WxdDG9olYtg,East Brunswick,NJ,Bars,40.419075,-74.374159,$$,348
+396,King Of Gyro,jyNryxAdX4AC__6vRK8aBA,New Brunswick,NJ,Halal,40.4990135,-74.4515216,$,52
+397,Le Peep,E-zF5ocp_HWWcADrUnz0-w,Edison,NJ,Breakfast & Brunch,40.5073550016936,-74.3939203310226,$$,490
+398,Burger King,3CMnG2QwW_iXTP-ZFIWDZw,New Brunswick,NJ,Burgers,40.49541,-74.44362,$,11
+399,White Castle,q_SkjftUKb5OayPbFpLhNA,South Plainfield,NJ,Burgers,40.5480373853491,-74.427939569835,$,37
