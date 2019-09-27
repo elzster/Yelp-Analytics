@@ -1,0 +1,501 @@
+,Business,Business ID,City,State,Category,Latitude,Longitude,Price,Reviews
+0,Houlihan's,SgfUsaXsvJU01KW9XmICjw,New Brunswick,NJ,Bars,40.4791586493505,-74.4230177226172,$$,155
+1,Tavern on George,wM8fhnGuFGKrgPWpoVV77Q,New Brunswick,NJ,Bars,40.49497,-74.44359,$$,81
+2,Midori Sushi,BxUCY9fiTKQiU-CTLqK2XA,Highland Park,NJ,Japanese,40.49922,-74.42867,$$,264
+3,Noodle Gourmet,mmFBqps7L4dl8oUEkNYL7g,New Brunswick,NJ,Chinese,40.49801,-74.44856,$,331
+4,Stage Left Steak,DPyTHTX6jr1ND7PXYS9z4Q,New Brunswick,NJ,American (Traditional),40.493785005224,-74.4437874349408,$$$,187
+5,Rutgers Gardens,nKWDorwjybpPZWSWWldxnA,New Brunswick,NJ,Botanical Gardens,40.473715,-74.423114,0,47
+6,George Street Ale House,Wn4OJxDd4wZFAZet-eSrhw,New Brunswick,NJ,Gastropubs,40.49567,-74.44435,$$,245
+7,The Ale 'N 'Wich Pub,MLzryqQI4nzOVsb0ABybpw,New Brunswick,NJ,Pubs,40.4961967468262,-74.4560699462891,$,67
+8,Sophie's Bistro,PnGgduDWQOOEIrDJpqpxcg,Somerset,NJ,French,40.491369,-74.4723549,$$,210
+9,Roosterspin,LFhqaEVryfeS-KGXrXTdRQ,New Brunswick,NJ,Bars,40.496362,-74.445401,$$,141
+10,Bridge Turkish & Mediterranean Grill,twt864sd8iheVma7f0Re5w,Highland Park,NJ,Mediterranean,40.49996,-74.4278999,$$,154
+11,Chai Chenak,Xp0__IEyi-5ZJc5hCXv1RQ,New Brunswick,NJ,Coffee & Tea,40.494626,-74.443543,0,93
+12,Little Sheep Mongolian Hot Pot,IhTkp4rmZBeail8VDfi3JA,Edison,NJ,Mongolian,40.512718928299,-74.4080269330231,$$,602
+13,King Of Gyro,jyNryxAdX4AC__6vRK8aBA,New Brunswick,NJ,Halal,40.4990135,-74.4515216,$,52
+14,Thai Noodle,3qhaTcmTAbXusKf0fJkmVQ,New Brunswick,NJ,Thai,40.49982,-74.45463,$,138
+15,R U Hungry,8xKGkpKYvlJ0rI5Kh-vq9A,New Brunswick,NJ,Food Trucks,40.5040610568158,-74.4523160416381,$,156
+16,Barca City Cafe & Bar,CiRMhrr8wNbxcLWKRmDwhg,New Brunswick,NJ,Spanish,40.49808,-74.4488,$$,120
+17,Truly Yogurt,Ta7WxDqIYetopbQhPj_ixQ,New Brunswick,NJ,Ice Cream & Frozen Yogurt,40.4974224308867,-74.4481585855476,$,104
+18,Evelyn's Restaurant,ASu4enVadGH_k06ESCxlAA,New Brunswick,NJ,Middle Eastern,40.49806,-74.44868,$$,162
+19,White Rose Burgers,sDFz3CorqCqxTL9_HFPRMg,Highland Park,NJ,Burgers,40.502314,-74.415314,$,207
+20,The Sweet Spot,5DTf4T_nBcg5vZ6qDRMlow,Highland Park,NJ,Desserts,40.49975433,-74.42522917,0,59
+21,Bayleaf Grill,4b8rxMf3fYPS0aWfV07_eg,Highland Park,NJ,Indian,40.4992091,-74.4272637,$$,71
+22,Cinco De Mayo,gkm7HP_31Eq4_2SRPio-Yw,New Brunswick,NJ,Mexican,40.49081,-74.45695,$,123
+23,Krispy Pizza,D_2TkK2Gb_TSCaz2ujgP0w,New Brunswick,NJ,Pizza,40.4995944,-74.4483752,$,66
+24,Olive Branch Bar & Restaurant,qkETtvhJ3dGaNznv-rmOxw,New Brunswick,NJ,American (Traditional),40.5014695619779,-74.4529374721161,$,67
+25,El Sol Mexican Restaurant,5eE-bajaJYjnOzRmRrOKww,Highland Park,NJ,Mexican,40.499442,-74.427484,$$,149
+26,Daniel's Pizzeria,uOX6pg8h9Rrc7gU8ldwPYQ,New Brunswick,NJ,Pizza,40.5004267721421,-74.4558842193941,$,45
+27,H Mart - Edison,Ox8vk58P0bx_Ce5p57RUUA,Edison,NJ,Grocery,40.5134773016362,-74.4078137789083,$$,277
+28,Edo Takeout,iT3Xi3P9ICbbaAbCeegQXQ,New Brunswick,NJ,Japanese,40.49774,-74.44974,$,75
+29,Cool Runnin's Caribbean Cuisines,qtqaF4XW8Cjg1rYW8ufS9g,New Brunswick,NJ,Caribbean,40.497600462255,-74.4479312477292,$,83
+30,Lucy's Restaurant,1OO4MQYT31Q1pwrPtyDCig,North Brunswick Township,NJ,Mexican,40.46896,-74.47004,$,151
+31,Merey Venezuelan Cuisine,fCpEnHin6R6KS-oZIXolqA,Highland Park,NJ,Venezuelan,40.498,-74.43111,$$,39
+32,Costa Chica Mexican Restaurant & Pizzeria,4gV0qIQIvpYvoAlyi46QuA,New Brunswick,NJ,Mexican,40.490168,-74.4526723,$,74
+33,Sushi Room,FTJIOa9c2FvSwgrIpvMleA,New Brunswick,NJ,Sushi Bars,40.4968880519384,-74.4473812317813,$$,233
+34,Sakura Sushi Depot,bt0xmrin9i0J_XWSZfv8mg,New Brunswick,NJ,Chinese,40.5004411049264,-74.4559268824971,$,74
+35,On The Border Mexican Grill & Cantina,RgswUs3gfto51RvuwVnE5g,New Brunswick,NJ,Mexican,40.4803553,-74.4217241,$$,283
+36,Picnic Garden,8CyOxZTL81mR0ayiJMcQEQ,Edison,NJ,Korean,40.5126888,-74.4062837,$$,450
+37,Tastee Sub Shop,7EsomxJP11MsFI7DdVPGrg,Edison,NJ,Delis,40.5139799,-74.4031,$,352
+38,La Frontera Bakery,fT8RolfYWmHl4Hia_U1K5w,New Brunswick,NJ,Venezuelan,40.48739,-74.44538,$,21
+39,25 Burgers & Pizza,hSY-Fy7WrouIfm4BOqrC7g,New Brunswick,NJ,Burgers,40.4966223,-74.4468286,$,139
+40,Rai Rai Ramen,7QRdMh0q0t1K1DACjPB28g,North Brunswick,NJ,Ramen,40.4597523073122,-74.5079781312065,$$,750
+41,Cookies N' Crepes,HUDHNBlJVoCISRPw4vSBeA,New Brunswick,NJ,Creperies,40.499,-74.45274,$,86
+42,Desi Tasty Grill,G3Lw_xPLzcFWTMT-49VTWg,New Brunswick,NJ,Indian,40.4974297303228,-74.4482234326057,$,63
+43,ViVi Bubble Tea,b-66j0jyXSZMKwgW8rqLKA,New Brunswick,NJ,Bubble Tea,40.4967719814979,-74.4472103122739,$,39
+44,Pad Thai,I_NOftEjO74ZBsidHuDRvg,Highland Park,NJ,Thai,40.498924,-74.429542,$$,260
+45,The Edison Diner,kL28EUpumAZPResUEbruNQ,Edison,NJ,Diners,40.4973435,-74.4119884,$$,311
+46,The Blue Horse,im0lceO_PEluTMZdcrC3uA,Highland Park,NJ,Diners,40.4992115419489,-74.4281546026468,$$,75
+47,Le Peep,E-zF5ocp_HWWcADrUnz0-w,Edison,NJ,Breakfast & Brunch,40.5073550016936,-74.3939203310226,$$,490
+48,honeygrow,gPfwKLTFVTvzCFbL_-0Lqw,New Brunswick,NJ,Salad,40.4991164971137,-74.4481588403121,$$,86
+49,Baguette Delite,rD8O-18k5mZcg2a1IIqklA,Edison,NJ,Vietnamese,40.5138422744721,-74.3844341767653,$,451
+50,Surreal Creamery,yRfRG7vsouFjfM9jT2Lk8Q,New Brunswick,NJ,Ice Cream & Frozen Yogurt,40.4969177670875,-74.4471096970158,$$,47
+51,Paris Baguette,cOoo_1FquqdCAO2fzmtx4A,Edison,NJ,Bakeries,40.5129396485931,-74.4084826111794,$$,320
+52,Aposto Mediterranean Grill and Pizzeria,_FBxNkfgNKiF213RrBZUtw,Highland Park,NJ,Italian,40.4979593027929,-74.4329844817111,$$,72
+53,Iscream Roll Up,1p5WjGku2JlesHPSSug7qA,New Brunswick,NJ,Ice Cream & Frozen Yogurt,40.4979249000127,-74.4487859223352,0,19
+54,Mancini Pizza,lokFeKEWJ6Hiw-06VWJiCg,East Brunswick,NJ,Pizza,40.456855,-74.401904,$$,357
+55,Masala Bay,9x0HxUQXtmizTA-Cv0Y8VQ,Somerset,NJ,Indian,40.5178917217065,-74.4892110763272,$,240
+56,Mollaga Indian Grill,c4Qu_ps1VZPMN4DbMHu0uA,North Brunswick,NJ,Indian,40.4613269,-74.457071,$,132
+57,Gloria Jean's Coffees,DvigjWcGYrOau6ar_TfurA,New Brunswick,NJ,Coffee & Tea,40.496125,-74.444962,$$,20
+58,Bubbakoo's Burritos,QWVMRMRnNhI5Ja4SJezD0Q,New Brunswick,NJ,Tex-Mex,40.498119,-74.44918,$,60
+59,Caribbean Cafe,7lhgHGRbxb5a49ToF88_MQ,New Brunswick,NJ,Caribbean,40.4941583902419,-74.4466837894046,$,58
+60,Cafe Zio,3wZMhVFYJkP8xhdNYaUvVg,Edison,NJ,Bubble Tea,40.5133895874023,-74.4033126831055,$,65
+61,Dish Cafe,JU5v9E0DmYW_2jYCCR8bwg,Highland Park,NJ,Bagels,40.4996704975613,-74.4269420320553,$,122
+62,Dairy Deluxe,Og3VNbWxhyQzyyZ5y011Nw,Highland Park,NJ,Ice Cream & Frozen Yogurt,40.50249,-74.42102,$,62
+63,Hub City Brewhouse,9LarearMJdGmt7lWY3OUtA,New Brunswick,NJ,Sports Bars,40.4942410909884,-74.4432822580296,$$,74
+64,Skylark Diner & Lounge,2CiS5AnL9fT0FyTyz4jjMg,Edison,NJ,Diners,40.5077398240446,-74.3910346999437,$$,673
+65,White Castle,BFApZ1ZH4-dBU7lrVk15Ag,New Brunswick,NJ,Fast Food,40.4855431672125,-74.4713161793865,$,44
+66,Luca's Ristorante,Y1aGNrTXDjtz034-oBX1uQ,Somerset,NJ,Pizza,40.457904,-74.5111907,$$,425
+67,Coco Malaysian & Thai Cuisine,epS--4_G-fqdgjkQn2jqPA,Edison,NJ,Malaysian,40.514082,-74.404599,$$,272
+68,Chef Tan 蜀湘门第,eBTrhc7FAxOquQdgJ_eewQ,Highland Park,NJ,Chinese,40.500531,-74.424637,$$,122
+69,Seafood Boil,_7_RFuYXf6KxrftTQNgvDg,North Brunswick,NJ,Seafood,40.46033,-74.45745,$$,110
+70,Jimmy's Grill & Pizzeria,dYy0XeAEv1PhlM0_unmNnA,New Brunswick,NJ,American (Traditional),40.4987702292498,-74.4516699468494,$,41
+71,Zimmerli Art Museum at Rutgers,P7A4XV6zDjTHxmNVLIpMFg,New Brunswick,NJ,Art Museums,40.499903206076,-74.4456974523976,0,22
+72,Sunmerry Bakery,Qm-PuWIngSE2zVbjH5nLOA,Edison,NJ,Bakeries,40.50696,-74.396548,$$,114
+73,Art of Salad - East Brunswick,jxvgHSeaBKM3mGIcwnzPyw,East Brunswick,NJ,Salad,40.456517,-74.39487,$$,234
+74,Spice 24,4mw53gih0iw1QlH-Biw9Pw,Edison,NJ,Szechuan,40.5126676244596,-74.4079740469611,$$,194
+75,Hole In The Walls Bagels,AM1V7IbFjxgeu1u_E_4_4A,New Brunswick,NJ,Bagels,40.4976064,-74.4479103,$,67
+76,Filippo's Famous Pizza,-VsmoECdpQtXkBo8mnni5w,New Brunswick,NJ,Pizza,40.4938697814941,-74.4439544677734,$,56
+77,Elixir Bar & Grill,jakk8dqkNPArNqNg3mHeHA,Edison,NJ,Tex-Mex,40.5011909066979,-74.3927383121075,$$,153
+78,Mei-Mei Chinese,Bkqr0p3fJW1PwraCMtfXIQ,Somerset,NJ,Chinese,40.4926661,-74.4700364,$$,87
+79,Persis Biryani & Indian Grill,9Resg4MB37xNfiLqXBYBFA,Piscataway,NJ,Indian,40.5338329550972,-74.4190215604318,$$,326
+80,Mango Mango - Edison,xrWfNsqeU8arU8wKIrkv4Q,Edison,NJ,Desserts,40.5125398227457,-74.4077878006904,$,194
+81,Fusion House Restaurant,tSOkPcX5CoF9W3O450UzLg,North Brunswick Township,NJ,Mexican,40.4670605882217,-74.4543170881053,$$,43
+82,SushiO Asian Bistro,VWGxzW6k5xWsKkqezidjCQ,Edison,NJ,Japanese,40.5087748202378,-74.3910295817617,$$,253
+83,Wings Over Rutgers,rpcHMthyjkcR3kpjiE7kdw,New Brunswick,NJ,Chicken Wings,40.4995370669238,-74.4536649529613,$,75
+84,Olde Queens Tavern,O3iwPx0jQYOmBPnXcwlfPQ,New Brunswick,NJ,Dive Bars,40.49884,-74.45207,$,44
+85,Taco House,ToyT4hTkQ27Os_uoJBui8g,New Brunswick,NJ,Mexican,40.4934,-74.45226,0,29
+86,Jersey Shore BBQ,hRvJhk6yxo6Gbexu9JbUZg,East Brunswick,NJ,Barbeque,40.456486541361,-74.4022706677505,$$,147
+87,Rice Factory,lfFqyUE-osr8F2s9luMcfg,Milltown,NJ,Thai,40.450709,-74.4247793,$$,176
+88,So Kong Dong Tofu House,qAUie5gs31cVAwa1BzaZew,Edison,NJ,Korean,40.5130804946265,-74.4081612313009,$$,265
+89,Park Deli,04V-l_0td9iX5wmdgMUSxg,Highland Park,NJ,Convenience Stores,40.4979807,-74.4331384,$,37
+90,Chung Sol Bat,erPbnBwVvw_dR6aHU6aA3Q,Edison,NJ,Korean,40.5149433,-74.3731826,$$,341
+91,Douglas Pizza & Grill,5-nSieoHApR3QM0-5O2J7Q,New Brunswick,NJ,Pizza,40.492100336228,-74.4434193659599,$,44
+92,Hunan Manor,K32TA32xvrkqssv9OKqFTw,Highland Park,NJ,Chinese,40.4990495,-74.4286058,$$,81
+93,Currito,Snjbz4MZVc6bWaIz_1Q93Q,New Brunswick,NJ,Mexican,40.5025635,-74.4514389,$,30
+94,Brooklyn Boys Pizza and Deli,AjzgJAGuD4MHNOcCxgwwYA,Edison,NJ,Pizza,40.555188,-74.345816,$,255
+95,Ramen Stop,g2WmUxhp8-jBJKXLJjDgPA,New Brunswick,NJ,Ramen,40.500028,-74.454923,$$,16
+96,Milltown Ice Cream Depot,LRkN1iHgyqmEYcO32JePkg,Milltown,NJ,Ice Cream & Frozen Yogurt,40.450348,-74.4357156,$,93
+97,Sichuan Spring,Npy1UJ_J7Cic50hOnOPk0w,Highland Park,NJ,Chinese,40.5054205,-74.4164756,$$,78
+98,Boom Boom Chicken,X8gxn-tdX62v5pq91qfI_w,Edison,NJ,Korean,40.5131438206072,-74.4082221016288,$$,213
+99,Bites & Bowls,Z2fwJx45rwl9iFB4x8OpWg,Milltown,NJ,Mexican,40.45023,-74.43594,$,60
+100,Judy's kitchen,aFhQeJQIrR1imAhjUMAccw,New Brunswick,NJ,Spanish,40.4979628408067,-74.451482825053,$,25
+101,Topgolf,dZ--Dvl0U0RYklR8b-W38Q,Edison,NJ,American (New),40.51836,-74.36831,$$,618
+102,Johnson Park,OpISzaaRuRsQHuM0bFQRNw,Piscataway,NJ,Parks,40.5065107881599,-74.4436732824007,0,35
+103,K-Pot Korean BBQ & Hot Pot,Y0CKPgAaeMGLPOnAl3I8cQ,East Brunswick,NJ,Korean,40.4557481,-74.4003038,$$,338
+104,Tata's Pizza,9MbRl17JnsNY1pzptBiJqQ,New Brunswick,NJ,Pizza,40.496946,-74.454094,$,50
+105,Golden Lion Inn,V406kWdv4-G-YBIEwc3i5g,Milltown,NJ,American (Traditional),40.45094,-74.43569,$,76
+106,Hamilton BBQ,7FWnV0hbwTkvEXJBJRq05g,Somerset,NJ,Portuguese,40.48907,-74.4796999,$$,92
+107,Firangi,kzt8FOzJM1qQhi-SAsBvXA,Edison,NJ,Indian,40.5127335,-74.4055644,$$,51
+108,Dunhuang,V0n5YNVQ-Yw_vVwILn46XA,Edison,NJ,Chinese,40.5118489,-74.4074714,$$,121
+109,The Cook & The Carpenter Bakeshop,k-JtG7fWdZMb13q-z33qnw,Highland Park,NJ,Bakeries,40.49829,-74.42955,0,14
+110,Arthur's Steakhouse & Pub,87A0DoTq-WNDZbUa64K2jg,North Brunswick,NJ,Steakhouses,40.4685722866206,-74.4518828696064,$$,226
+111,Fish World,XKyQ7Fx2eplX3coCqC7MZQ,New Brunswick,NJ,Mexican,40.4923896789551,-74.4526748657227,$,9
+112,Hoysala,_qAXzcXZohR0kODMg21XpA,Somerset,NJ,Indian,40.513778,-74.489214,$$,193
+113,Chipotle Mexican Grill,CClOqV4O-FFKZOq8w3Rr-g,New Brunswick,NJ,Mexican,40.4960801286648,-74.4438951153269,$,69
+114,Hatch 44 Cafe,0kqHNtoejbii8CdMlbJKHw,Metuchen,NJ,Cafes,40.54387,-74.36952,$$,290
+115,Las Marias,-YwPhIt7TrM93DFeMdgFoA,New Brunswick,NJ,Mexican,40.47734,-74.46129,0,11
+116,King's Pizzeria & Italian Restaurant,6LJ8bQUfEE3FWW0-u_b2Gw,Somerset,NJ,Italian,40.4752307,-74.4897606,$,80
+117,Kybele Cafe,XW28nVVKs67876YB3vOmoA,Highland Park,NJ,Mediterranean,40.49976,-74.42705,0,13
+118,Pancho's Mexican Grill,v2uFctO6sKzd9FY3M7tG9Q,South Bound Brook,NJ,Mexican,40.5539459742731,-74.5247575633377,$$,146
+119,Kelly's Korner,RmZOHR30MZtcSPx1NSE33w,New Brunswick,NJ,Bars,40.50105,-74.45509,$,23
+120,N Thai Palace,7c19FuD088ftSLqznCOf0g,East Brunswick,NJ,Thai,40.4175867497441,-74.370433359796,$$,512
+121,Mozzarella Cucina Italiana,V1GTsG52B9XHmqtgOg7EnQ,New Brunswick,NJ,Pizza,40.4903464,-74.4557558,$,23
+122,Quaker Steak & Lube,QXQ-Gw5IxpY9bP-0kNSPyQ,Edison,NJ,Steakhouses,40.5060149271805,-74.3963107618947,$$,286
+123,Donaldson Park,ZlZl-nunz5sHVlhIuTENww,Highland Park,NJ,Playgrounds,40.4902020605001,-74.4256544485688,0,22
+124,Stage House Tavern,fqkATqgejM7zmxDbJk4HKQ,Somerset,NJ,American (Traditional),40.49768,-74.52696,$$,530
+125,Metro Diner,ES695heslaO-g2OZCQFyzA,East Brunswick,NJ,American (Traditional),40.466851,-74.406648,$$,149
+126,Starbucks,GKpwNwQ9HYaUwG-5ivpQRQ,New Brunswick,NJ,Coffee & Tea,40.4962403206449,-74.444037,$$,62
+127,La Familia,KYNR2eQDWj6wlRgAZsYMig,New Brunswick,NJ,Pizza,40.49961,-74.454078,$,40
+128,Gong Cha,2izAypmsxfedJVyWu1DGVw,Edison,NJ,Bubble Tea,40.5145165,-74.376853,$,125
+129,East Hana Japanese Restaurant,eC7uLsuGFhWwstTOXurTpg,East Brunswick,NJ,Japanese,40.456478,-74.3969074,$$,120
+130,Tasty Moment,r4QR05zYhAwBTasJuw3mJA,Edison,NJ,Szechuan,40.5150753947422,-74.3733101338148,$$,235
+131,Afghan Kabob and Grill,PAGzlEqwY7sqBnprVt1CfQ,North Brunswick,NJ,Afghan,40.4347753400246,-74.4900444431315,$$,213
+132,Thai Lanna Restaurant,6MkAwgxk2MXdqRmUyi_iiw,Franklin Township,NJ,Thai,40.518138,-74.489703,$$,196
+133,New Athens Corner,QpAbwWfg_Genhl4SSEsB3w,Highland Park,NJ,Grocery,40.50069,-74.42205,$$,17
+134,La Bagel,sW_7WmASCWhYhpIaUdPUKA,New Brunswick,NJ,Bagels,40.4956641396996,-74.4438447687172,$,29
+135,Global Grace Cafe,EQuJw9lXsrPpB7NjCqeXpA,Highland Park,NJ,Salad,40.4978942871094,-74.4294281005859,$,10
+136,Elevation Burger,QatkL63akw5foYQIcEzq_g,New Brunswick,NJ,Burgers,40.499325,-74.448637,0,34
+137,Dusal's Restaurant,hZWpk-jtL9S7vzatoz7mxA,Milltown,NJ,Italian,40.45732,-74.42562,$$,75
+138,Punto Y Coma,51nKxJUnoPMtmnQ5s8OzhQ,New Brunswick,NJ,Mexican,40.4917,-74.45536,$,13
+139,Gaby's Bakery & Deli,hJBcMnyMXSgRHfZQF-NvZw,North Brunswick,NJ,Mexican,40.472753,-74.465616,$,33
+140,Big Bang Noodles,K8HudfRZP6DBGCfxnWBA4w,Edison,NJ,Noodles,40.5088892,-74.3900919,$$,80
+141,European Homemade Provisions,5EqIW2ZETxCBbDZNmG2x6Q,East Brunswick,NJ,Delis,40.444755,-74.393835,$,79
+142,Court Tavern,1t0UYkKK22NJ-XskiTqbyg,New Brunswick,NJ,Dive Bars,40.4957029785158,-74.4451868362344,$,32
+143,Pho Anh Dao,IIdmfeXU9Mh2lTsJQOceBA,Edison,NJ,Vietnamese,40.513017,-74.384314,$$,202
+144,99 Ranch Market,3p2vxAC5Hr9TEOK7wQlfdg,Edison,NJ,Seafood Markets,40.507419,-74.39598,$$,99
+145,Hailey's Harp and Pub,7XTAcbukPloRuFbOgH4IoA,Metuchen,NJ,Irish,40.541342,-74.361062,$$,273
+146,Nothing Bundt Cakes,KjHUqD5POzaaSwr54RJl-w,North Brunswick,NJ,Bakeries,40.458705,-74.4736964,0,36
+147,Koy Turkish Grill,qXvFF-V30Qf70xjY8BPOkQ,East Brunswick,NJ,Turkish,40.4323437,-74.3871699,$$,280
+148,Glass Woods Tavern,YahOI9kDQVcRY0_DAfKqFQ,New Brunswick,NJ,American (New),40.4963240231226,-74.4410016249753,$$,29
+149,La Tavola Cucina Restaurant,Ejl4F6QQbo1eo76CdhNf2A,South River,NJ,Italian,40.462629,-74.402636,$$,83
+150,Four Seasons Thai Cuisine & Oriental Grocery,gMEVoiPGfUBfWlxG3O92GA,Piscataway,NJ,Grocery,40.539683,-74.422305,$$,337
+151,Taiwan Tasty,rjiSWK0a1bRQWDvIVMrRnQ,Edison,NJ,Taiwanese,40.5148521118988,-74.376851990819,$,158
+152,Gusto Grill,1QBqkHaHZf2WxdDG9olYtg,East Brunswick,NJ,Bars,40.419075,-74.374159,$$,348
+153,Diamond Thai,NV3TNdLzOALZXFhvVywOeA,Somerset,NJ,Thai,40.51045,-74.48514,0,47
+154,R-U Grill & Pizza,cdLIu81KepRH2sRT_TwKTA,New Brunswick,NJ,Pizza,40.4992942810059,-74.4532775878906,$,42
+155,Perle Night Club & Lounge,y4hWzFuaQgJJ9-YspU5mYw,New Brunswick,NJ,Dance Clubs,40.4953780503947,-74.4434319360799,$$$,72
+156,Sushiana,xGLN4jbqbhOg8sdipHhrrg,Highland Park,NJ,Sushi Bars,40.500423,-74.426216,$$,51
+157,La China Poblana,o3Z82aSJx4cNrEwu1muuMg,East Brunswick,NJ,Mexican,40.4383435,-74.3923846,$$,177
+158,Phattra Thai Restaurant,CcX-4TlYLgxGsQS8SLBEXQ,Metuchen,NJ,Thai,40.54228,-74.36151,$$,239
+159,Blackthorn Restaurant and Irish Pub,t9TNKhddbmd9S7PSWJLeRg,New Brunswick,NJ,Irish,40.4961717,-74.4432955,$$,42
+160,Kung Fu Tea,q0ze40neXnIZVa-iRLS04g,Edison,NJ,Bubble Tea,40.512564,-74.4079918036875,$,172
+161,Labebe,FQSeBCP1z4G0vPBtqbwPBw,North Brunswick,NJ,Mediterranean,40.43631,-74.48356,$$,269
+162,Christopher's Restaurant,Ji24whx6ShKG87ffCmYM1w,New Brunswick,NJ,American (New),40.4930094220382,-74.4440156957229,$$,41
+163,Crazy 4 Falafel,x_3nHdMt70zEsvYOg_PSxQ,Edison,NJ,Falafel,40.5417054,-74.3981205,$,246
+164,Four Seasons Mediterranean Cuisine,PifDeZuBGQHcBOgdofXkhA,North Brunswick,NJ,Lebanese,40.4396190012751,-74.4772568761483,$$,138
+165,Golden Rail Pub,TRFYquqP7BJ0PyGt26LhKA,New Brunswick,NJ,Karaoke,40.4979483670965,-74.4496475550986,$,34
+166,Cristo's Pizza & Grill,0Sv6BsH5cjdbalvDvX-EOA,North Brunswick,NJ,Pizza,40.467646,-74.471627,$,47
+167,Midori Sushi,L8Y_FUzH9vf7I1ooAWLKdw,Piscataway,NJ,Sushi Bars,40.551317,-74.434726,$$,244
+168,Al Toque Peruvian Restaurant,9XTJ1HJCpjVUhFVLYRyEuw,Somerset,NJ,Peruvian,40.4851,-74.481,$$,44
+169,Glo Ultra Lounge,kjcIAvEcaoAs-ugqraN4mA,New Brunswick,NJ,Lounges,40.4953044,-74.4437785,$$,49
+170,Hong Kong Garden,zN2ou5UUetSm58Wm7S1nKw,Somerset,NJ,Chinese,40.5350899,-74.50733,$$,136
+171,Jersey Mike's Subs,HW0nlMYM7kwkEzo_NKE49w,New Brunswick,NJ,Fast Food,40.4993962637314,-74.4488861179851,0,12
+172,Kabab Paradise,n_NwpWmuwqsFIZVhZczAFw,South Bound Brook,NJ,Afghan,40.55492,-74.52609,$$,264
+173,Bollywood Tadka,LuD7Og61tQLujABs-vUnxg,East Brunswick,NJ,Indian,40.44711,-74.39791,$$,182
+174,Pooja Exotic Indian Cuisine,xcGtEGO4oUsISoo7EhpBxw,Somerset,NJ,Indian,40.516326,-74.487886,$$,189
+175,Huey's Knight Club,_kW7WGzSas-m2nJZ2dj4rw,New Brunswick,NJ,Pubs,40.499698,-74.454307,$,54
+176,Domoko Sushi Ramen,LBx53ebhNX7fH0h97nBB5w,East Brunswick,NJ,Ramen,40.462542,-74.425174,$$,64
+177,Wasabi House,sBWEIswypXLMHbzfKek3qg,East Brunswick,NJ,Sushi Bars,40.4565575302402,-74.402223789278,$$,144
+178,Chand Palace,ac9SG-vxafei0ME3ONdXgQ,Piscataway,NJ,Indian,40.5526585,-74.4425819,$$,234
+179,Rai Rai Ramen,s4I4XcfFnkksyfTWtlWJqw,East Brunswick,NJ,Ramen,40.4563960345373,-74.3949735334252,$$,80
+180,Wonder Seafood Restaurant,fV6MsRyCYp5Yasc1lfbvEw,Edison,NJ,Seafood,40.520866,-74.394208,$$,289
+181,Highland Pizza,XD6wv3ix1iwnNRtNfDRcSw,Highland Park,NJ,Pizza,40.50119,-74.423,$,93
+182,Fusha Asian Bistro,L_DtFV5YgImO_5oo0zvo2Q,Metuchen,NJ,Asian Fusion,40.5429233325768,-74.3619989231229,$$,134
+183,Brothers Pizzeria,Se86QaFnc8hdTI_WpOrjlA,East Brunswick,NJ,Pizza,40.4175919161458,-74.3709146847307,$,142
+184,Zinburger Wine & Burger Bar,pJ7rVXvAmUjrFpBDvTNMRQ,Edison,NJ,Wine Bars,40.516728,-74.372622,$$,349
+185,Ferraro's Pizzeria & Pub,wHOWF74ScltNIVwyolPTGw,Middlesex,NJ,Italian,40.56322,-74.51328,$$,116
+186,Red Onion,Z2wEFjq2e5utSoHAfsaQVQ,Edison,NJ,Taiwanese,40.5417054,-74.3981205,$$,183
+187,J&G South Bound Brook Diner,g_MoIiTi4ydEDWrfGmUvOA,South Bound Brook,NJ,Diners,40.555183,-74.5262925,$,116
+188,Amazing Taste,RjY9Tz3eXUz4aXZbd0x6mw,South Bound Brook,NJ,Soul Food,40.554657,-74.52526,$$,86
+189,Civile Cucina Italiana,9KqHs3FO6xq5fwmfVg2VIg,Metuchen,NJ,Italian,40.5326509,-74.358823,$$,135
+190,La Rosa's II Pizza,7R-61mhhRNb-Y8pInyyPjA,Highland Park,NJ,Pizza,40.50102,-74.4181,$,30
+191,Krakowiak Restaurant,l_y2WcaeWCZ08q0QDUzh7Q,South River,NJ,Polish,40.45131,-74.38008,$$,101
+192,Penang Malaysian & Thai Cuisine,Ns8_SJw1cTUM2Uc7BIHY9w,Edison,NJ,Malaysian,40.5154075622559,-74.3781127929688,$$,432
+193,Pho Today,ACUVIEfeVjldLzsdtclf3w,South Plainfield,NJ,Vietnamese,40.556252,-74.433734,$$,256
+194,Kathiyawadi Kitchen,zXUT68k11FQoOH-qCR25TQ,Sayreville,NJ,Indian,40.454331,-74.367215,0,113
+195,Bonefish Grill,G2HmnWBfEgEBSb_jIr3BoQ,E Brunswick,NJ,Seafood,40.45365,-74.400498,$$,179
+196,Ninja Sushi Japanese Fusion,wIyASmfnIZ6QB-FtfGqSpg,North Brunswick,NJ,Japanese,40.452569,-74.492802,$$,294
+197,Fresco Steak & Seafood Grill,IeDzzLzhyQiLiqhRPh4LtA,Milltown,NJ,Italian,40.45128,-74.42481,$$$,141
+198,Berkeley Bakery,eAm8myddL_rTYK7N1tUUMw,Highland Park,NJ,Bakeries,40.4999539,-74.4259937,$,19
+199,Kabab Culture,ORFY7UsD6M-rDErAaJfBmw,Franklin Township,NJ,Indian,40.45864,-74.511036,$$,140
+200,Spice House,pA33ZnfcZCGo4Xhimm7ukg,Edison,NJ,Indian,40.524031,-74.389958,$$,76
+201,Dunkin',MWTYB4X7di_2L7CQ8OfV5A,New Brunswick,NJ,Coffee & Tea,40.4938648138125,-74.4432366770424,$,16
+202,Gio's Deli,fO4SH50_5yPL_8wsXwSLzg,New Brunswick,NJ,Wraps,40.495466,-74.444838,$$,10
+203,Carrabba's Italian Grill,ruPWhqXoUQew6xHIh9PaGg,E Brunswick,NJ,Italian,40.453651,-74.400441,$$,156
+204,Polleria Don Carlos,rt3ZSGt66hwFPiqohWNZtQ,New Brunswick,NJ,Peruvian,40.4912457581055,-74.4514643802533,$$,10
+205,Victoria Tavarez,U6bwKZNlfKBDXAWLGiEzEw,New Brunswick,NJ,Dominican,40.4842948913574,-74.4477920532227,$,5
+206,Francesco's Pizzeria & Restaurant,B5RaI1ih8l7656VxD50Bow,Edison,NJ,Pizza,40.50861,-74.37197,$,104
+207,Smashburger,d8pOa2NMk8HGdefVon-CwA,North Brunswick,NJ,Burgers,40.4620365252511,-74.4605427027242,$$,102
+208,Galore Fried Chicken And Pizza,SAGBkuqSYhMI0rW4_UMguw,Franklin Township,NJ,Chicken Wings,40.4585744369176,-74.5110562401551,$,72
+209,Giovanneli's Pizza & Grill,p0hUaAHKSLoDZAQSseb5kA,New Brunswick,NJ,Pizza,40.49785,-74.44945,$,69
+210,Mr Subs,gHxhwB3akqLTORrl367BRw,North Brunswick,NJ,Sandwiches,40.467875,-74.4715706,$,44
+211,BAM Desserts,RnhqydzZxjBuXX26K6kuxQ,Somerset,NJ,Desserts,40.48872,-74.48063,0,22
+212,Tokyo Sushi,fTWzRdkVHAG6OaoWQqTCwA,Edison,NJ,Japanese,40.5133982,-74.4027207,$$,75
+213,Spice Rack Indian Fusion Dining,H9Jll3l4fovNpsxvAnI72w,Franklin Park,NJ,Indian,40.43825,-74.53806,$$,317
+214,Omega Diner & Cafe,xmwpJYKijbz6jxxMcDIO4w,North Brunswick,NJ,Breakfast & Brunch,40.459198,-74.471094,$$,247
+215,Pho 99,6PLppNTE5WxaKEbYFp--OQ,Franklin Park,NJ,Vietnamese,40.43632,-74.54283,$$,193
+216,Good Food by Uzma,C26VRt_L_6d1cNeV-oivMA,North Brunswick Township,NJ,Halal,40.447248,-74.496499,$$,54
+217,LouCas Restaurant,rht13gf5YP3GBeLHexOPnQ,Edison,NJ,Italian,40.5549441723547,-74.3450391849419,$$,287
+218,Nuebies,kxE7y_bY2Jt1lKJOVgoCOg,New Brunswick,NJ,Pizza,40.499346,-74.453143,$,56
+219,Shu House Restaurant,JTheizg2ZoyGJnkAQ3LXog,Kendall Park,NJ,Szechuan,40.43579,-74.54136,$$,67
+220,16 Handles,gfYahzvpeuy0qMr-42kr9g,Piscataway Township,NJ,Ice Cream & Frozen Yogurt,40.5255293480597,-74.4376596808434,$,34
+221,Meng Gao Yang BBQ,wOfA43ZHCCvztLnwH5qvoA,Edison,NJ,Chinese,40.5145453,-74.4032545,$$,91
+222,Brunswick Pizza and Grill,E0eq-ffffagDomEJ5j1_wQ,New Brunswick,NJ,Pizza,40.49568,-74.44479,$,18
+223,King Pita Palace,uLWmag1yxes1g_tCQNge9w,New Brunswick,NJ,Mediterranean,40.502675101161,-74.4514100253582,$,12
+224,PappaRich Edison,dWhDIq_OdjmsSiDYlt9MKQ,Edison,NJ,Malaysian,40.5123206154972,-74.4074538058905,$$,118
+225,River Thai Cuisine,MLXt_RklkUNadQtF7KeXsA,South River,NJ,Thai,40.45114,-74.3804,$$,91
+226,LaLa's Puerto Rican Kitchen,6IqQu5hc-i-JEdqcDSKj_Q,Old Bridge,NJ,Food Trucks,40.389038,-74.308936,$$,93
+227,Sultan Wok,wUWiTkfk5Yuepw-KQLL1OA,Highland Park,NJ,Chinese,40.500992,-74.423545,$,118
+228,Szechuan Ace Chinese Restaurant,RWF3mzAn4oZS5Ybphbka9g,Somerset,NJ,Chinese,40.4643764746804,-74.5031297206879,$$,129
+229,Tous Les Jours,2vvRasjheGe_9Fsc4v92Sw,Edison,NJ,Bakeries,40.513468,-74.407653,$$,39
+230,Villa Gennaro,poOjv-R8xXGiQ-5V5_qadA,Edison,NJ,Italian,40.558032989502,-74.3418884277344,$$,142
+231,Blue Water Seafood,F1JJKg15CU93PYiwEqP0zA,East Brunswick,NJ,Seafood Markets,40.42381,-74.3786,$$$,266
+232,Easton Grill Express Bagel,m_zpdS6Em_k3kugNOah2fw,New Brunswick,NJ,Bagels,40.50021,-74.45563,$,18
+233,Zaika BBQ & Grill,g7KZ95LxsG48DXK9aNnYcA,Edison,NJ,Pakistani,40.5358895,-74.3477795,$$,205
+234,A & G Italian Fine Foods,euWGGH55-AJcTI2lpklTRQ,North Brunswick,NJ,Specialty Food,40.4624578573532,-74.4588426856545,$$,28
+235,Istanbul Restaurant & Patisserie,YmsJhGOTt0augBa0jouAlw,North Brunswick,NJ,Halal,40.43878,-74.509,$$,226
+236,Torino Restaurants,zqXB2XsQHHBOCC1xztwLQQ,Metuchen,NJ,Italian,40.541774,-74.36259,$$,180
+237,Orchid Restaurant,jTi0mBEM0BVBbfwrhPWJ1A,East Brunswick,NJ,Asian Fusion,40.4324898716634,-74.3910777076874,$$,154
+238,Keum Ho Garden,Gq9qMaEDtSXXQAAzdKXXhg,Edison,NJ,Sushi Bars,40.51606,-74.37676,$$,155
+239,Giddy's Pizzeria,bek2bSqmHAGAQaQwoxl8Hw,East Brunswick,NJ,Pizza,40.4628339741066,-74.4072270990294,$,34
+240,Lola's Latin Bistro,CSPX01yk-NuFXcPPqKXYzw,Metuchen,NJ,Latin American,40.5416845,-74.3677016,$$,245
+241,Kulu Desserts,wP0xJr5kkv4F-CrDDEJNAQ,Edison,NJ,Desserts,40.5123,-74.38439,$,67
+242,The Original Pizza City,_jbbtZDglZvuC14r6IkCAg,New Brunswick,NJ,Pizza,40.4997367,-74.4533434,$,26
+243,Kimchihana Korean Japanese Restaurant,7FT1mg4p3HueeqfA89ibAw,South Plainfield,NJ,Japanese,40.5540072493979,-74.4279098510742,$$,236
+244,Arusuvai Chettinad,5mZnk5USjDfG7FtrNSe0-Q,North Brunswick,NJ,Indian,40.44394,-74.469,$$,86
+245,Don Carlos Polleria,3FDhqixf1x9rMf9EArHtKw,Franklin Township,NJ,Peruvian,40.489548,-74.463286,$$,11
+246,Jerusalem Pizza,L2Hy1RUu2FnFZERKjA9WpA,Highland Park,NJ,Pizza,40.4990062616176,-74.4289103331753,$,49
+247,Master Niu,bNCzaCczibERX0M_cy6BmQ,New Brunswick,NJ,Chinese,40.4942339018215,-74.4436530794687,0,17
+248,Magnifico's Ice Cream,cWj-4kebXY2wiaRwzmxf7g,East Brunswick,NJ,Ice Cream & Frozen Yogurt,40.4412,-74.39363,$,172
+249,Mr. Wish - Edison,8Luf0kAj2pBfaJhLZvZNVw,Edison,NJ,Bubble Tea,40.5134638285113,-74.4025577777099,$,36
+250,Uncle Ralph's Restaurant,IeSA8mYSVkMzTWGqJlHljg,Edison,NJ,Chicken Shop,40.5010871887207,-74.3959197998047,$$,38
+251,The Halal Guys,lhZjfLI__JEJovJed9NeHw,East Brunswick,NJ,Halal,40.435237,-74.390324,$,357
+252,La Bonbonniere Bake Shoppe,jDgAlmyRHJmZ7xZdxBpO2w,Edison,NJ,Bakeries,40.5246747,-74.3890973,$$,108
+253,Park Deli Too,AgV-hWpyt-a5hY15mmUh_Q,New Brunswick,NJ,Delis,40.48818,-74.439219,$,10
+254,Panico's Resturant Bar and Authentic Woodburning Brick Oven,8W3Y5q8oP8BfAIg9wIOHNQ,New Brunswick,NJ,Pizza,40.4958154,-74.4438375,$$,21
+255,Popcorn for the People,7sRQo6HdRi3gNePnhfkWqw,Piscataway,NJ,Popcorn Shops,40.529692,-74.4311288,$,20
+256,Franks Pizza & Italian Restaurant,AnuAm-p7etYLJiT8gAhiHQ,East Brunswick,NJ,Pizza,40.4567405810535,-74.3948254390299,$,97
+257,Joe's Meat Market,MMzE2p8FwNt_xDt4ZqFi1w,South Bound Brook,NJ,Meat Shops,40.55667,-74.5272,$,156
+258,The Greek on Main,XedJ-TwbHURvZVI6uIPrUg,Metuchen,NJ,Greek,40.5417681375299,-74.3617109209299,$$,130
+259,Noodle's Time,WuA6YhhRMkRzGgTDtt8VlQ,Edison,NJ,Chinese,40.5138008,-74.404766,$,77
+260,Shokudo,TaPhsbUPzKiFCeLbWGs4rw,Piscataway Township,NJ,Ramen,40.5528596,-74.4417619,$$,79
+261,Lala's Bbq,h86Xs37vbHxjLhIhcWsVJw,Sayreville,NJ,Barbeque,40.4535940289497,-74.3662874400616,$$,85
+262,Shanghai Noodle House,RCXM7Ot1CVdx2p5nUcFqrQ,Edison,NJ,Shanghainese,40.51606,-74.37676,$,219
+263,Penang Street Southeast Asian Kitchen,7UiP_SbKrP9a8x6o60RKxg,Edison,NJ,Thai,40.50674,-74.39655,$,47
+264,Boyd Park,DpQ60bdFDscAUigbvRmKrw,New Brunswick,NJ,Parks,40.4882152020026,-74.4340896606445,0,8
+265,Lubrano's Pizzeria & Restaurant,S5ldEJ4Et_CVMhvGPgJtUw,Somerset,NJ,Pizza,40.535997,-74.508409,$$,122
+266,Indian House of Dosas,2huEdquwbICDftrKiIppdw,Piscataway,NJ,Indian,40.533894641525,-74.4191923264588,$,90
+267,Milltown Diner,_LTJtwiPtUVskCh7bEL13Q,Milltown,NJ,Diners,40.451452,-74.438655,$,52
+268,Sigiri,rvUs5KjpZ5fV_CeD_uofZw,Edison,NJ,Indian,40.5573636275065,-74.3438078463078,$$,111
+269,La Bagel,gVfU7-TA6X_Aqj2hIgNU4w,Edison,NJ,Bagels,40.5137311872722,-74.4053196268529,$,79
+270,La Crepe French Bakery & Cafe,xbQPNc3grwl0W2fWL3UTZA,East Brunswick,NJ,Cafes,40.41776,-74.3719799,$$,192
+271,Carmen's Restaurant,CyOFoVON0NPTwAsezLD1bw,New Brunswick,NJ,Dominican,40.4779548136233,-74.4471810287292,$$,10
+272,Edison Noodle House,2pp_9lJ4B7NHvgtCX_R1Vw,Edison,NJ,Chinese,40.51593333,-74.40203667,$$,93
+273,Riddle & Martin Sub Shops,gcnQZzv1bn8AT6zlUWqxSg,South River,NJ,Delis,40.44188,-74.391,$$,52
+274,Sukh Sagar,jKgXDPRx0Sr10P5zaZeUow,Piscataway,NJ,Vegetarian,40.5401805398876,-74.4230496883392,$$,103
+275,Dosa Grill,q_HaG30CAq1L2WPii9I-TQ,North Brunswick,NJ,Indian,40.4598313396558,-74.5079021501136,$$,117
+276,Rhythm & Spice Jamaican Grill,DHjNnAyLf3PInaDrhg7-Ug,Somerset,NJ,Caribbean,40.494776,-74.463466,$$,26
+277,Cheezen,VEFLHFSr26c_FqXWJeQs8g,New Brunswick,NJ,Sandwiches,40.49884,-74.45207,$,29
+278,Surf Taco,d8uckcokP6FiJxEP_63eFQ,New Brunswick,NJ,Mexican,40.4989871815129,-74.4485081457986,$,31
+279,Teri Teri,DGZOwMQNcn0mNPLtmFZkiA,New Brunswick,NJ,Sushi Bars,40.495025,-74.443672,$,26
+280,Carlee's BBQ,El4XVCVZ6XcjqEvX-GNoUw,New Brunswick,NJ,Portuguese,40.49569,-74.44472,$,30
+281,Cafe Paris,ZM4QmiIyInegLg0eOZibpA,Metuchen,NJ,Creperies,40.542421,-74.3620043,$$,241
+282,Noodle Go Go,-jh96b_xzGzZsaR2WybUHg,South Plainfield,NJ,Cantonese,40.551,-74.43156,$$,218
+283,The Dolar Shop,v4JVVlQvpgttizV9Q9WRIA,Edison,NJ,Hot Pot,40.524849,-74.388512,$$$,68
+284,Starbucks,YpNx1eyzub-A0c2UFe3C0g,New Brunswick,NJ,Coffee & Tea,40.4870322062488,-74.4159927888349,0,7
+285,Coco Fresh Tea & Juice,U-Zg1QDSooZ8pfwZSIonnQ,Edison,NJ,Bubble Tea,40.5066701690973,-74.3974674493074,$,28
+286,Rose's Pizza and Ice Cream,gLzeOllu8TpJTB99_lpftw,Edison,NJ,Pizza,40.525014,-74.413242,$,42
+287,Little Lamb Mongolian Hot Pot BBQ,DWwOapX8CfxgGU1ONRdKwA,Edison,NJ,Hot Pot,40.5070294295523,-74.3966400769659,$$,78
+288,Kam Fung Restaurant,Xzv8_mj_O0VhJu0yf2Tklw,New Brunswick,NJ,Szechuan,40.496798,-74.454332,$,21
+289,Noodles Plus,OaYlC3K0Ubolw0bJPyrrmg,Edison,NJ,Taiwanese,40.512571,-74.383468,$,141
+290,Sam's Chicken & Pizza,-QlAMY4Hnp-73pu8ZC-ovw,New Brunswick,NJ,Pizza,40.49187,-74.45483,$,11
+291,Ria Mar Restaurant & Bar,C2g_fklzdKM_pT1OI4iY7w,South River,NJ,Bars,40.44362,-74.3687099,$$,205
+292,House of Cupcakes,UqDqS8kz2UNW5wVuIFFtoQ,East Brunswick,NJ,Desserts,40.434857,-74.391389,$$,182
+293,Five Guys,5yuZ8xyIcb11uNr8Y1XOug,North Brunswick,NJ,Burgers,40.4609401,-74.4587139,$$,37
+294,Pink Lotus Restaurant,dsRepMl27BtaeEfeplJ1Ww,Metuchen,NJ,Chinese,40.5422266,-74.3620268,$$,62
+295,What's the Scoop,z7whl1KjkBqugUZRG2G69A,Metuchen,NJ,Ice Cream & Frozen Yogurt,40.54167,-74.36093,$,113
+296,Bagel Express,4zhzoMJskHAjcoI_2a9ywg,Milltown,NJ,Bagels,40.456854,-74.425139,$,43
+297,Brick House Tavern + Tap,DvmpRaEYlzPgZHmcQO6z4g,South Plainfield,NJ,Bars,40.5496994,-74.4306546,$$,427
+298,Mithaas North Brunswick,orwo3Pexciz6RWOw6LtG1Q,North Brunswick,NJ,Indian,40.440740556713,-74.5280003313198,$$,212
+299,Antonio's Brick Oven Pizza,OtZrdjnZQxv5oc4KCTBIVg,Metuchen,NJ,Pizza,40.542627,-74.3622788,$$,145
+300,Yaraku Ramen,l4w2Y0a7LNTpGF0Y-nlMZg,Edison,NJ,Ramen,40.526825,-74.385284,$$,66
+301,Chili's,ScAIqwL8aIXYZlbv3ilrsA,North Brunswick,NJ,American (Traditional),40.462833,-74.457403,$$,77
+302,Sakura,gFZTpONDf2eaRSE-w1jf9Q,North Brunswick,NJ,Japanese,40.458795,-74.473304,$$,104
+303,Wingstop,eipsF__nr6QsZ93JFie6TQ,North Brunswick,NJ,Chicken Wings,40.4598977193516,-74.4565518441159,$,79
+304,Piazza Orsillo,1qrUBBYilMoi81YqZwUswQ,Somerset,NJ,Pizza,40.522188,-74.520442,$,110
+305,Pasha Mediterranean Restaurant and Banquet,0k8MNWJpB2I0vrMdwFELlg,Franklin Park,NJ,Mediterranean,40.438579,-74.539244,$$,92
+306,La Casa De Tortilla,QGQecl_kfcDYtvBo6UTI3g,Somerset,NJ,Tex-Mex,40.4578361138733,-74.5114092946128,$,121
+307,Chipotle Mexican Grill,MeUO9nlWIMVEJTw4NxLuvQ,North Brunswick,NJ,Mexican,40.461446,-74.4571459961471,$,105
+308,Shanahan Bakery,KtnY70ey6hoQNUY2oi1jfA,Milltown,NJ,Bakeries,40.45273,-74.44022,$,30
+309,Casa Romero Mexican Grill,mNJPVdLs-wPFVJf6GkqbqA,South Plainfield,NJ,Mexican,40.5620591157804,-74.4177727773786,$$,79
+310,Joe's Italian Deli & Restaurant,PFoEwkJPLlvY4uQkuskrpg,Franklin Park,NJ,Italian,40.436712,-74.542553,$$,86
+311,Corner Cafe & Grill,m5rV73dMDhHQhCJdNFFAHw,Somerset,NJ,Delis,40.4958572387695,-74.5251770019531,$,66
+312,Deli Plaza,SVjMIeRuZFIEnaBkhM-Kiw,New Brunswick,NJ,Delis,40.4947991,-74.4449647,$,6
+313,Green Apple Chinese Cuisine,Lemu5bqXAUPJeqTB2hhUtQ,North Brunswick,NJ,Szechuan,40.4352406003186,-74.4907684669342,$$,109
+314,Metuchen Inn,iJp2KeK9rCl6xLvSrRI8Yw,Metuchen,NJ,American (New),40.54578,-74.36014,$$$,143
+315,Nino's Pizza & Subs,GfAOuZagDUZM8NxX07E1RA,North Brunswick,NJ,Pizza,40.4423073883325,-74.4748916455761,$,51
+316,Chicago's Pizza With A Twist,qwfow0Lqdn7GUvgfAXS15g,Edison,NJ,Pizza,40.51136833,-74.364125,0,59
+317,Sunny Palace,_6Rhl64eJRC_mPGtMNpPXg,East Brunswick,NJ,Dim Sum,40.4188159090467,-74.3752274084048,$$,254
+318,Colonial Diner,Q_TICJDoX1FTnKoIYqsg9Q,East Brunswick,NJ,Diners,40.4377956,-74.3917868,$$,235
+319,Ichiban,03QPIEshlvcFf5MUikRu6Q,Somerset,NJ,Japanese,40.5290087,-74.5211468,$$,142
+320,Loui Pizza City,OlEdcRUIkbCDy8U2yu7e4Q,New Brunswick,NJ,Pizza,40.4926699,-74.45714,$,13
+321,Corner Tavern,-SXy7aw7neSDOb6cIYWfhQ,New Brunswick,NJ,Music Venues,40.4976,-74.44778,$,31
+322,Fusion Ti,n1DUe9ItIlnuqUssG8j9Sw,Edison,NJ,Bubble Tea,40.5154,-74.3786,$,146
+323,Knights Express Pizza & Grill,dQ_Vzuefzaaymtw2PnMcjg,New Brunswick,NJ,Pizza,40.49801,-74.44856,$,32
+324,Cozyroom Chinese Restaurant,fYx6Zu0sLtPaZWiLvI3ZMA,North Brunswick,NJ,Chinese,40.4705348,-74.4685903,$,70
+325,Edison Sub Shop,U7dCI_Je2QjbogOsZbUedw,Edison,NJ,Delis,40.50178,-74.39024,$,16
+326,Mike's Country Market & Nursery,jlirk_D9rIA2RQUiDLQg_w,Milltown,NJ,Nurseries & Gardening,40.44734,-74.44621,$,19
+327,Gerlanda's Pizza Cafe At College Ave,tXYfgkSCj7VM0uXNFDTRMw,New Brunswick,NJ,Pizza,40.5026957289545,-74.4525292464235,$,11
+328,Sunny Seafood,SW0DvFrNDa1OwvQa1Jj02Q,Somerset,NJ,Seafood,40.4863204956055,-74.4710006713867,$,9
+329,Calima Bakery,INMA341o0b8F0MwG9iADTQ,Edison,NJ,Bakeries,40.51542,-74.40135,$,35
+330,Jersey Mike's Subs,yievZ0JZZHTDvg0sfTTPOQ,East Brunswick,NJ,Fast Food,40.4579675100535,-74.4021493060681,$,54
+331,Joe's Crab Shack,3Qntd33FW4BEIY8w2dCyAw,South Plainfield,NJ,Seafood,40.5507686,-74.4301545,$$,252
+332,Starbucks,J5Rd2_xEGLhZIBDyX43OeA,North Brunswick,NJ,Coffee & Tea,40.461489,-74.457257,$$,79
+333,Campozino,ExRFarC9LnpEUp48ks2m6Q,South River,NJ,Portuguese,40.4505604071654,-74.3781006047884,$$,101
+334,Punjabi Rasoi,EHLxcSpBEupBVTh2EGlPWw,Somerset,NJ,Indian,40.4686,-74.49742,$$,35
+335,Zia Lisa Pizzeria and Ristorante,SfPKQ-YAUGHNWl8ImNmQGQ,Edison,NJ,Italian,40.5129768,-74.4028147,$$,40
+336,Maya Hookah Lounge,rC6cPzGkGOEWehSuHSb3cw,Edison,NJ,Hookah Bars,40.5009693898545,-74.406910411882,$$,104
+337,Golden East Garden,SGBzM37x00i3_A7BgbxeMw,East Brunswick,NJ,Chinese,40.455145442596,-74.3976138713198,$$,76
+338,Thai Basil Restaurant,nTQMH_Cx2LlAW-l-T1n-EA,Piscataway,NJ,Thai,40.5521932,-74.4411874,$$,145
+339,Portuguese Fisherman,jG9h8dbfX5QuWbeOdgpDqg,South River,NJ,Spanish,40.450988,-74.377532,$$,125
+340,Tequila N Tacos Mexican Sports Bar & Grill,V0qMAabImm5cDg6y_aFK-w,Piscataway Township,NJ,Sports Bars,40.55905,-74.44243,$$,155
+341,Kurry Zone,h8nZ37PuemuwJeWutRbaMQ,Somerset,NJ,Indian,40.521679,-74.521689,$$,65
+342,Sushi Saga,kPWZGkxenbw40gZhtPqQRQ,Edison,NJ,Japanese,40.5348917748089,-74.34646804901,$$,175
+343,Angie's Café & Bakery,oMg7GX3V1-GPqBbRZQ9MEA,Metuchen,NJ,Bakeries,40.5376122011973,-74.3600023820753,$$,66
+344,Mariachi Mexican Restaurant,a91L1Y__Krsfhs-_El0uqg,Metuchen,NJ,Mexican,40.541554,-74.361781,$$,209
+345,Scala Pastry,xLaqWpiPeNzPmZ3lzR2few,North Brunswick,NJ,Bakeries,40.4399722,-74.4778309,$$,68
+346,Outback Steakhouse,qTeEedGNiONfnTHY0ce6AQ,Edison,NJ,Steakhouses,40.505305,-74.397495,$$,109
+347,Kong Full Chef,jQrceVQzKNmpYm-ABoYeiQ,Somerset,NJ,Chinese,40.5153227,-74.48858,$$,93
+348,Bagel Pantry,dkTY6w-Cl4spq-AIXFDDPw,Metuchen,NJ,Bagels,40.54282,-74.36327,$,102
+349,Mi Tea,nNEJAng5BcwqUyGrh0CUCQ,Edison,NJ,Bubble Tea,40.51299,-74.40515,$,46
+350,Buffalo Wild Wings,TrfHm4iFFnluzlFDDMJADg,North Brunswick,NJ,Chicken Wings,40.44704,-74.4985,$$,225
+351,Art of Salad - Piscataway,qbqQxInzd7MulS4mkQHUXg,Piscataway,NJ,Salad,40.55222,-74.44128,$$,29
+352,Brewed Awakening,SfXAca8vn8L1jTFg6uCRVg,Metuchen,NJ,Coffee & Tea,40.5416942,-74.3617014,$$,145
+353,Joong Hwa Ru,nDOboaohLGePuyAz6-MpNA,Edison,NJ,Korean,40.525835,-74.387702,$$,71
+354,Henry's Diner,6HTAfsSLsTrokjGXDQy8qQ,Piscataway Township,NJ,Diners,40.5251518303624,-74.439410258989,$,80
+355,Francesco Pizzeria & Restaurant,0-mCrK7QdnDcCX8AkjdMOw,Milltown,NJ,Pizza,40.4517149052617,-74.4382215609978,$$,59
+356,Akbar Restaurant,177WmaOaHsO5KGGNfgm_TA,Edison,NJ,Indian,40.52538,-74.36157,$$,186
+357,Healthy Garden Restaurant and Gourmet Pizza,vJ8O9bIaUR2nC4NI1uaufQ,Piscataway Township,NJ,Pizza,40.5508256594248,-74.4348606514638,$$,211
+358,Luigi's Ice Cream,5MSLFXWsdmEBHnlgHG71sg,Metuchen,NJ,Ice Cream & Frozen Yogurt,40.54086,-74.36591,$$,53
+359,China Star,4Sh_ZpB51z2nucIvs259fA,Highland Park,NJ,Chinese,40.49856,-74.4333599,$,22
+360,Rice And Roll Kitchen,68FOYqxZb3S9bRvGw894SQ,Piscataway Township,NJ,Indian,40.539844,-74.422201,$$,57
+361,Stelton Pizza & Restaurant,_CKcpm2j5N33055MOZqp2Q,Piscataway,NJ,Pizza,40.541103,-74.423073,$,69
+362,Eli's Fish and Grill,uP_4CRyKUaarv97vTTpn6g,Franklin Township,NJ,Halal,40.45819,-74.511623,0,19
+363,Sam I Am Bagels,SnDHGm9LC1Cr_HKSCrVPsQ,Piscataway,NJ,Bagels,40.5337173565561,-74.4189550878299,$,47
+364,Bubble Yogurt,uhvT4LVaG0zfoBD98mVCZg,Edison,NJ,Ice Cream & Frozen Yogurt,40.504823688431,-74.3980966883911,$,48
+365,Bagel Market and Deli,wh5_74yMCk3fB4jJ5S7YOA,Somerset,NJ,Delis,40.5104522705078,-74.4851455688477,$,57
+366,Bagel Boys,emzij8-1ZaC5lB1RlzIjMw,North Brunswick,NJ,Delis,40.4396873354351,-74.4772500081452,$,42
+367,Burgerim,Mr5g_xDNl1ghk8bRa0m79Q,New Brunswick,NJ,Burgers,40.49798,-74.44832,0,22
+368,Super Duper Deli II,tRYjRQV_nSvsRKfWJ8a7ig,Edison,NJ,Delis,40.5022006576492,-74.3907707057984,$,25
+369,Tastee Sub Shop II,KDHSwb2OooVTTq23Z5WDPA,Franklin Park,NJ,Sandwiches,40.4371869759115,-74.5393124665887,$,101
+370,Punta Cana Grill,yzZggmQS54VAKzIMoCxnSA,Somerset,NJ,Dominican,40.4902532325822,-74.4746817548443,$,13
+371,Halal Boys,0C_UFtpdDNOg6V622PHfLQ,North Brunswick,NJ,Middle Eastern,40.458932727708,-74.4726570312134,$,38
+372,Las Delicias Bakery,3jCvnhn0MD-Oa7MwWXSkWA,New Brunswick,NJ,Bakeries,40.4927902,-74.4523368,$,7
+373,Panera Bread,RG-d9paE9VRj4bXp1acv1w,North Brunswick,NJ,Sandwiches,40.4624084802237,-74.4598266375733,$,82
+374,Stan's Chitch's Pizza Restaurant & Bar,uymTvgBoIcHpktyYipuOMQ,Bound Brook,NJ,Pizza,40.56149,-74.53688,$$,70
+375,Duk Soo Goong,Q-FG2cmMzr2yCTGDuj4FIg,Edison,NJ,Korean,40.5152085676205,-74.3807517067414,$$,44
+376,30 Burgers,cSLYiw4NLrgnDbtc_0k9Jw,East Brunswick,NJ,Burgers,40.45422,-74.39928,$,53
+377,Tian Asian Express,uavU2-K4r1KUS1AlYhEHfw,East Brunswick,NJ,Japanese,40.4292079,-74.3838441,$$,63
+378,Mi Amore Market,ax17tT_dz1FMIk19Z_uWqA,Somerset,NJ,Grocery,40.521539,-74.521465,$,55
+379,Big Pink's BBQ,6CncK0Bzx2gwIpaITMy20w,Bridgewater,NJ,Food Trucks,40.5695686,-74.5725763,0,27
+380,Hooters,dZgLcJKNUvV1NKQZCOe-Ug,East Brunswick,NJ,Sports Bars,40.469939,-74.40946,$$,96
+381,Sushi Suzuki,_eFbAXDfgBh_kmZR0vSf6g,Metuchen,NJ,Sushi Bars,40.5415204,-74.362319,$$,96
+382,Olive Press Eatery,Uwe8I4JF69A5mN1S0_dv5A,Metuchen,NJ,Middle Eastern,40.5408448,-74.362576,0,43
+383,LongHorn Steakhouse,7lxcdRsD26vPdRbMzg30BA,North Brunswick,NJ,Steakhouses,40.4459909279111,-74.4998129651426,$$,90
+384,Edison Pizza & Italian Restaurant,zJQ6mQlh7Z4DBTl-qqR4bQ,Edison,NJ,Italian,40.503206,-74.388858,$$,87
+385,Las Cazuelas Restaurant,qUPA6D1Z3UtisU8kebA-xg,New Brunswick,NJ,Mexican,40.493253,-74.451806,$$,13
+386,Pasquale Brick Oven Pizza & Restaurant,Dr8svmKtgpUZkXF5BcC6Qw,Milltown,NJ,Pizza,40.4550982,-74.4248649,$$,77
+387,Lox Stock & Deli,zj2ZxXRTYg-YC3xo3o13TA,Milltown,NJ,Delis,40.4510032,-74.4244531,$$,73
+388,Cosina de Chencha,zoBTgl2X2_hyrXtHgJG67Q,New Brunswick,NJ,Mexican,40.4919226650682,-74.452049061656,0,3
+389,Ovations,kWrY54cxZ6D9RyaN1UWu8w,South Bound Brook,NJ,Italian,40.55682,-74.53746,$$,116
+390,Rio of Japan,MHGNwzFS7Ji-K8CE9DTsfA,Metuchen,NJ,Sushi Bars,40.546474,-74.370704,$$,42
+391,The Original Picken Chicken,Q1lhyOGgQraJToPAstCQyw,New Brunswick,NJ,Southern,40.4894980893932,-74.4416703453855,$,21
+392,The Kabab Factory,C6Pa1FTC25v8F_vKD-NkLw,Metuchen,NJ,Indian,40.54222,-74.36422,0,52
+393,Teppanyaki Grill Sushi Supreme Buffet,jUoE46TMpP_E6C1ZOQmeGA,East Brunswick,NJ,Buffets,40.459652,-74.404106,$$,241
+394,Adyar Ananda Bhavan,EgQaXPyOFGgXul6Vp7oifQ,South Plainfield,NJ,Indian,40.5542631,-74.4309359,$$,127
+395,Cai's Cafe,DsQg_hJaaTRfGEcpWpwVtg,Metuchen,NJ,Wine Bars,40.5419,-74.36133,$,92
+396,The Greene Turtle Sports Bar & Grille,Dxdv75ELmzUk6bl3ZDYTEQ,North Brunswick,NJ,Sports Bars,40.4374507207583,-74.5040748012581,$$,227
+397,Somerset Diner,_Kjm8prRF2c2wuGNhKlvFQ,Somerset,NJ,Diners,40.51490094166,-74.4870735701916,$$,201
+398,Morals Village,xp5Hrix7B58ZV4AvvCPaiw,Somerset,NJ,Hot Pot,40.5118703018285,-74.4871568012225,0,17
+399,La Bonbonniere,srK-ygsdhFJ0KGVN-67SjQ,South Plainfield,NJ,Bakeries,40.5538112575525,-74.4277623900319,$$,37
+400,Bar Louie - Brunswick Square,6GoolMLPu2dCCPyYq09zvA,East Brunswick,NJ,Bars,40.4239913,-74.3818194,$$,389
+401,Crazy Burrito,0yNwnAsxioP-_YX5SrQUQA,Edison,NJ,Mexican,40.5129291862249,-74.4026662409306,$,53
+402,GYRO KING & GRILL,5lGRJHVD9ILVu_7Jz7mQlA,Kendall Park,NJ,Mediterranean,40.43981,-74.5323,0,42
+403,Mithaas Piscataway,6xbdqvty1HD3tDeyAgYQTQ,Piscataway Township,NJ,Indian,40.53938,-74.422296,$$,112
+404,Kono Chicken,mEWdNnD1DC8AaTPlIJQ22w,Edison,NJ,Korean,40.5126488,-74.4063402,$$,41
+405,Brower Commons,kQjUh-VqHerVUu36PC15YA,New Brunswick,NJ,Buffets,40.5034103,-74.4518661,$$$$,8
+406,Krispy Krust  Pizza,IN3SGjmV0_xtUmsGCCFYow,North Brunswick,NJ,Pizza,40.4339127,-74.4874326,$,94
+407,Sunny Side Up,NiM0nktILSzz6S1kX9JK7w,Sayreville,NJ,Diners,40.4611751,-74.3613249,$,54
+408,Casablanca,Dl_p-042GDITzMHaOrm_xw,East Brunswick,NJ,Moroccan,40.4175705,-74.4113225,$$,60
+409,Redd’s Biergarten - New Brunswick,1EAIKI6-NHQB4wRAI6hU9g,New Brunswick,NJ,Beer Gardens,40.49686833,-74.44679333,0,14
+410,Konaseema Cuisine,YdhUWUMcDnkj4FEZ71cXCQ,North Brunswick Township,NJ,Indian,40.43878,-74.509,$$,65
+411,Fresco by Jimmy,ZCqnh9KVZCLq52AtG2LeHQ,Metuchen,NJ,Sandwiches,40.542835816741,-74.3621615320444,$,51
+412,Carvel,a2eDWdjT4GhHWEISQyXRKg,Highland Park,NJ,Ice Cream & Frozen Yogurt,40.499008,-74.429298,$$,28
+413,Positive Vybz Island Grill,7nsyLFqdQB790PXvr62F-A,Somerset,NJ,Caribbean,40.48505,-74.47544,$,6
+414,Meemah Chinese-Malaysian Cuisines,pt5WcjqFPwyviRKgzgVpjw,Edison,NJ,Chinese,40.555172932268,-74.3447506427765,$$,83
+415,Moghul Express,2Yulr2NF1-Ysn-YYJ2xzeg,Kendall Park,NJ,Indian,40.43605,-74.53989,$$,50
+416,The Halal Guys - New Brunswick,0iNrBX-9wh4bZ33VUEWHTA,New Brunswick,NJ,Halal,40.497778,-74.448486,$,31
+417,LongHorn Steakhouse,QPJv0_ldqM9_yP73-VgV-A,Piscataway,NJ,Steakhouses,40.5519387,-74.4356025,$$,101
+418,Mirchi,1tpCFxGtne5DsGUw2QRY2A,North Brunswick,NJ,Indian,40.444232,-74.501488,$$,117
+419,Kuba Cafe,BTA0I_4Exbwugi4r5oUGig,New Brunswick,NJ,Cuban,40.49822,-74.456329,0,8
+420,The Phoenician Market,NeG-0KAgYvk-sbLJZoyi4A,North Brunswick,NJ,Bakeries,40.4693624252587,-74.451305061886,$$,5
+421,Subway Restaurants,R-bA-Chr5Oja3inXBgSw_Q,New Brunswick,NJ,Sandwiches,40.499012239194,-74.45149654012,$,5
+422,Mist Hookah Lounge,herx4P-zuDimM238xKrvHg,North Brunswick Township,NJ,Hookah Bars,40.4631041430871,-74.4513021556371,$$,95
+423,Joey D's Pizzeria,c9Z6ghZZ1bmTBfm9WI8hhw,Metuchen,NJ,Pizza,40.546913,-74.370826,$,51
+424,Dunkin',cQj05XvJBl00GbfPWojpEw,Highland Park,NJ,Donuts,40.498151,-74.434162,$,33
+425,Shahnawaz Banquet,CjJooMeB07o1I8m6NrgY7w,Edison,NJ,Pakistani,40.532585144043,-74.3408432006836,$$,121
+426,Mangia Toscano,jrRjPWgaqVX_93LzX4JjJQ,Metuchen,NJ,Italian,40.5420948188491,-74.3616201811639,$$,46
+427,Fresh Pita Pita Mediterranean Grill,S1atEu6L2inMm-NEffFV5Q,Milltown,NJ,Middle Eastern,40.4410990330426,-74.4240292266746,$,90
+428,Flame Kabob House,rpJhltERJlUuFcV3iQur7w,Franklin Township,NJ,Halal,40.51532,-74.48855,0,14
+429,Lago,aa7_66GSgEcOuqwDh7TxuQ,North Brunswick,NJ,American (New),40.440151,-74.46802,$$,145
+430,Pierce Street Bagel Cafe Deli & Grill,xrlx51hv6pj7HFTv7TcbRA,Franklin Township,NJ,Delis,40.5290087,-74.5211468,$,32
+431,Hungarian Festival,b-_WfOnL1ZBVRBogGgD44Q,New Brunswick,NJ,Local Flavor,40.48702,-74.46783,0,3
+432,Marco's Deli,ukP8a0Mru77NIIi3-yZcLw,Metuchen,NJ,Delis,40.5347969,-74.3598701,$,35
+433,Dunkin',8OR5DiyljMCapgT63FMaNA,New Brunswick,NJ,Donuts,40.496645,-74.446048,$,11
+434,Shivaji Indian Express Cuisine,4VrFwzsOjvNUNZQePPDbgA,Edison,NJ,Indian,40.5068952805328,-74.3985836549097,$$,76
+435,Los Contreras,8auLrLIopLVnqlBhS5yO0g,Edison,NJ,Mexican,40.498382,-74.409279,0,14
+436,Asanka Delight,JM7jt1kRGDIXUqq9dU2eYQ,Somerset,NJ,African,40.458129,-74.511697,$$,29
+437,Buccleuch Park,TGIQBP9rcPgt1yx9GUhORQ,New Brunswick,NJ,Parks,40.5041201283493,-74.460752789355,0,4
+438,Bagel Market & Deli,Dw1DMxGsT3k6HQ3EhlbtVw,Kendall Park,NJ,Delis,40.4357919,-74.5413645,$,56
+439,Anjappar Chettinad South Indian Cuisine,88R9FEJeA6zLjtY2ZAiAlQ,North Brunswick,NJ,Indian,40.434750304139,-74.4857339712979,$$,120
+440,Desi Food Galaxy,llZGOEwhIOQOWJXUiCFRbg,Somerset,NJ,Indian,40.4581062732883,-74.5116658206384,$,57
+441,Metuchen Diner,K6BzOqkh-dhF55D-ILY_6g,Metuchen,NJ,Diners,40.541298,-74.365222,$$,88
+442,Park Place,jrancCVFAe3VGLnUM0cQaw,Highland Park,NJ,Kosher,40.498001,-74.431449,$$,18
+443,La Bonbonniere Bake Shoppe,0uR9_nrf-em9QNbcV-VW7g,Somerset,NJ,Bakeries,40.529433,-74.54172,$$,34
+444,Kennedy Fried Chicken,Tts0EBN_cvSzMT1MwWpKXw,Franklin Township,NJ,Chicken Wings,40.4928207,-74.4696274,$,8
+445,Sandy's Luncheonette,iSG_AVYUthutwWf1_aYtGw,East Brunswick,NJ,Diners,40.4175677,-74.4113569,$,81
+446,Panera Bread,9DydfOmX5cSgTncazpngag,New Brunswick,NJ,Soup,40.5026877,-74.4516245,$$,15
+447,Starbucks,Xibbu_OGLblHdEtIOIvjvA,New Brunswick,NJ,Coffee & Tea,40.49533206,-74.4496054,$,2
+448,Royal Orchid Thai Cuisine,B8D6nbvPMPK94FGKFhqWaw,North Brunswick Township,NJ,Thai,40.4473055761189,-74.4980565879723,0,47
+449,Maria's Pizza & Subs,yaxsxQTTbRU8Cy3jwa29SQ,Milltown,NJ,Pizza,40.4539480136261,-74.4410576038349,$,28
+450,Moe's Southwest Grill,EJttT5TE_Hse7YgssOny-A,North Brunswick,NJ,Mexican,40.4415748555093,-74.5062894350125,$,75
+451,Oasis Hookah Lounge,Cji0KyIAmWvXXcHJc64whw,North Brunswick,NJ,Hookah Bars,40.4719658195972,-74.4498295336962,$,18
+452,QDOBA Mexican Eats,oq18JF82kpdtfbEq4tmykA,Edison,NJ,Mexican,40.5072937,-74.394174,$,40
+453,The Coffee Bar,iWz0-lDgH7KjczoimckA9Q,Milltown,NJ,Coffee & Tea,40.442803,-74.424101,$$,27
+454,Rebounderz - Edison,wx0U5ZpFh92JdTuDuC-duw,Edison,NJ,Amusement Parks,40.5284401,-74.3993235,0,108
+455,Caribean Cafe,LeEWkHh7fsEuoee0xpJrng,New Brunswick,NJ,Cafes,40.49178,-74.44277,0,2
+456,Camillo's Restaurant Pizza,bN-MvJnxV6UagMjrraPQGg,Sayreville,NJ,Pizza,40.45709,-74.368162,$$,80
+457,Recanto do Xiru,gIR1d5gDjx0Y34lgAgLXmw,South River,NJ,Coffee & Tea,40.4515842119279,-74.3793147407096,$,24
+458,J.Y.C.D. Deli & Grocery,gYYwTpiG3VXBz-ptUfVU_Q,New Brunswick,NJ,Grocery,40.48276,-74.44422,$,2
+459,Itzy Bitzy Patisserie,oaWp5qWY9pEmI3WyFngLsw,New Brunswick,NJ,Desserts,40.4947700500488,-74.4438095092773,0,2
+460,Red Robin Gourmet Burgers and Brews,5INBYUVqCav0R0ZTOG02Ng,South Plainfield,NJ,Burgers,40.55531,-74.430693,$$,162
+461,Scarlet Pub,UYCrEDmwPT2vhjBl9Hoswg,New Brunswick,NJ,Bars,40.4995975808087,-74.4529073996385,$,19
+462,Hanok Buffet,c-qG__Lm8IbAz4oX6Zmsbg,East Brunswick,NJ,Buffets,40.446782,-74.397898,$$,52
+463,De Island Breeze Caribbean Restaurant & Lounge,EeHYuvexqO0HAVvQGAesCA,Somerset,NJ,Caribbean,40.4862118,-74.4820408,$$,43
+464,Smashburger,5BDRCRNPCPGlWmNq_oNESw,East Brunswick,NJ,Burgers,40.434729749932,-74.3913401920461,$,130
+465,Sabroso restaurant,4L8RQkS8kVCUhkdEcj5Rpw,New Brunswick,NJ,Spanish,40.48632,-74.44649,0,5
+466,Perkins Restaurant & Bakery,4Yg5k9TR0TH3CN4ayVMNWw,East Brunswick,NJ,American (Traditional),40.4585086313283,-74.4013224542141,$,44
+467,Wawa,vODukNV5hnG2w3nyZ-lONw,South River,NJ,Coffee & Tea,40.4618427771422,-74.4005694574776,$,23
+468,Brookside Deli,mwamVFy5gRxhYqMLoIw0uA,New Brunswick,NJ,Delis,40.475221,-74.473147,$,8
+469,Asian Garden,Ej0WTzYfPHC2ozoYPsiSzw,Highland Park,NJ,Asian Fusion,40.5016555786133,-74.4159088134766,$$,28
+470,La Finca Mexican Restaurant and Pizzeria,QDv03UakWJHs-6Rh6OyFRg,New Brunswick,NJ,Pizza,40.4781048792113,-74.4602427643363,$$,5
+471,Campus Pizza,bHGqy6vif35iJ4OawId_2A,New Brunswick,NJ,Pizza,40.49969,-74.454055,0,2
+472,Roosevelt County Park,9fskQgITdRWrqn6W7L5TYQ,Edison,NJ,Parks,40.552284,-74.341235,0,24
+473,La Rosa's Pizza,C4SLFBqTHj1xvV2F9E21SQ,Metuchen,NJ,Pizza,40.5407021,-74.3652874,$$,46
+474,Edo Takeout,kZPiIGbJ6RPjPTUZfNOzYA,Edison,NJ,Japanese,40.5551087830904,-74.3458007527786,$$,37
+475,Legal Grounds Cafe,eMxTL_qtg2hwcVp8zWWTsg,New Brunswick,NJ,Cafes,40.494347408129,-74.4449101425596,$,5
+476,Gianni's Pizzarama,SpuZJsGarsieHlLhUSN53Q,Piscataway,NJ,Italian,40.5547569196119,-74.4342819582242,$$,50
+477,Kettleman's Bagels,cI86lJ9VfOt7-UfHCBuUNQ,Somerset,NJ,Delis,40.529897,-74.54152,$,149
+478,Peking Duck House,wykYMNidsZo4WOy0BXplmA,North Brunswick,NJ,Asian Fusion,40.4351691,-74.4857437,$$,47
+479,Indian hut Somerset,FrAu3yK42WiD8490vgq07w,Franklin Township,NJ,Indian,40.5350899,-74.50733,$$,33
+480,Crazy 4 Falafel,khMfUvs-XZTQ-ueMCFNqFA,Somerset,NJ,Mediterranean,40.529433,-74.54172,$,66
+481,Sarku Japan Teriyaki & Sushi Express,IVxpTtsAAIts2RkzqS4NgQ,North Brunswick,NJ,Sushi Bars,40.4613216713086,-74.4570270222514,$,53
+482,Ichiban 18 Asian Cuisine,VKnejGBFc2_R7TxBDRRMsw,East Brunswick,NJ,Japanese,40.4176452526491,-74.3711830888249,$$,117
+483,Campus Deli & Food Store,fvaCGEpbQbKcyhk2A7wVHw,New Brunswick,NJ,Delis,40.5019109038077,-74.4559486211168,$$,7
+484,Coffaro's Pizza,nWhonn-J23KA--lGNFh0VQ,South River,NJ,Pizza,40.45072,-74.38071,$,44
+485,The Brass Monkey,ljm2JpKCRvFYlomLa0DVmA,Sayreville,NJ,Pubs,40.429915,-74.342334,$,30
+486,Panda Express,GdXMcuL1-hITHOwprzw9fA,South Plainfield,NJ,Chinese,40.5493800385727,-74.4256460336941,$,57
+487,Bella La Pizzeria,KDZgugJFIym-FBfbbCmXJw,East Brunswick,NJ,Pizza,40.453424,-74.399588,$$,41
+488,El Ranchito Restaurant and Bakery,Nw9FBgDCz7WgGDyL5KD26g,New Brunswick,NJ,American (Traditional),40.48064,-74.44547,$$,7
+489,Arooga's,L62G08xR1OuXzMOgaqlMsg,East Brunswick,NJ,Sports Bars,40.415067,-74.371187,$$,285
+490,Mr C's,8KQncRliGZtiT_E7yqm4Zg,New Brunswick,NJ,Food Trucks,40.4992067,-74.4480004,$,4
+491,Burger King,3CMnG2QwW_iXTP-ZFIWDZw,New Brunswick,NJ,Burgers,40.49541,-74.44362,$,11
+492,The Hot Fish Boil 大炙若渔,9-snG8_ZH8dnciRo3opEjA,Piscataway,NJ,Seafood,40.533862,-74.419091,0,34
+493,Lotsa Balls,KOkt1Z24YVMqHKyNj0ONYQ,Metuchen,NJ,Italian,40.54139,-74.362577,0,32
+494,Kam Luang Kitchen,wpMyPzkhYAlj-CzyjkV8Qw,Somerset,NJ,Chinese,40.522381,-74.52014,$$,62
+495,El Toro Loco,GEH3m_StFPG4hC-fsxrcOg,Kendall Park,NJ,Mexican,40.4400042369166,-74.5324022059535,$$,190
+496,The Brown Stone,sOXqi9qRo4sqaRIpR4keCA,Metuchen,NJ,Sports Bars,40.534486,-74.3765093,$$,110
+497,Christopher's Bar,yUW0RWSZCVEvOfil_Eg5kg,New Brunswick,NJ,Bars,40.4931716918945,-74.4439163208008,$$,3
+498,Mezza Luna,D7EvNyEEgl-dX9GJ-v22wA,Somerset,NJ,Pizza,40.5168317969029,-74.4882302629639,$$,26
+499,Wild Ginger,JaxlO5fbbnVRngqTM5iZ2Q,Somerset,NJ,Asian Fusion,40.5295674,-74.5206312,$$,60
