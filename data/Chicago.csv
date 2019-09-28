@@ -1,951 +1,951 @@
-,Business,Business ID,City,State,Category,Latitude,Longitude,Price,Reviews
-0,Volare Ristorante Italiano,7vsOVA4wrHP6f3DMQdD8og,Chicago,IL,Italian,41.8915901798304,-87.6225186472213,$$,2001
-1,Over Easy Cafe,0fYNLK7VpBUW4mgFyPCrWQ,Chicago,IL,Breakfast & Brunch,41.9717208,-87.6790834,$$,1424
-2,Siena Tavern,dSqRMhGNCWuSjPT_4lsZqw,Chicago,IL,Italian,41.8890751,-87.6299699,$$$,1717
-3,The Cloud Gate,5s9ntZVD45n2CxboZnLbSg,Chicago,IL,Landmarks & Historical Buildings,41.8825524,-87.6225514,0,735
-4,Lincoln Park Zoo,RQmbLZvI7XyFQd2JgNDVig,Chicago,IL,Zoos,41.9209148287011,-87.6336050034629,0,1238
-5,Gibsons Bar & Steakhouse,sNQglz_HoXgnUi1KTN3Iew,Chicago,IL,Steakhouses,41.901394,-87.627962,$$$,1880
-6,Do-Rite Donuts & Chicken,cyoEeLb5rc9ZAeTO2dkEUQ,Chicago,IL,Donuts,41.894028,-87.6213298,$,1100
-7,Fogo de Chao Brazilian Steakhouse,43rd1LKcZRIunySzbMsyLQ,Chicago,IL,Brazilian,41.89418,-87.63251,$$$,1594
-8,Gilt Bar,sDYjKyI_67eUhFAqVneYjA,Chicago,IL,American (New),41.8894,-87.6353199,$$$,1650
-9,Little Bad Wolf,9mhqcimD0CYvqxzfj_VXnQ,Chicago,IL,American (Traditional),41.9833823855364,-87.6690510144549,$$,1427
-10,Do-Rite Donuts & Coffee,Qn10NEhycm3k5HQoueDYSQ,Chicago,IL,Coffee & Tea,41.8846392380926,-87.6301468588139,$,1087
-11,Revolution Brewing,OKOfoisduqP24uK3WYvx7Q,Chicago,IL,Breweries,41.92353,-87.698153,$$,2070
-12,RPM Steak,JMWtBuuNmTXqoBs06Wt_7w,Chicago,IL,Steakhouses,41.8894143124861,-87.6305293460327,$$$$,1347
-13,Mindy's Hot Chocolate,JR5TOTAgxBj4YLfNQ3Dljw,Chicago,IL,American (Traditional),41.91367,-87.67718,$$,2360
-14,Bandera Restaurant,fJhF5Yy4nguguaaH3TabmQ,Chicago,IL,Jazz & Blues,41.8919021875965,-87.6236184577346,$$,1803
-15,m.henry,nd1KFxtZHXIMLqPtgubLpQ,Chicago,IL,Breakfast & Brunch,41.9856948852539,-87.6688842773438,$$,1687
-16,Bang Bang Pie & Biscuits,EqH-IWJytSPCVV3sA0OgcA,Chicago,IL,Bakeries,41.91909,-87.696983,$$,1099
-17,The Dearborn,PZe0q_153VHUnaR-8dOTJg,Chicago,IL,American (New),41.88412,-87.629146,$$,1242
-18,Maple & Ash,UK5Xb8xqUOUBi5vQu0bQXQ,Chicago,IL,Steakhouses,41.9021130633339,-87.6286945502972,$$$$,1192
-19,Firecakes Donuts,psz-vCo_OxNt21o6D0UfAw,Chicago,IL,Bakeries,41.89027,-87.63078,$,1496
-20,Gyu-Kaku Japanese BBQ,nO8Yrt4l4JLSvCAkkwrk1Q,Chicago,IL,Japanese,41.89281,-87.62223,$$,1561
-21,Frontera Grill,AqgG-1aD6JYj9D6OmBWO3w,Chicago,IL,Mexican,41.8905699,-87.63079,$$$,2238
-22,3 Arts Club Cafe,_wtMT97gelNAyfI82FPFvA,Chicago,IL,Cafes,41.9058,-87.63047,$$,1021
-23,Hopleaf,sR4EOfPuI-at41uIxIZPhw,Chicago,IL,Gastropubs,41.97581,-87.66874,$$,2077
-24,Jeni's Splendid Ice Creams,XKfbWkIuVvXwAV8zjGqn5A,Chicago,IL,Ice Cream & Frozen Yogurt,41.909,-87.67479,$$,616
-25,Velvet Taco,NOKQi1saEWWp-cbUhkUtFQ,Chicago,IL,American (New),41.9022,-87.62858,$$,1402
-26,Ipsento,CZAVqR6lI50rVbN7E78aHA,Chicago,IL,Coffee & Tea,41.9186515808105,-87.6871032714844,$,829
-27,90 Miles Cuban Café,mCHto10PBQOKnefm7gholg,Chicago,IL,Cuban,41.9176864624023,-87.6918029785156,$$,1933
-28,Summer House Santa Monica,5D5GiHm67V4thed30Etzhg,Chicago,IL,American (Traditional),41.9174315,-87.6486675,$$,2227
-29,Greek Islands Restaurant,_UJ3KqtHIHjExbAg-iIGUA,Chicago,IL,Greek,41.87896,-87.64763,$$,1799
-30,Yolk - South Loop,CwPi6NVuJIZZx4IBcTekFQ,Chicago,IL,Breakfast & Brunch,41.8687801,-87.6242249,$$,2132
-31,GT Fish & Oyster,KBl9QR4iVzT_4rF7FzTdyg,Chicago,IL,Seafood,41.8917501928574,-87.6338920000632,$$$,1449
-32,Tango Sur,uyUKtGWLYgu-RLjlNImy0A,Chicago,IL,Latin American,41.9507843879442,-87.6639031774259,$$$,2280
-33,Penumbra,VPJk-SEWSWS_nGoQvM-COw,Chicago,IL,Wine Bars,41.92445,-87.710933,$$,474
-34,En Hakkore,q684td_kKNRMTHMeMchXOg,Chicago,IL,Korean,41.9150939,-87.6777957,$$,701
-35,Carnivale,sfWMOqUEp8S2adDeJp7Kzg,Chicago,IL,Latin American,41.887075681459,-87.646048728271,$$$,2215
-36,Yolk - Streeterville,o4MU9gK7epWUMv2WVW1qrA,Chicago,IL,Breakfast & Brunch,41.8924891,-87.618153,$$,2058
-37,Small Cheval,7Es7EbTy_s1btAdowLeiPQ,Chicago,IL,Burgers,41.91282,-87.6815699,$$,1015
-38,Wildberry Pancakes and Cafe,T9xKvh9GxwnuU_4WjYZb9w,Chicago,IL,Pancakes,41.8976571762046,-87.6220511853708,$$,783
-39,Blackbird,bFxtGcL0W7ZNEj3NwTmM0A,Chicago,IL,American (New),41.8842918333133,-87.6435537582028,$$$,1539
-40,Chicago q,euO3-H92LCivH2B0CQPlnw,Chicago,IL,Barbeque,41.903617442969,-87.63023965658,$$,1808
-41,The Bongo Room,_b69OdBNLhysN1jFlYNQiA,Chicago,IL,American (New),41.90841,-87.67492,$$,1570
-42,Tweet,Psi34XLTOtVqLYS9StO1hA,Chicago,IL,American (New),41.973982,-87.655259,$$,1496
-43,TWO Restaurant,Dn23mAnWMquipOt4b76fOQ,Chicago,IL,American (New),41.89133,-87.65613,$$$,841
-44,Big Star,_StOUGMGMmENR44zAEoDrA,Chicago,IL,Mexican,41.9093,-87.67718,$$,3184
-45,Prime & Provisions,3Q_N0K28SRJbPy2sz0QqVw,Chicago,IL,American (Traditional),41.886635,-87.63282,$$$$,1058
-46,The Bad Apple,GEpXn9rtTMtIj5NsGFiNQw,Chicago,IL,Burgers,41.959767,-87.682822,$$,1504
-47,Bar Siena,0hfDRVaGSydijN5du1HCzg,Chicago,IL,Italian,41.88466,-87.64885,$$,1320
-48,Lawrence Fish Market,uQFHfnbJm7LIxLhjMKc4mQ,Chicago,IL,Sushi Bars,41.968411,-87.726525,$,817
-49,Tanta,HkUUKDwlIu869ECubV4NfA,Chicago,IL,Peruvian,41.891861,-87.6320114,$$$,1113
-50,The Chicago Diner,xdx3hwHT-m6_heZrKyH7vg,Chicago,IL,Vegan,41.9237447433269,-87.6982310134918,$$,828
-51,Lou Malnati's Pizzeria,FqzYCiJ29FGw6KFAGrpuJQ,Chicago,IL,Bars,41.90259525277,-87.6286705209015,$$,1464
-52,MingHin Cuisine,s1JPKx5lAeoq7QU8pmN-5A,Chicago,IL,Seafood,41.8532564325305,-87.6349026829699,$$,2147
-53,Nhu Lan Saigon Subs,kysa2NqoR8iYIjuaWELeZA,Chicago,IL,Vietnamese,41.9687048,-87.6944151,$,803
-54,The Aviary,ssrgrr-IjNFSdlLzCK5p0A,Chicago,IL,Cocktail Bars,41.8865304811531,-87.6520544164074,$$$$,1347
-55,Hoosier Mama Pie Company,XmFML20vtMPMuKCXlR2Fzg,Chicago,IL,Desserts,41.896234,-87.668002,$$,809
-56,Cindy's,riT822EnU7y_5eCuJsd9sA,Chicago,IL,American (New),41.8816894031196,-87.6250061730162,$$,1640
-57,Handlebar,zF9o33BVqLUOcCmnuB2eQw,Chicago,IL,Vegetarian,41.9100899,-87.6853,$$,1388
-58,Intelligentsia Coffee,kWOELNlUM14bv0m-slvq6A,Chicago,IL,Coffee & Tea,41.877995,-87.6295658341911,$$,1157
-59,Sultan's Market,O6uWHgJzylSjWjPSJKGhnQ,Chicago,IL,Middle Eastern,41.910362,-87.67973,$,1284
-60,Spacca Napoli,0fFLUKl71vv3eNV2xhikEw,Chicago,IL,Pizza,41.963286,-87.673801,$$,1457
-61,Roka Akor - Chicago,rgHFY55p10VVur7N3s-z5Q,Chicago,IL,Sushi Bars,41.8905877769375,-87.6312957381504,$$$,1146
-62,Owen & Engine,Z7Z0QCpKxJ_1JQcr6mz3VA,Chicago,IL,Gastropubs,41.93047,-87.68823,$$,1087
-63,Gather,WODBuNjlEgNIf459Wh-AWw,Chicago,IL,Wine Bars,41.9643402,-87.6853638,$$,818
-64,Davanti Enoteca,IvdOI86_CSCRFpid2atnyA,Chicago,IL,Italian,41.86911,-87.66147,$$,1203
-65,The Signature Room at the 95th,L1CS0gyTolKComzGwLk37A,Chicago,IL,Lounges,41.898796081543,-87.6230239868164,$$$,3138
-66,Coalfire Pizza,wiNuegM8MNw9WIP0wfMmeA,Chicago,IL,Pizza,41.89075,-87.65988,$$,1053
-67,Sawada Coffee,G-LUoHk_E_XCjSoSsaflFw,Chicago,IL,Coffee & Tea,41.8836669921875,-87.6489334106445,$$,584
-68,RAMEN-SAN,zIXZtgiir9CVF-iZeeAvaQ,Chicago,IL,Ramen,41.889798,-87.630293,$$,2000
-69,Stan's Donuts & Coffee,tzxnPFzKhLN1lu6Yn9g2tg,Chicago,IL,Donuts,41.910064,-87.677643,$$,1028
-70,DMK Burger Bar,763ARZeDvQfhXZvkDlKtFw,Chicago,IL,Burgers,41.936055,-87.65411,$$,1944
-71,Giordano's,Bxd9Y2PsdvIOGIKFQh53RQ,Chicago,IL,Pizza,41.885165,-87.623753,$$,2531
-72,Jeni's Splendid Ice Creams,nr3JxrY1zQDLsYKUKPqWzA,Chicago,IL,Ice Cream & Frozen Yogurt,41.943679,-87.664267,$$,585
-73,Toro Sushi,sjhBzCcFE2bzAG3j53roZQ,Chicago,IL,Sushi Bars,41.92907,-87.64281,$$,1085
-74,Ēma,tuJraaFffIS_JNK_4ZqGTA,Chicago,IL,Mediterranean,41.8909649,-87.6306233,$$,895
-75,Honey Butter Fried Chicken,eUlykGltBGH0RC5lkwx2eg,Chicago,IL,Chicken Shop,41.9426302817062,-87.7027218416333,$$,1857
-76,BIG & little's Restaurant,ZjHA6dwdgGXm-NjUcFezOA,Chicago,IL,Fish & Chips,41.898386,-87.63726,$$,1188
-77,En Hakkore 2.0,kUpqpEqkBjZguS1uA6NQYA,Chicago,IL,Asian Fusion,41.90869,-87.6743,$$,427
-78,Monteverde,o0DaPvRb4IWH7hUWVCnoGw,Chicago,IL,Italian,41.88191,-87.65302,$$$,757
-79,Antique Taco,YU3XvseN8keVmipgidQ94w,Chicago,IL,Mexican,41.9063606,-87.6716766,$$,1218
-80,Taste of Lebanon Restaurant,6hw-HPdP1oDpCbMHBLid-w,Chicago,IL,Middle Eastern,41.9760635,-87.6686494,$,676
-81,Field Museum,UB6XDuHepJ-ufzsBBcGXKQ,Chicago,IL,Museums,41.8654462216207,-87.6170827596939,0,1177
-82,Bryn Mawr Breakfast Club,5u27W_xHIKhVbws08lXXJg,Chicago,IL,Breakfast & Brunch,41.9831649,-87.71335,$$,812
-83,La Scarola,KXiClWndL6UyPJDt7y50zQ,Chicago,IL,Italian,41.8910731156813,-87.6468847784913,$$,1138
-84,Homeslice,qbpo-OPav2tv4TV5C8BFKw,Chicago,IL,Pizza,41.922,-87.65249,$$,1020
-85,Giordano's,z_qEuUuRWIq4O-YufXHf1w,Chicago,IL,Pizza,41.8958755,-87.625643,$$,2607
-86,The Capital Grille,XsGNjQODQGHMUPKrS_xEnA,Chicago,IL,Wine Bars,41.893789,-87.622358,$$$,773
-87,Flub A Dub Chub's,zbdhMq_8OjSZEHyw_PoQBQ,Chicago,IL,Hot Dogs,41.93717,-87.64401,$,658
-88,Doc B's Restaurant + Bar,jxPXmzh6a_JZbLDb1QM27w,Chicago,IL,American (New),41.891591,-87.626302,$$,743
-89,Lowcountry Lakeview,ufxKkcPhjlF4x2C1Or8ckA,Chicago,IL,Cajun/Creole,41.942883,-87.6528328,$$,564
-90,Panes Bread Cafe,skpDldmlZlw6e82tpiVyrg,Chicago,IL,Sandwiches,41.9364856920137,-87.6542047151184,$,732
-91,Maude's Liquor Bar,BmqLmgX7i-pM-0h_xzbwMA,Chicago,IL,French,41.88466,-87.64908,$$$,1001
-92,Beatrix Streeterville,0VEE9H6OuGaswhC70tjKeQ,Chicago,IL,American (New),41.8944242,-87.622564,$$,820
-93,Momotaro,FGNKtLYZphTlIjlMGPMuTA,Chicago,IL,Sushi Bars,41.8858362394937,-87.6485168502935,$$$,954
-94,Bari,TrHpyyurfCHWUQMpsLyxVw,Chicago,IL,Grocery,41.89136,-87.65555,$,728
-95,J.P. Graziano Grocery,jA9n0blJbyaP1pcmn0yu2A,Chicago,IL,Grocery,41.88405,-87.65001,$,493
-96,Pleasant House Pub,tQoQbc3vAo3qdTDiNgSekA,Chicago,IL,British,41.85357,-87.64621,$$,745
-97,Mastro's Steakhouse,Pcg4FtfbvSMMwrYuE1yVjQ,Chicago,IL,Steakhouses,41.8914200867251,-87.6299571990967,$$$$,1227
-98,Scofflaw,sWYRaPCYHrTxsZPLWmzkzQ,Chicago,IL,American (New),41.9173240661621,-87.7071762084961,$$,738
-99,Tank Noodle,ALwH81_sqskLmwfWS-_eeQ,Chicago,IL,Vietnamese,41.9731100981603,-87.65954048683,$$,1739
-100,Noon O Kabab,8j97C2qR95tvpbGtoFxEAw,Chicago,IL,Persian/Iranian,41.9669816,-87.7081594,$$,995
-101,Café Iberico,gSMAmIma0SWC0qJnZeggnA,Chicago,IL,Spanish,41.8959660347534,-87.632308046627,$$,2061
-102,Eddie V's Prime Seafood and Steaks,Q0oO6sTrUoSqeiJHIGaLaw,Chicago,IL,Seafood,41.891544320187,-87.6252151962952,$$$,658
-103,Oiistar,U9D0vqEP4QrJfJYs8mr3DA,Chicago,IL,American (New),41.9070880100627,-87.6720839738846,$$,922
-104,Fatso's Last Stand,GbC6XO60SlLnlIOTbJE-Ew,Chicago,IL,Hot Dogs,41.8959792096669,-87.6842580932541,$$,748
-105,Doc B's Restaurant + Bar,14dFm81gm4Kb8C0nd7wcmQ,Chicago,IL,American (New),41.900246,-87.625163,$$,743
-106,Brightwok Kitchen,yYAJAUfqnN3rQw7S8Cj12Q,Chicago,IL,Asian Fusion,41.8794583529234,-87.6270027458668,$$,580
-107,Duck Duck Goat,OSyGZMwCI9w_0BbQtH-kCw,Chicago,IL,Chinese,41.8866557616734,-87.6497170813778,$$$,1270
-108,Mother Cluckers Kitchen,e9aAISx0navH8qMr33X4TA,Chicago,IL,Southern,41.9752685744915,-87.7522482539673,$$,719
-109,Saucy Porka,hgE7M0H_iY4wIzFAgrOTCA,Chicago,IL,Cafes,41.877049,-87.634798,$,629
-110,Mario's Italian Lemonade,3utNdX0rn1koKiPUk8_SBg,Chicago,IL,Shaved Ice,41.86971,-87.65376,$,569
-111,Sun Wah Bar-B-Que,KomhK0JD5cleEW55YTw7MQ,Chicago,IL,Chinese,41.9739359,-87.6592371,$$,1553
-112,Spinning J Bakery and Soda Fountain,gxUFFsSLa-IyouuRD2Ma6w,Chicago,IL,Coffee & Tea,41.89945,-87.69716,$$,336
-113,Zizi's Cafe,wzw3aysUi9sBq-wLb6OXbQ,Chicago,IL,Mediterranean,41.9333149343307,-87.6537242180222,$$,569
-114,El Habanero,-NLBAIP5O8BYqbPg0toNog,Chicago,IL,Mexican,41.92496,-87.71099,$,442
-115,Farmhouse Chicago,6WE3zP14Azd0xM6Hk7C8Pw,Chicago,IL,Bars,41.8968599,-87.6354,$$,1290
-116,Steak 48,f1neY8Zd9xld7BB7G7mC0Q,Chicago,IL,Steakhouses,41.893,-87.62637,$$$$,568
-117,Flo,LOwInnfIfVFXpzaFYnrsnw,Chicago,IL,Breakfast & Brunch,41.8963899,-87.66383,$$,958
-118,The Bristol,0S44DHW394RexDqtFYMQLg,Chicago,IL,American (New),41.92105,-87.67804,$$,1128
-119,il Porcellino,1Q7RL7Hc63wKa2A9ec3zXw,Chicago,IL,Italian,41.88979,-87.6303,$$,678
-120,Hub 51,4Gxtzba86P8mY3ZgFeZ2IA,Chicago,IL,American (New),41.8899784766276,-87.6296997070312,$$,1743
-121,Devon Seafood Grill,cb3CIjBCPhOpdCWSPANLrQ,Chicago,IL,Seafood,41.8965751,-87.6265949,$$$,1154
-122,Viaggio Ristorante & Lounge,vb5hLPqsBEPmBsY-77Wl2g,Chicago,IL,Italian,41.88179,-87.6609,$$,685
-123,Oriole,_MnIiS_b3enHyx8Y62gd4Q,Chicago,IL,American (New),41.8860966,-87.6449481,$$$$,269
-124,Dove's Luncheonette,V2jEs7sH44pcG1J9x59f9w,Chicago,IL,Southern,41.909487,-87.677293,$$,649
-125,Pierogi Heaven,Tdy6sDnyu7Od2kBvlzduAA,Chicago,IL,Polish,41.8848892663734,-87.633853211969,$,701
-126,Sable Kitchen & Bar,8KzVXx6GCNBZBdtRGIdZDA,Chicago,IL,American (New),41.89111,-87.62754,$$,1304
-127,Star Lounge Coffee Bar,Bj-hbYQLeoJd422inI6E2A,Chicago,IL,Coffee & Tea,41.89544,-87.69017,$,520
-128,The Gundis,qXpvnq1EJ27iuoghG5A4-g,Chicago,IL,Mediterranean,41.9350992,-87.646744,$$,366
-129,BIG & little's Restaurant,LmOCyxWKENwQRlixDlObqw,Chicago,IL,American (New),41.9400472330334,-87.6555045423279,$,904
-130,Scooter's Frozen Custard,O_l0yHp_Lh5YqoOPVs16Og,Chicago,IL,Ice Cream & Frozen Yogurt,41.93980505865,-87.6709152248584,$,587
-131,The Crepe Shop,-KZsoQtr3e-md07sj0UQzQ,Chicago,IL,Creperies,41.93587,-87.64457,$,291
-132,Friends Sushi,CPj1XHGBsWOFiQpdxOyOxw,Chicago,IL,Sushi Bars,41.895366,-87.625781,$$,1279
-133,Union Sushi + Barbeque Bar,6KU3ylSh27qiiBa-a9vOGQ,Chicago,IL,Japanese,41.8940757,-87.6354284,$$,1127
-134,Yolk River North,IACTngt-bZGrhzflliIx7w,Chicago,IL,Breakfast & Brunch,41.8962039977196,-87.6339920320032,$$,1200
-135,Uncle Mike's Place,p_H2BANrAWEZbSyqmnviSQ,Chicago,IL,Breakfast & Brunch,41.89117,-87.66986,$$,625
-136,The Art of Pizza,tW2jfL-qMccAYZSghPBbHA,Chicago,IL,Pizza,41.9371221,-87.6683814,$,1148
-137,Hugo's Frog Bar & Fish House,VikWqZa32i70Qp-ETzw_lw,Chicago,IL,Seafood,41.901191,-87.627793,$$$,962
-138,Mercadito,Sfx5Yb95Wav1aOa0Qkv1VA,Chicago,IL,Mexican,41.8894499,-87.63162,$$,2113
-139,ZED451,d6UbRb9W5eA1yL-DuVZ8ug,Chicago,IL,Brazilian,41.896111,-87.63102,$$$,1382
-140,Simply It,N7juvW8YoFIj7sEBzVF8GQ,Chicago,IL,Vietnamese,41.923501,-87.6457,$$,954
-141,Gino's East - Magnificent Mile,ibreTMGGaQSanZttUchjKg,Chicago,IL,Pizza,41.89603,-87.62307,$$,2266
-142,SafeHouse Chicago,U_OhWaDWwym5garJ5KyYMA,Chicago,IL,Bars,41.8934761420147,-87.6259666423279,$$,1103
-143,UB Dogs,BjZ1dWcQOt7w7BsMszxKHA,Chicago,IL,Hot Dogs,41.885406019773,-87.635216774701,$,479
-144,Ditka's Restaurant,wUkLiVC0XDuRs9zihWUPTw,Chicago,IL,American (New),41.89859,-87.62558,$$$,951
-145,Mercat a la Planxa,o4NcUfco7JxOcyfKFWyAhg,Chicago,IL,Tapas Bars,41.8732738,-87.6244472,$$$,1401
-146,Manny's Cafeteria and Delicatessen,5n86ysWVnN9SUA-VUVctrQ,Chicago,IL,Delis,41.867936029135,-87.642088208016,$$,952
-147,Sushi Taku,bZ7lvi5_BQ6UKK10OKPV7Q,Chicago,IL,Japanese,41.90351,-87.67512,$$,558
-148,Little Bucharest Bistro,Au1f1UMmKcgOXLsg4v56xw,Chicago,IL,Modern European,41.94799,-87.7105,$$,638
-149,Chicago Architecture Center,0c0sRK0EJy-0cpKm8T3rbg,Chicago,IL,Museums,41.888041737312,-87.6235734860398,$$,404
-150,Katherine Anne Confections,UQuKBMJcvcGN9kN2Fs0vxQ,Chicago,IL,Chocolatiers & Shops,41.91746,-87.696572,$$,271
-151,Lotus Cafe & Bánh Mì Sandwiches,FgscTtEHFNqnVGjubIvLXw,Chicago,IL,Vietnamese,41.86457,-87.64583,$,452
-152,Le Colonial Chicago,5OtAmmypXvuTbkFBCziF_Q,Chicago,IL,Vietnamese,41.900523,-87.6260999,$$$,1203
-153,Willis Tower,KbZ9cSMoAIsTWASs6m5mJw,Chicago,IL,Landmarks & Historical Buildings,41.8787339974903,-87.635894766129,0,1373
-154,True Food Kitchen,Leed_L3l2U8tKBdJwj8CyQ,Chicago,IL,American (New),41.8939058892114,-87.6285624504089,$$,691
-155,Staropolska Restaurant,5N4g9tt8RCuZf0Hte94Oxw,Chicago,IL,Polish,41.936365,-87.719246,$$,476
-156,Grand Lux Cafe,4wreIFjaPMppyEnzKHbozg,Chicago,IL,Desserts,41.8931488346022,-87.6245293330658,$$,2071
-157,Isla Pilipina,RxHAdNiJ8jPUQDvLz6mDwg,Chicago,IL,Filipino,41.9682525,-87.6916001116394,$$,749
-158,Adagio Teas,7GYatTFQXmWVpJXPqwHEUA,Chicago,IL,Coffee & Tea,41.8928619739405,-87.6278979714836,$$,354
-159,Butcher & The Burger,Ydf5dgFsGhMSP61Ht7TekA,Chicago,IL,Burgers,41.91787,-87.65423,$$,996
-160,Demera Ethiopian Restaurant,JDNZxz0ud7zhuPo5pqznMA,Chicago,IL,Ethiopian,41.96918,-87.65931,$$,1021
-161,Molly's Cupcakes,5C6lVOpXBMinM5xctSLiXA,Chicago,IL,Cupcakes,41.8910508602858,-87.615972161293,$,483
-162,Cafecito,UY7IzVYub6gr8HMS5_Dutg,Chicago,IL,Coffee & Tea,41.89804,-87.62127,$,511
-163,Qing Xiang Yuan Dumplings,T_egMuf7xJHLdldzPqOaSQ,Chicago,IL,Chinese,41.85505,-87.63219,$$,837
-164,Taza Cafe,eouoOadI4bWZqBRxWhok-w,Chicago,IL,Middle Eastern,41.88528255359,-87.635568761842,$,561
-165,Artopolis,UQ3cGi3GdBljE3i2_qLcBQ,Chicago,IL,Bakeries,41.877632,-87.647546,$$,874
-166,Piccolo Sogno,JMa9cTNQA5mm4GbR2W8Oiw,Chicago,IL,Italian,41.8908673494353,-87.6477823122675,$$$,1174
-167,Forno Rosso Pizzeria Napoletana,6EiFN9NS9BQnqw8FXWiY4A,Chicago,IL,Pizza,41.94767,-87.80672,$$,554
-168,Geja's Cafe,hylBw5ND7XyPldM6BN28vw,Chicago,IL,Fondue,41.9181498673941,-87.6380681991577,$$$,1398
-169,Margie's Candies,3DJ_F-fuSW3ExrMBMN7P0Q,Chicago,IL,Candy Stores,41.9171949999842,-87.6874404291906,$,959
-170,The Dawson,OGGtHsXsCUHaLkyUNZVXNg,Chicago,IL,American (Traditional),41.8913174932487,-87.6471944883606,$$,850
-171,Meli Cafe & Juice Bar,tCkwBTuEFvhuaBoEUWqbuQ,Chicago,IL,Juice Bars & Smoothies,41.87761,-87.647,$$,963
-172,Superdawg Drive-In,FCcgXODBs6O7MGH3VZNyLQ,Chicago,IL,Hot Dogs,41.9967775833509,-87.7870387664546,$,1522
-173,Cocina Boricua,nRnrKX7vMf71BknQdCM-cQ,Chicago,IL,Puerto Rican,41.9250421952759,-87.6884892983747,$$,397
-174,The Pasta Bowl,XgGUnYs2bjbbNvBefFtWxA,Chicago,IL,Italian,41.92638,-87.641448,$$,889
-175,Shedd Aquarium,XAh7Xce30KGmL_CTCdHAhg,Chicago,IL,Aquariums,41.867574,-87.61404,0,1754
-176,Publican Quality Meats,gbnabQiEgwrlcZbhFkOkNw,Chicago,IL,Butcher,41.8866482860074,-87.648498128403,$$,595
-177,25 Degrees,ksY97mbEy23n8GbYxOBgpA,Chicago,IL,Burgers,41.89595,-87.63159,$$,894
-178,Furious Spoon - Wicker Park,uKKnvy50eMJVicTRc_lm4g,Chicago,IL,Ramen,41.9100336,-87.6766114,$$,1199
-179,El Nuevo Mexicano,Ks4ktQzDBiY58SYDUAfhVg,Chicago,IL,Mexican,41.9352732,-87.6470639,$$,742
-180,Buona Terra,jlVvQOf4YE3ZO1gMFSAdww,Chicago,IL,Italian,41.92788,-87.69722,$$,616
-181,Monti's,3HE0HPAOa4kS5y4OhzQfzg,Chicago,IL,Cheesesteaks,41.968266340068,-87.694936727407,$$,613
-182,The Tamale Guy,ql-blAJYbv4dej4vlqdrkw,Chicago,IL,Street Vendors,41.90414,-87.68649,$,293
-183,Aloha Eats,WA8Fuuv9zRfZ8H8YkeYxsg,Chicago,IL,Hawaiian,41.9287526,-87.6425448,$$,921
-184,Chicago Cut Steakhouse,olT3-oFfj5jCuv49M6gZgQ,Chicago,IL,Steakhouses,41.8879719146942,-87.6333480203605,$$$,1540
-185,Buckingham Fountain,WfvODsf3KFDAkIbz0nWE-w,Chicago,IL,Landmarks & Historical Buildings,41.8758096034,-87.6189584077,0,351
-186,Wildfire,CQ75CQSyrsmb-S3UAwCHpw,Chicago,IL,American (Traditional),41.8938172904842,-87.6333183422685,$$$,1052
-187,Las Palmas,-MdaMqDSZDvNKoBIlDGlTQ,Chicago,IL,Mexican,41.910266,-87.673935,$$,672
-188,Serai,T1dv09OKSxmuitPVLXD5Aw,Chicago,IL,Malaysian,41.9206132,-87.6933394,$$,518
-189,Cafe con Leche,fzSR7vIQTQP0cir0Dgi9Vw,Chicago,IL,Mexican,41.9305879,-87.710207,$$,947
-190,Topo Gigio Ristorante,1hZJWzpYgUpOMkmGZAewsg,Chicago,IL,Italian,41.9096594975818,-87.6348415912861,$$,868
-191,Luke's Lobster Chicago City Hall,VzkF5Yw5Gb83tESIUhyIhQ,Chicago,IL,Seafood,41.8840133613437,-87.6329983558197,$$,507
-192,Carnitas Uruapan,0eMo-MeawM-tmbwpzv3rDg,Chicago,IL,Mexican,41.857612801225,-87.669703625051,$,386
-193,Sprinkles Cupcakes,ii7M01X0XTYEz28cDSd6MQ,Chicago,IL,Bakeries,41.90021,-87.62638,$$,1104
-194,Fat Rice,uVYkk8dsnSMSd6xMGGoGTw,Chicago,IL,Chinese,41.9319451,-87.7017382,$$,1017
-195,Native Foods,J-i3frdwkM0prRxH98Zp2Q,Chicago,IL,American (New),41.87887,-87.63117,$$,794
-196,Jake Melnick's Corner Tap,vofANrgotem6XRBBf5sc7A,Chicago,IL,Sports Bars,41.8955265,-87.626528,$$,1202
-197,The Roost Carolina Kitchen,vz1aN17saAgwhRD8kneCGw,Chicago,IL,Southern,41.954224,-87.666774,$$,708
-198,S.K.Y.,zH7lgLLw0FVfA6HrwV4pTw,Chicago,IL,American (New),41.8577851,-87.6578749,$$$,348
-199,Aba,9nUrDQ_REhU6sgcgXFAyfA,Chicago,IL,Mediterranean,41.8869441,-87.6487949,$$$,554
-200,Lickity Split Frozen Custard,fwaQgDduHk3uF-I6e9Btpw,Chicago,IL,Ice Cream & Frozen Yogurt,41.9925749037652,-87.6605764912861,$,498
-201,Chi Cafe,BwoMqO_x_FRT949HOAtCEw,Chicago,IL,Chinese,41.85351,-87.63448,$,1105
-202,Bite Café,ed3NV3_-A8B1_w0_oCFpWQ,Chicago,IL,Breakfast & Brunch,41.90047,-87.68663,$$,883
-203,Imperial Lamian,0LxN36awD48RfrBJGl2BYg,Chicago,IL,Dim Sum,41.8901808541776,-87.6281682718002,$$,1186
-204,BomboBar West Loop,z-G2QyFrbf7Bw1Ikx1TLNA,Chicago,IL,Donuts,41.88466,-87.64885,$$,958
-205,Two Hearted Queen,f5p7scO1Q9UdaGbYe9bjFg,Chicago,IL,Coffee & Tea,41.9433099,-87.65928,$,263
-206,MingHin Cuisine,7FRba2yDi9uWlSBvahRmEw,Chicago,IL,Dim Sum,41.8851133316306,-87.6191340577136,$$,777
-207,Big Jones,ElCbMJRjgu9LDj4MxOKXew,Chicago,IL,Southern,41.97944,-87.66793,$$,1477
-208,Taco Joint,8asUBBy_fFlqLgNQoqQaIw,Chicago,IL,Mexican,41.91791,-87.648371,$$,896
-209,Birrieria Zaragoza,kdIJtpWmVhGDsgGyOyhzKg,Chicago,IL,Mexican,41.80447,-87.72385,$$,457
-210,Coast Sushi Bar,mlhHPnHmjO2_ypcP5Vc9Zw,Chicago,IL,Sushi Bars,41.9189215,-87.6774771,$$,1131
-211,Kai Sushi,KlKX64yX8IyE8q6DqFZ_6g,Chicago,IL,Sushi Bars,41.865935633459,-87.6271085681229,$$,601
-212,RL Restaurant,AHpwEeyDT_brMzF5cYQpag,Chicago,IL,American (New),41.897007,-87.624961,$$$,722
-213,Forastero,P4TMv21-yjdcGCblrDb6_w,Chicago,IL,Korean,41.9108,-87.64045,$,337
-214,Umai,20q-oWtQdB2tfFbAl_I9sQ,Chicago,IL,Japanese,41.8722769939333,-87.6310924282417,$$,858
-215,La Nonna,Enf_3DXmppx19hFGs0UDKw,Chicago,IL,Argentine,41.9429574,-87.7203016,$$,274
-216,Sticky Rice,hRYN65DXOBwIZ5Hzq_UxaA,Chicago,IL,Thai,41.95467,-87.68883,$$,837
-217,Hendrickx Belgian Bread Crafter,ekaGkDcRmKyLQ9mUEXBK_A,Chicago,IL,Bakeries,41.9002304077148,-87.6251678466797,$$,503
-218,Glenn's Diner,50gFzdVglOz88eFJ6v-26A,Chicago,IL,Diners,41.9616270639775,-87.6754598194383,$$,1174
-219,Sepia,mPFMi734NXkvLFotygLrCA,Chicago,IL,American (New),41.883933,-87.6424,$$$,1097
-220,Breakfast House,Rm_EofhjiLzRJpUuVtPxUw,Chicago,IL,Breakfast & Brunch,41.8909301757812,-87.6721038818359,$$,416
-221,Lincoln Park Conservatory,qdWS2gEaFwwhV9TCAXEWGQ,Chicago,IL,Parks,41.9254724,-87.6357779,0,269
-222,Bistro 6050,fLfZI4FtJhOT0U7NzfVr-Q,Chicago,IL,Empanadas,41.953133,-87.778753,$,235
-223,Smoke Daddy,D1K-vLXfA5-hppRzVY7q2w,Chicago,IL,Barbeque,41.90353,-87.6727,$$,1196
-224,Iguana Cafe,d1_U0mQp4UtGvQ-jKymSjA,Chicago,IL,Creperies,41.8917655944824,-87.6474304199219,$$,714
-225,Laschet's Inn,V3_UIvTZGIOMFM93LZF9TA,Chicago,IL,German,41.95381,-87.68198,$$,474
-226,Butterfly Sushi Bar & Thai Cuisine,bCgWDGyD3G2ULKMB6bQa_w,Chicago,IL,Thai,41.89091,-87.6562,$$,1052
-227,Pastoral,ENfiSGbuKEI0UUKPWPJqtQ,Chicago,IL,Cheese Shops,41.8856159,-87.6260252,$$,634
-228,Tre Kronor,EqYsNrxTk6YM-Qk7xWC48g,Chicago,IL,Breakfast & Brunch,41.9759307505565,-87.7109275,$$,728
-229,EL ideas,m8qrUdRl8TCqvW-L6uWVsA,Chicago,IL,American (New),41.86275,-87.687,$$$$,318
-230,Goddess And The Baker,0rgC3hwvUKS3H07T84mbvQ,Chicago,IL,Cafes,41.881259,-87.625846,$$,1003
-231,Michael Jordan's Steak House,JZxTdRGnRFQbEbiz_P50sg,Chicago,IL,Steakhouses,41.8912043,-87.6239424,$$$,984
-232,LYFE Kitchen,RWULs45ZzaD-OJj5A-Kk8g,Chicago,IL,American (New),41.8897715425784,-87.6308315944427,$$,682
-233,Mott St,FzYi3AVHoYZnWXe1BQrQEw,Chicago,IL,Asian Fusion,41.9071254164458,-87.6673834605751,$$,722
-234,Copper Fox Gastropub,cI-QGo3SDDbOxJJXavfjVQ,Chicago,IL,American (New),41.8932151,-87.6233697,$$,653
-235,Osteria Via Stato,J_6biyUoo3wYneF3j4LKWw,Chicago,IL,Italian,41.893095,-87.6282449,$$,825
-236,Jennivee's Bakery,iiAc22zU8RSQtQbp9xRl9g,Chicago,IL,Desserts,41.941845,-87.6539787,$$,304
-237,Kabobi Grill,YqzDH4OmV43NeD1h4yu7Tg,Chicago,IL,Mediterranean,41.9680551997115,-87.7086880803108,$$,577
-238,Ada Street,YbLA3uRpvBzIf4oJ352ZVQ,Chicago,IL,Bars,41.9124416,-87.6620728,$$$,509
-239,Dusek's Board & Beer,ISHl0cSIx-bHvmUblXEdTg,Chicago,IL,Bars,41.857871,-87.65739,$$,910
-240,Black Dog Gelato,5ujBRZMoOinzbPtxbuucJw,Chicago,IL,Ice Cream & Frozen Yogurt,41.897614,-87.676732,$,599
-241,Pollo Express,cTd7rc-cuJ8-xvJX-RPbUw,Chicago,IL,Mexican,41.85764,-87.65954,$,332
-242,Cozy Noodles & Rice,Gl3QRXeJI8JGtGdCfHp8Dg,Chicago,IL,Thai,41.9452487,-87.654386,$$,1065
-243,Cairo Kebab,hp3xMQCqoa2yPxD1wYrwhg,Chicago,IL,Mediterranean,41.92543,-87.66681,$,267
-244,The Crab Pad,sYL9ux7ncnJzAHHppuMQ9w,Chicago,IL,Seafood,41.92744,-87.70424,$$,456
-245,Dimo's Pizza,xlX-nO0SaNwjGueCsgV-0g,Chicago,IL,Pizza,41.94521,-87.65467,$,915
-246,360 Chicago,esdbP3ict5RGXsZndhRrcg,Chicago,IL,Landmarks & Historical Buildings,41.8986806,-87.6239087,0,705
-247,etta,W2QV6SILHer3qB_-CZ1z1A,Chicago,IL,American (New),41.91073,-87.67417,$$,431
-248,Tiztal Cafe,al530TnimkgqmPU6q-2hQw,Chicago,IL,Breakfast & Brunch,41.96621,-87.66657,$$,533
-249,Seoul Taco,RYL719GudcA7-PeLE6iyCw,Chicago,IL,Korean,41.8959233394607,-87.6313957501562,$,640
-250,Eleven City Diner,BPg56t_UUCjZCK6i0o6xkQ,Chicago,IL,Diners,41.86877,-87.62635,$$,1844
-251,Metropolis Coffee Company,Eokzp1wT7V6DiISsDWlMWQ,Chicago,IL,Coffee & Tea,41.994364,-87.657268,$,626
-252,Arbella,LaYrGWnZazWsc3xi1sTYfw,Chicago,IL,Tapas/Small Plates,41.8920162809497,-87.6318293755272,$$,380
-253,Cheesie's Pub and Grub,-W8rtYk_mBsgoQHYVxAh2g,Chicago,IL,Sandwiches,41.9400049,-87.6538139,$,1150
-254,Ora,-kHNCSxf_lHi9822c43J7w,Chicago,IL,Sushi Bars,41.975647,-87.668127,$$,477
-255,Giant,wfkj7DK8YzhdwhhFc2OntA,Chicago,IL,American (New),41.9171,-87.70746,$$$,410
-256,Luella's Southern Kitchen,JCmp_Uf0S2cnGQtDvsbleg,Chicago,IL,Southern,41.965223,-87.686103,$$,683
-257,Swift & Sons,p9TVco6JdcBxt_c_TtPcgw,Chicago,IL,American (Traditional),41.8869073066802,-87.6525044962951,$$$$,598
-258,Twin Anchors Restaurant & Tavern,cuGkFLdPWfFX9hm2bcBHkQ,Chicago,IL,American (Traditional),41.91268,-87.63832,$$,799
-259,3rd Coast Cafe,7mCeefskNUtOkzxt_MLHKA,Chicago,IL,Breakfast & Brunch,41.90565,-87.63047,$$,594
-260,Lou Malnati's Pizzeria,u5rIwydmTiuhaa8DN91-dw,Chicago,IL,Pizza,41.9291500907879,-87.6535692116174,$$,757
-261,Jimmy's Pizza Café,0ZENqrACvQ4tiMvFEkgVPg,Chicago,IL,Pizza,41.9757474517431,-87.6921836227971,$,579
-262,Pierrot Gourmet,ltaJDoWtmmcBN2EHbch3oA,Chicago,IL,Coffee & Tea,41.8958148392202,-87.625353483667,$$,636
-263,Kinzie Chophouse,rnjz2KNgsQ2YaC_kjeuuAQ,Chicago,IL,Steakhouses,41.8893789,-87.634279,$$$,745
-264,Fat Willy's Rib Shack,7LgM-Zotz-rW7RiyAI9XVg,Chicago,IL,Barbeque,41.93047,-87.68871,$$,1082
-265,Pasta Palazzo,N7F7C6ECkhbsHVStVjqLUw,Chicago,IL,Italian,41.9179153442383,-87.6488494873047,$$,575
-266,High Five Ramen,FMoNA-t4uxss2JA37ZNEJg,Chicago,IL,Ramen,41.883651,-87.648968,$$,788
-267,Happy Camper - Old Town,AqJM4ZZqKnYU5z4E8DruhA,Chicago,IL,Pizza,41.9042336,-87.6343073,$$,540
-268,Wilde Bar & Restaurant,h-CNRJ-bqSZvz75J4A9cFg,Chicago,IL,Pubs,41.938785532425,-87.6445316181281,$$,1104
-269,Falafel & Grill,t5ITATMeEW0bgFniS053Vg,Chicago,IL,Middle Eastern,41.905891418457,-87.670166015625,$,453
-270,River Roast,TC8tG6To87DUzC365njvXw,Chicago,IL,American (Traditional),41.887957929885,-87.6321899243637,$$,848
-271,Joy Yee Noodle,HoNTrjxDYquS_o_tYupHrg,Chicago,IL,Noodles,41.85412,-87.63391,$$,1580
-272,Forbidden Root,iOMvXQYFl6_mtw0wX6ZUXw,Chicago,IL,Breweries,41.8962684049794,-87.6713814117853,$$,433
-273,Mon Ami Gabi,H3KB1EigcCQU9sbQCi-6kg,Chicago,IL,French,41.924093,-87.636974,$$$,716
-274,Burger Bar Chicago - Lincoln Park,OEHnRYfv0E0JaJhMh-TpMQ,Chicago,IL,Burgers,41.910173,-87.648924,$$,1033
-275,Prosecco,dOAj9yI4Y5JsBxQX5D6NBQ,Chicago,IL,Italian,41.8952140808105,-87.6345138549805,$$$,644
-276,India House Restaurant,dLS8GPg-K1O-zJ3VJAtiyg,Chicago,IL,Indian,41.8914851,-87.6301826,$$,1341
-277,Bistro Campagne,1cgWXsikJqAQezRmruj2rg,Chicago,IL,French,41.96356,-87.68563,$$$,670
-278,NoMI Kitchen,LoJYMDMAFEIavz-VIUqe0Q,Chicago,IL,American (New),41.8969705807961,-87.6251828670502,$$$$,720
-279,Jim's Original Hot Dog,6cYzBl8YfgNUv2oMaijrGQ,Chicago,IL,Hot Dogs,41.86577,-87.64537,$,557
-280,Papa's Cache Sabroso,0hk0dnOxW3axag0xwlwGKQ,Chicago,IL,Latin American,41.90268,-87.6902,$$,504
-281,Lost Lake,ccbKqyfLj9PUgPJBX1tn_A,Chicago,IL,Tiki Bars,41.9321549,-87.7071975,$$,524
-282,Delilah's,awJjRw8x6ZP_26SvIejbxw,Chicago,IL,Bars,41.93237,-87.65792,$,491
-283,Theory,N0CzLRbl79f4f6WqjNKM0g,Chicago,IL,Sports Bars,41.8899748,-87.6286362,$$,774
-284,Southport Grocery & Cafe,LtdmG2krPWyN3ruqqPMt_g,Chicago,IL,Grocery,41.946743,-87.664357,$$,882
-285,Next,PpQ7LNHTEGNoY3g5GPBDyQ,Chicago,IL,American (New),41.886641182708,-87.6519030656,$$$$,675
-286,Chilango Mexican Street Food,eG64VXdW3RzQhsmTbr-rCw,Chicago,IL,Mexican,41.869141,-87.663129,$,477
-287,D'amato's Bakery,sNhKEb8iKvN4MDxpOiHFWg,Chicago,IL,Bakeries,41.891188857475,-87.6557081343533,$,367
-288,90 Miles Cuban Café,IuFEm-19YYh49T5ZlvwkDA,Chicago,IL,Cuban,41.9380569458008,-87.6858062744141,$,755
-289,Bongiorno's Italian Deli & Pizzeria,hxq4TNNazA-sjqFvVgx_Pw,Chicago,IL,Pizza,41.889903,-87.625788,$$,590
-290,DryHop Brewers,TAueIovlJFslHSVEfnAaaA,Chicago,IL,Breweries,41.9392443174878,-87.6442063962951,$$,747
-291,Ethiopian Diamond,SQbqAi053aFOfQhtPAC3mw,Chicago,IL,Ethiopian,41.99301,-87.66068,$$,731
-292,Goosefoot,rgaoVm01HFYC292weFuTXA,Chicago,IL,American (New),41.9686849,-87.6960164,$$$$,287
-293,Sweet Maple Cafe,1hRGm-jTHB-KKBwS8GNxrw,Chicago,IL,American (Traditional),41.869123,-87.660678,$$,783
-294,Tandoor Char House,vx8FYc1aKtf8TyhH8-qipA,Chicago,IL,Indian,41.9306399,-87.64928,$$,787
-295,Takito Kitchen,JGOl4S42CxLJj-s9uyFU2w,Chicago,IL,Mexican,41.90289,-87.67784,$$,535
-296,Ras Dashen Ethiopian Restaurant,OVW54jiavdQXO4SLbGx90A,Chicago,IL,Ethiopian,41.9885039,-87.6604057,$$,672
-297,Fish Bar,LfQ1uwVQaUIgRENAZUz_1w,Chicago,IL,Seafood,41.9361243683693,-87.6541800306757,$$,930
-298,Sushi + Rotary Sushi Bar,48BPQ2YVWr8PkNJSekh5pA,Chicago,IL,Conveyor Belt Sushi,41.9403536,-87.6442751,$$,408
-299,Giordano's - Jackson,LNtuCsJLk3E9y7I5sd5SjQ,Chicago,IL,Pizza,41.8779751,-87.6344499,$$,1144
-300,Cafe Vienna,J8aqt4ZcpNuOusJMndUPLg,Chicago,IL,Bakeries,41.928489,-87.642033,$$,638
-301,The Franklin Room,8oVuCgY36DBA78kz6YcvMg,Chicago,IL,American (Traditional),41.8944245,-87.6354674,$$,487
-302,The Hampton Social - River North,bjQFZfYCjR1UmnUYZUL9Zg,Chicago,IL,Seafood,41.8898337310695,-87.6378512282417,$$,1042
-303,Beacon Tavern,2Nf6OAPkD8V1eSHBrqezFw,Chicago,IL,American (New),41.889641,-87.62556,$$,532
-304,La Fournette,D-fAPWkLhe41j4rHGRZgIQ,Chicago,IL,Bakeries,41.9104983,-87.6345168,$,452
-305,Janik's Cafe,FsoEVqFK-W7gRu0hDH84sg,Chicago,IL,Breakfast & Brunch,41.9030612,-87.677777,$$,529
-306,Bonci,9suvIy-RGPosPcmG3IOqcQ,Chicago,IL,Pizza,41.8848241,-87.6509421,$$,383
-307,Remington's,kJjbElns3_GTNIklRVbHPQ,Chicago,IL,American (Traditional),41.88266,-87.62499,$$,548
-308,The Map Room,2tErhaqgdXstrilg3I0Jgw,Chicago,IL,Bars,41.9176,-87.67979,$$,762
-309,Crosby's Kitchen,IgiFxgUFR9BDnQ9PeGHaEA,Chicago,IL,American (Traditional),41.94508,-87.66357,$$,758
-310,Sushi Joon,11855kAfayv4GH6DgGwvkQ,Chicago,IL,Sushi Bars,41.9815602,-87.6925329,$$,222
-311,Bittersweet Pastry Shop,3otFjkG6Ev2OWyX4giCjfA,Chicago,IL,Bakeries,41.94013,-87.65729,$$,685
-312,RJ Grunts,ptRZlXxngjFj5gghwPNNHA,Chicago,IL,American (Traditional),41.920024442085,-87.636636114155,$$,993
-313,Alliance Bakery & Cafe,xjZ9eqYrzMrl2v6_1Kv6hA,Chicago,IL,Bakeries,41.90355,-87.67149,$,865
-314,Pueblo Nuevo,_Yx4OcyoYXTiI3xOzNgVyw,Chicago,IL,Mexican,41.960272,-87.76744,$,414
-315,Catch 35,TeJGJA4_iPNMDuQUxmphHg,Chicago,IL,Seafood,41.886448,-87.629102,$$$,829
-316,Cafe Selmarie,4i9LUrKeoMmUB_qZicuJnQ,Chicago,IL,Bakeries,41.9674474,-87.6875832,$$,720
-317,Loving Heart,om-vqH8GMpteU9xlSymPaQ,Chicago,IL,Vegan,41.9619233,-87.6515285,$,185
-318,Cumin,WM2JQP4yzQHPbIh-wNdK6g,Chicago,IL,Indian,41.9074789,-87.6732148,$$,894
-319,Aloha Wagon,db7p4tMxC_pptYho8RUhzQ,Chicago,IL,Filipino,41.865308,-87.685784,$,147
-320,Naf Naf Grill,0BvxoQf0-fAfhUudd-bXFw,Chicago,IL,Middle Eastern,41.887581,-87.624981,$,509
-321,Barrio,Xs7VQkl9cFTWQqmq69UvuQ,Chicago,IL,Mexican,41.8890751,-87.6302265,$$,591
-322,Cantina Laredo,tCNzwYegioNBeUIj3Fe3IA,Chicago,IL,Mexican,41.89110716029,-87.6282251997283,$$,1402
-323,Native Foods,DDtElQ0VMOox12kb7V7cow,Chicago,IL,Vegan,41.9397892506553,-87.655069123534,$$,497
-324,Calo Ristorante,oLM9piDKbj2PDgy-m3XEcQ,Chicago,IL,Pizza,41.97934,-87.66793,$$,977
-325,bopNGrill,UmumgsnMBHjvVEzZMQxtRg,Chicago,IL,Burgers,42.002840213503,-87.661120406701,$$,819
-326,BRGRBELLY,zEBMoH7ibF3YZrlowkv88A,Chicago,IL,Burgers,41.9530335,-87.7709816,$$,525
-327,Pi-Hi Cafe,ecFp44Y6EGdgtmZ-jPqaYA,Chicago,IL,Mediterranean,41.9460656925374,-87.6877528213354,$,292
-328,Community Tavern,1uFRbr6B-BiNGtT90sdk0w,Chicago,IL,American (New),41.9540099,-87.74883,$$,395
-329,Nana,DBtXy8wcPsVr80oFfz-CbA,Chicago,IL,American (New),41.834550484255,-87.6460413707298,$$,1089
-330,Scone City,rHCQkxQ5WZ5qbDg0XeKibA,Chicago,IL,Bakeries,41.9034349,-87.66879,$,219
-331,The Angry Crab,s3Hwq1VXyQ_3dpqzkluRvQ,Chicago,IL,Seafood,41.9845332,-87.6972261,$$,864
-332,BITES Asian Kitchen + Bar,hOyngb1XVmt85qpNHhRWFQ,Chicago,IL,Asian Fusion,41.94221,-87.65209,$$,468
-333,HERO Coffee Bar,IApmj3n3RAikUKqhKYiqmA,Chicago,IL,Coffee & Tea,41.8758857,-87.62904,$,391
-334,Margie's Candies,xz_fN-RBEr7vluofckk9tA,Chicago,IL,Desserts,41.96136359509,-87.674943597189,$,554
-335,Toni Patisserie & Cafe,Vzs9WS3dV3liKH7u6vJ0Mg,Chicago,IL,Cafes,41.8831251,-87.6257316,$$,717
-336,Stella's Diner,KwFp1p0t0L1CLCm4HSizsQ,Chicago,IL,Diners,41.9377628713846,-87.6443700492382,$$,757
-337,Nico Osteria,jBpqtM1uE9eLxi-K2rhKjA,Chicago,IL,Italian,41.9013688470215,-87.6276382123032,$$$,747
-338,The Bagelers Coffeehouse,IM9oq9HGTt8Q2QLQ2nevYA,Chicago,IL,Coffee & Tea,41.926975,-87.650414,$,322
-339,Benny’s Chop House,xT9OM3wztrQwObecCHpMBA,Chicago,IL,Steakhouses,41.89065,-87.62698,$$$$,608
-340,Boeufhaus,UKs05XWhbP0riI8O0Kv36w,Chicago,IL,Brasseries,41.899831,-87.687487,$$$,353
-341,Chicago Theatre,qJ_iOBrjxU-unMbqRSBv9w,Chicago,IL,Performing Arts,41.8854830450828,-87.6275988288569,$$,427
-342,Middle East Bakery & Grocery,ARfLLgpCRmO3a7758UXiiw,Chicago,IL,Bakeries,41.9763326,-87.6686814,$,341
-343,Umami Burger - Wicker Park,5FK-H2Zxcje-OH1FcsdJ5A,Chicago,IL,Burgers,41.90859,-87.6752,$$,866
-344,La Sirena Clandestina,1uvWscUUqiO2_Q_aBpeZyA,Chicago,IL,Latin American,41.887103,-87.651697,$$,509
-345,Native Foods,I5sSX3kNw8SN5kjB1Yc4UQ,Chicago,IL,American (New),41.90866,-87.67531,$$,601
-346,The Allis,Nz7OSIHnWcsnno-zzXKO1g,Chicago,IL,Lounges,41.88374,-87.64828,$$,735
-347,Max's Take Out,3GXFsq9rJZUWXOJCQf-dIQ,Chicago,IL,American (Traditional),41.87972,-87.62688,$,494
-348,Schwa,bNXpwTSavHBV9zBk2lUlGA,Chicago,IL,American (New),41.90892,-87.66793,$$$$,526
-349,Weber Grill Restaurant,LU-NBsbLAwvzKlopsVeB7w,Chicago,IL,Barbeque,41.8918845,-87.6278923,$$,1482
-350,Lawry's The Prime Rib,mMnW530e_S5_7oV2HJWDpw,Chicago,IL,Steakhouses,41.893461,-87.625029,$$$,789
-351,Rollapalooza,lncS2kRoXSJ7unM-TaBZCw,Chicago,IL,Sushi Bars,41.94314,-87.64972,$$,437
-352,Las Tablas Colombian Steakhouse,2WoMT3wSpp9vxZeTv6u-cw,Chicago,IL,Steakhouses,41.935258,-87.662681,$$,929
-353,The Marq,IRa05qXL2uU_WotrRgWNiQ,Chicago,IL,American (New),41.8796191,-87.6299253,$$,581
-354,Intelligentsia Coffee,CZkBcy3-lPT2nGJqhFhLNA,Chicago,IL,Coffee & Tea,41.9382576,-87.6440467,$$,619
-355,Shokran Moroccan Restaurant,eoOZJ9-R0eY30ouPEnqP2w,Chicago,IL,Moroccan,41.953504,-87.728805,$$,435
-356,Kingston Mines,qrN8yUCVY5oYOxna_o_iXg,Chicago,IL,Jazz & Blues,41.92869,-87.64922,$$,560
-357,Ann Sather Restaurant & Catering,PsPpiyliUWvCCwrCjOza0g,Chicago,IL,Scandinavian,41.9397301,-87.6520027,$$,806
-358,Gus's World Famous Fried Chicken,TQp4_qJFrn_aO6Y1IOZgCg,Chicago,IL,Chicken Shop,41.8866488028888,-87.6494031537698,$$,623
-359,Bub City,2lfTEF7zALaPLx4qQwVXFw,Chicago,IL,Barbeque,41.8903402,-87.6308922,$$,1047
-360,Folklore Argentine Grill,ZbXgwfVDjb2tz08FGWmSAA,Chicago,IL,Argentine,41.9034461975098,-87.6799240112305,$$,673
-361,Duke Of Perth,EnsfSFa422IkWwFvR1hJMQ,Chicago,IL,Pubs,41.93525,-87.64648,$$,570
-362,Frasca Pizzeria and Wine Bar,tntGxmQJyv8ZomQJ5Z14BQ,Chicago,IL,Wine Bars,41.9430502,-87.6713149,$$,686
-363,La Gondola,_Y32xG_NYG0R1IRn9EccAg,Chicago,IL,Pizza,41.9345793,-87.6686589,$$,728
-364,The Empty Bottle,pYCNRWXsfHsHEa0-cVa3GQ,Chicago,IL,Dive Bars,41.90047,-87.68663,$,353
-365,Nando's Peri-Peri,wl-48uPlP-7RTC1p7sJEyw,Chicago,IL,South African,41.884096,-87.651797,$$,557
-366,Bake,9FnhEvnAPW-ribOqDtAVdw,Chicago,IL,Bakeries,41.91063,-87.68417,$,300
-367,Sunset Pho Caffe,gs-PZjw3VONWJQFCSTDTeg,Chicago,IL,Lounges,41.9342291,-87.6462028,$$,243
-368,Masa Azul,zipWyPrxNX8m5XFwm3b1lg,Chicago,IL,Mexican,41.9318778,-87.7002477,$$,338
-369,Sunny Side Up & Coffee Shop,vxA930_6OGv8WpyHoQjioQ,Chicago,IL,Breakfast & Brunch,41.8957916402964,-87.6263844966888,$$,842
-370,Opart Thai House,66-K1gf6ToEqd_jo5iUvPA,Chicago,IL,Thai,41.8563894,-87.6272949,$$,910
-371,Toast,7TM54ucsPHmrSEKjF81Beg,Chicago,IL,Breakfast & Brunch,41.91909,-87.67794,$$,598
-372,B.L.U.E.S.,HWDZkUSNHca_Uxuhk25hlQ,Chicago,IL,Jazz & Blues,41.92788,-87.64848,$$,267
-373,Pizzeria Uno,o58Cq5udbf18ZLb8MQpgUQ,Chicago,IL,Pizza,41.89227,-87.62692,$$,1366
-374,Rootstock Wine & Beer Bar,2JL3x0PBm7CCF3zMuYfD7A,Chicago,IL,Wine Bars,41.899035,-87.696951,$$,433
-375,Gene's Sausage Shop & Delicatessen,-8sRHGkXI2GyXxBQUR6ySw,Chicago,IL,Meat Shops,41.96782,-87.68833,$$,474
-376,Palace Grill,SS35Cso7FMrHnwDYYrfL7Q,Chicago,IL,Diners,41.88178,-87.66248,$$,346
-377,Ramen Takeya,o5y9To9kqcgzUGRt3AzrBg,Chicago,IL,Ramen,41.8865399,-87.64833,$$,604
-378,Ba Le Sandwich,DYdO9Zp3rFZvzmYIHrSjgg,Chicago,IL,Bakeries,41.9732,-87.66024,$,793
-379,STK Chicago,WLcAdMilB7fDFIZLa2vI_w,Chicago,IL,Steakhouses,41.88902,-87.62864,$$$,817
-380,Nookies,Ot1sgtVfvjtBYSaQS82Png,Chicago,IL,Breakfast & Brunch,41.91427,-87.63508,$$,694
-381,Rosebud on Rush,Q3SMNxfKtVhEwt4d7S_8vw,Chicago,IL,Italian,41.895633,-87.62571,$$,843
-382,Roister,xF8ZBzcMGpBd6U5GAbb-hQ,Chicago,IL,American (New),41.886524,-87.6518661,$$$$,648
-383,Trattoria No. 10,eTjl8rHLGWWhc65cFjcDLA,Chicago,IL,Italian,41.8824272155762,-87.6296997070312,$$$,592
-384,Topolobampo,UsuuTuxeqeiUXSgOMnJJKg,Chicago,IL,Mexican,41.890585,-87.630905,$$$$,992
-385,Quesadilla La Reyna del Sur,pF4jHr4uyUzTYOdAp0G0mg,Chicago,IL,Mexican,41.922732,-87.687343,$,462
-386,Cornerstone Cafe,YqrmZfCDIQ2fPQdLXkWiEA,Chicago,IL,Coffee & Tea,41.9317200792018,-87.6877212524414,$,476
-387,Jackalope Coffee & Tea House,Y-wp58fjbztKeTbIB0CwNg,Chicago,IL,Coffee & Tea,41.8360951,-87.6453228,$,293
-388,Fork,Ykiz1UT9SO5u-y8nqDTy4A,Chicago,IL,American (New),41.96511,-87.68662,$$,976
-389,The Bongo Room,J1e-SGNCiU02aFQ4T-u2DQ,Chicago,IL,Breakfast & Brunch,41.973183,-87.668348,$$,610
-390,SUSHI-SAN,Vw-Qn1Hg06h4yBUdDQCXyA,Chicago,IL,Sushi Bars,41.8914851,-87.6302732,$$,404
-391,Cake Sweet Food Chicago,ByEqJdavtdOZbrKh9hDgmw,Chicago,IL,Bakeries,41.88588,-87.66838,$$$,159
-392,La Crêperie,OJctw29lDizc_Ei4oueUTA,Chicago,IL,French,41.934059,-87.645708,$$,670
-393,Cho Sun Ok Restaurant,wrAz7fVqv-l9db_nyaFJFw,Chicago,IL,Korean,41.95797,-87.68178,$$,1078
-394,Taqueria El Asadero,ZcGuLKfgZAWuhMBbfqXBmw,Chicago,IL,Mexican,41.9612451,-87.6842599,$,561
-395,Puppet Bike,gIWHSle9VffD3mx5Pg-eiQ,Chicago,IL,Local Flavor,41.8825950622559,-87.6369323730469,0,136
-396,Ghareeb Nawaz,sYzkzjM2upp2vW32vPaJ9w,Chicago,IL,Indian,41.997979,-87.681612,$,797
-397,Michael's Pizzeria & Tavern,z8G5AfXYbJD2jQpSEF633g,Chicago,IL,Pubs,41.9568480328734,-87.6518151894969,$$,535
-398,"Kibbitznest Books, Brews & Blarney",xAiunROKqYTbRaEw1nvnLg,Chicago,IL,Bookstores,41.9219975256493,-87.6650943962952,$,130
-399,El Cubanito,8dqQ4RV4AMC6sHzwsjCz9Q,Chicago,IL,Cuban,41.9278468763324,-87.7265240997076,$,310
-400,SP Kebab,JOiHzz9wPgLhkxjkrvSMgQ,Chicago,IL,Greek,42.005643,-87.660959,$,382
-401,Revival Food Hall,4wmRu3bpaSpW999SHGK34g,Chicago,IL,Food Court,41.87979,-87.63051,$$,427
-402,Pars Cove Restaurant,v9M8cIvfbOfiQ0asmIxEhQ,Chicago,IL,Middle Eastern,41.932758,-87.640861,$$,452
-403,Leña Brava,4AW-fmXFI4jaYManl70vEg,Chicago,IL,Seafood,41.88465,-87.65007,$$$,455
-404,The Coffee & Tea Exchange,4pL3Ix8PyEwvRGC3Q9zmWA,Chicago,IL,Coffee & Tea,41.9423841085423,-87.6442681800079,$,253
-405,Parson's Chicken & Fish,_gcDPMZjM4rVO5ZVfM3xlA,Chicago,IL,American (New),41.91758764277,-87.7013152429917,$$,981
-406,Feed,6nThdNoEuRfHwjNR875fVw,Chicago,IL,Southern,41.895473,-87.696973,$,611
-407,Siam Noodle and Rice,m_w5UfOmgAqN4Kgbl_-iFQ,Chicago,IL,Thai,41.958162,-87.65311,$,428
-408,The River Valley Farmer's Table,UwZE-wYxFYnbRcsrWcIVxg,Chicago,IL,Breakfast & Brunch,41.965285053298,-87.6757046380287,$$,336
-409,CRĪO Bar and Restaurant,gYj6ODoU3tf7TWNv-Kg2Xg,Chicago,IL,Latin American,41.927002,-87.6722383,$$,354
-410,Taqueria Moran,y0B-AArugfrUai3eEG8_3A,Chicago,IL,Mexican,41.9225416867732,-87.6975309006552,$,465
-411,Kizuki Ramen & Izakaya,F95agIcsD5g1bykGVTVWZQ,Chicago,IL,Ramen,41.908769,-87.6751833,$$,611
-412,Estrella Negra,9j-IauL8jaLM8qIc-8cn7Q,Chicago,IL,Mexican,41.925175,-87.68706,$$,535
-413,Great Sea Restaurant,4-uKJdGyT0iZmu3rbSDwBw,Chicago,IL,Chinese,41.9683111314671,-87.7106371012279,$$,687
-414,Julius Meinl,OKCorWqyLJl4NNg_dz7LOQ,Chicago,IL,Coffee & Tea,41.94733,-87.66373,$$,692
-415,Taste of Peru,iXuCIziS010a65NGGIiEhw,Chicago,IL,Peruvian,42.0013353048183,-87.6713513324772,$$,535
-416,Chicago Bagel Authority,vOEqVTBwUek7-jKrN1Th8g,Chicago,IL,Bagels,41.9178624,-87.6529861,$,663
-417,BIG & little's Restaurant,O073WVgzIh5OXRVL9TrRFQ,Chicago,IL,Seafood,41.90535,-87.6700199,$,393
-418,JJ Thai Street Food,p2cCK4Vu-3L-skOMd93VVg,Chicago,IL,Thai,41.8958251,-87.6703764,$$,327
-419,Go 4 Food,aZqKMhhy_dbQlGTQ91YSbw,Chicago,IL,Chinese,41.851085,-87.6326203,$$,678
-420,Cedar Palace,bPiaa7fgHkC9l7B2HyS0aw,Chicago,IL,Lebanese,41.918054,-87.645757,$$,157
-421,Flo & Santos,3BKnY2wzy4QM20Fr1nqDsg,Chicago,IL,Pizza,41.8653913003346,-87.6260132093555,$$,862
-422,Wishbone,b5wtToIhvTgx7O-B7jSTfA,Chicago,IL,Breakfast & Brunch,41.885101,-87.642447,$$,817
-423,Lou Mitchell's,n99qEoKGGdFG6p_rHzK_Cw,Chicago,IL,Breakfast & Brunch,41.87779,-87.64211,$$,903
-424,Bad Hunter,fS0FUHFtsKFNjBYHcPgZPg,Chicago,IL,American (New),41.88463,-87.64769,$$,599
-425,Quality Crab & Oyster Bah,8P3vFRfVyvn1LGAlkJOWaQ,Chicago,IL,Seafood,41.91777,-87.64887,$$,424
-426,Cherry Circle Room,vlNvk_U6l2MFBaOnPfK6uw,Chicago,IL,American (New),41.881664276123,-87.6249694824219,$$,361
-427,Mortar & Pestle,FNXQQX_Tz9fGtLI3t-1sFQ,Chicago,IL,American (New),41.93806,-87.64464,$$,466
-428,Miller's Pub,SZynkhN-6s6JJeH5KNVI3g,Chicago,IL,American (Traditional),41.8802765,-87.6262965,$$,1145
-429,Joy's Noodles & Rice,xNbjv2XaKt0ZATscozZsAg,Chicago,IL,Thai,41.941753,-87.644134,$$,903
-430,Timothy O'Toole's Pub - Chicago,MJ9uU_vI6dyfHyMAgLMUOg,Chicago,IL,American (Traditional),41.8931909,-87.6204274,$$,1011
-431,The Whistler,0pz5xXB-4f0WlLD33Y6jKw,Chicago,IL,Music Venues,41.92544,-87.70095,$$,585
-432,Chez Joel Bistro,AZ6b6JoLys6RTD9yOPJlBw,Chicago,IL,French,41.86921,-87.65507,$$$,363
-433,Little Vietnam,-LJayGlySYnQ8z2VvZyFNw,Chicago,IL,Vietnamese,41.9837803,-87.6593784,$,322
-434,Dak,taKKA87TcYh2ewg-_N-qXg,Chicago,IL,Korean,41.9946798,-87.6586452,$$,474
-435,Semiramis,oEgweNIV8Xruk_TVSJzckQ,Chicago,IL,Lebanese,41.9658426,-87.7082133,$$,542
-436,CH Distillery,TphN-KFZErtq2w9CrrCS-Q,Chicago,IL,Cocktail Bars,41.8846370998956,-87.6422654490474,$$,331
-437,Kameya,oSyXCPjUhCgoTXA8VdbOTA,Chicago,IL,Sushi Bars,41.9219281,-87.64897,$$,286
-438,National Museum of Mexican Art,mL67OJF-5RYheEmVtshQeA,Chicago,IL,Museums,41.8560049,-87.6732899,0,170
-439,Sultan's Market,xy2FBJGECy-pxf0U9b2-eQ,Chicago,IL,Middle Eastern,41.9284272,-87.6420285,$,537
-440,La Colombe Coffee,4hhsyYChjYkXWxEfhyvcfw,Chicago,IL,Coffee & Tea,41.884110942717,-87.651928959323,$$,443
-441,Band of Bohemia,Q9uxInveq-RFvpF1jkO8wQ,Chicago,IL,Breweries,41.9676094055176,-87.6751098632812,$$$,523
-442,Big Shoulders Coffee,elxJJFKetDnm6OrADJhPuA,Chicago,IL,Coffee Roasteries,41.8961251,-87.6550638,$$,268
-443,Forno Rosso Pizzeria Napoletana,2cDt9At556hf146QH_XkhQ,Chicago,IL,Pizza,41.8845699,-87.65406,$$,389
-444,Chiya Chai Cafe,2cETD5PTiMqD7LihZN0TRg,Chicago,IL,Coffee & Tea,41.9314223820557,-87.7114093648563,$$,354
-445,Sabroso! Mexican Grill,o98kicIhRgBjoMqQr2SzTQ,Chicago,IL,Mexican,41.89319,-87.66753,$$,209
-446,Blue Line Lounge & Grill,bkTJD2pDMw7iAE-hQtpmPg,Chicago,IL,Lounges,41.9095818,-87.6777204,$$,732
-447,MCCB Chicago 时尚食谱,0PPM0wxA2r8XVM8vbMm9Pw,Chicago,IL,Chinese,41.8538027693794,-87.6336866427383,$$,318
-448,ARAMI,ZuoKrKyW6zB6wlm06k8inw,Chicago,IL,Sushi Bars,41.8960345011502,-87.6733909357176,$$$,636
-449,Chengdu Impression,3NV3TTsKGqW1WEbEQv_yBA,Chicago,IL,Szechuan,41.9286079,-87.648514,$$,582
-450,The Delta,umw3lIhc_h9DUGjN0DklxQ,Chicago,IL,Southern,41.91032,-87.67186,$$,279
-451,Shake Shack,rL3Z28FBnl1tFXoIGPlgtw,Chicago,IL,Burgers,41.8926299,-87.6260462,$$,1151
-452,Cafe Jumping Bean,_P_lfN9VfzlmDjDKo2gXZQ,Chicago,IL,Cafes,41.85762,-87.66278,$,347
-453,Mayan Palace Mexican Cuisine,xXSMc3pDWTRQHLgjBTtTUg,Chicago,IL,Mexican,41.93221,-87.64861,$$,555
-454,Original Pancake House,FM1y-KHfhdSp_d74ryNG3Q,Chicago,IL,Breakfast & Brunch,41.90178,-87.62744,$$,543
-455,Pick Me Up Cafe,9Um0VdIot6ugCd1yoBN-9g,Chicago,IL,American (New),41.9438,-87.65403,$$,916
-456,Tortoise Supper Club,E974TODU6F-HCzUS02nXiQ,Chicago,IL,Supper Clubs,41.8887554967998,-87.6282440151018,$$$,484
-457,Harry Caray's Italian Steakhouse - River North,kEaW60jpNInK1MzFJMIC7A,Chicago,IL,Italian,41.8890226258691,-87.6292555506971,$$$,752
-458,Komorebi Sushi,-gt8O2X5JO9Bx64GPxgkBA,Chicago,IL,Sushi Bars,41.90558,-87.67037,$$,177
-459,Canton Regio,fFX6L_QDexlgoYoCigJyPw,Chicago,IL,Mexican,41.858017,-87.6642617,$$,513
-460,Aje Cafe,u4-mGyQ-UOHvqBwMa6Xueg,Chicago,IL,Coffee & Tea,41.9360893144147,-87.6477282837896,$,300
-461,A Tavola,kdobEvkH_YHleJvLLxzb6A,Chicago,IL,Italian,41.8960999,-87.68141,$$$,358
-462,George's Ice Cream and Sweets,MvW4VNi35Pg_bCxMBr5IRQ,Chicago,IL,Ice Cream & Frozen Yogurt,41.97828,-87.66875,$,504
-463,Inspiration Kitchens,j3chLwR9p9Rb-j2KNOpS5Q,Chicago,IL,American (New),41.88502,-87.71402,$$,230
-464,Fado Irish Pub,lYV8uxLr-1l1YoUpc336cg,Chicago,IL,Irish,41.8918,-87.63145,$$,639
-465,Jubilee Juice & Grill,YXwVWVhmbBeVnnHJIV3mgg,Chicago,IL,Juice Bars & Smoothies,41.8840615,-87.6475148,$$,464
-466,Fahlstrom's Fresh Fish Market,zN8zvLiGGiTGNDqDaRWp_Q,Chicago,IL,Seafood Markets,41.94009,-87.66114,$$,485
-467,Tesfa Ethiopian Cuisine,ggi4ASeyeY5MEd4yjRgmZA,Chicago,IL,Ethiopian,41.96532,-87.6557799,$$,173
-468,LuxBar,PzPyHLmRSH2ofemXEShkbw,Chicago,IL,American (Traditional),41.90177,-87.62763,$$,796
-469,Havana,6XGYBXKAc_gPUMXCrmb8qA,Chicago,IL,Cuban,41.88967,-87.6314,$$,770
-470,Indie Cafe,qkfBgSCbekH3DHTanVL1_w,Chicago,IL,Sushi Bars,41.9904999627679,-87.6600041637543,$$,712
-471,Dos Urban Cantina,-fYvsZKybtBorDlwxs9T1A,Chicago,IL,Mexican,41.91725,-87.69841,$$,347
-472,Happy Lamb Hot Pot,9WqiX6CdZxg1ju8EjReVkQ,Chicago,IL,Mongolian,41.8498034592167,-87.6320048336464,$$,424
-473,Eggy's Diner,MrWETKbSyG-FBq6ttK8SiQ,Chicago,IL,Breakfast & Brunch,41.8851851,-87.6185829,$$,656
-474,Edgewater Tacos,PyyOtwxzGqlFN0fcT_3GCQ,Chicago,IL,Mexican,41.9844463569139,-87.660366743803,$$,204
-475,MAD Social,DCjO2J5tZiCi96u_-hdtDg,Chicago,IL,American (New),41.88187,-87.65598,$$,442
-476,Toast,oISoxzK7xILTYCRKgMYSJg,Chicago,IL,Breakfast & Brunch,41.921992,-87.648104,$$,771
-477,Chocolate Shoppe Ice Cream,MyQjwMi_82lYe0I8AhSzYQ,Chicago,IL,Ice Cream & Frozen Yogurt,41.9971351,-87.7620598,$$,323
-478,The VIG Chicago,xFBQ1md6PDm7YEpJARoxAA,Chicago,IL,American (Traditional),41.9099251,-87.6345035,$$,487
-479,Formento's,ytFpgrsKQ-RoWpBIB05OJw,Chicago,IL,Italian,41.88404,-87.65081,$$$,503
-480,Fleming's Prime Steakhouse & Wine Bar - Chicago,Wzq19nbAoYsEsH6oamyxNA,Chicago,IL,Steakhouses,41.89227,-87.62703,$$$,538
-481,Strings Ramen Shop,O0FvTDK9c93qJ6Lfc53dLQ,Chicago,IL,Ramen,41.853414,-87.633175,$$,917
-482,Cozy Corner Restaurant & Pancake House,ahp1F4QC_8nqrbw5jAvGPA,Chicago,IL,Diners,41.92244,-87.69707,$$,590
-483,Cafe El Tapatio,F3fJg60npf7YQfY-n73P8Q,Chicago,IL,Mexican,41.94357,-87.66913,$$,758
-484,Ella Elli,AqYFeg1GBwHe4ERL3q_LYg,Chicago,IL,Wine Bars,41.9451151,-87.6630233,$$,263
-485,The Aberdeen Tap,B5CpZsEZJqRsKVYU7nWDDg,Chicago,IL,Bars,41.890171,-87.654885,$$,332
-486,Tempesta Market,f_AF0jimm_eq7eZnxArV7w,Chicago,IL,International Grocery,41.89133,-87.66176,$$,154
-487,Half Shell,LQkrQF7DMfSIVywxysvjcQ,Chicago,IL,Seafood,41.93302,-87.64657,$$,708
-488,Dinkel's Bakery,bsbkGaTbZPhm4dQ2RfLRbw,Chicago,IL,Bakeries,41.9424245735863,-87.6704134610592,$,672
-489,Ruth's Chris Steak House,n-mj6IJkWyCu4BuD2dvm0A,Chicago,IL,Steakhouses,41.8901981146158,-87.6294261217117,$$$,742
-490,Heritage Bicycles General Store,xMtXy7YAslpvjqaYT3KEIw,Chicago,IL,Bikes,41.9356745,-87.6629425,$$,294
-491,Sam & George's,Xdw3MKpWyEfED9Ba5uiAmQ,Chicago,IL,Breakfast & Brunch,41.93624,-87.66418,$$,491
-492,Ipsento 606,cLaMG2ztKxqqLhRRpP9HNg,Chicago,IL,Coffee & Tea,41.91443,-87.68326,$$,237
-493,Seadog Sushi Bar,iFA2LDO3mtJQXtihVGnTLw,Chicago,IL,Sushi Bars,41.9034363603087,-87.6652242288361,$$,536
-494,Devil Dawgs -  South State,3o0WB9KL91neiy_rlDhxyg,Chicago,IL,Hot Dogs,41.87207,-87.6271,$,657
-495,Zia's Lago Vista,MzLH4VUPIDf16LUPlPzaGg,Chicago,IL,Italian,41.9513,-87.66847,$$,467
-496,Jeni's Splendid Ice Creams,tmx4cTjSvDvQUVf8_MznmA,Chicago,IL,Ice Cream & Frozen Yogurt,41.90818,-87.63416,$$,187
-497,Podhalanka,80k87CEiJTEHTZ4oHiQ6QA,Chicago,IL,Polish,41.9031971642231,-87.6670556213551,$$,433
-498,Vanille Patisserie,Pjw5PkjpX5zXRblajbOfWQ,Chicago,IL,Desserts,41.920406577296,-87.6373714953661,$$,242
-499,The Jibarito Stop,Bj_4lpjmkFHwOAzRbIoabg,Chicago,IL,Puerto Rican,41.85802,-87.66801,$,253
-500,Pittsfield Cafe,_IFYKbyisxTsDiuqKolI4A,Chicago,IL,Breakfast & Brunch,41.883263,-87.62597,$$,632
-501,Parachute,kyZQnv62VQnDk23i_TxO3g,Chicago,IL,Korean,41.944707,-87.706518,$$$,619
-502,Gale Street Inn,Sy8ZjqYOE62tnpf0b1qa1g,Chicago,IL,American (Traditional),41.9699747728431,-87.762835174799,$$,613
-503,A Taste Of Heaven,srHMBV3D01hjXfoFDDJx6w,Chicago,IL,Bakeries,41.9799884,-87.6681389,$$,673
-504,Runa Japanese,5rLrAjUAnwc6dUrodaEhAw,Chicago,IL,Japanese,41.91013,-87.68461,$$,318
-505,Pub Royale,AKOxQTqo_t8V0LwsXXw-xA,Chicago,IL,Pubs,41.90286,-87.67916,$$,394
-506,Amitabul,wXp__hdga76Lkc6vX_O8dQ,Chicago,IL,Vegan,41.99416,-87.78439,$$,419
-507,Everybody's Coffee,5OhatEA7e3NyUPMTbU_EAA,Chicago,IL,Coffee & Tea,41.9652724,-87.6535798,$,212
-508,Sidetrack,a39_mogiy-ezzeD6kTm0Gw,Chicago,IL,Gay Bars,41.943234759267,-87.64918837306,$$,396
-509,Noodles In the Pot,SagrY7hDKDVfCHeDCKpifw,Chicago,IL,Thai,41.9269149578037,-87.6487970352173,$$,679
-510,The Rosebud,I8W5EBWP5ajd1tk8IwhRfg,Chicago,IL,Italian,41.869524,-87.664293,$$,621
-511,Chief O'Neill's Pub & Restaurant,PTjBAjRMCxLKAob8Dt5SIA,Chicago,IL,American (Traditional),41.94462,-87.70553,$$,570
-512,Patino's Grill,3_bJTUh5BNaD10s4hZUcjQ,Chicago,IL,Burgers,41.953742,-87.706068,$,180
-513,Enso Sushi & Bar,2R7ipjEkeQo821P9AnpJGA,Chicago,IL,Sushi Bars,41.9107586,-87.6773651,$$,407
-514,Acanto,o4vm4Z31Xfr-Fa8_D9EnLw,Chicago,IL,Italian,41.881323483914,-87.6245379144271,$$,353
-515,Shokolad,mXZS-Ue3awMfbMZLbaw72Q,Chicago,IL,Bakeries,41.89598,-87.69042,$,245
-516,Turquoise Restaurant,LPZP6SvCfBIAQahXDx3Ajg,Chicago,IL,Turkish,41.94289,-87.68265,$$,698
-517,Floriole Cafe & Bakery,2PDjNBgmUrE_h1G939RurA,Chicago,IL,Bakeries,41.921956,-87.659199,$$,471
-518,Eden,lgdxwmfYeHFd-BVhZnTGfQ,Chicago,IL,American (New),41.885285031685,-87.6709473878145,$$$,232
-519,Mia Francesca,6PQTqW9j-sriDBQyQCJbjw,Chicago,IL,Italian,41.9420064,-87.6523323,$$,664
-520,Osaka Sushi Express & Fresh Fruit Smoothies,AO83FW-KEkwzxC0YcvGO1w,Chicago,IL,Sushi Bars,41.876943,-87.624532,$,468
-521,SideDoor,mWTucUb_YNZNGyt6QSKZmg,Chicago,IL,Gastropubs,41.893543,-87.625046,$$,496
-522,Osteria Langhe,T1byj0cyKsnzgPFDPh3NXA,Chicago,IL,Italian,41.917687,-87.698252,$$$,344
-523,Robert's Pizza & Dough Company,Rn3o8GcYBPFJX5MWJn0r1Q,Chicago,IL,Pizza,41.8906916389975,-87.6172096480698,$$,286
-524,Casa Yari,XZwuqqN5HZ8jFAdmxQmcKg,Chicago,IL,Latin American,41.92497,-87.71019,$$,149
-525,Agami,2rFXwQ8GhUSRaICjYJ1tog,Chicago,IL,Sushi Bars,41.9674681,-87.6588103,$$,462
-526,Ricobene's,aEYu5fU5i2HKBOkvC9Zm7w,Chicago,IL,Italian,41.84575,-87.63389,$,799
-527,Green Mill,t3pYu8eidmb2ZmexHRHT_Q,Chicago,IL,Jazz & Blues,41.9691749999841,-87.6597404784749,$$,918
-528,Vincent Restaurant,XVDQYUFhJ4Ur_92eVYs3CA,Chicago,IL,American (New),41.9798175448213,-87.6675344363907,$$$,480
-529,The Bento Box,Yu9xRLlUFdNanAzUqPoqPA,Chicago,IL,Asian Fusion,41.91786,-87.68436,$$,236
-530,Señor Pan Cafe,JSw23BvU6mF-6S02d5ijBA,Chicago,IL,Cuban,41.9244149,-87.7423467,$$,475
-531,Tapas Valencia,U4c5YEldlytVFAv9YoN7qg,Chicago,IL,Spanish,41.861043,-87.628155,$$,594
-532,Rumi Middle Eastern Grill,o-qsh446uTZ0sbxsiNfQkw,Chicago,IL,Middle Eastern,41.9092,-87.67616,$,231
-533,"Table, Donkey and Stick",fJkO3cfnNXrLIoYYGBX7_g,Chicago,IL,Modern European,41.91775,-87.695965,$$,417
-534,Urban Vegan,JzjPyNtuAyhlvYNk75Rz5Q,Chicago,IL,Vegan,41.9614372155492,-87.669335813659,$$,427
-535,Brunch,bTnht8k4N6_ffwXzylcMAg,Chicago,IL,Breakfast & Brunch,41.8937063,-87.6372449,$$,817
-536,Landbirds,h_-ul1xabizUqTs1705g-Q,Chicago,IL,Chicken Wings,41.92764,-87.69782,$$,201
-537,Vegan Plate,89tZ6uoPgMktsiP9P6eq2g,Chicago,IL,Thai,41.9254188537598,-87.6677169799805,$$,227
-538,Grant Park,DwugY6shrqmzAe4NGgjDyA,Chicago,IL,Parks,41.8758205085886,-87.6189493035277,0,187
-539,Nha Hang Viet Nam,xXDY18O5C3gzVPNivTVbDg,Chicago,IL,Vietnamese,41.9734154,-87.6560364,$$,292
-540,Cuba 312,qfv0rYo8rAY0DgmL18hZTg,Chicago,IL,Caribbean,41.943481,-87.680633,$$,285
-541,Pizzeria Due,TCnRHh40_HxhHj0Xz6XK9A,Chicago,IL,Pizza,41.8931467721058,-87.6265681621034,$$,1000
-542,Emporium Wicker Park,vE42YFh_M30Uz4P4W-T5Qg,Chicago,IL,Bars,41.9066169104279,-87.6716816425323,$,550
-543,Ruby's Fast Food,6stjHiOWQJZjzlGGZDGdUg,Chicago,IL,Filipino,41.96126,-87.72215,$,242
-544,Taqueria Traspasada,nTL9tlTqGr5-J68W-3Szww,Chicago,IL,Mexican,41.89633,-87.66705,$,376
-545,The Berghoff Restaurant,ArT0vbIky7FvWFpPoIerEw,Chicago,IL,Bars,41.8793326,-87.6286679,$$,1015
-546,5 Rabanitos Restaurante and Taqueria,0pc352jFnUQFAw8DgmeSjw,Chicago,IL,Mexican,41.857970649612,-87.6709524169564,$$,428
-547,South Coast Sushi,O5mpcxYVF_r3GB3WR6UnxA,Chicago,IL,Sushi Bars,41.8589015950675,-87.6242748306885,$$,514
-548,Lillie's Q,d770VgA5S44qERqWS7WCFQ,Chicago,IL,Barbeque,41.9106293802927,-87.6748318970203,$$,1015
-549,Carmine's,g7GcOkQSOfC9JONw_rkNwQ,Chicago,IL,Italian,41.9019953,-87.6281131,$$$,875
-550,Annette's Italian Ice,p31OxfpwjoNezYCmMFfcHg,Chicago,IL,Ice Cream & Frozen Yogurt,41.9184732,-87.6519588,$,259
-551,Blowfish Contemporary Sushi,xTu2kHPjSHKvyQNos6E1qw,Chicago,IL,Sushi Bars,41.9836004823446,-87.6593112945557,$$,381
-552,Schubas Tavern,7erf6yRfYGkrQAuLo9e9xA,Chicago,IL,Music Venues,41.93965,-87.66343,$$,548
-553,Eggsperience Cafè,9sbVk5WywZTOIFDJfpksNg,Chicago,IL,Breakfast & Brunch,41.893092,-87.629536,$$,1069
-554,ChiTown Sandwich Club,LXtSheHGNVAjY8DUMy9pqA,Chicago,IL,Delis,41.9353684,-87.6467452,$,349
-555,L' Patron Tacos,P1U3mEEzXPwuPAsFUL_qHw,Chicago,IL,New Mexican Cuisine,41.92424,-87.72135,$$,458
-556,Vinnie's Sub Shop,JoT_npTii4Kavxr6WC0etA,Chicago,IL,Delis,41.8912632221338,-87.6576940932541,$,178
-557,Pinstripes,2HCUc0_ALwpoyrZjblrg5A,Chicago,IL,American (New),41.8908475350465,-87.6161211240793,$$,538
-558,Francesca's on Taylor,18hcO-EU7f1ENU4m1tbIBA,Chicago,IL,Italian,41.869426,-87.6617842,$$,469
-559,Cochon Volant Brasserie,1ujpo6di-VHGmf1kZnRtpQ,Chicago,IL,French,41.8807911918252,-87.6310143247247,$$,702
-560,Athenian Room,YJMFBlFB_dBpEQ370MO92g,Chicago,IL,Greek,41.9217435,-87.6490466,$$,722
-561,First Slice Pie Cafe,Ope9rcoWasqIWBvtEmcfsQ,Chicago,IL,Cafes,41.9795889,-87.6695256,$,330
-562,Oasis Cafe,wehHaAAnkl1G51jRnkNEVg,Chicago,IL,Mediterranean,41.882755,-87.6260309,$,415
-563,Juno,42GuTKuEm7JbzWtRwv9JTQ,Chicago,IL,Sushi Bars,41.9297369,-87.6552049,$$$,362
-564,North Pond,C9zXJ484qD6K8o0ISOQI7w,Chicago,IL,American (New),41.92931,-87.636616,$$$$,541
-565,Pho's Spicier Thai Cuisine,3BL6znoMLs5HyBaowRfuLA,Chicago,IL,Thai,41.942444,-87.670869,$,561
-566,Do-Rite Donuts & Chicken,xMCLMQY0G7OvNHqJEz8eEg,Chicago,IL,Donuts,41.8853451,-87.6519216,$,239
-567,Goose Island Brewhouse,_CzK0ssaWnDzmKIqJS54DA,Chicago,IL,Bars,41.9134218987771,-87.6542950746777,$$,914
-568,Watershed,T-t_OAwQ5e_1Lvp6v_RfXQ,Chicago,IL,Lounges,41.8926001,-87.6279651,$$,391
-569,Crave Kabob,9ePSkh6Ht0NR9lE7kNQ_xg,Chicago,IL,Mediterranean,41.8813351,-87.66563,$$,196
-570,The Corned Beef Factory Sandwich Shop,FiJ2O5LHPfL-OyiBBazpgA,Chicago,IL,Sandwiches,41.8857049,-87.6529626,$$,233
-571,Paladar,JPI7g_Q7x6Q6S30a3ic6Mg,Chicago,IL,Cuban,41.9231462,-87.6879753,$$,327
-572,Proxi,7NjkcZVOFfw31A0mPBPSPQ,Chicago,IL,Tapas/Small Plates,41.8842951,-87.6422749,$$$,355
-573,Museum of Contemporary Art,Jk3Df503X6Y53sFlB_y0Kw,Chicago,IL,Art Galleries,41.897133205545,-87.6214514115064,$,522
-574,Green Tea,o2sx9mzkd8Umc-6yagT3tg,Chicago,IL,Japanese,41.9223934,-87.6387248,$$,340
-575,Angelina Ristorante,aSxxfNO_647MtX8zc6vhOg,Chicago,IL,Italian,41.947146362475,-87.6469336269836,$$,732
-576,Mas Alla Del Sol,6a_deomxlTJf4oXKxnAG3Q,Chicago,IL,Mexican,41.9884118474889,-87.6604411700977,$$,285
-577,Nacional 27,iw6I57dVB_blHYdbamMTJw,Chicago,IL,Dance Clubs,41.89489726738,-87.637452219798,$$$,851
-578,Rice'N Bread,xiMMZSi06MXtvUoKd63iFQ,Chicago,IL,Korean,41.9446344810848,-87.6540841498032,$,310
-579,Beatnik,mOywm85qS-S6sYqO4Ir6bg,Chicago,IL,Breakfast & Brunch,41.8962675288597,-87.6676179198911,$$,464
-580,Osmium Coffee Bar,8IzTjSeBCyAfL7ebLVCWBA,Chicago,IL,Coffee & Tea,41.9396019,-87.6573029,$,257
-581,Sushi Dokku,r732n4Oq1YO02K58fcR-Yg,Chicago,IL,Sushi Bars,41.8841513653687,-87.6484478840348,$$,385
-582,Fairgrounds Coffee and Tea,OPjXdkm5y_ARr6oyeEOMfg,Chicago,IL,Breakfast & Brunch,41.9106987115516,-87.6780348762432,$$,245
-583,Pizzeria Bebu,2YpaHOHIsOmO8CKAl8OK6g,Chicago,IL,Pizza,41.90912,-87.65087,$$,256
-584,El Taco Azteca,gnNU9D08rqhMioCx0AJbAg,Chicago,IL,Mexican,41.85185,-87.68029,$,178
-585,Enoteca Roma Ristorante,7Ig90WlrxTm-oLGt8AQrfQ,Chicago,IL,Wine Bars,41.903222,-87.6816573,$$,477
-586,Pannenkoeken Cafe,z_Fdvv5wAdXmGmFDs6vM5g,Chicago,IL,Creperies,41.9682370444073,-87.6886891946197,$$,441
-587,Maison Parisienne,5jbqjzdcQR9jNBTsmX8Xog,Chicago,IL,Coffee & Tea,41.94209,-87.65199,$$,179
-588,Monnie Burke's,KEurf3alWcf4Z0RqPtTYDQ,Chicago,IL,American (New),41.857834,-87.6556186,$$,324
-589,The Lobby,VZRNSAoPrg_CNiCtMNSlyw,Chicago,IL,American (Traditional),41.8959,-87.625141,$$$,338
-590,Club Lucky,ytZzmlgLBM8r3TqY7WAY0A,Chicago,IL,Italian,41.91256,-87.67367,$$,604
-591,Maggiano's Little Italy,ouKaFTfc8DT5v4LOeTiDSw,Chicago,IL,Italian,41.8913803100586,-87.6317443847656,$$,715
-592,Alegrias Seafood Chicago,avPNh77s2rYNAkABm8MTKw,Chicago,IL,Seafood,41.90046,-87.66776,$$,591
-593,Mable's Table,Nk4H9CkU8B1VPAofaB2qcQ,Chicago,IL,American (New),41.91582,-87.6699,$$,276
-594,La Catedral Cafe & Restaurant,SfaA8AXQVtPY1JtAuJrgaw,Chicago,IL,Mexican,41.846148,-87.709083,$$,340
-595,Guthries Tavern,KEA-qwV8Y8QZsrJ4RdvPYw,Chicago,IL,Bars,41.94738,-87.66177,$$,403
-596,Chicago Raw,PidZ26sboIS3-6CtUpNskA,Chicago,IL,Live/Raw Food,41.8841694251783,-87.6408842460633,$$,228
-597,Le Bouchon,gAp38M1cLRkFHbemMhaNAQ,Chicago,IL,French,41.91756,-87.67792,$$$,520
-598,Richard's Bar,v0X7NblU3NmG0_g87-aHiw,Chicago,IL,Dive Bars,41.89098,-87.64685,$,314
-599,Ground Control,TqyssEJOYHG2tWCheOVWeQ,Chicago,IL,Vegetarian,41.9173377,-87.7107789,$$,355
-600,Will's Northwoods Inn,Ifk2tTefkmj9apIZOYyuBw,Chicago,IL,Sports Bars,41.937251,-87.65903,$$,274
-601,Blaze Fast-Fire'd Pizza,npBBFxQsJEccu7ZRafVv8Q,Chicago,IL,Pizza,41.9398510944604,-87.653542868793,$,401
-602,Esencia Urban Kitchen,r2eRY7UymHkcopNgzjJv9g,Chicago,IL,Cafes,41.9432065013836,-87.6445358158359,$$,265
-603,Sheffield's Wine & Beer Garden,fQCVQyUNAsDZmdjebXwY3Q,Chicago,IL,Bars,41.94161,-87.65455,$$,697
-604,Milk & Honey Cafe,qqax04alS3UPx0Yp4jJNDQ,Chicago,IL,Breakfast & Brunch,41.90352,-87.67573,$$,779
-605,Chicago Lakefront Trail,77iOCPe5MhQfZ_ARAa1fBw,Chicago,IL,Parks,41.9434529175631,-87.6396700662567,0,211
-606,Southport & Irving SIP,iV0dJWBCENr4ZiTgqK4lLQ,Chicago,IL,American (New),41.954573,-87.664442,$$,554
-607,Untitled Supper Club,KGMxtvX0191P1teCk1Yt6w,Chicago,IL,American (Traditional),41.8889649,-87.6316229,$$,1011
-608,Pizano's Pizza,9LaA6_oGpgHCJWhlAkbnIw,Chicago,IL,Pizza,41.8819708386668,-87.6255734244467,$$,1391
-609,Bistronomic,ISK4YPxKYvG9PzmxBE6CJg,Chicago,IL,American (New),41.8979072566376,-87.6272430870994,$$$,569
-610,Lao Sze Chuan,yBRaSkuYwFhYEoucDyD0lA,Chicago,IL,Szechuan,41.85328,-87.63495,$$,1333
-611,The Office,mGnNer7raiilgF0JWCpGtw,Chicago,IL,American (Traditional),41.8866214,-87.6514653,$$$$,233
-612,Kitchen 17,27cckuU8ONgwWKxf7fUW3g,Chicago,IL,Comfort Food,41.9387532348521,-87.6448537381136,$$,387
-613,Eduardo's Enoteca,11_xlt0Sn2tlclHwf_Gd9A,Chicago,IL,Italian,41.90439,-87.63043,$$,358
-614,Somethin' Sweet Donuts,C9cB74_jNHfEEO1NPtMFMQ,Chicago,IL,Donuts,41.924464,-87.754371,$,230
-615,Old Irving Brewing,rPp8L8pwkNwepgPRVBy99g,Chicago,IL,Breweries,41.9606817809204,-87.7393777788835,$$,432
-616,Pera Turkish Kitchen & Bar,-GpYHa2AAm-3vmr8hoDC1Q,Chicago,IL,Turkish,41.93382,-87.6443,$$,187
-617,The Wiener's Circle,Gw8BSjJ6FFppeghWUv-DGA,Chicago,IL,American (Traditional),41.930108,-87.643951,$,970
-618,DiSotto Enoteca,hVf31CYionZPWquqKnOsUw,Chicago,IL,Italian,41.89871,-87.62142,$$,230
-619,Lady Gregory's,DPjDl5yUOh2jj_-Y2YODGQ,Chicago,IL,American (New),41.9774908,-87.6685493,$$,834
-620,Beezzee,pOQOEBZbKXA3MLUXWsSyTg,Chicago,IL,American (New),41.9328851,-87.6537007,$$,250
-621,Conte Di Savoia,J9WfLOHSTcXaT_9kz2gq0Q,Chicago,IL,Delis,41.869411,-87.6632462,$,226
-622,Café Orchid,VAregVfBNLYr9qz-cexxiw,Chicago,IL,Turkish,41.9470849,-87.6731266,$$,443
-623,Ignotz Ristorante,fGNGjLrTKb75W94DXiWCxw,Chicago,IL,Italian,41.8478012084961,-87.6827697753906,$$,294
-624,Ann Sather,OiP8yvkLXaygzWx8eQOimw,Chicago,IL,Scandinavian,41.943835,-87.644888,$$,517
-625,Rangoli,1GiybV2faVpTt1zw13CzLA,Chicago,IL,Indian,41.910198,-87.68809,$$,621
-626,West Egg Cafe,mieBLLemj2lEtXwchf9psw,Chicago,IL,Sandwiches,41.89324,-87.6203949,$$,790
-627,Navy Pier,5RGtrijqdZsbw0861RMSlw,Chicago,IL,Landmarks & Historical Buildings,41.891636,-87.605326,0,1221
-628,Billy Sunday,mBha1l54dLfu86qbsxoaQQ,Chicago,IL,Cocktail Bars,41.9278208,-87.7065507,$$,328
-629,Uptown Pho,yl5ARTiRX72sBSDzwCpJKA,Chicago,IL,Vietnamese,41.973389,-87.655519,$,295
-630,PR Italian Bistro,tL8lLGQaAnKb9I7a0vsGtg,Chicago,IL,Italian,41.953063,-87.654755,$$,688
-631,Somerset,Q6_BGOsbvm2qr5aDDM4stg,Chicago,IL,American (Traditional),41.90241,-87.6289,$$$,350
-632,11 Degrees North,fPlA_n18OTA09KiF8j0qXg,Chicago,IL,Coffee & Tea,41.9400605,-87.6503407,$,141
-633,Pizano's Pizza,A6rjC7k7fvMnAVEB_W0_Aw,Chicago,IL,Pizza,41.89863,-87.62844,$$,790
-634,Skylark,5oCdd7n_IINlIrDlNACuTQ,Chicago,IL,Dive Bars,41.85279,-87.64619,$,435
-635,First Draft,VCLQpc78prtGTxJAKjz-Ow,Chicago,IL,American (Traditional),41.873437,-87.630308,$$,464
-636,Sushi X,1g52-6WzlhjIOpNAsBjPJg,Chicago,IL,Sushi Bars,41.896362,-87.656584,$$,484
-637,Reno,48LgtDgqtzQpF8KYUb1pJg,Chicago,IL,American (Traditional),41.929155,-87.707174,$$,483
-638,Yolk Marina City,sUDWHJCEKd6GUjhMysoUYw,Chicago,IL,Breakfast & Brunch,41.888682,-87.628757,$$,416
-639,Gyu-Kaku Japanese BBQ,NzTK1ZgqdzzOCbgxXWtvOg,Chicago,IL,Japanese,41.884454,-87.661355,$$,378
-640,Bangers & Lace,fLwNhXatcSoQEI8XeFbrtg,Chicago,IL,Pubs,41.90357,-87.67023,$$,576
-641,Tony's Burrito Mex,H-Bb2G3PixdNRONKEyX-Pw,Chicago,IL,Breakfast & Brunch,41.9393,-87.67816,$,347
-642,Caffe Streets,t3kaqHh5SwP8qn0kg4EY6g,Chicago,IL,Coffee & Tea,41.90354,-87.67197,$$,334
-643,Pearl's Southern Comfort,SCkRTMcs6ya1KSm8Qm4ikA,Chicago,IL,Southern,41.9797154720227,-87.660177473124,$$,440
-644,D4 Irish Pub & Cafe,F-Ucb69aUN5UI1Dv3nngQw,Chicago,IL,Cafes,41.892019224495,-87.618911921119,$$,768
-645,La Villa Restaurant,hvHVAs2lhaoYo_rxOUuSTQ,Chicago,IL,Pizza,41.94754,-87.72775,$$,585
-646,Shanghai Terrace,TjPPHjSDJwrFWvG1W3drtw,Chicago,IL,Chinese,41.895999,-87.6250761,$$$,322
-647,Sushi Mon,ewNcPWT3DSaIT0vwMA_10Q,Chicago,IL,Sushi Bars,41.9267026,-87.64097,$$,369
-648,Rosebud Steakhouse,5zrksL0drFQBc8_zByiq_g,Chicago,IL,Steakhouses,41.9000993,-87.6220543,$$$,369
-649,HaiSous Vietnamese Kitchen,hdEpBdmDqKGgodcPyegh4Q,Chicago,IL,Vietnamese,41.857905464288,-87.653351765299,$$,335
-650,Jarabe- Mexican Street Food,VhScSsvXZl6J7j1Vat7ccw,Chicago,IL,Mexican,41.86886,-87.68334,$,175
-651,Stella Barra Pizzeria,emwETJLmITVycIPNAO_toQ,Chicago,IL,Pizza,41.917657,-87.648684,$$,507
-652,Ay Ay Picante,NHCYS3udwbhO6qKeXx04hA,Chicago,IL,Seafood,41.964112,-87.734107,$$,564
-653,Yummy Yummy Asian Cuisine,c-33j2eSYNCppwBVLUFpzg,Chicago,IL,Chinese,41.9351256288396,-87.6440628857616,$$,619
-654,Twisted Spoke,BnuVd40aBq0Z61P3wSSNlw,Chicago,IL,Breakfast & Brunch,41.8912954404938,-87.6585463125038,$$,697
-655,Real Kitchen,Z8zsvzJxCP83Ls-EShQJIQ,Chicago,IL,Caterers,41.9612561,-87.6665041,$$,204
-656,Chicago Riverwalk,kSDupSRuYSQKCQ4f0TABWw,Chicago,IL,Landmarks & Historical Buildings,41.8875448,-87.6174791,0,156
-657,Acadia,ZGnxEJXlv8e41qhVLkfKtQ,Chicago,IL,American (New),41.859047,-87.625243,$$$$,469
-658,Hot Dog Station,gFQ-NcVxqAb4S29S7DLehA,Chicago,IL,Hot Dogs,41.9679886090324,-87.7134617808249,$,176
-659,Maria's Packaged Goods and Community Bar,r4iweDMqH0NGdPIZ53Buuw,Chicago,IL,Beverage Store,41.8380881441828,-87.6511075736107,$$,356
-660,Rickshaw Republic,HwOzFKTCkOE1NwGrxXxuAQ,Chicago,IL,Indonesian,41.92388,-87.64711,$$,365
-661,JAM,bgfOCJADPdrvYNctbX_Wxg,Chicago,IL,Breakfast & Brunch,41.933595,-87.707188,$$,732
-662,Links Taproom,kNyNZE7-6vgrMtaeS1sOVw,Chicago,IL,Beer Bar,41.9098596489117,-87.6763864489499,$$,235
-663,Perkolator,j7kcbdUFjroGeta8ieN1gw,Chicago,IL,Cafes,41.9531543,-87.7782196,$,203
-664,Taco Bell,MAnqkx5fDLCkI5TZdmyeDw,Chicago,IL,Fast Food,41.928279,-87.673393,$,319
-665,Garcia's Restaurant,08X_5WTOVNvk4SgPRKBjjQ,Chicago,IL,Mexican,41.9680265354179,-87.6884323571472,$$,1238
-666,CC Ferns Coffee Bar & Spirits,BpwVIB258we6x2XwekpFug,Chicago,IL,Coffee & Tea,41.8994049,-87.6970885,$$,134
-667,Bakin' & Eggs,3wK-MKxgpiTQ7C7HSFbK0w,Chicago,IL,Breakfast & Brunch,41.93823,-87.66714,$$,726
-668,Headquarters Beercade River North,MU5NxL5nQzRhuzSC0APmiA,Chicago,IL,Bars,41.89718,-87.6352,$$,477
-669,Kim & Carlo's Hot Dog Stand,OO-PuBnfrdXlZWKCyPPiQg,Chicago,IL,Hot Dogs,41.8653123213288,-87.6154239848256,$,266
-670,Gemini,wsox4oAdEk94m6YploUfdA,Chicago,IL,American (New),41.9200319,-87.640967,$$$,478
-671,The Boiler Room,Z5xaAmM_cHIHv8NxVXXsCg,Chicago,IL,Pizza,41.922116,-87.697669,$$,868
-672,Susie's Noon Hour Grill,yD1aRxezQ8XjrKogEfuShw,Chicago,IL,Korean,42.0075552249299,-87.6662723055139,$,275
-673,Mild 2 Spicy,X1X_1cPqu8RiPmjOXWeyTQ,Chicago,IL,Indian,41.9329125732542,-87.6472141966224,$$,234
-674,Yoshi's Cafe,PFg_W14UFHXtwHOxquirIA,Chicago,IL,American (New),41.9417028,-87.6492322,$$$,301
-675,The Kitchen,MwobGG_QI3QLf5HencV3Yg,Chicago,IL,American (New),41.8880238,-87.6312069,$$$,600
-676,Fatpour Tap Works,bEhKMjnmpZLtFb7oAKjYYA,Chicago,IL,Sports Bars,41.90289,-87.67762,$$,581
-677,Rossi's Liquors,6QT-YirAXDUyQL0ikTPywQ,Chicago,IL,Dive Bars,41.88974,-87.62819,$,328
-678,Thai Aree House,q65G-7JIZWy0bTeOzwMzTw,Chicago,IL,Thai,41.9459,-87.73551,$$,184
-679,Nonnina,wYBTYDCk5ebNm7WtPfvX-g,Chicago,IL,Italian,41.8883821,-87.6311649,$$,446
-680,Craft Pizza,8-eWe05s8Z7I1AejHXNsEA,Chicago,IL,Pizza,41.9048454,-87.6775072,$$,235
-681,Lou Malnati's Pizzeria,84r_TaEPqE1bnYFLqYdOtQ,Chicago,IL,Pizza,41.908901,-87.6774103,$$,336
-682,Uncommon Ground,zcMR0uDgshgPA0rauDlekA,Chicago,IL,American (New),41.95125,-87.66007,$$,1050
-683,Spiaggia,mnvQFi_uwBKgBjrIyRQ6YQ,Chicago,IL,Italian,41.900622,-87.624411,$$$$,555
-684,Broken Shaker Chicago,dkN4tBckgSUM39_yI5eGEA,Chicago,IL,Cocktail Bars,41.89233,-87.62727,$$,374
-685,Macku Sushi,iuFSSw6VYxgcnUmVDqwQ0Q,Chicago,IL,Sushi Bars,41.92255,-87.66521,$$$,404
-686,Maggie Daley Park,wILxEU86YqC5EgWsF0NnlQ,Chicago,IL,Parks,41.8818434527342,-87.6189020735213,0,169
-687,The Duck Inn,2mXTTmT65KzUCf_2l-VS-w,Chicago,IL,Cocktail Bars,41.8444817593219,-87.6601841065537,$$$,435
-688,Mirai Sushi - Wicker Park,R9MFihPd2WlN6Ze7OcOdqQ,Chicago,IL,Sushi Bars,41.9034767150879,-87.67822265625,$$$,513
-689,The Long Room,ijItniAY6ggVdNLv91Dy2w,Chicago,IL,Bars,41.9543649269481,-87.6699660345912,$$,289
-690,The Italian Village Restaurants,4hEWyzVZ4gKdAoBpsd7Rrw,Chicago,IL,Italian,41.880595,-87.630159,$$,964
-691,Park & Field,_wpU0jwlbpfun7MVU79UbQ,Chicago,IL,American (New),41.924257,-87.714317,$$,466
-692,Blackwood BBQ,zQnbP2dJoro12dk66RUXBA,Chicago,IL,Barbeque,41.885604,-87.63594,$,349
-693,The Grind,mVPS8uYDkz1J9Q_KAhZzxQ,Chicago,IL,Coffee & Tea,41.9654579162598,-87.6860885620117,$,360
-694,Silli Kori,xJEA6P6VS-Ukl9dmjleDkw,Chicago,IL,Thai,41.90286,-87.67935,$$,215
-695,Buena Vista,m_J7wFRwwRdck6M-dfn3iw,Chicago,IL,Mexican,41.9389519,-87.6441962,$,332
-696,The California Clipper,_1rixyDTpzEdBQ7iISH3mw,Chicago,IL,Lounges,41.8995106,-87.6969527,$$,350
-697,Chicago's Dog House,IvEwb3qOgFK6E23FN6D1Yw,Chicago,IL,Hot Dogs,41.9255849,-87.6492199,$,417
-698,Pastoral,aOPvO5JFJY7U8abN62Tt9g,Chicago,IL,Cheese Shops,41.9362589,-87.6441550018524,$$,275
-699,Cafe Tola,jFuAPa4aUHLHVv_pCQB8oQ,Chicago,IL,Coffee & Tea,41.9474121183157,-87.6640179008245,$,266
-700,Fig & Olive - Chicago,XHTod-9H66e1krXYQjxRBQ,Chicago,IL,Mediterranean,41.901044,-87.625532,$$$,796
-701,Same Day Cafe,-pgwH-_0OaF4SAGeqAJTig,Chicago,IL,Desserts,41.9297214,-87.7073451,$$,190
-702,Dollop Coffee & Tea,xFh35XIc5-9z88dLFH-Bxw,Chicago,IL,Coffee & Tea,41.8924508684265,-87.6186701969267,$,477
-703,Blaze Fast-Fire'd Pizza,c-2RLpueD2I9m4dYgL9kPQ,Chicago,IL,Pizza,41.89314,-87.62161,$,392
-704,San Soo Gab San,_n3OmwreEGPQmiHKklsD8w,Chicago,IL,Korean,41.9775897881067,-87.6887278533035,$$,1280
-705,Roots Handmade Pizza,AxWlIqLC9qwNcZ67RSh1gQ,Chicago,IL,Pizza,41.8962,-87.67565,$$,854
-706,Pasta D'Arte Trattoria Italiana,3NViikBJwbjvq1ensGYRcw,Chicago,IL,Italian,41.99563,-87.78578,$$,350
-707,Slim's,QPr7dxBlnNipJ0R5-GMd-w,Chicago,IL,Sandwiches,41.9615868227063,-87.6799042895436,$,337
-708,Niu Japanese Fusion Lounge,YQ_ZW6rnU5IshuiGlnlTUg,Chicago,IL,Sushi Bars,41.891185141978,-87.618678666509,$$,791
-709,Ricano's Restaurant,IoJoWPp7dQOjeCfT2ki3cA,Chicago,IL,American (Traditional),41.87793,-87.66707,$$,304
-710,Protein Bar,t3Gg5wW9wxHO4s9tGBArQQ,Chicago,IL,American (New),41.8790123356902,-87.6350229818467,$,396
-711,Billy Goat Tavern - Chicago,gYngvyYN0-iqXqjk55mfpA,Chicago,IL,Dive Bars,41.890362,-87.624495,$,905
-712,Mrs. Murphy & Sons Irish Bistro,4FCKIS7PWqw9-diFbtr-gg,Chicago,IL,Irish,41.9526899,-87.67732,$$,463
-713,Bienmesabe,iw1_4RySfJpOMvuZ73XAvw,Chicago,IL,Venezuelan,41.9614551,-87.670454,$$,405
-714,Fabcakes,OCrTpzL3Hsst-ckiaTeMyQ,Chicago,IL,Bakeries,41.8953018,-87.6345367,$,262
-715,Pokiology,rAPCpaJENgcSDM-t_Lsqag,Chicago,IL,Poke,41.965489041314,-87.6613923567586,$$,199
-716,Upton's Breakroom,LeA-eBkN7UMoFKuHRP_MyQ,Chicago,IL,Vegan,41.8908805274879,-87.6793019379492,$,199
-717,Beatrix Fulton Market,WjNakFKJRj1vajq-JYopbg,Chicago,IL,Breakfast & Brunch,41.8868249661409,-87.6488907835047,$$,332
-718,The StopAlong,Nza-kbPzUfFMZGyJz12sYg,Chicago,IL,Pizza,41.91426,-87.68393,$$,194
-719,Aroy Thai Restaurant,W3G0ytMhEITrWhJGCZ3D0g,Chicago,IL,Thai,41.966782,-87.679292,$$,397
-720,The Victor Bar,AT-tDO0T72d7gacVYXPu7g,Chicago,IL,Cocktail Bars,41.9544934,-87.6785759,$$,150
-721,Meli Cafe,cVULFhP_qRHskfIWNysR_w,Chicago,IL,Breakfast & Brunch,41.8918462775328,-87.6342765335556,$$,685
-722,Roeser's Bakery,TYn-f0IJT3QHJvcNE8htyA,Chicago,IL,Bakeries,41.9102493353917,-87.7076072288361,$$,284
-723,Tea Pot Brew Bakery,eI8i0p5SgxB3KJ0sDGczXA,Chicago,IL,Bakeries,41.85769,-87.626,0,142
-724,Honky Tonk BBQ,3Yw8i4DTPR5a7SpQJMMS9Q,Chicago,IL,Barbeque,41.85779,-87.65678,$$,863
-725,Wheat's End Cafe,kETAh5tmJry7Nf4Y2Y_3Yg,Chicago,IL,Bakeries,41.9346173107624,-87.6441695541143,$$,250
-726,Adobo Grill,IgxcO01CIt2Cy8YjFEDLCA,Chicago,IL,Mexican,41.9109338,-87.6353587,$$,743
-727,Dolo Restaurant and Bar,eHpf-vadyWIK23bdK67IXA,Chicago,IL,Dim Sum,41.8525599,-87.63604,$$,447
-728,Petterino's,d_8fXdA3E0IW44NYqt6haw,Chicago,IL,American (Traditional),41.8846425,-87.6296888,$$,735
-729,Chiu Quon Bakery & Dim Sum,EVQUygqTpgwJnvoHctJ8jw,Chicago,IL,Bakeries,41.85139,-87.63161,$,314
-730,Mity Nice,oT7oYmyGKFdBk0IkuNZG0A,Chicago,IL,American (Traditional),41.8981170141684,-87.6232167949677,$$,423
-731,Sumo Sushi and Hibachi,mWDZVQxJ5p6aNp7ipa6DEQ,Chicago,IL,Sushi Bars,41.9359375,-87.6444353,$$,277
-732,Coco Pazzo Cafe,lwl1vEEagUrhNXhDI1StQA,Chicago,IL,Italian,41.8927539,-87.6220247,$$,345
-733,Montrose Dog Beach,9byvOQM3fSG9RU1fTYte5A,Chicago,IL,Dog Parks,41.968537,-87.6422305396728,0,254
-734,Antico,tzP7xNT7OokI6JKgtINTlA,Chicago,IL,Italian,41.91746,-87.68281,$$$,216
-735,Piatto Pronto,RU3rDAIUv3iNwkiuS3wMbg,Chicago,IL,Delis,41.98425,-87.66929,$,317
-736,Chicago History Museum,w4eSvNabRvAgsODaqUEdBw,Chicago,IL,Museums,41.9113772,-87.6315416,0,345
-737,The Coffee Studio,z-XvS31G0aUZHU9eLdtQRA,Chicago,IL,Coffee & Tea,41.984327090113,-87.669086660493,$,418
-738,Dark Matter Coffee - The Mothership,LzSy-jphOHeHEKDAMJgKfA,Chicago,IL,Coffee & Tea,41.89508,-87.68723,$$,213
-739,Public House,qizzFBua15kSbWB48T8XGg,Chicago,IL,American (New),41.8893653140557,-87.6282758306885,$$,1097
-740,La Crosta Woodfire Pizzeria Italiana,Z-SJv3keY-u2bIAnkrDq_Q,Chicago,IL,Pizza,41.9248027560034,-87.6479495139774,$$,186
-741,Brazilian Bowl,HAi1irLE91wjLJo5Qiskpg,Chicago,IL,Brazilian,41.940256,-87.644653,$,467
-742,Hungry Brain,51hKiQfGwowwpmry84HcGw,Chicago,IL,Dive Bars,41.93921,-87.68644,$,199
-743,Jibek Jolu,JS5mi7IPnfntxujiXtirHw,Chicago,IL,Russian,41.9732243,-87.6913578,$$,325
-744,The Berkshire Room,2kgPIuJMqYnLR2Dp_7-40A,Chicago,IL,Lounges,41.89226,-87.627502,$$,350
-745,Caro Mio,NGfbRjWoqUh2fGw8DU_pmA,Chicago,IL,Italian,41.9651506,-87.6758369,$$,593
-746,Ceres Cafe,TP8zxYve1T4_xq7mLAT-1g,Chicago,IL,American (Traditional),41.8780574,-87.6322115,$$,397
-747,The Matchbox,OcMQUx_fyrUQdWwtnfuofw,Chicago,IL,Bars,41.8955764770508,-87.6549072265625,$$,267
-748,Kanela Breakfast Club,ZSLyeUcAlLVQTyVZFrMpaQ,Chicago,IL,Breakfast & Brunch,41.8912549,-87.6138566,$$,675
-749,Alice & Friends' Vegan Kitchen,0dsmnEYaTVsT2OglrlWTmg,Chicago,IL,Vegan,41.9875134,-87.6603665,$$,320
-750,El Milagro Tortilla,umGEOhvhbqhh72Mn47a4Zw,Chicago,IL,Mexican,41.8551733,-87.6631926,$,334
-751,BLVD,bFWnNX0WIxrx13J_7xleeg,Chicago,IL,American (New),41.8854,-87.64823,$$$,427
-752,Primo Chuki's,33r5J19uqUKJHreIgUBWZg,Chicago,IL,Mexican,41.96898,-87.671467,$,249
-753,Smith & Wollensky,34C7qV4KzeOyRWZId6pl_g,Chicago,IL,Steakhouses,41.8883017,-87.6281349,$$$,862
-754,Navigator Taproom,w7DTxXHFOmEeULKI5m4LVQ,Chicago,IL,Beer Bar,41.9211288,-87.6941778,$,132
-755,Small Cheval - Wells,lMKK_to3ZZ31Ste-ncsJ0Q,Chicago,IL,Burgers,41.90703,-87.63414,$$,203
-756,Fremont,ID-0tVdM9YatcHzjDfiofg,Chicago,IL,American (New),41.89063,-87.6287,$$,531
-757,TeaGschwendner,LHv1tTXfeJYXq8gN3lAgjA,Chicago,IL,Tea Rooms,41.9034734,-87.6288729,$$,171
-758,Herb,hbFDXHPMSJld7mSvh0syxQ,Chicago,IL,Thai,41.98073,-87.66039,$$$,238
-759,Bridgeport Coffee,-WwqSNbXZ16Rv8r6wc_umQ,Chicago,IL,Coffee & Tea,41.8378601074219,-87.6508483886719,$,406
-760,Sweetwater Tavern and Grille,ugOU_IJV4qFSaC1BtuazyQ,Chicago,IL,American (New),41.886472,-87.624099,$$,1004
-761,Bourgeois Pig Cafe,3aoCOA9tc3Nhi2swyhR-1Q,Chicago,IL,Vegetarian,41.92567,-87.64791,$,854
-762,Del Toro,Ocayko4Wvm2Oz7-RGx91kw,Chicago,IL,Burgers,41.85324,-87.6462,$$,372
-763,The Happy Lobster,figkYyQO-6kmS3gw8K34kA,Chicago,IL,Seafood,41.8842821,-87.6410974,$$,146
-764,Jimmy's Red Hots,lSrO-tXH3jR9HODPzft9OQ,Chicago,IL,Hot Dogs,41.906653,-87.726735,$,289
-765,Bar Takito,g2BZVEeNbFQfruKLDDe-ZQ,Chicago,IL,Latin American,41.8857,-87.6519851,$$,543
-766,Wood,tCBKjclvCuiuSkiNz1fOjw,Chicago,IL,Bars,41.942829280388,-87.649184667136,$$,507
-767,Centennial Crafted Beer & Eatery,zwEvkkliEdhDcRZtnHO2JA,Chicago,IL,Beer Bar,41.8958299,-87.63235,$$,203
-768,Chicken & Farm Shop,cnDJOvf7kErlCj1LgDTe6A,Chicago,IL,American (Traditional),41.883746,-87.648281,$$,347
-769,Ava's Italian Ice,AmyMmgoyJQsECiNaegsVgg,Chicago,IL,Shaved Ice,41.9144331,-87.687481,$,103
-770,Habana Libre Restaurant,1AwTFlZTeFxINxC5e9VIpA,Chicago,IL,Cuban,41.8962642,-87.6640126,$$,448
-771,Pl-zen,gGnXdeIA6mox_qN0NK51AA,Chicago,IL,Gastropubs,41.8575592041016,-87.6645660400391,$$,371
-772,Les Nomades,L-JFa3cZEP8nEaC0tak_SA,Chicago,IL,French,41.89367,-87.62172,$$$$,244
-773,Dollop Coffee & Tea,g0mIxIj16ANKtdI9MRH1lQ,Chicago,IL,Coffee & Tea,41.95807,-87.6495,$,497
-774,Peggy Notebaert Nature Museum,z0luJPSQb4w8953Dci5Kcg,Chicago,IL,Museums,41.9262474775314,-87.6339550316334,0,187
-775,Southern Cut Barbeque,60qudKwZHT6-UijNbGVNWw,Chicago,IL,American (Traditional),41.8994131791425,-87.6220517233197,$$,652
-776,Nori Sushi Bar - Lakeview,_aDftia5RSSBpDLHatEfFg,Chicago,IL,Sushi Bars,41.932718,-87.653535,$$,498
-777,Kopi Travelers Cafe,4ECBK15z86rdy9KP-qMREQ,Chicago,IL,Coffee & Tea,41.97859,-87.66796,$$,540
-778,Mima's Taste of Cuba,6jshyTJKUdcz0YTHyhi1ew,Chicago,IL,Cuban,41.95365,-87.70171,$,332
-779,Rolls N Bowls,alA4ccSsga38IVqkZyRk6g,Chicago,IL,Sushi Bars,41.965995,-87.6866153,$$,392
-780,Daisies,ngB0iQM1Yz7Nx_tQZqU7NA,Chicago,IL,Pasta Shops,41.92735,-87.70405,$$,216
-781,Firecakes Donuts,kcTO5R9SPjQCe2DMiFkOKw,Chicago,IL,Donuts,41.92696,-87.641186,$,285
-782,Al's Beef,WsU46rtQDsc9tZUWroD4TA,Chicago,IL,Italian,41.89302,-87.6337999,$,644
-783,Bacino's of Lincoln Park,XeJkMq4uK4KJgbxL9_Ublg,Chicago,IL,Pizza,41.9220898692102,-87.6441773455396,$$,382
-784,Galway Bay,q4P8Ifx3VATzdhbrkzIEHA,Chicago,IL,Dive Bars,41.932995,-87.641603,$,229
-785,Blue Door Farm Stand,ige3s8PkYAErLRVbSvqItQ,Chicago,IL,Salad,41.9185554983396,-87.648811124884,$$,419
-786,Asian Outpost,c3DGLqz31UbLapOYoRJJiw,Chicago,IL,Sushi Bars,41.865437,-87.6255416320581,$$,389
-787,Windy City Cafe,FZuVE8sm9To2mPUGwpRBeQ,Chicago,IL,Breakfast & Brunch,41.8964341368,-87.6550369757684,$$,298
-788,Ghirardelli Ice Cream & Chocolate Shop,U7V6TyvRjlMXA__kCnF8XA,Chicago,IL,Ice Cream & Frozen Yogurt,41.8976950118404,-87.6249388497375,$$,489
-789,Jess Cafe,QG6k8viDLaAf5WBIytthDA,Chicago,IL,Chinese,41.93825,-87.77216,$,391
-790,Silom 12,bg20bWGO5cD7A873sEb9kw,Chicago,IL,Thai,41.91487,-87.68488,$$,417
-791,Burger Bar Chicago - South Loop,mspxW1oelEoo6YJskI5cJg,Chicago,IL,Burgers,41.867902,-87.62438,$$,595
-792,Strings Ramen - Lakeview,RhBrHIjmCD6B0Yvw7MxhMA,Chicago,IL,Ramen,41.93977,-87.65227,$$,277
-793,Ms. T's Southern Fried Chicken,8VMNhH7CDY3Mb1Rha4psjg,Chicago,IL,Southern,41.94309,-87.644496,$,237
-794,Bar on Buena,MPfcgPwCcm3-imbg_BUNcA,Chicago,IL,American (Traditional),41.9585637,-87.653337,$$,534
-795,Star of Siam,c9LCR5lJ7Lzg-BEg3FGCyA,Chicago,IL,Thai,41.8906364440918,-87.62744140625,$$,1122
-796,Argo Tea,2AH6AcX1L6sNX60GUsEwVA,Chicago,IL,Coffee & Tea,41.8844881653786,-87.6284531503916,$,374
-797,Buddy Guy's Legends,wbOL77wMgSKV1yOkQuxw2Q,Chicago,IL,Jazz & Blues,41.8730157686049,-87.6262064974468,$$,540
-798,Caffe Umbria,BWgtmakp1vfcv-y4nQ2uQQ,Chicago,IL,Coffee & Tea,41.8887173,-87.6311077740857,$$,179
-799,Magnolia Bakery Chicago,miYKBz-Z9eLOeyJRSjV5WQ,Chicago,IL,Bakeries,41.8839027754304,-87.6281622141316,$$,1153
-800,The Burger Point,H4KzoY_z3D3tUnPZMv3HXg,Chicago,IL,Burgers,41.8562862457147,-87.6273884868141,$$,540
-801,Scafuri Bakery,TpRzi_TaFkaN2toazG72wg,Chicago,IL,Bakeries,41.8692659,-87.6606725,$,213
-802,Tac Quick,txerhr0c6RtWhlNWhWIB5Q,Chicago,IL,Thai,41.9543649401989,-87.6550871455236,$$,548
-803,Epic Burger,7xpf5VhK73NN3gcb4gbMCA,Chicago,IL,Burgers,41.8752826,-87.6274851,$$,788
-804,Zaytune Mediterranean Grill,ntLthO5cQDnwn-vKiT3WxA,Chicago,IL,Mediterranean,41.8370666503906,-87.6508560180664,$$,426
-805,Jeni's Splendid Ice Creams,lEy037oOtXSEHv-_eYge4Q,Chicago,IL,Ice Cream & Frozen Yogurt,41.918395,-87.651142,$$,136
-806,Cellars Bar and Grill,-C_O2sunRZD_sgWtCIpuAQ,Chicago,IL,Breakfast & Brunch,41.98922,-87.66065,$$,578
-807,Jin Ju,CUYnO-T4OJqrpdx-3d2Y8g,Chicago,IL,Korean,41.9764,-87.66803,$$,332
-808,Fontano Subs,_pvjspuIWHbdkWLPiX9QRQ,Chicago,IL,Sandwiches,41.87209,-87.653431,$,163
-809,The Northman,XWbMHh7WQRu7tEZzIRKEgg,Chicago,IL,Bars,41.96063,-87.68301,$$,231
-810,Hash,xx4AqXy2x2jvIIR2hsQotQ,Chicago,IL,Breakfast & Brunch,41.90655,-87.68673,$$,406
-811,Chick-fil-A,s-NaiGf0DHA8wuVG9C060g,Chicago,IL,Fast Food,41.897119,-87.62706,$,382
-812,BarTucci,MqB2og2Bdv0YcztieKEWjg,Chicago,IL,Italian,41.9423838,-87.806911,$$,242
-813,Pops for Champagne,bvB-S8FsKodF7qkfIfYI8g,Chicago,IL,Wine Bars,41.8926209396105,-87.6279114723251,$$$,772
-814,Green Door Tavern,8oKRLk54AhYwEaBe7onYog,Chicago,IL,Pubs,41.8946215100706,-87.6373652708838,$$,442
-815,Lucia's Gourmet Italian Cuisine,Hs3b3jbwPQ88qtycbcR65w,Chicago,IL,Italian,41.91026,-87.67359,$$,330
-816,Tapster,PH4QEQNSWfgNdShuoD2rig,Chicago,IL,Bars,41.91039503401,-87.6785549999718,$$,183
-817,Cafe Ballou,PynQtVMw55Maam0ah-Zr-A,Chicago,IL,Cafes,41.89873,-87.68659,$,199
-818,The Fat Shallot Food Truck,lD3qc5CidZj1yRi1p0xl6g,Chicago,IL,Food Trucks,41.8797006295987,-87.6302485220684,$$,197
-819,Ukai Japanese Restaurant,forjLZnWO4KyRWH4y1W8KA,Chicago,IL,Japanese,41.9396951,-87.6561638,$$,398
-820,Gene & Georgetti,jsXtfVrcn7FrX06q3j_Xmg,Chicago,IL,Italian,41.89091,-87.63581,$$$,810
-821,Stax Cafe,jpdKZ8XBoRHrtDiB887o9A,Chicago,IL,Breakfast & Brunch,41.8691,-87.66184,$$,541
-822,Bar Roma,wfxgPtSkiAfkKNBVEWts9g,Chicago,IL,Bars,41.9745114390209,-87.668036185205,$$,263
-823,Chilam Balam,4LRC9kedY535bIBpqyBWdw,Chicago,IL,Mexican,41.93722,-87.64401,$$,701
-824,Four Moon Tavern,fM7wQZVC1DRxU6OXgaAmhw,Chicago,IL,American (Traditional),41.943149,-87.675881,$$,267
-825,Machu Picchu Restaurant,UTGDlrcdYWUwQYzXUChdaA,Chicago,IL,Steakhouses,41.9516650316681,-87.6690340870022,$$,489
-826,El Barco,rNEx_ZreaXvSfZDS3MQHHg,Chicago,IL,Mexican,41.9007453918457,-87.6670761108398,$$,788
-827,Letizia's Natural Bakery,dc0xhJKzWgHRPYjJk66ibw,Chicago,IL,Bakeries,41.9034199,-87.68154,$,379
-828,Uncle Julio's,qsbqJTaZhkdEM9oJ6fxKNg,Chicago,IL,Mexican,41.91058,-87.65028,$$,1224
-829,Salam Restaurant,IHb-KcVYS_wZBo4ZTIN_tw,Chicago,IL,Middle Eastern,41.9657874,-87.708574,$$,568
-830,The Garage Bar & Sandwiches,rUV1d6NhrT6wgYmAlJVk7g,Chicago,IL,Pubs,41.99337,-87.78454,$$,356
-831,Pokeworks,IcxvTVeRFmSb_ytS4UbJhg,Chicago,IL,Poke,41.8819551,-87.6250045,$$,228
-832,Rock Bottom Restaurant & Brewery,UQJ6tKY4Uz6P-7d7oych2w,Chicago,IL,American (Traditional),41.8915042,-87.6283644490738,$$,1033
-833,Frontier,Kx9pLt4R4xidSYp0O6eYIg,Chicago,IL,American (New),41.901201,-87.663558,$$,830
-834,Java & Mug Cafe,7YEhilJMQOntdKMleZCGuw,Chicago,IL,Coffee & Tea,41.98279,-87.71071,$,193
-835,Troy Mediterranean Grill,jpNBqkHd8gh3ZJnwR1aubg,Chicago,IL,Mediterranean,41.935216,-87.644337,$$,215
-836,City Winery,sai33VSs51v_OVrJjFW_PQ,Chicago,IL,American (New),41.88463,-87.6574,$$,1007
-837,AceBounce,7SlA6TVEt5lp-Li3rU0sVA,Chicago,IL,Cocktail Bars,41.8864846,-87.6311647,$$,217
-838,Sabri Nihari Restaurant,mLm998PYW5boFf8Y3hdWQg,Chicago,IL,Pakistani,41.9978027,-87.692538,$$,788
-839,Nellie's,nTfySYjeLQ4jvy3jyImgPg,Chicago,IL,Breakfast & Brunch,41.90314,-87.689317,$$,334
-840,Swirlz Cupcakes,JTRat0OWhUpuQw6iF7I7Bg,Chicago,IL,Custom Cakes,41.9235077,-87.6466326,$$,474
-841,Legend Tasty House,FC2GofdCA_qB9q0_5eJ26g,Chicago,IL,Ice Cream & Frozen Yogurt,41.85161,-87.63228,$,239
-842,Franco's Ristorante,IX34m-olKrlEeeEIXEPh9g,Chicago,IL,Italian,41.83843,-87.6343,$$,201
-843,Beermiscuous,5wQRq6-dyKyfkStKDiEETQ,Chicago,IL,Beer Bar,41.932827,-87.659398,$$,169
-844,Daebak Korean BBQ,Sx0CL_h4JitfC1qlsKAuMw,Chicago,IL,Korean,41.85477,-87.63257,$$,444
-845,Asian Cajun,PsQFHkJHhSqw7mOCh4Rs7w,Chicago,IL,Cajun/Creole,41.92604,-87.66852,$$,238
-846,Triple Crown Restaurant,NSQ-hexS7EpP5e_wlKt81g,Chicago,IL,Dim Sum,41.852477,-87.6318687435513,$$,690
-847,Volumes Bookcafe,0sp7zjPiP3V-ojIF38g-1w,Chicago,IL,Coffee & Tea,41.9084999,-87.67506,$$,121
-848,Naansense,4_D3FA4GoRCj6e_aG2DrQw,Chicago,IL,Indian,41.8852573615387,-87.6336954232788,$,458
-849,Tuscany - Taylor,QaNr4e16T3MW0li-Um2kGQ,Chicago,IL,Italian,41.869577,-87.651847,$$,431
-850,the Albert,IJMLIIudGq04iDwQGxTMJA,Chicago,IL,American (New),41.8936097,-87.6215573,$$$,216
-851,Chez Moi,I4R5Zs7whwQf29XhQ_RaBA,Chicago,IL,French,41.920093536377,-87.6487808227539,$$,373
-852,Coco Pazzo,4NMrTDI0DVQqUsF_4SWdVA,Chicago,IL,Italian,41.890148203883,-87.6357354950368,$$$,407
-853,Benjyehuda,CLuaGuxDvRO2IYdWNRw7hw,Chicago,IL,Falafel,41.87695,-87.634243,$,322
-854,Tempo Cafe,jUpC2e91d5mFTH-9Y99moA,Chicago,IL,Coffee & Tea,41.898485654682,-87.627969592056,$$,729
-855,Yvolina's Tamales,wMhG0PouKKXiZ5zYalxJMw,Chicago,IL,Vegan,41.85831,-87.64727,$,143
-856,Hagen's Fish Market,ArFuhXxp9n0_pGlbYY8_zA,Chicago,IL,Seafood Markets,41.96019,-87.76876,$$,223
-857,Defloured,RHf-0ZKp-hcX5FTkGEyz2g,Chicago,IL,Bakeries,41.9797151,-87.6679192,$$,125
-858,Margeaux Brasserie,7o5H7U52hQb-iy-yHtGI-A,Chicago,IL,French,41.8996979,-87.627619,$$$,179
-859,Corridor Brewery & Provisions,SbdZRJSSISB-cUQ9ShBetQ,Chicago,IL,American (New),41.94474,-87.66429,$$,387
-860,Indian Garden Restaurant,MBSKDy2NO0Md9Syvzh0dRw,Chicago,IL,Indian,41.893209,-87.620806,$$,731
-861,Nookies Edgewater,HRGw4jttKMokp_PSGPhh8g,Chicago,IL,American (New),41.98395,-87.65824,$$,528
-862,Simone's Bar,ARfeNUuLOleeewI1mgCPmQ,Chicago,IL,Lounges,41.8581707126579,-87.6510884753762,$$,684
-863,Sai Cafe,ql34OG6XR7oKnpAV6Mi1nQ,Chicago,IL,Sushi Bars,41.9183686,-87.6534449,$$,324
-864,3 Greens Market,dsNOMy73KW_eP6ZtecZqCg,Chicago,IL,Salad,41.8900399,-87.6377633,$$,234
-865,Ben's Noodles and Rice,v2t3jeEBTXLyy35tVvXSeA,Chicago,IL,Thai,41.9835028,-87.6593878,$,374
-866,Kit Kat Lounge & Supper Club,IITu5GokSXIJC902vV_b0A,Chicago,IL,American (New),41.949263828004,-87.6497471053475,$$,656
-867,My Pi Pizza,Mp1-ZUhNcXUAM-D3h3nGkQ,Chicago,IL,Pizza,41.918533,-87.67779,$$,346
-868,Giordano's - Navy Pier,PlJM2cGFBEhv51_ZpP2EuQ,Chicago,IL,Pizza,41.891823,-87.60966,$$,626
-869,Nookies Too,yB7JF4Sr0CgBmymnL1KwRw,Chicago,IL,Breakfast & Brunch,41.9204807281494,-87.648650854826,$$,448
-870,Paulie Gee's Logan Square,Xh5vGcoKk-SaBw7GUZDFxg,Chicago,IL,Pizza,41.92589,-87.70168,$$,333
-871,Little Beet Table,W8-W5b8kZYCM7AnN7Ct7TA,Chicago,IL,American (New),41.8980946545345,-87.6280522408365,$$,317
-872,Chicken Planet,p_tOKdAg5rlyVYRCkmVPCA,Chicago,IL,Chicken Shop,41.876749,-87.633383,$,187
-873,The Grafton,JVPraLjYtcNRzcfhHHNOhQ,Chicago,IL,Pubs,41.96393,-87.68587,$$,501
-874,Krung Thep Thai Cuisine,1PMp9MqVvqmZ5n3kN_TO2w,Chicago,IL,Thai,41.9401536,-87.6490613,$$,242
-875,Interurban Boathouse,n7ENmPWxhAXEONNMN393Jw,Chicago,IL,Bakeries,41.91706,-87.66494,$,117
-876,Dimo's Pizza,11O_S3IFvyF9JAB5uhLdAw,Chicago,IL,"Beer, Wine & Spirits",41.911037,-87.677126,$,393
-877,Farm Bar Lakeview,sJOPkTGLi53eB46ykvDeRg,Chicago,IL,Bars,41.93643,-87.66141,$$,249
-878,Rockwell's Neighborhood Grill,EfSiYrSkWfGV6q0G-if6hw,Chicago,IL,American (New),41.96587,-87.6939699,$$,395
-879,Gibsons Italia,8wARj6QqmnSkUqLwoBCn7w,Chicago,IL,Steakhouses,41.8866045,-87.6396918,$$$,327
-880,7 Plates Cafe,PYmYzvpsXPv5oRg7IqZHOg,Chicago,IL,Breakfast & Brunch,41.92257,-87.64436,$$,123
-881,Mfk,26AX3IYq2L_ZgUj7hFr9aQ,Chicago,IL,Seafood,41.9329949,-87.64057,$$$,231
-882,Taxim,XUuowLQFgy8Bo7xpeb5bkw,Chicago,IL,Greek,41.9098026,-87.6767066,$$$,451
-883,La Sardine,-3UhToDI8YYrvkIRD8tySg,Chicago,IL,French,41.8833789,-87.6530362,$$$,351
-884,Gorée Cuisine,2iArxEMmFHny0A2C60zGsw,Chicago,IL,Senegalese,41.8097706381699,-87.5981277573409,$$,201
-885,1492 Cuban Fusion,4oATsYP0OF0ciHz-_-c_Lw,Chicago,IL,Cuban,41.909976,-87.692779,$,162
-886,Rogers Park Social,AbLaL2AsZMzL5TTYTyuO-w,Chicago,IL,Lounges,42.0074272,-87.6662979,$$,176
-887,Torteria San Lenchito,_3hz43PN50iPIap6XnjU8w,Chicago,IL,Mexican,41.9686651,-87.7171894,$,94
-888,Macello,UBRWllRUeY1yolEfcglRmA,Chicago,IL,Italian,41.885228,-87.6582169,$$,300
-889,Gaslight Coffee Roasters,rYc8maCCT-zleaQdEBKweA,Chicago,IL,Cafes,41.92458,-87.69972,$,271
-890,Enolo Wine Cafe,5SLlXjQRWnLCaRAJtX5uhA,Chicago,IL,Wine Bars,41.8906945040373,-87.6312950202378,$$,283
-891,Rosa's Lounge,_xwu0u89oj6th1g_BFcDMw,Chicago,IL,Jazz & Blues,41.9176,-87.71278,$$,143
-892,Royal Thai Restaurant,Rw0xPco50HMr9JNiqgiGnQ,Chicago,IL,Thai,41.9612451,-87.684196,$,284
-893,sweetgreen,c1J0cIfrq8zC-zovH5AJRQ,Chicago,IL,Salad,41.893103,-87.6278976,$$,250
-894,Yassa African Restaurant,CjAKxQ0okWHqtz0o4jxMFg,Chicago,IL,Senegalese,41.830723756206,-87.6167381675416,$$,261
-895,Heaven on Seven Wabash,KdTYm6S6PyIIEfYHHONZkw,Chicago,IL,Cajun/Creole,41.88347,-87.62575,$$,423
-896,Bellemore,RqUPrDTsGTuCzwQylbAEtg,Chicago,IL,American (New),41.8847,-87.6423,$$$$,206
-897,Wishbone,RYw_no9ohtCg09aKorVffg,Chicago,IL,Southern,41.941674636742,-87.67028176426,$$,740
-898,Brando's Speakeasy,0s3yJUGqg9KrPCSwk8hJNA,Chicago,IL,Karaoke,41.87713,-87.629,$$,467
-899,Soupbox,kr2ipJbSnYUYI0fdwQizaw,Chicago,IL,Soup,41.936229,-87.644115,$,512
-900,Driehaus Museum,1Sz1C_jyrjx_f7I7jyyOpw,Chicago,IL,Museums,41.8939343632448,-87.6274770509009,0,110
-901,Split-Rail,8XNGM8f0QLSOqDEactfigA,Chicago,IL,American (Traditional),41.8959276538074,-87.6895823702216,$$,155
-902,Big Bowl,W4dwdmpUAZFv2hsUOcZOnA,Chicago,IL,Chinese,41.892629,-87.6261317,$$,789
-903,LD Pho,jXFtE49rqbJyHuyc8DZuzA,Chicago,IL,Vietnamese,41.9672852,-87.7086269,$$,160
-904,Nando's Peri-Peri,nlzCOQG-8oKBOGMMtbreTg,Chicago,IL,Portuguese,41.881399,-87.626399,$$,390
-905,Stan's Donuts & Coffee,5Ztwcg5GmMSqne-kQ0UOBw,Chicago,IL,Donuts,41.893903150112,-87.6205265079346,$,346
-906,Cafe Central,YF1YUnp1hDs38O5khC6rjQ,Chicago,IL,Puerto Rican,41.8960102,-87.6639254,$,227
-907,Sociale Chicago,PPMAnBtLm9yrnO3lGCV9uA,Chicago,IL,Bars,41.8719817,-87.6306186,$$,378
-908,Gio's Cafe and Deli,K9PR2ixP1in-sqiQN-kinA,Chicago,IL,Delis,41.84366,-87.64312,$$,248
-909,Tavern On Rush,_mvEpTQ7IuUs51cWXfzGKA,Chicago,IL,Steakhouses,41.9018219998443,-87.6279733472541,$$$,970
-910,Bob's Pizza,1wSxClt75nOBS31--dlWYg,Chicago,IL,Pizza,41.853945,-87.6683543622494,$$,99
-911,Arbor,sqaHmXuonFpBxJuQFmmsng,Chicago,IL,American (New),41.931542,-87.692155,$$,174
-912,Furious Spoon - Logan Square,LAhLCarbN4hX0X8BBgzmsg,Chicago,IL,Ramen,41.9249801635742,-87.7010879516602,$$,557
-913,Chicago Raw,2kNaY86bIQqj1OwNXHwD5A,Chicago,IL,Vegan,41.8947448,-87.6301154,$$,182
-914,Chiu Quon Bakery,HAXPZ2zKHLQ5OtkA05e3NA,Chicago,IL,Bakeries,41.97302,-87.6588699,$,257
-915,Riccardo Trattoria,he9H0xVDQW4EOvUap_YdVg,Chicago,IL,Italian,41.9207649230957,-87.6371841430664,$$$,347
-916,SmallBar,vEzJt2Ouq0KZcTNLk-KBgw,Chicago,IL,Bars,41.935667,-87.705441,$$,285
-917,Smack Dab,S96imo1X3KP-CPBd7rhjWw,Chicago,IL,Breakfast & Brunch,42.004685,-87.673247,$,198
-918,Min's Noodle House 渔家重庆小面,0F80pfvLYzKdHhSakhbYAg,Chicago,IL,Noodles,41.8353899,-87.64586,$$,254
-919,Broken English Taco Pub - The Loop,LdinBOfr0f0RFi5kJpbgyQ,Chicago,IL,Mexican,41.885722438168,-87.6250369825827,$$,686
-920,Mr D's Shish-Kabobs,2LLApMHFO88KvxaM8emM_w,Chicago,IL,Fast Food,41.93117,-87.79283,$,158
-921,"Travelle at The Langham, Chicago",Sv1_VhFbQOBc60KfCT5ENg,Chicago,IL,American (New),41.888596585748,-87.6275642841309,$$$,271
-922,26th Street Sugar Shack,d7JGTH8GtiWwLZRnrace7w,Chicago,IL,Ice Cream & Frozen Yogurt,41.84558,-87.6428,$,207
-923,Nepal House Indian & Nepalese,RyP97ONsO612MeIQfzhmoA,Chicago,IL,Himalayan/Nepalese,41.8656524,-87.623901,$$,505
-924,Vosges Haut-Chocolat,jrpTw_SXbqXZVJ-15h0PSA,Chicago,IL,Chocolatiers & Shops,41.891495154136,-87.6245298650818,$$$,226
-925,Akhirah's Praline Candy,hTlUfq-RT2FAzIuP4k3b5g,Chicago,IL,Candy Stores,41.8565,-87.62678,$,105
-926,Hutch American Bistro - Lakeview,-oQpuRWBkoC2OLKe__7F7g,Chicago,IL,American (Traditional),41.9419518,-87.6521806,$$,614
-927,Brew Brew Coffee and Tea,duIL_7gzqd23L6tJgulrcw,Chicago,IL,Coffee & Tea,41.9319705579233,-87.7234526412826,$,153
-928,The Hideout,Osydc4MWSzNjiyewt8dNFQ,Chicago,IL,Music Venues,41.91387,-87.66254,$,216
-929,Bombay Wraps,Nj1S50plrXjrchoDuNT95Q,Chicago,IL,Indian,41.88393,-87.63403,$,424
-930,Pizzeria Serio,klq9aUxCxA1kneDhc6hc_Q,Chicago,IL,Pizza,41.9399147033691,-87.6715316772461,$$,371
-931,Range,UBRUh0001F5MbeziBV-BFw,Chicago,IL,American (New),41.921427,-87.656728,$$,269
-932,Cleos,q8H-w31ZLgwXVk2yDMSF0A,Chicago,IL,American (Traditional),41.89563,-87.67599,$$,414
-933,Funkenhausen,TBCNrNW2WY4kuvg9LybEFA,Chicago,IL,German,41.89571,-87.67022,$$,166
-934,Exchequer Restaurant & Pub,q9AUsrYTakTMIHJkKA_EIQ,Chicago,IL,Pizza,41.8787384660152,-87.6263198788816,$$,555
-935,Portage Grounds Coffee & Tea,0qgAi9NA512PuF0ug-yQwg,Chicago,IL,Coffee & Tea,41.952901,-87.764705,$,222
-936,Shake Shack,i0DvXKkPTHQC4HOnp8Z2Zg,Chicago,IL,Burgers,41.881664,-87.624969,$$,575
-937,The Fifty/50,6gZTET0y7ARZMrbJRmI2mw,Chicago,IL,Sports Bars,41.90301427628,-87.6788022511999,$$,671
-938,Kāl'ish,p9_aj36ycQx-oqx4puFzwg,Chicago,IL,Vegan,41.9651912,-87.6629087,$$,188
-939,Zam Zam,-sQAdsG5rFgpBDkaO6qYwA,Chicago,IL,Middle Eastern,41.94515,-87.65463,$$,236
-940,Old Jerusalem,2yB1cFS4YZN1eziiCKHrzg,Chicago,IL,Middle Eastern,41.90783,-87.63442,$$,362
-941,Loop Juice,bNsgLUvWZRs3TvxslbhZcA,Chicago,IL,Juice Bars & Smoothies,41.8840684,-87.6412297,$,142
-942,Eli's Ark,wmj_Xz6jR3-G02Fb950x2Q,Chicago,IL,Gelato,41.91026,-87.67437,$$,92
-943,The Book Cellar,9UdMTorJLPaUoRj1IZXYoA,Chicago,IL,Bookstores,41.96748,-87.68826,$$,273
-944,Hamburger Mary's,Rs2n1VDDD6pkQqexBAJJ0w,Chicago,IL,American (Traditional),41.97997,-87.66851,$$,976
-945,Rica Arepa,H1Bs27aRoY5X3UyJEm_Q0Q,Chicago,IL,Venezuelan,41.916972,-87.733514,$,102
-946,Cellar Door Provisions,6bjsGpmLl9JgbsRZ-JYR-w,Chicago,IL,American (New),41.931956,-87.703627,$$,194
-947,Baptiste & Bottle,JfgS1O2N84LCnEnzUY8bSQ,Chicago,IL,American (New),41.893975,-87.6252358,$$,323
-948,Sushi Tokoro,z7aD_vt4Y69OqqkUZpKGpw,Chicago,IL,Japanese,41.9683599,-87.68925,$$,413
-949,El Taco Feliz Taqueria,nXbaIvOAi14TcQhKE2k_5A,Chicago,IL,Mexican,41.94566,-87.76335,$,173
+,Business,Business ID,City,State,Category,Latitude,Longitude,Price,Reviews,Rating
+0,Volare Ristorante Italiano,7vsOVA4wrHP6f3DMQdD8og,Chicago,IL,Italian,41.8915901798304,-87.6225186472213,$$,2001,4.0
+1,Over Easy Cafe,0fYNLK7VpBUW4mgFyPCrWQ,Chicago,IL,Breakfast & Brunch,41.9717208,-87.6790834,$$,1424,4.5
+2,Siena Tavern,dSqRMhGNCWuSjPT_4lsZqw,Chicago,IL,Italian,41.8890751,-87.6299699,$$$,1717,4.0
+3,The Cloud Gate,5s9ntZVD45n2CxboZnLbSg,Chicago,IL,Landmarks & Historical Buildings,41.8825524,-87.6225514,0,735,4.5
+4,Lincoln Park Zoo,RQmbLZvI7XyFQd2JgNDVig,Chicago,IL,Zoos,41.9209148287011,-87.6336050034629,0,1238,4.5
+5,Gibsons Bar & Steakhouse,sNQglz_HoXgnUi1KTN3Iew,Chicago,IL,Steakhouses,41.901394,-87.627962,$$$,1880,4.0
+6,Do-Rite Donuts & Chicken,cyoEeLb5rc9ZAeTO2dkEUQ,Chicago,IL,Donuts,41.894028,-87.6213298,$,1100,4.5
+7,Fogo de Chao Brazilian Steakhouse,43rd1LKcZRIunySzbMsyLQ,Chicago,IL,Brazilian,41.89418,-87.63251,$$$,1594,4.0
+8,Gilt Bar,sDYjKyI_67eUhFAqVneYjA,Chicago,IL,American (New),41.8894,-87.6353199,$$$,1650,4.0
+9,Little Bad Wolf,9mhqcimD0CYvqxzfj_VXnQ,Chicago,IL,American (Traditional),41.9833823855364,-87.6690510144549,$$,1427,4.5
+10,Do-Rite Donuts & Coffee,Qn10NEhycm3k5HQoueDYSQ,Chicago,IL,Coffee & Tea,41.8846392380926,-87.6301468588139,$,1087,4.5
+11,Revolution Brewing,OKOfoisduqP24uK3WYvx7Q,Chicago,IL,Breweries,41.92353,-87.698153,$$,2070,4.0
+12,RPM Steak,JMWtBuuNmTXqoBs06Wt_7w,Chicago,IL,Steakhouses,41.8894143124861,-87.6305293460327,$$$$,1347,4.0
+13,Mindy's Hot Chocolate,JR5TOTAgxBj4YLfNQ3Dljw,Chicago,IL,American (Traditional),41.91367,-87.67718,$$,2360,4.0
+14,Bandera Restaurant,fJhF5Yy4nguguaaH3TabmQ,Chicago,IL,Jazz & Blues,41.8919021875965,-87.6236184577346,$$,1803,4.0
+15,m.henry,nd1KFxtZHXIMLqPtgubLpQ,Chicago,IL,Breakfast & Brunch,41.9856948852539,-87.6688842773438,$$,1687,4.0
+16,Bang Bang Pie & Biscuits,EqH-IWJytSPCVV3sA0OgcA,Chicago,IL,Bakeries,41.91909,-87.696983,$$,1099,4.5
+17,The Dearborn,PZe0q_153VHUnaR-8dOTJg,Chicago,IL,American (New),41.88412,-87.629146,$$,1243,4.5
+18,Maple & Ash,UK5Xb8xqUOUBi5vQu0bQXQ,Chicago,IL,Steakhouses,41.9021130633339,-87.6286945502972,$$$$,1192,4.5
+19,Firecakes Donuts,psz-vCo_OxNt21o6D0UfAw,Chicago,IL,Bakeries,41.89027,-87.63078,$,1496,4.0
+20,Gyu-Kaku Japanese BBQ,nO8Yrt4l4JLSvCAkkwrk1Q,Chicago,IL,Japanese,41.89281,-87.62223,$$,1561,4.0
+21,Frontera Grill,AqgG-1aD6JYj9D6OmBWO3w,Chicago,IL,Mexican,41.8905699,-87.63079,$$$,2238,4.0
+22,3 Arts Club Cafe,_wtMT97gelNAyfI82FPFvA,Chicago,IL,Cafes,41.9058,-87.63047,$$,1021,4.5
+23,Hopleaf,sR4EOfPuI-at41uIxIZPhw,Chicago,IL,Gastropubs,41.97581,-87.66874,$$,2077,4.0
+24,Jeni's Splendid Ice Creams,XKfbWkIuVvXwAV8zjGqn5A,Chicago,IL,Ice Cream & Frozen Yogurt,41.909,-87.67479,$$,616,4.5
+25,Velvet Taco,NOKQi1saEWWp-cbUhkUtFQ,Chicago,IL,American (New),41.9022,-87.62858,$$,1402,4.0
+26,Ipsento,CZAVqR6lI50rVbN7E78aHA,Chicago,IL,Coffee & Tea,41.9186515808105,-87.6871032714844,$,829,4.5
+27,90 Miles Cuban Café,mCHto10PBQOKnefm7gholg,Chicago,IL,Cuban,41.9176864624023,-87.6918029785156,$$,1933,4.0
+28,Summer House Santa Monica,5D5GiHm67V4thed30Etzhg,Chicago,IL,American (Traditional),41.9174315,-87.6486675,$$,2228,4.0
+29,Greek Islands Restaurant,_UJ3KqtHIHjExbAg-iIGUA,Chicago,IL,Greek,41.87896,-87.64763,$$,1799,4.0
+30,Yolk - South Loop,CwPi6NVuJIZZx4IBcTekFQ,Chicago,IL,Breakfast & Brunch,41.8687801,-87.6242249,$$,2132,4.0
+31,GT Fish & Oyster,KBl9QR4iVzT_4rF7FzTdyg,Chicago,IL,Seafood,41.8917501928574,-87.6338920000632,$$$,1449,4.0
+32,Tango Sur,uyUKtGWLYgu-RLjlNImy0A,Chicago,IL,Latin American,41.9507843879442,-87.6639031774259,$$$,2280,4.0
+33,Penumbra,VPJk-SEWSWS_nGoQvM-COw,Chicago,IL,Wine Bars,41.92445,-87.710933,$$,474,5.0
+34,En Hakkore,q684td_kKNRMTHMeMchXOg,Chicago,IL,Korean,41.9150939,-87.6777957,$$,701,4.5
+35,Carnivale,sfWMOqUEp8S2adDeJp7Kzg,Chicago,IL,Latin American,41.887075681459,-87.646048728271,$$$,2215,4.0
+36,Yolk - Streeterville,o4MU9gK7epWUMv2WVW1qrA,Chicago,IL,Breakfast & Brunch,41.8924891,-87.618153,$$,2060,4.0
+37,Small Cheval,7Es7EbTy_s1btAdowLeiPQ,Chicago,IL,Burgers,41.91282,-87.6815699,$$,1016,4.5
+38,Wildberry Pancakes and Cafe,T9xKvh9GxwnuU_4WjYZb9w,Chicago,IL,Pancakes,41.8976571762046,-87.6220511853708,$$,783,4.5
+39,Blackbird,bFxtGcL0W7ZNEj3NwTmM0A,Chicago,IL,American (New),41.8842918333133,-87.6435537582028,$$$,1539,4.0
+40,Chicago q,euO3-H92LCivH2B0CQPlnw,Chicago,IL,Barbeque,41.903617442969,-87.63023965658,$$,1809,4.0
+41,The Bongo Room,_b69OdBNLhysN1jFlYNQiA,Chicago,IL,American (New),41.90841,-87.67492,$$,1570,4.0
+42,Tweet,Psi34XLTOtVqLYS9StO1hA,Chicago,IL,American (New),41.973982,-87.655259,$$,1496,4.0
+43,TWO Restaurant,Dn23mAnWMquipOt4b76fOQ,Chicago,IL,American (New),41.89133,-87.65613,$$$,841,4.5
+44,Big Star,_StOUGMGMmENR44zAEoDrA,Chicago,IL,Mexican,41.9093,-87.67718,$$,3184,3.5
+45,Prime & Provisions,3Q_N0K28SRJbPy2sz0QqVw,Chicago,IL,American (Traditional),41.886635,-87.63282,$$$$,1058,4.5
+46,The Bad Apple,GEpXn9rtTMtIj5NsGFiNQw,Chicago,IL,Burgers,41.959767,-87.682822,$$,1504,4.0
+47,Bar Siena,0hfDRVaGSydijN5du1HCzg,Chicago,IL,Italian,41.88466,-87.64885,$$,1320,4.0
+48,Lawrence Fish Market,uQFHfnbJm7LIxLhjMKc4mQ,Chicago,IL,Sushi Bars,41.968411,-87.726525,$,817,4.5
+49,Tanta,HkUUKDwlIu869ECubV4NfA,Chicago,IL,Peruvian,41.891861,-87.6320114,$$$,1113,4.0
+50,The Chicago Diner,xdx3hwHT-m6_heZrKyH7vg,Chicago,IL,Vegan,41.9237447433269,-87.6982310134918,$$,828,4.5
+51,Lou Malnati's Pizzeria,FqzYCiJ29FGw6KFAGrpuJQ,Chicago,IL,Bars,41.90259525277,-87.6286705209015,$$,1464,4.0
+52,MingHin Cuisine,s1JPKx5lAeoq7QU8pmN-5A,Chicago,IL,Seafood,41.8532564325305,-87.6349026829699,$$,2147,4.0
+53,Nhu Lan Saigon Subs,kysa2NqoR8iYIjuaWELeZA,Chicago,IL,Vietnamese,41.9687048,-87.6944151,$,803,4.5
+54,The Aviary,ssrgrr-IjNFSdlLzCK5p0A,Chicago,IL,Cocktail Bars,41.8865304811531,-87.6520544164074,$$$$,1347,4.0
+55,Hoosier Mama Pie Company,XmFML20vtMPMuKCXlR2Fzg,Chicago,IL,Desserts,41.896234,-87.668002,$$,809,4.5
+56,Cindy's,riT822EnU7y_5eCuJsd9sA,Chicago,IL,American (New),41.8816894031196,-87.6250061730162,$$,1640,4.0
+57,Handlebar,zF9o33BVqLUOcCmnuB2eQw,Chicago,IL,Vegetarian,41.9100899,-87.6853,$$,1388,4.0
+58,Intelligentsia Coffee,kWOELNlUM14bv0m-slvq6A,Chicago,IL,Coffee & Tea,41.877995,-87.6295658341911,$$,1157,4.0
+59,Sultan's Market,O6uWHgJzylSjWjPSJKGhnQ,Chicago,IL,Middle Eastern,41.910362,-87.67973,$,1284,4.0
+60,Spacca Napoli,0fFLUKl71vv3eNV2xhikEw,Chicago,IL,Pizza,41.963286,-87.673801,$$,1457,4.0
+61,Roka Akor - Chicago,rgHFY55p10VVur7N3s-z5Q,Chicago,IL,Sushi Bars,41.8905877769375,-87.6312957381504,$$$,1146,4.0
+62,Owen & Engine,Z7Z0QCpKxJ_1JQcr6mz3VA,Chicago,IL,Gastropubs,41.93047,-87.68823,$$,1087,4.0
+63,Gather,WODBuNjlEgNIf459Wh-AWw,Chicago,IL,Wine Bars,41.9643402,-87.6853638,$$,818,4.5
+64,Davanti Enoteca,IvdOI86_CSCRFpid2atnyA,Chicago,IL,Italian,41.86911,-87.66147,$$,1203,4.0
+65,The Signature Room at the 95th,L1CS0gyTolKComzGwLk37A,Chicago,IL,Lounges,41.898796081543,-87.6230239868164,$$$,3138,3.5
+66,Coalfire Pizza,wiNuegM8MNw9WIP0wfMmeA,Chicago,IL,Pizza,41.89075,-87.65988,$$,1053,4.0
+67,Sawada Coffee,G-LUoHk_E_XCjSoSsaflFw,Chicago,IL,Coffee & Tea,41.8836669921875,-87.6489334106445,$$,584,4.5
+68,RAMEN-SAN,zIXZtgiir9CVF-iZeeAvaQ,Chicago,IL,Ramen,41.889798,-87.630293,$$,2000,4.0
+69,Stan's Donuts & Coffee,tzxnPFzKhLN1lu6Yn9g2tg,Chicago,IL,Donuts,41.910064,-87.677643,$$,1028,4.0
+70,DMK Burger Bar,763ARZeDvQfhXZvkDlKtFw,Chicago,IL,Burgers,41.936055,-87.65411,$$,1944,4.0
+71,Giordano's,Bxd9Y2PsdvIOGIKFQh53RQ,Chicago,IL,Pizza,41.885165,-87.623753,$$,2532,3.5
+72,Jeni's Splendid Ice Creams,nr3JxrY1zQDLsYKUKPqWzA,Chicago,IL,Ice Cream & Frozen Yogurt,41.943679,-87.664267,$$,585,4.5
+73,Toro Sushi,sjhBzCcFE2bzAG3j53roZQ,Chicago,IL,Sushi Bars,41.92907,-87.64281,$$,1085,4.0
+74,Ēma,tuJraaFffIS_JNK_4ZqGTA,Chicago,IL,Mediterranean,41.8909649,-87.6306233,$$,895,4.5
+75,Honey Butter Fried Chicken,eUlykGltBGH0RC5lkwx2eg,Chicago,IL,Chicken Shop,41.9426302817062,-87.7027218416333,$$,1857,4.0
+76,BIG & little's Restaurant,ZjHA6dwdgGXm-NjUcFezOA,Chicago,IL,Fish & Chips,41.898386,-87.63726,$$,1188,4.0
+77,En Hakkore 2.0,kUpqpEqkBjZguS1uA6NQYA,Chicago,IL,Asian Fusion,41.90869,-87.6743,$$,427,4.5
+78,Monteverde,o0DaPvRb4IWH7hUWVCnoGw,Chicago,IL,Italian,41.88191,-87.65302,$$$,757,4.5
+79,Antique Taco,YU3XvseN8keVmipgidQ94w,Chicago,IL,Mexican,41.9063606,-87.6716766,$$,1218,4.0
+80,Taste of Lebanon Restaurant,6hw-HPdP1oDpCbMHBLid-w,Chicago,IL,Middle Eastern,41.9760635,-87.6686494,$,676,4.5
+81,Field Museum,UB6XDuHepJ-ufzsBBcGXKQ,Chicago,IL,Museums,41.8654462216207,-87.6170827596939,0,1177,4.0
+82,Bryn Mawr Breakfast Club,5u27W_xHIKhVbws08lXXJg,Chicago,IL,Breakfast & Brunch,41.9831649,-87.71335,$$,812,4.5
+83,La Scarola,KXiClWndL6UyPJDt7y50zQ,Chicago,IL,Italian,41.8910731156813,-87.6468847784913,$$,1138,4.0
+84,Homeslice,qbpo-OPav2tv4TV5C8BFKw,Chicago,IL,Pizza,41.922,-87.65249,$$,1020,4.0
+85,Giordano's,z_qEuUuRWIq4O-YufXHf1w,Chicago,IL,Pizza,41.8958755,-87.625643,$$,2607,3.5
+86,The Capital Grille,XsGNjQODQGHMUPKrS_xEnA,Chicago,IL,Wine Bars,41.893789,-87.622358,$$$,773,4.5
+87,Flub A Dub Chub's,zbdhMq_8OjSZEHyw_PoQBQ,Chicago,IL,Hot Dogs,41.93717,-87.64401,$,658,4.5
+88,Doc B's Restaurant + Bar,jxPXmzh6a_JZbLDb1QM27w,Chicago,IL,American (New),41.891591,-87.626302,$$,743,4.5
+89,Lowcountry Lakeview,ufxKkcPhjlF4x2C1Or8ckA,Chicago,IL,Cajun/Creole,41.942883,-87.6528328,$$,564,4.5
+90,Panes Bread Cafe,skpDldmlZlw6e82tpiVyrg,Chicago,IL,Sandwiches,41.9364856920137,-87.6542047151184,$,732,4.5
+91,Beatrix Streeterville,0VEE9H6OuGaswhC70tjKeQ,Chicago,IL,American (New),41.8944242,-87.622564,$$,821,4.5
+92,Maude's Liquor Bar,BmqLmgX7i-pM-0h_xzbwMA,Chicago,IL,French,41.88466,-87.64908,$$$,1001,4.0
+93,Momotaro,FGNKtLYZphTlIjlMGPMuTA,Chicago,IL,Sushi Bars,41.8858362394937,-87.6485168502935,$$$,954,4.0
+94,Bari,TrHpyyurfCHWUQMpsLyxVw,Chicago,IL,Grocery,41.89136,-87.65555,$,728,4.5
+95,J.P. Graziano Grocery,jA9n0blJbyaP1pcmn0yu2A,Chicago,IL,Grocery,41.88405,-87.65001,$,493,4.5
+96,Pleasant House Pub,tQoQbc3vAo3qdTDiNgSekA,Chicago,IL,British,41.85357,-87.64621,$$,745,4.5
+97,Mastro's Steakhouse,Pcg4FtfbvSMMwrYuE1yVjQ,Chicago,IL,Steakhouses,41.8914200867251,-87.6299571990967,$$$$,1227,4.0
+98,Scofflaw,sWYRaPCYHrTxsZPLWmzkzQ,Chicago,IL,American (New),41.9173240661621,-87.7071762084961,$$,738,4.5
+99,Tank Noodle,ALwH81_sqskLmwfWS-_eeQ,Chicago,IL,Vietnamese,41.9731100981603,-87.65954048683,$$,1739,4.0
+100,Noon O Kabab,8j97C2qR95tvpbGtoFxEAw,Chicago,IL,Persian/Iranian,41.9669816,-87.7081594,$$,995,4.0
+101,Café Iberico,gSMAmIma0SWC0qJnZeggnA,Chicago,IL,Spanish,41.8959660347534,-87.632308046627,$$,2061,3.5
+102,Eddie V's Prime Seafood and Steaks,Q0oO6sTrUoSqeiJHIGaLaw,Chicago,IL,Seafood,41.891544320187,-87.6252151962952,$$$,658,4.5
+103,Oiistar,U9D0vqEP4QrJfJYs8mr3DA,Chicago,IL,American (New),41.9070880100627,-87.6720839738846,$$,922,4.0
+104,Fatso's Last Stand,GbC6XO60SlLnlIOTbJE-Ew,Chicago,IL,Hot Dogs,41.8959792096669,-87.6842580932541,$$,749,4.5
+105,Doc B's Restaurant + Bar,14dFm81gm4Kb8C0nd7wcmQ,Chicago,IL,American (New),41.900246,-87.625163,$$,743,4.5
+106,Brightwok Kitchen,yYAJAUfqnN3rQw7S8Cj12Q,Chicago,IL,Asian Fusion,41.8794583529234,-87.6270027458668,$$,580,4.5
+107,Duck Duck Goat,OSyGZMwCI9w_0BbQtH-kCw,Chicago,IL,Chinese,41.8866557616734,-87.6497170813778,$$$,1270,4.0
+108,Mother Cluckers Kitchen,e9aAISx0navH8qMr33X4TA,Chicago,IL,Southern,41.9752685744915,-87.7522482539673,$$,719,4.5
+109,Saucy Porka,hgE7M0H_iY4wIzFAgrOTCA,Chicago,IL,Cafes,41.877049,-87.634798,$,629,4.5
+110,Mario's Italian Lemonade,3utNdX0rn1koKiPUk8_SBg,Chicago,IL,Shaved Ice,41.86971,-87.65376,$,569,4.5
+111,Sun Wah Bar-B-Que,KomhK0JD5cleEW55YTw7MQ,Chicago,IL,Chinese,41.9739359,-87.6592371,$$,1553,4.0
+112,Spinning J Bakery and Soda Fountain,gxUFFsSLa-IyouuRD2Ma6w,Chicago,IL,Coffee & Tea,41.89945,-87.69716,$$,336,4.5
+113,Zizi's Cafe,wzw3aysUi9sBq-wLb6OXbQ,Chicago,IL,Mediterranean,41.9333149343307,-87.6537242180222,$$,569,4.5
+114,El Habanero,-NLBAIP5O8BYqbPg0toNog,Chicago,IL,Mexican,41.92496,-87.71099,$,442,4.5
+115,Farmhouse Chicago,6WE3zP14Azd0xM6Hk7C8Pw,Chicago,IL,Bars,41.8968599,-87.6354,$$,1290,4.0
+116,Steak 48,f1neY8Zd9xld7BB7G7mC0Q,Chicago,IL,Steakhouses,41.893,-87.62637,$$$$,568,4.5
+117,Flo,LOwInnfIfVFXpzaFYnrsnw,Chicago,IL,Breakfast & Brunch,41.8963899,-87.66383,$$,958,4.0
+118,The Bristol,0S44DHW394RexDqtFYMQLg,Chicago,IL,American (New),41.92105,-87.67804,$$,1128,4.0
+119,il Porcellino,1Q7RL7Hc63wKa2A9ec3zXw,Chicago,IL,Italian,41.88979,-87.6303,$$,678,4.5
+120,Hub 51,4Gxtzba86P8mY3ZgFeZ2IA,Chicago,IL,American (New),41.8899784766276,-87.6296997070312,$$,1743,4.0
+121,Devon Seafood Grill,cb3CIjBCPhOpdCWSPANLrQ,Chicago,IL,Seafood,41.8965751,-87.6265949,$$$,1154,4.0
+122,Viaggio Ristorante & Lounge,vb5hLPqsBEPmBsY-77Wl2g,Chicago,IL,Italian,41.88179,-87.6609,$$,685,4.5
+123,Oriole,_MnIiS_b3enHyx8Y62gd4Q,Chicago,IL,American (New),41.8860966,-87.6449481,$$$$,269,5.0
+124,Dove's Luncheonette,V2jEs7sH44pcG1J9x59f9w,Chicago,IL,Southern,41.909487,-87.677293,$$,648,4.0
+125,Pierogi Heaven,Tdy6sDnyu7Od2kBvlzduAA,Chicago,IL,Polish,41.8848892663734,-87.633853211969,$,701,4.5
+126,Sable Kitchen & Bar,8KzVXx6GCNBZBdtRGIdZDA,Chicago,IL,American (New),41.89111,-87.62754,$$,1304,4.0
+127,Star Lounge Coffee Bar,Bj-hbYQLeoJd422inI6E2A,Chicago,IL,Coffee & Tea,41.89544,-87.69017,$,520,4.5
+128,The Gundis,qXpvnq1EJ27iuoghG5A4-g,Chicago,IL,Mediterranean,41.9350992,-87.646744,$$,366,4.5
+129,BIG & little's Restaurant,LmOCyxWKENwQRlixDlObqw,Chicago,IL,American (New),41.9400472330334,-87.6555045423279,$,904,4.0
+130,Scooter's Frozen Custard,O_l0yHp_Lh5YqoOPVs16Og,Chicago,IL,Ice Cream & Frozen Yogurt,41.93980505865,-87.6709152248584,$,587,4.5
+131,The Crepe Shop,-KZsoQtr3e-md07sj0UQzQ,Chicago,IL,Creperies,41.93587,-87.64457,$,291,5.0
+132,Friends Sushi,CPj1XHGBsWOFiQpdxOyOxw,Chicago,IL,Sushi Bars,41.895366,-87.625781,$$,1279,4.0
+133,Union Sushi + Barbeque Bar,6KU3ylSh27qiiBa-a9vOGQ,Chicago,IL,Japanese,41.8940757,-87.6354284,$$,1127,4.0
+134,Yolk River North,IACTngt-bZGrhzflliIx7w,Chicago,IL,Breakfast & Brunch,41.8962039977196,-87.6339920320032,$$,1200,4.0
+135,Uncle Mike's Place,p_H2BANrAWEZbSyqmnviSQ,Chicago,IL,Breakfast & Brunch,41.89117,-87.66986,$$,625,4.5
+136,The Art of Pizza,tW2jfL-qMccAYZSghPBbHA,Chicago,IL,Pizza,41.9371221,-87.6683814,$,1148,4.0
+137,Hugo's Frog Bar & Fish House,VikWqZa32i70Qp-ETzw_lw,Chicago,IL,Seafood,41.901191,-87.627793,$$$,962,4.0
+138,Mercadito,Sfx5Yb95Wav1aOa0Qkv1VA,Chicago,IL,Mexican,41.8894499,-87.63162,$$,2113,3.5
+139,ZED451,d6UbRb9W5eA1yL-DuVZ8ug,Chicago,IL,Brazilian,41.896111,-87.63102,$$$,1382,4.0
+140,Simply It,N7juvW8YoFIj7sEBzVF8GQ,Chicago,IL,Vietnamese,41.923501,-87.6457,$$,954,4.0
+141,Gino's East - Magnificent Mile,ibreTMGGaQSanZttUchjKg,Chicago,IL,Pizza,41.89603,-87.62307,$$,2266,3.5
+142,SafeHouse Chicago,U_OhWaDWwym5garJ5KyYMA,Chicago,IL,Bars,41.8934761420147,-87.6259666423279,$$,1103,4.0
+143,UB Dogs,BjZ1dWcQOt7w7BsMszxKHA,Chicago,IL,Hot Dogs,41.885406019773,-87.635216774701,$,479,4.5
+144,Ditka's Restaurant,wUkLiVC0XDuRs9zihWUPTw,Chicago,IL,American (New),41.89859,-87.62558,$$$,951,4.0
+145,Mercat a la Planxa,o4NcUfco7JxOcyfKFWyAhg,Chicago,IL,Tapas Bars,41.8732738,-87.6244472,$$$,1401,4.0
+146,Manny's Cafeteria and Delicatessen,5n86ysWVnN9SUA-VUVctrQ,Chicago,IL,Delis,41.867936029135,-87.642088208016,$$,952,4.0
+147,Sushi Taku,bZ7lvi5_BQ6UKK10OKPV7Q,Chicago,IL,Japanese,41.90351,-87.67512,$$,558,4.5
+148,Little Bucharest Bistro,Au1f1UMmKcgOXLsg4v56xw,Chicago,IL,Modern European,41.94799,-87.7105,$$,638,4.5
+149,Chicago Architecture Center,0c0sRK0EJy-0cpKm8T3rbg,Chicago,IL,Museums,41.888041737312,-87.6235734860398,$$,404,4.5
+150,Katherine Anne Confections,UQuKBMJcvcGN9kN2Fs0vxQ,Chicago,IL,Chocolatiers & Shops,41.91746,-87.696572,$$,271,4.5
+151,Lotus Cafe & Bánh Mì Sandwiches,FgscTtEHFNqnVGjubIvLXw,Chicago,IL,Vietnamese,41.86457,-87.64583,$,452,4.5
+152,Le Colonial Chicago,5OtAmmypXvuTbkFBCziF_Q,Chicago,IL,Vietnamese,41.900523,-87.6260999,$$$,1203,4.0
+153,Willis Tower,KbZ9cSMoAIsTWASs6m5mJw,Chicago,IL,Landmarks & Historical Buildings,41.8787339974903,-87.635894766129,0,1373,4.0
+154,True Food Kitchen,Leed_L3l2U8tKBdJwj8CyQ,Chicago,IL,American (New),41.8939058892114,-87.6285624504089,$$,691,4.5
+155,Staropolska Restaurant,5N4g9tt8RCuZf0Hte94Oxw,Chicago,IL,Polish,41.936365,-87.719246,$$,476,4.5
+156,Grand Lux Cafe,4wreIFjaPMppyEnzKHbozg,Chicago,IL,Desserts,41.8931488346022,-87.6245293330658,$$,2071,3.5
+157,Isla Pilipina,RxHAdNiJ8jPUQDvLz6mDwg,Chicago,IL,Filipino,41.9682525,-87.6916001116394,$$,749,4.0
+158,Adagio Teas,7GYatTFQXmWVpJXPqwHEUA,Chicago,IL,Coffee & Tea,41.8928619739405,-87.6278979714836,$$,354,5.0
+159,Butcher & The Burger,Ydf5dgFsGhMSP61Ht7TekA,Chicago,IL,Burgers,41.91787,-87.65423,$$,996,4.0
+160,Demera Ethiopian Restaurant,JDNZxz0ud7zhuPo5pqznMA,Chicago,IL,Ethiopian,41.96918,-87.65931,$$,1021,4.0
+161,Molly's Cupcakes,5C6lVOpXBMinM5xctSLiXA,Chicago,IL,Cupcakes,41.8910508602858,-87.615972161293,$,483,4.5
+162,Cafecito,UY7IzVYub6gr8HMS5_Dutg,Chicago,IL,Coffee & Tea,41.89804,-87.62127,$,511,4.5
+163,Qing Xiang Yuan Dumplings,T_egMuf7xJHLdldzPqOaSQ,Chicago,IL,Chinese,41.85505,-87.63219,$$,837,4.0
+164,Taza Cafe,eouoOadI4bWZqBRxWhok-w,Chicago,IL,Middle Eastern,41.88528255359,-87.635568761842,$,561,4.5
+165,Artopolis,UQ3cGi3GdBljE3i2_qLcBQ,Chicago,IL,Bakeries,41.877632,-87.647546,$$,874,4.0
+166,Piccolo Sogno,JMa9cTNQA5mm4GbR2W8Oiw,Chicago,IL,Italian,41.8908673494353,-87.6477823122675,$$$,1174,4.0
+167,Forno Rosso Pizzeria Napoletana,6EiFN9NS9BQnqw8FXWiY4A,Chicago,IL,Pizza,41.94767,-87.80672,$$,554,4.5
+168,Geja's Cafe,hylBw5ND7XyPldM6BN28vw,Chicago,IL,Fondue,41.9181498673941,-87.6380681991577,$$$,1398,4.0
+169,Margie's Candies,3DJ_F-fuSW3ExrMBMN7P0Q,Chicago,IL,Candy Stores,41.9171949999842,-87.6874404291906,$,959,4.0
+170,The Dawson,OGGtHsXsCUHaLkyUNZVXNg,Chicago,IL,American (Traditional),41.8913174932487,-87.6471944883606,$$,850,4.0
+171,Meli Cafe & Juice Bar,tCkwBTuEFvhuaBoEUWqbuQ,Chicago,IL,Juice Bars & Smoothies,41.87761,-87.647,$$,963,4.0
+172,Superdawg Drive-In,FCcgXODBs6O7MGH3VZNyLQ,Chicago,IL,Hot Dogs,41.9967775833509,-87.7870387664546,$,1522,4.0
+173,Cocina Boricua,nRnrKX7vMf71BknQdCM-cQ,Chicago,IL,Puerto Rican,41.9250421952759,-87.6884892983747,$$,397,4.5
+174,The Pasta Bowl,XgGUnYs2bjbbNvBefFtWxA,Chicago,IL,Italian,41.92638,-87.641448,$$,889,4.0
+175,Shedd Aquarium,XAh7Xce30KGmL_CTCdHAhg,Chicago,IL,Aquariums,41.867574,-87.61404,0,1754,3.5
+176,Publican Quality Meats,gbnabQiEgwrlcZbhFkOkNw,Chicago,IL,Butcher,41.8866482860074,-87.648498128403,$$,595,4.0
+177,25 Degrees,ksY97mbEy23n8GbYxOBgpA,Chicago,IL,Burgers,41.89595,-87.63159,$$,894,4.0
+178,Furious Spoon - Wicker Park,uKKnvy50eMJVicTRc_lm4g,Chicago,IL,Ramen,41.9100336,-87.6766114,$$,1199,4.0
+179,El Nuevo Mexicano,Ks4ktQzDBiY58SYDUAfhVg,Chicago,IL,Mexican,41.9352732,-87.6470639,$$,742,4.0
+180,Buona Terra,jlVvQOf4YE3ZO1gMFSAdww,Chicago,IL,Italian,41.92788,-87.69722,$$,616,4.5
+181,Monti's,3HE0HPAOa4kS5y4OhzQfzg,Chicago,IL,Cheesesteaks,41.968266340068,-87.694936727407,$$,613,4.5
+182,The Tamale Guy,ql-blAJYbv4dej4vlqdrkw,Chicago,IL,Street Vendors,41.90414,-87.68649,$,293,4.5
+183,Aloha Eats,WA8Fuuv9zRfZ8H8YkeYxsg,Chicago,IL,Hawaiian,41.9287526,-87.6425448,$$,921,4.0
+184,Chicago Cut Steakhouse,olT3-oFfj5jCuv49M6gZgQ,Chicago,IL,Steakhouses,41.8879719146942,-87.6333480203605,$$$,1540,4.0
+185,Buckingham Fountain,WfvODsf3KFDAkIbz0nWE-w,Chicago,IL,Landmarks & Historical Buildings,41.8758096034,-87.6189584077,0,351,4.5
+186,Wildfire,CQ75CQSyrsmb-S3UAwCHpw,Chicago,IL,American (Traditional),41.8938172904842,-87.6333183422685,$$$,1052,4.0
+187,Las Palmas,-MdaMqDSZDvNKoBIlDGlTQ,Chicago,IL,Mexican,41.910266,-87.673935,$$,672,4.0
+188,Serai,T1dv09OKSxmuitPVLXD5Aw,Chicago,IL,Malaysian,41.9206132,-87.6933394,$$,518,4.5
+189,Cafe con Leche,fzSR7vIQTQP0cir0Dgi9Vw,Chicago,IL,Mexican,41.9305879,-87.710207,$$,947,4.0
+190,Topo Gigio Ristorante,1hZJWzpYgUpOMkmGZAewsg,Chicago,IL,Italian,41.9096594975818,-87.6348415912861,$$,868,4.0
+191,Luke's Lobster Chicago City Hall,VzkF5Yw5Gb83tESIUhyIhQ,Chicago,IL,Seafood,41.8840133613437,-87.6329983558197,$$,508,4.5
+192,Carnitas Uruapan,0eMo-MeawM-tmbwpzv3rDg,Chicago,IL,Mexican,41.857612801225,-87.669703625051,$,386,4.5
+193,Sprinkles Cupcakes,ii7M01X0XTYEz28cDSd6MQ,Chicago,IL,Bakeries,41.90021,-87.62638,$$,1104,4.0
+194,Fat Rice,uVYkk8dsnSMSd6xMGGoGTw,Chicago,IL,Chinese,41.9319451,-87.7017382,$$,1017,4.0
+195,Native Foods,J-i3frdwkM0prRxH98Zp2Q,Chicago,IL,American (New),41.87887,-87.63117,$$,794,4.0
+196,Jake Melnick's Corner Tap,vofANrgotem6XRBBf5sc7A,Chicago,IL,Sports Bars,41.8955265,-87.626528,$$,1202,4.0
+197,The Roost Carolina Kitchen,vz1aN17saAgwhRD8kneCGw,Chicago,IL,Southern,41.954224,-87.666774,$$,708,4.0
+198,S.K.Y.,zH7lgLLw0FVfA6HrwV4pTw,Chicago,IL,American (New),41.8577851,-87.6578749,$$$,348,4.5
+199,Aba,9nUrDQ_REhU6sgcgXFAyfA,Chicago,IL,Mediterranean,41.8869441,-87.6487949,$$$,554,4.5
+200,Lickity Split Frozen Custard,fwaQgDduHk3uF-I6e9Btpw,Chicago,IL,Ice Cream & Frozen Yogurt,41.9925749037652,-87.6605764912861,$,498,4.5
+201,Chi Cafe,BwoMqO_x_FRT949HOAtCEw,Chicago,IL,Chinese,41.85351,-87.63448,$,1105,4.0
+202,Bite Café,ed3NV3_-A8B1_w0_oCFpWQ,Chicago,IL,Breakfast & Brunch,41.90047,-87.68663,$$,883,4.0
+203,Imperial Lamian,0LxN36awD48RfrBJGl2BYg,Chicago,IL,Dim Sum,41.8901808541776,-87.6281682718002,$$,1186,4.0
+204,BomboBar West Loop,z-G2QyFrbf7Bw1Ikx1TLNA,Chicago,IL,Donuts,41.88466,-87.64885,$$,958,4.0
+205,Two Hearted Queen,f5p7scO1Q9UdaGbYe9bjFg,Chicago,IL,Coffee & Tea,41.9433099,-87.65928,$,263,5.0
+206,Big Jones,ElCbMJRjgu9LDj4MxOKXew,Chicago,IL,Southern,41.97944,-87.66793,$$,1477,4.0
+207,MingHin Cuisine,7FRba2yDi9uWlSBvahRmEw,Chicago,IL,Dim Sum,41.8851133316306,-87.6191340577136,$$,777,4.0
+208,Taco Joint,8asUBBy_fFlqLgNQoqQaIw,Chicago,IL,Mexican,41.91791,-87.648371,$$,896,4.0
+209,Birrieria Zaragoza,kdIJtpWmVhGDsgGyOyhzKg,Chicago,IL,Mexican,41.80447,-87.72385,$$,457,4.5
+210,Coast Sushi Bar,mlhHPnHmjO2_ypcP5Vc9Zw,Chicago,IL,Sushi Bars,41.9189215,-87.6774771,$$,1131,4.0
+211,Kai Sushi,KlKX64yX8IyE8q6DqFZ_6g,Chicago,IL,Sushi Bars,41.865935633459,-87.6271085681229,$$,601,4.0
+212,RL Restaurant,AHpwEeyDT_brMzF5cYQpag,Chicago,IL,American (New),41.897007,-87.624961,$$$,722,4.0
+213,Forastero,P4TMv21-yjdcGCblrDb6_w,Chicago,IL,Korean,41.9108,-87.64045,$,338,4.5
+214,Umai,20q-oWtQdB2tfFbAl_I9sQ,Chicago,IL,Japanese,41.8722769939333,-87.6310924282417,$$,858,4.0
+215,La Nonna,Enf_3DXmppx19hFGs0UDKw,Chicago,IL,Argentine,41.9429574,-87.7203016,$$,274,4.5
+216,Sticky Rice,hRYN65DXOBwIZ5Hzq_UxaA,Chicago,IL,Thai,41.95467,-87.68883,$$,837,4.0
+217,Hendrickx Belgian Bread Crafter,ekaGkDcRmKyLQ9mUEXBK_A,Chicago,IL,Bakeries,41.9002304077148,-87.6251678466797,$$,503,4.5
+218,Glenn's Diner,50gFzdVglOz88eFJ6v-26A,Chicago,IL,Diners,41.9616270639775,-87.6754598194383,$$,1174,4.0
+219,Sepia,mPFMi734NXkvLFotygLrCA,Chicago,IL,American (New),41.883933,-87.6424,$$$,1097,4.0
+220,Breakfast House,Rm_EofhjiLzRJpUuVtPxUw,Chicago,IL,Breakfast & Brunch,41.8909301757812,-87.6721038818359,$$,416,4.5
+221,Lincoln Park Conservatory,qdWS2gEaFwwhV9TCAXEWGQ,Chicago,IL,Parks,41.9254724,-87.6357779,0,269,4.5
+222,Bistro 6050,fLfZI4FtJhOT0U7NzfVr-Q,Chicago,IL,Empanadas,41.953133,-87.778753,$,235,5.0
+223,Smoke Daddy,D1K-vLXfA5-hppRzVY7q2w,Chicago,IL,Barbeque,41.90353,-87.6727,$$,1196,4.0
+224,Iguana Cafe,d1_U0mQp4UtGvQ-jKymSjA,Chicago,IL,Creperies,41.8917655944824,-87.6474304199219,$$,714,4.0
+225,Laschet's Inn,V3_UIvTZGIOMFM93LZF9TA,Chicago,IL,German,41.95381,-87.68198,$$,474,4.5
+226,Butterfly Sushi Bar & Thai Cuisine,bCgWDGyD3G2ULKMB6bQa_w,Chicago,IL,Thai,41.89091,-87.6562,$$,1052,4.0
+227,Pastoral,ENfiSGbuKEI0UUKPWPJqtQ,Chicago,IL,Cheese Shops,41.8856159,-87.6260252,$$,634,4.0
+228,Tre Kronor,EqYsNrxTk6YM-Qk7xWC48g,Chicago,IL,Breakfast & Brunch,41.9759307505565,-87.7109275,$$,728,4.0
+229,EL ideas,m8qrUdRl8TCqvW-L6uWVsA,Chicago,IL,American (New),41.86275,-87.687,$$$$,318,4.5
+230,Goddess And The Baker,0rgC3hwvUKS3H07T84mbvQ,Chicago,IL,Cafes,41.881259,-87.625846,$$,1003,4.0
+231,Michael Jordan's Steak House,JZxTdRGnRFQbEbiz_P50sg,Chicago,IL,Steakhouses,41.8912043,-87.6239424,$$$,984,4.0
+232,LYFE Kitchen,RWULs45ZzaD-OJj5A-Kk8g,Chicago,IL,American (New),41.8897715425784,-87.6308315944427,$$,682,4.0
+233,Mott St,FzYi3AVHoYZnWXe1BQrQEw,Chicago,IL,Asian Fusion,41.9071254164458,-87.6673834605751,$$,722,4.0
+234,Copper Fox Gastropub,cI-QGo3SDDbOxJJXavfjVQ,Chicago,IL,American (New),41.8932151,-87.6233697,$$,653,4.0
+235,Osteria Via Stato,J_6biyUoo3wYneF3j4LKWw,Chicago,IL,Italian,41.893095,-87.6282449,$$,825,4.0
+236,Jennivee's Bakery,iiAc22zU8RSQtQbp9xRl9g,Chicago,IL,Desserts,41.941845,-87.6539787,$$,304,4.5
+237,Kabobi Grill,YqzDH4OmV43NeD1h4yu7Tg,Chicago,IL,Mediterranean,41.9680551997115,-87.7086880803108,$$,577,4.5
+238,Ada Street,YbLA3uRpvBzIf4oJ352ZVQ,Chicago,IL,Bars,41.9124416,-87.6620728,$$$,509,4.0
+239,Dusek's Board & Beer,ISHl0cSIx-bHvmUblXEdTg,Chicago,IL,Bars,41.857871,-87.65739,$$,910,4.0
+240,Black Dog Gelato,5ujBRZMoOinzbPtxbuucJw,Chicago,IL,Ice Cream & Frozen Yogurt,41.897614,-87.676732,$,599,4.0
+241,Pollo Express,cTd7rc-cuJ8-xvJX-RPbUw,Chicago,IL,Mexican,41.85764,-87.65954,$,332,4.5
+242,Cozy Noodles & Rice,Gl3QRXeJI8JGtGdCfHp8Dg,Chicago,IL,Thai,41.9452487,-87.654386,$$,1065,4.0
+243,Cairo Kebab,hp3xMQCqoa2yPxD1wYrwhg,Chicago,IL,Mediterranean,41.92543,-87.66681,$,267,4.5
+244,The Crab Pad,sYL9ux7ncnJzAHHppuMQ9w,Chicago,IL,Seafood,41.92744,-87.70424,$$,456,4.5
+245,Dimo's Pizza,xlX-nO0SaNwjGueCsgV-0g,Chicago,IL,Pizza,41.94521,-87.65467,$,915,4.0
+246,360 Chicago,esdbP3ict5RGXsZndhRrcg,Chicago,IL,Landmarks & Historical Buildings,41.8986806,-87.6239087,0,705,4.0
+247,etta,W2QV6SILHer3qB_-CZ1z1A,Chicago,IL,American (New),41.91073,-87.67417,$$,431,4.5
+248,Tiztal Cafe,al530TnimkgqmPU6q-2hQw,Chicago,IL,Breakfast & Brunch,41.96621,-87.66657,$$,533,4.5
+249,Seoul Taco,RYL719GudcA7-PeLE6iyCw,Chicago,IL,Korean,41.8959233394607,-87.6313957501562,$,640,4.0
+250,Eleven City Diner,BPg56t_UUCjZCK6i0o6xkQ,Chicago,IL,Diners,41.86877,-87.62635,$$,1844,3.5
+251,Metropolis Coffee Company,Eokzp1wT7V6DiISsDWlMWQ,Chicago,IL,Coffee & Tea,41.994364,-87.657268,$,626,4.5
+252,Arbella,LaYrGWnZazWsc3xi1sTYfw,Chicago,IL,Tapas/Small Plates,41.8920162809497,-87.6318293755272,$$,380,4.5
+253,Cheesie's Pub and Grub,-W8rtYk_mBsgoQHYVxAh2g,Chicago,IL,Sandwiches,41.9400049,-87.6538139,$,1150,4.0
+254,Ora,-kHNCSxf_lHi9822c43J7w,Chicago,IL,Sushi Bars,41.975647,-87.668127,$$,477,4.5
+255,Giant,wfkj7DK8YzhdwhhFc2OntA,Chicago,IL,American (New),41.9171,-87.70746,$$$,410,4.5
+256,Luella's Southern Kitchen,JCmp_Uf0S2cnGQtDvsbleg,Chicago,IL,Southern,41.965223,-87.686103,$$,683,4.0
+257,Swift & Sons,p9TVco6JdcBxt_c_TtPcgw,Chicago,IL,American (Traditional),41.8869073066802,-87.6525044962951,$$$$,598,4.0
+258,Twin Anchors Restaurant & Tavern,cuGkFLdPWfFX9hm2bcBHkQ,Chicago,IL,American (Traditional),41.91268,-87.63832,$$,800,4.0
+259,3rd Coast Cafe,7mCeefskNUtOkzxt_MLHKA,Chicago,IL,Breakfast & Brunch,41.90565,-87.63047,$$,594,4.0
+260,Lou Malnati's Pizzeria,u5rIwydmTiuhaa8DN91-dw,Chicago,IL,Pizza,41.9291500907879,-87.6535692116174,$$,757,4.0
+261,Jimmy's Pizza Café,0ZENqrACvQ4tiMvFEkgVPg,Chicago,IL,Pizza,41.9757474517431,-87.6921836227971,$,579,4.5
+262,Pierrot Gourmet,ltaJDoWtmmcBN2EHbch3oA,Chicago,IL,Coffee & Tea,41.8958148392202,-87.625353483667,$$,636,4.0
+263,Kinzie Chophouse,rnjz2KNgsQ2YaC_kjeuuAQ,Chicago,IL,Steakhouses,41.8893789,-87.634279,$$$,745,4.0
+264,Fat Willy's Rib Shack,7LgM-Zotz-rW7RiyAI9XVg,Chicago,IL,Barbeque,41.93047,-87.68871,$$,1082,4.0
+265,Pasta Palazzo,N7F7C6ECkhbsHVStVjqLUw,Chicago,IL,Italian,41.9179153442383,-87.6488494873047,$$,575,4.0
+266,High Five Ramen,FMoNA-t4uxss2JA37ZNEJg,Chicago,IL,Ramen,41.883651,-87.648968,$$,788,4.0
+267,Happy Camper - Old Town,AqJM4ZZqKnYU5z4E8DruhA,Chicago,IL,Pizza,41.9042336,-87.6343073,$$,540,4.0
+268,Wilde Bar & Restaurant,h-CNRJ-bqSZvz75J4A9cFg,Chicago,IL,Pubs,41.938785532425,-87.6445316181281,$$,1104,4.0
+269,River Roast,TC8tG6To87DUzC365njvXw,Chicago,IL,American (Traditional),41.887957929885,-87.6321899243637,$$,848,4.0
+270,Falafel & Grill,t5ITATMeEW0bgFniS053Vg,Chicago,IL,Middle Eastern,41.905891418457,-87.670166015625,$,453,4.5
+271,Joy Yee Noodle,HoNTrjxDYquS_o_tYupHrg,Chicago,IL,Noodles,41.85412,-87.63391,$$,1580,3.5
+272,Forbidden Root,iOMvXQYFl6_mtw0wX6ZUXw,Chicago,IL,Breweries,41.8962684049794,-87.6713814117853,$$,433,4.5
+273,Mon Ami Gabi,H3KB1EigcCQU9sbQCi-6kg,Chicago,IL,French,41.924093,-87.636974,$$$,716,4.0
+274,Burger Bar Chicago - Lincoln Park,OEHnRYfv0E0JaJhMh-TpMQ,Chicago,IL,Burgers,41.910173,-87.648924,$$,1033,4.0
+275,Prosecco,dOAj9yI4Y5JsBxQX5D6NBQ,Chicago,IL,Italian,41.8952140808105,-87.6345138549805,$$$,644,4.0
+276,India House Restaurant,dLS8GPg-K1O-zJ3VJAtiyg,Chicago,IL,Indian,41.8914851,-87.6301826,$$,1341,3.5
+277,Bistro Campagne,1cgWXsikJqAQezRmruj2rg,Chicago,IL,French,41.96356,-87.68563,$$$,670,4.0
+278,NoMI Kitchen,LoJYMDMAFEIavz-VIUqe0Q,Chicago,IL,American (New),41.8969705807961,-87.6251828670502,$$$$,720,4.0
+279,Jim's Original Hot Dog,6cYzBl8YfgNUv2oMaijrGQ,Chicago,IL,Hot Dogs,41.86577,-87.64537,$,557,4.0
+280,Papa's Cache Sabroso,0hk0dnOxW3axag0xwlwGKQ,Chicago,IL,Latin American,41.90268,-87.6902,$$,504,4.0
+281,Lost Lake,ccbKqyfLj9PUgPJBX1tn_A,Chicago,IL,Tiki Bars,41.9321549,-87.7071975,$$,524,4.0
+282,Delilah's,awJjRw8x6ZP_26SvIejbxw,Chicago,IL,Bars,41.93237,-87.65792,$,491,4.5
+283,Chilango Mexican Street Food,eG64VXdW3RzQhsmTbr-rCw,Chicago,IL,Mexican,41.869141,-87.663129,$,477,4.5
+284,Theory,N0CzLRbl79f4f6WqjNKM0g,Chicago,IL,Sports Bars,41.8899748,-87.6286362,$$,774,4.0
+285,Southport Grocery & Cafe,LtdmG2krPWyN3ruqqPMt_g,Chicago,IL,Grocery,41.946743,-87.664357,$$,882,4.0
+286,Next,PpQ7LNHTEGNoY3g5GPBDyQ,Chicago,IL,American (New),41.886641182708,-87.6519030656,$$$$,675,4.0
+287,D'amato's Bakery,sNhKEb8iKvN4MDxpOiHFWg,Chicago,IL,Bakeries,41.891188857475,-87.6557081343533,$,367,4.5
+288,Bongiorno's Italian Deli & Pizzeria,hxq4TNNazA-sjqFvVgx_Pw,Chicago,IL,Pizza,41.889903,-87.625788,$$,590,4.0
+289,90 Miles Cuban Café,IuFEm-19YYh49T5ZlvwkDA,Chicago,IL,Cuban,41.9380569458008,-87.6858062744141,$,755,4.0
+290,DryHop Brewers,TAueIovlJFslHSVEfnAaaA,Chicago,IL,Breweries,41.9392443174878,-87.6442063962951,$$,747,4.0
+291,Ethiopian Diamond,SQbqAi053aFOfQhtPAC3mw,Chicago,IL,Ethiopian,41.99301,-87.66068,$$,731,4.0
+292,Goosefoot,rgaoVm01HFYC292weFuTXA,Chicago,IL,American (New),41.9686849,-87.6960164,$$$$,287,4.5
+293,Sweet Maple Cafe,1hRGm-jTHB-KKBwS8GNxrw,Chicago,IL,American (Traditional),41.869123,-87.660678,$$,783,4.0
+294,Tandoor Char House,vx8FYc1aKtf8TyhH8-qipA,Chicago,IL,Indian,41.9306399,-87.64928,$$,787,4.0
+295,Takito Kitchen,JGOl4S42CxLJj-s9uyFU2w,Chicago,IL,Mexican,41.90289,-87.67784,$$,535,4.0
+296,Ras Dashen Ethiopian Restaurant,OVW54jiavdQXO4SLbGx90A,Chicago,IL,Ethiopian,41.9885039,-87.6604057,$$,672,4.0
+297,Fish Bar,LfQ1uwVQaUIgRENAZUz_1w,Chicago,IL,Seafood,41.9361243683693,-87.6541800306757,$$,930,4.0
+298,Sushi + Rotary Sushi Bar,48BPQ2YVWr8PkNJSekh5pA,Chicago,IL,Conveyor Belt Sushi,41.9403536,-87.6442751,$$,408,4.5
+299,Giordano's - Jackson,LNtuCsJLk3E9y7I5sd5SjQ,Chicago,IL,Pizza,41.8779751,-87.6344499,$$,1144,4.0
+300,Cafe Vienna,J8aqt4ZcpNuOusJMndUPLg,Chicago,IL,Bakeries,41.928489,-87.642033,$$,638,4.0
+301,The Franklin Room,8oVuCgY36DBA78kz6YcvMg,Chicago,IL,American (Traditional),41.8944245,-87.6354674,$$,487,4.0
+302,The Hampton Social - River North,bjQFZfYCjR1UmnUYZUL9Zg,Chicago,IL,Seafood,41.8898337310695,-87.6378512282417,$$,1042,4.0
+303,Beacon Tavern,2Nf6OAPkD8V1eSHBrqezFw,Chicago,IL,American (New),41.889641,-87.62556,$$,532,4.0
+304,La Fournette,D-fAPWkLhe41j4rHGRZgIQ,Chicago,IL,Bakeries,41.9104983,-87.6345168,$,452,4.5
+305,Janik's Cafe,FsoEVqFK-W7gRu0hDH84sg,Chicago,IL,Breakfast & Brunch,41.9030612,-87.677777,$$,529,4.0
+306,Bonci,9suvIy-RGPosPcmG3IOqcQ,Chicago,IL,Pizza,41.8848241,-87.6509421,$$,383,4.5
+307,Remington's,kJjbElns3_GTNIklRVbHPQ,Chicago,IL,American (Traditional),41.88266,-87.62499,$$,548,4.0
+308,The Map Room,2tErhaqgdXstrilg3I0Jgw,Chicago,IL,Bars,41.9176,-87.67979,$$,762,4.0
+309,Crosby's Kitchen,IgiFxgUFR9BDnQ9PeGHaEA,Chicago,IL,American (Traditional),41.94508,-87.66357,$$,758,4.0
+310,Sushi Joon,11855kAfayv4GH6DgGwvkQ,Chicago,IL,Sushi Bars,41.9815602,-87.6925329,$$,222,5.0
+311,Bittersweet Pastry Shop,3otFjkG6Ev2OWyX4giCjfA,Chicago,IL,Bakeries,41.94013,-87.65729,$$,685,4.0
+312,RJ Grunts,ptRZlXxngjFj5gghwPNNHA,Chicago,IL,American (Traditional),41.920024442085,-87.636636114155,$$,993,4.0
+313,Alliance Bakery & Cafe,xjZ9eqYrzMrl2v6_1Kv6hA,Chicago,IL,Bakeries,41.90355,-87.67149,$,865,4.0
+314,Pueblo Nuevo,_Yx4OcyoYXTiI3xOzNgVyw,Chicago,IL,Mexican,41.960272,-87.76744,$,414,4.5
+315,Catch 35,TeJGJA4_iPNMDuQUxmphHg,Chicago,IL,Seafood,41.886448,-87.629102,$$$,829,4.0
+316,Cafe Selmarie,4i9LUrKeoMmUB_qZicuJnQ,Chicago,IL,Bakeries,41.9674474,-87.6875832,$$,720,4.0
+317,Loving Heart,om-vqH8GMpteU9xlSymPaQ,Chicago,IL,Vegan,41.9619233,-87.6515285,$,185,5.0
+318,Cumin,WM2JQP4yzQHPbIh-wNdK6g,Chicago,IL,Indian,41.9074789,-87.6732148,$$,894,4.0
+319,Aloha Wagon,db7p4tMxC_pptYho8RUhzQ,Chicago,IL,Filipino,41.865308,-87.685784,$,147,5.0
+320,Naf Naf Grill,0BvxoQf0-fAfhUudd-bXFw,Chicago,IL,Middle Eastern,41.887581,-87.624981,$,509,4.0
+321,Barrio,Xs7VQkl9cFTWQqmq69UvuQ,Chicago,IL,Mexican,41.8890751,-87.6302265,$$,591,4.0
+322,Cantina Laredo,tCNzwYegioNBeUIj3Fe3IA,Chicago,IL,Mexican,41.89110716029,-87.6282251997283,$$,1402,3.5
+323,Native Foods,DDtElQ0VMOox12kb7V7cow,Chicago,IL,Vegan,41.9397892506553,-87.655069123534,$$,497,4.0
+324,Calo Ristorante,oLM9piDKbj2PDgy-m3XEcQ,Chicago,IL,Pizza,41.97934,-87.66793,$$,977,4.0
+325,bopNGrill,UmumgsnMBHjvVEzZMQxtRg,Chicago,IL,Burgers,42.002840213503,-87.661120406701,$$,819,4.0
+326,BRGRBELLY,zEBMoH7ibF3YZrlowkv88A,Chicago,IL,Burgers,41.9530335,-87.7709816,$$,525,4.5
+327,Pi-Hi Cafe,ecFp44Y6EGdgtmZ-jPqaYA,Chicago,IL,Mediterranean,41.9460656925374,-87.6877528213354,$,292,4.5
+328,Community Tavern,1uFRbr6B-BiNGtT90sdk0w,Chicago,IL,American (New),41.9540099,-87.74883,$$,395,4.5
+329,Nana,DBtXy8wcPsVr80oFfz-CbA,Chicago,IL,American (New),41.834550484255,-87.6460413707298,$$,1089,4.0
+330,Scone City,rHCQkxQ5WZ5qbDg0XeKibA,Chicago,IL,Bakeries,41.9034349,-87.66879,$,219,4.5
+331,The Angry Crab,s3Hwq1VXyQ_3dpqzkluRvQ,Chicago,IL,Seafood,41.9845332,-87.6972261,$$,864,4.0
+332,BITES Asian Kitchen + Bar,hOyngb1XVmt85qpNHhRWFQ,Chicago,IL,Asian Fusion,41.94221,-87.65209,$$,468,4.0
+333,HERO Coffee Bar,IApmj3n3RAikUKqhKYiqmA,Chicago,IL,Coffee & Tea,41.8758857,-87.62904,$,391,4.5
+334,Margie's Candies,xz_fN-RBEr7vluofckk9tA,Chicago,IL,Desserts,41.96136359509,-87.674943597189,$,554,4.0
+335,Toni Patisserie & Cafe,Vzs9WS3dV3liKH7u6vJ0Mg,Chicago,IL,Cafes,41.8831251,-87.6257316,$$,717,4.0
+336,Stella's Diner,KwFp1p0t0L1CLCm4HSizsQ,Chicago,IL,Diners,41.9377628713846,-87.6443700492382,$$,757,4.0
+337,Nico Osteria,jBpqtM1uE9eLxi-K2rhKjA,Chicago,IL,Italian,41.9013688470215,-87.6276382123032,$$$,747,4.0
+338,The Bagelers Coffeehouse,IM9oq9HGTt8Q2QLQ2nevYA,Chicago,IL,Coffee & Tea,41.926975,-87.650414,$,322,4.5
+339,Benny’s Chop House,xT9OM3wztrQwObecCHpMBA,Chicago,IL,Steakhouses,41.89065,-87.62698,$$$$,608,4.0
+340,Boeufhaus,UKs05XWhbP0riI8O0Kv36w,Chicago,IL,Brasseries,41.899831,-87.687487,$$$,353,4.5
+341,Chicago Theatre,qJ_iOBrjxU-unMbqRSBv9w,Chicago,IL,Performing Arts,41.8854830450828,-87.6275988288569,$$,427,4.0
+342,Middle East Bakery & Grocery,ARfLLgpCRmO3a7758UXiiw,Chicago,IL,Bakeries,41.9763326,-87.6686814,$,341,4.5
+343,Umami Burger - Wicker Park,5FK-H2Zxcje-OH1FcsdJ5A,Chicago,IL,Burgers,41.90859,-87.6752,$$,866,4.0
+344,La Sirena Clandestina,1uvWscUUqiO2_Q_aBpeZyA,Chicago,IL,Latin American,41.887103,-87.651697,$$,509,4.0
+345,Native Foods,I5sSX3kNw8SN5kjB1Yc4UQ,Chicago,IL,American (New),41.90866,-87.67531,$$,601,4.0
+346,The Allis,Nz7OSIHnWcsnno-zzXKO1g,Chicago,IL,Lounges,41.88374,-87.64828,$$,735,4.0
+347,Max's Take Out,3GXFsq9rJZUWXOJCQf-dIQ,Chicago,IL,American (Traditional),41.87972,-87.62688,$,494,4.0
+348,Schwa,bNXpwTSavHBV9zBk2lUlGA,Chicago,IL,American (New),41.90892,-87.66793,$$$$,526,4.0
+349,Weber Grill Restaurant,LU-NBsbLAwvzKlopsVeB7w,Chicago,IL,Barbeque,41.8918845,-87.6278923,$$,1482,3.5
+350,Lawry's The Prime Rib,mMnW530e_S5_7oV2HJWDpw,Chicago,IL,Steakhouses,41.893461,-87.625029,$$$,789,4.0
+351,Rollapalooza,lncS2kRoXSJ7unM-TaBZCw,Chicago,IL,Sushi Bars,41.94314,-87.64972,$$,437,4.5
+352,Las Tablas Colombian Steakhouse,2WoMT3wSpp9vxZeTv6u-cw,Chicago,IL,Steakhouses,41.935258,-87.662681,$$,929,4.0
+353,The Marq,IRa05qXL2uU_WotrRgWNiQ,Chicago,IL,American (New),41.8796191,-87.6299253,$$,581,4.0
+354,Intelligentsia Coffee,CZkBcy3-lPT2nGJqhFhLNA,Chicago,IL,Coffee & Tea,41.9382576,-87.6440467,$$,619,4.0
+355,Shokran Moroccan Restaurant,eoOZJ9-R0eY30ouPEnqP2w,Chicago,IL,Moroccan,41.953504,-87.728805,$$,435,4.5
+356,Kingston Mines,qrN8yUCVY5oYOxna_o_iXg,Chicago,IL,Jazz & Blues,41.92869,-87.64922,$$,560,4.0
+357,Ann Sather Restaurant & Catering,PsPpiyliUWvCCwrCjOza0g,Chicago,IL,Scandinavian,41.9397301,-87.6520027,$$,806,4.0
+358,Gus's World Famous Fried Chicken,TQp4_qJFrn_aO6Y1IOZgCg,Chicago,IL,Chicken Shop,41.8866488028888,-87.6494031537698,$$,624,4.0
+359,Bub City,2lfTEF7zALaPLx4qQwVXFw,Chicago,IL,Barbeque,41.8903402,-87.6308922,$$,1047,3.5
+360,Folklore Argentine Grill,ZbXgwfVDjb2tz08FGWmSAA,Chicago,IL,Argentine,41.9034461975098,-87.6799240112305,$$,673,4.0
+361,Duke Of Perth,EnsfSFa422IkWwFvR1hJMQ,Chicago,IL,Pubs,41.93525,-87.64648,$$,570,4.0
+362,Frasca Pizzeria and Wine Bar,tntGxmQJyv8ZomQJ5Z14BQ,Chicago,IL,Wine Bars,41.9430502,-87.6713149,$$,686,4.0
+363,La Gondola,_Y32xG_NYG0R1IRn9EccAg,Chicago,IL,Pizza,41.9345793,-87.6686589,$$,728,4.0
+364,The Empty Bottle,pYCNRWXsfHsHEa0-cVa3GQ,Chicago,IL,Dive Bars,41.90047,-87.68663,$,353,4.5
+365,Nando's Peri-Peri,wl-48uPlP-7RTC1p7sJEyw,Chicago,IL,South African,41.884096,-87.651797,$$,557,4.0
+366,Bake,9FnhEvnAPW-ribOqDtAVdw,Chicago,IL,Bakeries,41.91063,-87.68417,$,300,4.5
+367,Sunset Pho Caffe,gs-PZjw3VONWJQFCSTDTeg,Chicago,IL,Lounges,41.9342291,-87.6462028,$$,243,4.5
+368,Masa Azul,zipWyPrxNX8m5XFwm3b1lg,Chicago,IL,Mexican,41.9318778,-87.7002477,$$,338,4.5
+369,Opart Thai House,66-K1gf6ToEqd_jo5iUvPA,Chicago,IL,Thai,41.8563894,-87.6272949,$$,910,4.0
+370,Sunny Side Up & Coffee Shop,vxA930_6OGv8WpyHoQjioQ,Chicago,IL,Breakfast & Brunch,41.8957916402964,-87.6263844966888,$$,842,4.0
+371,Toast,7TM54ucsPHmrSEKjF81Beg,Chicago,IL,Breakfast & Brunch,41.91909,-87.67794,$$,598,4.0
+372,B.L.U.E.S.,HWDZkUSNHca_Uxuhk25hlQ,Chicago,IL,Jazz & Blues,41.92788,-87.64848,$$,267,4.5
+373,Pizzeria Uno,o58Cq5udbf18ZLb8MQpgUQ,Chicago,IL,Pizza,41.89227,-87.62692,$$,1366,3.5
+374,Rootstock Wine & Beer Bar,2JL3x0PBm7CCF3zMuYfD7A,Chicago,IL,Wine Bars,41.899035,-87.696951,$$,433,4.0
+375,Gene's Sausage Shop & Delicatessen,-8sRHGkXI2GyXxBQUR6ySw,Chicago,IL,Meat Shops,41.96782,-87.68833,$$,474,4.0
+376,Palace Grill,SS35Cso7FMrHnwDYYrfL7Q,Chicago,IL,Diners,41.88178,-87.66248,$$,346,4.5
+377,Ramen Takeya,o5y9To9kqcgzUGRt3AzrBg,Chicago,IL,Ramen,41.8865399,-87.64833,$$,604,4.0
+378,Ba Le Sandwich,DYdO9Zp3rFZvzmYIHrSjgg,Chicago,IL,Bakeries,41.9732,-87.66024,$,793,4.0
+379,STK Chicago,WLcAdMilB7fDFIZLa2vI_w,Chicago,IL,Steakhouses,41.88902,-87.62864,$$$,817,4.0
+380,Nookies,Ot1sgtVfvjtBYSaQS82Png,Chicago,IL,Breakfast & Brunch,41.91427,-87.63508,$$,694,4.0
+381,Rosebud on Rush,Q3SMNxfKtVhEwt4d7S_8vw,Chicago,IL,Italian,41.895633,-87.62571,$$,843,4.0
+382,Roister,xF8ZBzcMGpBd6U5GAbb-hQ,Chicago,IL,American (New),41.886524,-87.6518661,$$$$,648,4.0
+383,Trattoria No. 10,eTjl8rHLGWWhc65cFjcDLA,Chicago,IL,Italian,41.8824272155762,-87.6296997070312,$$$,592,4.0
+384,Topolobampo,UsuuTuxeqeiUXSgOMnJJKg,Chicago,IL,Mexican,41.890585,-87.630905,$$$$,992,3.5
+385,Quesadilla La Reyna del Sur,pF4jHr4uyUzTYOdAp0G0mg,Chicago,IL,Mexican,41.922732,-87.687343,$,462,4.0
+386,Cornerstone Cafe,YqrmZfCDIQ2fPQdLXkWiEA,Chicago,IL,Coffee & Tea,41.9317200792018,-87.6877212524414,$,476,4.0
+387,Jackalope Coffee & Tea House,Y-wp58fjbztKeTbIB0CwNg,Chicago,IL,Coffee & Tea,41.8360951,-87.6453228,$,293,4.5
+388,Fork,Ykiz1UT9SO5u-y8nqDTy4A,Chicago,IL,American (New),41.96511,-87.68662,$$,976,4.0
+389,The Bongo Room,J1e-SGNCiU02aFQ4T-u2DQ,Chicago,IL,Breakfast & Brunch,41.973183,-87.668348,$$,610,4.0
+390,SUSHI-SAN,Vw-Qn1Hg06h4yBUdDQCXyA,Chicago,IL,Sushi Bars,41.8914851,-87.6302732,$$,404,4.0
+391,Cake Sweet Food Chicago,ByEqJdavtdOZbrKh9hDgmw,Chicago,IL,Bakeries,41.88588,-87.66838,$$$,159,5.0
+392,La Crêperie,OJctw29lDizc_Ei4oueUTA,Chicago,IL,French,41.934059,-87.645708,$$,670,4.0
+393,Cho Sun Ok Restaurant,wrAz7fVqv-l9db_nyaFJFw,Chicago,IL,Korean,41.95797,-87.68178,$$,1078,3.5
+394,Taqueria El Asadero,ZcGuLKfgZAWuhMBbfqXBmw,Chicago,IL,Mexican,41.9612451,-87.6842599,$,561,4.0
+395,Puppet Bike,gIWHSle9VffD3mx5Pg-eiQ,Chicago,IL,Local Flavor,41.8825950622559,-87.6369323730469,0,136,5.0
+396,Ghareeb Nawaz,sYzkzjM2upp2vW32vPaJ9w,Chicago,IL,Indian,41.997979,-87.681612,$,797,4.0
+397,Michael's Pizzeria & Tavern,z8G5AfXYbJD2jQpSEF633g,Chicago,IL,Pubs,41.9568480328734,-87.6518151894969,$$,535,4.0
+398,"Kibbitznest Books, Brews & Blarney",xAiunROKqYTbRaEw1nvnLg,Chicago,IL,Bookstores,41.9219975256493,-87.6650943962952,$,130,5.0
+399,El Cubanito,8dqQ4RV4AMC6sHzwsjCz9Q,Chicago,IL,Cuban,41.9278468763324,-87.7265240997076,$,310,4.5
+400,SP Kebab,JOiHzz9wPgLhkxjkrvSMgQ,Chicago,IL,Greek,42.005643,-87.660959,$,382,4.5
+401,Revival Food Hall,4wmRu3bpaSpW999SHGK34g,Chicago,IL,Food Court,41.87979,-87.63051,$$,427,4.0
+402,Pars Cove Restaurant,v9M8cIvfbOfiQ0asmIxEhQ,Chicago,IL,Middle Eastern,41.932758,-87.640861,$$,452,4.0
+403,Leña Brava,4AW-fmXFI4jaYManl70vEg,Chicago,IL,Seafood,41.88465,-87.65007,$$$,455,4.0
+404,The Coffee & Tea Exchange,4pL3Ix8PyEwvRGC3Q9zmWA,Chicago,IL,Coffee & Tea,41.9423841085423,-87.6442681800079,$,253,4.5
+405,Parson's Chicken & Fish,_gcDPMZjM4rVO5ZVfM3xlA,Chicago,IL,American (New),41.91758764277,-87.7013152429917,$$,981,3.5
+406,Feed,6nThdNoEuRfHwjNR875fVw,Chicago,IL,Southern,41.895473,-87.696973,$,611,4.0
+407,Siam Noodle and Rice,m_w5UfOmgAqN4Kgbl_-iFQ,Chicago,IL,Thai,41.958162,-87.65311,$,428,4.0
+408,The River Valley Farmer's Table,UwZE-wYxFYnbRcsrWcIVxg,Chicago,IL,Breakfast & Brunch,41.965285053298,-87.6757046380287,$$,336,4.5
+409,CRĪO Bar and Restaurant,gYj6ODoU3tf7TWNv-Kg2Xg,Chicago,IL,Latin American,41.927002,-87.6722383,$$,354,4.5
+410,Taqueria Moran,y0B-AArugfrUai3eEG8_3A,Chicago,IL,Mexican,41.9225416867732,-87.6975309006552,$,465,4.0
+411,Kizuki Ramen & Izakaya,F95agIcsD5g1bykGVTVWZQ,Chicago,IL,Ramen,41.908769,-87.6751833,$$,611,4.0
+412,Estrella Negra,9j-IauL8jaLM8qIc-8cn7Q,Chicago,IL,Mexican,41.925175,-87.68706,$$,535,4.0
+413,Great Sea Restaurant,4-uKJdGyT0iZmu3rbSDwBw,Chicago,IL,Chinese,41.9683111314671,-87.7106371012279,$$,687,4.0
+414,Julius Meinl,OKCorWqyLJl4NNg_dz7LOQ,Chicago,IL,Coffee & Tea,41.94733,-87.66373,$$,692,4.0
+415,Taste of Peru,iXuCIziS010a65NGGIiEhw,Chicago,IL,Peruvian,42.0013353048183,-87.6713513324772,$$,535,4.0
+416,Chicago Bagel Authority,vOEqVTBwUek7-jKrN1Th8g,Chicago,IL,Bagels,41.9178624,-87.6529861,$,663,4.0
+417,BIG & little's Restaurant,O073WVgzIh5OXRVL9TrRFQ,Chicago,IL,Seafood,41.90535,-87.6700199,$,393,4.0
+418,JJ Thai Street Food,p2cCK4Vu-3L-skOMd93VVg,Chicago,IL,Thai,41.8958251,-87.6703764,$$,327,4.0
+419,Go 4 Food,aZqKMhhy_dbQlGTQ91YSbw,Chicago,IL,Chinese,41.851085,-87.6326203,$$,678,4.0
+420,Cedar Palace,bPiaa7fgHkC9l7B2HyS0aw,Chicago,IL,Lebanese,41.918054,-87.645757,$$,157,5.0
+421,Flo & Santos,3BKnY2wzy4QM20Fr1nqDsg,Chicago,IL,Pizza,41.8653913003346,-87.6260132093555,$$,862,4.0
+422,Wishbone,b5wtToIhvTgx7O-B7jSTfA,Chicago,IL,Breakfast & Brunch,41.885101,-87.642447,$$,817,4.0
+423,Lou Mitchell's,n99qEoKGGdFG6p_rHzK_Cw,Chicago,IL,Breakfast & Brunch,41.87779,-87.64211,$$,903,3.5
+424,Bad Hunter,fS0FUHFtsKFNjBYHcPgZPg,Chicago,IL,American (New),41.88463,-87.64769,$$,599,4.0
+425,Quality Crab & Oyster Bah,8P3vFRfVyvn1LGAlkJOWaQ,Chicago,IL,Seafood,41.91777,-87.64887,$$,424,4.0
+426,Cherry Circle Room,vlNvk_U6l2MFBaOnPfK6uw,Chicago,IL,American (New),41.881664276123,-87.6249694824219,$$,361,4.5
+427,Mortar & Pestle,FNXQQX_Tz9fGtLI3t-1sFQ,Chicago,IL,American (New),41.93806,-87.64464,$$,466,4.0
+428,Miller's Pub,SZynkhN-6s6JJeH5KNVI3g,Chicago,IL,American (Traditional),41.8802765,-87.6262965,$$,1145,3.5
+429,Joy's Noodles & Rice,xNbjv2XaKt0ZATscozZsAg,Chicago,IL,Thai,41.941753,-87.644134,$$,903,4.0
+430,Timothy O'Toole's Pub - Chicago,MJ9uU_vI6dyfHyMAgLMUOg,Chicago,IL,American (Traditional),41.8931909,-87.6204274,$$,1011,3.5
+431,The Whistler,0pz5xXB-4f0WlLD33Y6jKw,Chicago,IL,Music Venues,41.92544,-87.70095,$$,585,4.0
+432,Chez Joel Bistro,AZ6b6JoLys6RTD9yOPJlBw,Chicago,IL,French,41.86921,-87.65507,$$$,363,4.5
+433,Little Vietnam,-LJayGlySYnQ8z2VvZyFNw,Chicago,IL,Vietnamese,41.9837803,-87.6593784,$,322,4.5
+434,Dak,taKKA87TcYh2ewg-_N-qXg,Chicago,IL,Korean,41.9946798,-87.6586452,$$,474,4.0
+435,Semiramis,oEgweNIV8Xruk_TVSJzckQ,Chicago,IL,Lebanese,41.9658426,-87.7082133,$$,542,4.0
+436,CH Distillery,TphN-KFZErtq2w9CrrCS-Q,Chicago,IL,Cocktail Bars,41.8846370998956,-87.6422654490474,$$,331,4.5
+437,Kameya,oSyXCPjUhCgoTXA8VdbOTA,Chicago,IL,Sushi Bars,41.9219281,-87.64897,$$,286,4.5
+438,National Museum of Mexican Art,mL67OJF-5RYheEmVtshQeA,Chicago,IL,Museums,41.8560049,-87.6732899,0,170,4.5
+439,Sultan's Market,xy2FBJGECy-pxf0U9b2-eQ,Chicago,IL,Middle Eastern,41.9284272,-87.6420285,$,537,4.0
+440,La Colombe Coffee,4hhsyYChjYkXWxEfhyvcfw,Chicago,IL,Coffee & Tea,41.884110942717,-87.651928959323,$$,443,4.0
+441,Band of Bohemia,Q9uxInveq-RFvpF1jkO8wQ,Chicago,IL,Breweries,41.9676094055176,-87.6751098632812,$$$,523,4.0
+442,Big Shoulders Coffee,elxJJFKetDnm6OrADJhPuA,Chicago,IL,Coffee Roasteries,41.8961251,-87.6550638,$$,268,4.5
+443,Forno Rosso Pizzeria Napoletana,2cDt9At556hf146QH_XkhQ,Chicago,IL,Pizza,41.8845699,-87.65406,$$,389,4.5
+444,Chiya Chai Cafe,2cETD5PTiMqD7LihZN0TRg,Chicago,IL,Coffee & Tea,41.9314223820557,-87.7114093648563,$$,354,4.5
+445,Sabroso! Mexican Grill,o98kicIhRgBjoMqQr2SzTQ,Chicago,IL,Mexican,41.89319,-87.66753,$$,209,4.5
+446,Blue Line Lounge & Grill,bkTJD2pDMw7iAE-hQtpmPg,Chicago,IL,Lounges,41.9095818,-87.6777204,$$,732,4.0
+447,MCCB Chicago 时尚食谱,0PPM0wxA2r8XVM8vbMm9Pw,Chicago,IL,Chinese,41.8538027693794,-87.6336866427383,$$,318,4.5
+448,ARAMI,ZuoKrKyW6zB6wlm06k8inw,Chicago,IL,Sushi Bars,41.8960345011502,-87.6733909357176,$$$,636,4.0
+449,Chengdu Impression,3NV3TTsKGqW1WEbEQv_yBA,Chicago,IL,Szechuan,41.9286079,-87.648514,$$,582,4.0
+450,The Delta,umw3lIhc_h9DUGjN0DklxQ,Chicago,IL,Southern,41.91032,-87.67186,$$,279,4.5
+451,Shake Shack,rL3Z28FBnl1tFXoIGPlgtw,Chicago,IL,Burgers,41.8926299,-87.6260462,$$,1151,3.5
+452,Cafe Jumping Bean,_P_lfN9VfzlmDjDKo2gXZQ,Chicago,IL,Cafes,41.85762,-87.66278,$,347,4.5
+453,Mayan Palace Mexican Cuisine,xXSMc3pDWTRQHLgjBTtTUg,Chicago,IL,Mexican,41.93221,-87.64861,$$,555,4.0
+454,Original Pancake House,FM1y-KHfhdSp_d74ryNG3Q,Chicago,IL,Breakfast & Brunch,41.90178,-87.62744,$$,543,4.0
+455,Pick Me Up Cafe,9Um0VdIot6ugCd1yoBN-9g,Chicago,IL,American (New),41.9438,-87.65403,$$,916,3.5
+456,Tortoise Supper Club,E974TODU6F-HCzUS02nXiQ,Chicago,IL,Supper Clubs,41.8887554967998,-87.6282440151018,$$$,484,4.0
+457,Harry Caray's Italian Steakhouse - River North,kEaW60jpNInK1MzFJMIC7A,Chicago,IL,Italian,41.8890226258691,-87.6292555506971,$$$,752,4.0
+458,Komorebi Sushi,-gt8O2X5JO9Bx64GPxgkBA,Chicago,IL,Sushi Bars,41.90558,-87.67037,$$,177,4.5
+459,Canton Regio,fFX6L_QDexlgoYoCigJyPw,Chicago,IL,Mexican,41.858017,-87.6642617,$$,513,4.0
+460,Aje Cafe,u4-mGyQ-UOHvqBwMa6Xueg,Chicago,IL,Coffee & Tea,41.9360893144147,-87.6477282837896,$,300,4.5
+461,A Tavola,kdobEvkH_YHleJvLLxzb6A,Chicago,IL,Italian,41.8960999,-87.68141,$$$,358,4.0
+462,George's Ice Cream and Sweets,MvW4VNi35Pg_bCxMBr5IRQ,Chicago,IL,Ice Cream & Frozen Yogurt,41.97828,-87.66875,$,504,4.0
+463,Inspiration Kitchens,j3chLwR9p9Rb-j2KNOpS5Q,Chicago,IL,American (New),41.88502,-87.71402,$$,230,4.5
+464,Fado Irish Pub,lYV8uxLr-1l1YoUpc336cg,Chicago,IL,Irish,41.8918,-87.63145,$$,639,4.0
+465,Jubilee Juice & Grill,YXwVWVhmbBeVnnHJIV3mgg,Chicago,IL,Juice Bars & Smoothies,41.8840615,-87.6475148,$$,464,4.0
+466,Fahlstrom's Fresh Fish Market,zN8zvLiGGiTGNDqDaRWp_Q,Chicago,IL,Seafood Markets,41.94009,-87.66114,$$,485,4.0
+467,Tesfa Ethiopian Cuisine,ggi4ASeyeY5MEd4yjRgmZA,Chicago,IL,Ethiopian,41.96532,-87.6557799,$$,173,5.0
+468,LuxBar,PzPyHLmRSH2ofemXEShkbw,Chicago,IL,American (Traditional),41.90177,-87.62763,$$,796,4.0
+469,Havana,6XGYBXKAc_gPUMXCrmb8qA,Chicago,IL,Cuban,41.88967,-87.6314,$$,770,4.0
+470,Indie Cafe,qkfBgSCbekH3DHTanVL1_w,Chicago,IL,Sushi Bars,41.9904999627679,-87.6600041637543,$$,712,4.0
+471,Dos Urban Cantina,-fYvsZKybtBorDlwxs9T1A,Chicago,IL,Mexican,41.91725,-87.69841,$$,347,4.5
+472,Happy Lamb Hot Pot,9WqiX6CdZxg1ju8EjReVkQ,Chicago,IL,Mongolian,41.8498034592167,-87.6320048336464,$$,424,4.0
+473,Eggy's Diner,MrWETKbSyG-FBq6ttK8SiQ,Chicago,IL,Breakfast & Brunch,41.8851851,-87.6185829,$$,656,4.0
+474,Edgewater Tacos,PyyOtwxzGqlFN0fcT_3GCQ,Chicago,IL,Mexican,41.9844463569139,-87.660366743803,$$,204,5.0
+475,MAD Social,DCjO2J5tZiCi96u_-hdtDg,Chicago,IL,American (New),41.88187,-87.65598,$$,442,4.0
+476,Toast,oISoxzK7xILTYCRKgMYSJg,Chicago,IL,Breakfast & Brunch,41.921992,-87.648104,$$,771,4.0
+477,Chocolate Shoppe Ice Cream,MyQjwMi_82lYe0I8AhSzYQ,Chicago,IL,Ice Cream & Frozen Yogurt,41.9971351,-87.7620598,$$,323,4.5
+478,The VIG Chicago,xFBQ1md6PDm7YEpJARoxAA,Chicago,IL,American (Traditional),41.9099251,-87.6345035,$$,487,4.0
+479,Formento's,ytFpgrsKQ-RoWpBIB05OJw,Chicago,IL,Italian,41.88404,-87.65081,$$$,503,4.0
+480,Fleming's Prime Steakhouse & Wine Bar - Chicago,Wzq19nbAoYsEsH6oamyxNA,Chicago,IL,Steakhouses,41.89227,-87.62703,$$$,538,4.0
+481,Strings Ramen Shop,O0FvTDK9c93qJ6Lfc53dLQ,Chicago,IL,Ramen,41.853414,-87.633175,$$,917,3.5
+482,Cozy Corner Restaurant & Pancake House,ahp1F4QC_8nqrbw5jAvGPA,Chicago,IL,Diners,41.92244,-87.69707,$$,590,4.0
+483,Cafe El Tapatio,F3fJg60npf7YQfY-n73P8Q,Chicago,IL,Mexican,41.94357,-87.66913,$$,758,4.0
+484,Ella Elli,AqYFeg1GBwHe4ERL3q_LYg,Chicago,IL,Wine Bars,41.9451151,-87.6630233,$$,263,4.5
+485,The Aberdeen Tap,B5CpZsEZJqRsKVYU7nWDDg,Chicago,IL,Bars,41.890171,-87.654885,$$,332,4.5
+486,Tempesta Market,f_AF0jimm_eq7eZnxArV7w,Chicago,IL,International Grocery,41.89133,-87.66176,$$,154,4.5
+487,Half Shell,LQkrQF7DMfSIVywxysvjcQ,Chicago,IL,Seafood,41.93302,-87.64657,$$,708,4.0
+488,Dinkel's Bakery,bsbkGaTbZPhm4dQ2RfLRbw,Chicago,IL,Bakeries,41.9424245735863,-87.6704134610592,$,672,4.0
+489,Ruth's Chris Steak House,n-mj6IJkWyCu4BuD2dvm0A,Chicago,IL,Steakhouses,41.8901981146158,-87.6294261217117,$$$,743,4.0
+490,Heritage Bicycles General Store,xMtXy7YAslpvjqaYT3KEIw,Chicago,IL,Bikes,41.9356745,-87.6629425,$$,294,4.5
+491,Sam & George's,Xdw3MKpWyEfED9Ba5uiAmQ,Chicago,IL,Breakfast & Brunch,41.93624,-87.66418,$$,491,4.0
+492,Ipsento 606,cLaMG2ztKxqqLhRRpP9HNg,Chicago,IL,Coffee & Tea,41.91443,-87.68326,$$,237,4.5
+493,Seadog Sushi Bar,iFA2LDO3mtJQXtihVGnTLw,Chicago,IL,Sushi Bars,41.9034363603087,-87.6652242288361,$$,536,4.0
+494,Devil Dawgs -  South State,3o0WB9KL91neiy_rlDhxyg,Chicago,IL,Hot Dogs,41.87207,-87.6271,$,657,4.0
+495,Zia's Lago Vista,MzLH4VUPIDf16LUPlPzaGg,Chicago,IL,Italian,41.9513,-87.66847,$$,467,4.0
+496,Jeni's Splendid Ice Creams,tmx4cTjSvDvQUVf8_MznmA,Chicago,IL,Ice Cream & Frozen Yogurt,41.90818,-87.63416,$$,187,4.5
+497,Podhalanka,80k87CEiJTEHTZ4oHiQ6QA,Chicago,IL,Polish,41.9031971642231,-87.6670556213551,$$,433,4.0
+498,Vanille Patisserie,Pjw5PkjpX5zXRblajbOfWQ,Chicago,IL,Desserts,41.920406577296,-87.6373714953661,$$,242,4.5
+499,The Jibarito Stop,Bj_4lpjmkFHwOAzRbIoabg,Chicago,IL,Puerto Rican,41.85802,-87.66801,$,253,4.5
+500,Pittsfield Cafe,_IFYKbyisxTsDiuqKolI4A,Chicago,IL,Breakfast & Brunch,41.883263,-87.62597,$$,632,4.0
+501,Parachute,kyZQnv62VQnDk23i_TxO3g,Chicago,IL,Korean,41.944707,-87.706518,$$$,619,4.0
+502,Gale Street Inn,Sy8ZjqYOE62tnpf0b1qa1g,Chicago,IL,American (Traditional),41.9699747728431,-87.762835174799,$$,613,4.0
+503,A Taste Of Heaven,srHMBV3D01hjXfoFDDJx6w,Chicago,IL,Bakeries,41.9799884,-87.6681389,$$,673,4.0
+504,Runa Japanese,5rLrAjUAnwc6dUrodaEhAw,Chicago,IL,Japanese,41.91013,-87.68461,$$,318,4.0
+505,Pub Royale,AKOxQTqo_t8V0LwsXXw-xA,Chicago,IL,Pubs,41.90286,-87.67916,$$,394,4.0
+506,Amitabul,wXp__hdga76Lkc6vX_O8dQ,Chicago,IL,Vegan,41.99416,-87.78439,$$,419,4.5
+507,Everybody's Coffee,5OhatEA7e3NyUPMTbU_EAA,Chicago,IL,Coffee & Tea,41.9652724,-87.6535798,$,212,4.5
+508,Sidetrack,a39_mogiy-ezzeD6kTm0Gw,Chicago,IL,Gay Bars,41.943234759267,-87.64918837306,$$,396,4.0
+509,Noodles In the Pot,SagrY7hDKDVfCHeDCKpifw,Chicago,IL,Thai,41.9269149578037,-87.6487970352173,$$,679,4.0
+510,The Rosebud,I8W5EBWP5ajd1tk8IwhRfg,Chicago,IL,Italian,41.869524,-87.664293,$$,621,4.0
+511,Chief O'Neill's Pub & Restaurant,PTjBAjRMCxLKAob8Dt5SIA,Chicago,IL,American (Traditional),41.94462,-87.70553,$$,570,4.0
+512,Patino's Grill,3_bJTUh5BNaD10s4hZUcjQ,Chicago,IL,Burgers,41.953742,-87.706068,$,180,4.5
+513,Enso Sushi & Bar,2R7ipjEkeQo821P9AnpJGA,Chicago,IL,Sushi Bars,41.9107586,-87.6773651,$$,407,4.0
+514,Acanto,o4vm4Z31Xfr-Fa8_D9EnLw,Chicago,IL,Italian,41.881323483914,-87.6245379144271,$$,353,4.0
+515,Shokolad,mXZS-Ue3awMfbMZLbaw72Q,Chicago,IL,Bakeries,41.89598,-87.69042,$,245,4.5
+516,Turquoise Restaurant,LPZP6SvCfBIAQahXDx3Ajg,Chicago,IL,Turkish,41.94289,-87.68265,$$,698,4.0
+517,Floriole Cafe & Bakery,2PDjNBgmUrE_h1G939RurA,Chicago,IL,Bakeries,41.921956,-87.659199,$$,471,4.0
+518,Eden,lgdxwmfYeHFd-BVhZnTGfQ,Chicago,IL,American (New),41.885285031685,-87.6709473878145,$$$,232,4.5
+519,Mia Francesca,6PQTqW9j-sriDBQyQCJbjw,Chicago,IL,Italian,41.9420064,-87.6523323,$$,664,4.0
+520,Osaka Sushi Express & Fresh Fruit Smoothies,AO83FW-KEkwzxC0YcvGO1w,Chicago,IL,Sushi Bars,41.876943,-87.624532,$,468,4.0
+521,SideDoor,mWTucUb_YNZNGyt6QSKZmg,Chicago,IL,Gastropubs,41.893543,-87.625046,$$,496,4.0
+522,Osteria Langhe,T1byj0cyKsnzgPFDPh3NXA,Chicago,IL,Italian,41.917687,-87.698252,$$$,344,4.0
+523,Robert's Pizza & Dough Company,Rn3o8GcYBPFJX5MWJn0r1Q,Chicago,IL,Pizza,41.8906916389975,-87.6172096480698,$$,286,4.5
+524,Casa Yari,XZwuqqN5HZ8jFAdmxQmcKg,Chicago,IL,Latin American,41.92497,-87.71019,$$,149,4.5
+525,Agami,2rFXwQ8GhUSRaICjYJ1tog,Chicago,IL,Sushi Bars,41.9674681,-87.6588103,$$,462,4.0
+526,Ricobene's,aEYu5fU5i2HKBOkvC9Zm7w,Chicago,IL,Italian,41.84575,-87.63389,$,800,4.0
+527,Green Mill,t3pYu8eidmb2ZmexHRHT_Q,Chicago,IL,Jazz & Blues,41.9691749999841,-87.6597404784749,$$,918,3.5
+528,Vincent Restaurant,XVDQYUFhJ4Ur_92eVYs3CA,Chicago,IL,American (New),41.9798175448213,-87.6675344363907,$$$,480,4.0
+529,The Bento Box,Yu9xRLlUFdNanAzUqPoqPA,Chicago,IL,Asian Fusion,41.91786,-87.68436,$$,236,4.5
+530,Señor Pan Cafe,JSw23BvU6mF-6S02d5ijBA,Chicago,IL,Cuban,41.9244149,-87.7423467,$$,475,4.0
+531,Tapas Valencia,U4c5YEldlytVFAv9YoN7qg,Chicago,IL,Spanish,41.861043,-87.628155,$$,594,4.0
+532,Rumi Middle Eastern Grill,o-qsh446uTZ0sbxsiNfQkw,Chicago,IL,Middle Eastern,41.9092,-87.67616,$,231,4.5
+533,"Table, Donkey and Stick",fJkO3cfnNXrLIoYYGBX7_g,Chicago,IL,Modern European,41.91775,-87.695965,$$,417,4.0
+534,Urban Vegan,JzjPyNtuAyhlvYNk75Rz5Q,Chicago,IL,Vegan,41.9614372155492,-87.669335813659,$$,427,4.0
+535,Brunch,bTnht8k4N6_ffwXzylcMAg,Chicago,IL,Breakfast & Brunch,41.8937063,-87.6372449,$$,817,4.0
+536,Landbirds,h_-ul1xabizUqTs1705g-Q,Chicago,IL,Chicken Wings,41.92764,-87.69782,$$,201,4.5
+537,Vegan Plate,89tZ6uoPgMktsiP9P6eq2g,Chicago,IL,Thai,41.9254188537598,-87.6677169799805,$$,227,4.5
+538,Grant Park,DwugY6shrqmzAe4NGgjDyA,Chicago,IL,Parks,41.8758205085886,-87.6189493035277,0,187,4.5
+539,Nha Hang Viet Nam,xXDY18O5C3gzVPNivTVbDg,Chicago,IL,Vietnamese,41.9734154,-87.6560364,$$,292,4.5
+540,Cuba 312,qfv0rYo8rAY0DgmL18hZTg,Chicago,IL,Caribbean,41.943481,-87.680633,$$,285,4.5
+541,Pizzeria Due,TCnRHh40_HxhHj0Xz6XK9A,Chicago,IL,Pizza,41.8931467721058,-87.6265681621034,$$,1000,3.5
+542,Emporium Wicker Park,vE42YFh_M30Uz4P4W-T5Qg,Chicago,IL,Bars,41.9066169104279,-87.6716816425323,$,550,4.0
+543,Ruby's Fast Food,6stjHiOWQJZjzlGGZDGdUg,Chicago,IL,Filipino,41.96126,-87.72215,$,242,4.5
+544,Taqueria Traspasada,nTL9tlTqGr5-J68W-3Szww,Chicago,IL,Mexican,41.89633,-87.66705,$,376,4.0
+545,The Berghoff Restaurant,ArT0vbIky7FvWFpPoIerEw,Chicago,IL,Bars,41.8793326,-87.6286679,$$,1015,3.5
+546,5 Rabanitos Restaurante and Taqueria,0pc352jFnUQFAw8DgmeSjw,Chicago,IL,Mexican,41.857970649612,-87.6709524169564,$$,428,4.0
+547,South Coast Sushi,O5mpcxYVF_r3GB3WR6UnxA,Chicago,IL,Sushi Bars,41.8589015950675,-87.6242748306885,$$,514,4.0
+548,Lillie's Q,d770VgA5S44qERqWS7WCFQ,Chicago,IL,Barbeque,41.9106293802927,-87.6748318970203,$$,1015,3.5
+549,Carmine's,g7GcOkQSOfC9JONw_rkNwQ,Chicago,IL,Italian,41.9019953,-87.6281131,$$$,875,3.5
+550,Annette's Italian Ice,p31OxfpwjoNezYCmMFfcHg,Chicago,IL,Ice Cream & Frozen Yogurt,41.9184732,-87.6519588,$,259,4.5
+551,Blowfish Contemporary Sushi,xTu2kHPjSHKvyQNos6E1qw,Chicago,IL,Sushi Bars,41.9836004823446,-87.6593112945557,$$,381,4.5
+552,Schubas Tavern,7erf6yRfYGkrQAuLo9e9xA,Chicago,IL,Music Venues,41.93965,-87.66343,$$,548,4.0
+553,Eggsperience Cafè,9sbVk5WywZTOIFDJfpksNg,Chicago,IL,Breakfast & Brunch,41.893092,-87.629536,$$,1069,3.5
+554,ChiTown Sandwich Club,LXtSheHGNVAjY8DUMy9pqA,Chicago,IL,Delis,41.9353684,-87.6467452,$,349,4.5
+555,L' Patron Tacos,P1U3mEEzXPwuPAsFUL_qHw,Chicago,IL,New Mexican Cuisine,41.92424,-87.72135,$$,458,4.0
+556,Vinnie's Sub Shop,JoT_npTii4Kavxr6WC0etA,Chicago,IL,Delis,41.8912632221338,-87.6576940932541,$,178,4.5
+557,Pinstripes,2HCUc0_ALwpoyrZjblrg5A,Chicago,IL,American (New),41.8908475350465,-87.6161211240793,$$,538,4.0
+558,Francesca's on Taylor,18hcO-EU7f1ENU4m1tbIBA,Chicago,IL,Italian,41.869426,-87.6617842,$$,469,4.0
+559,Cochon Volant Brasserie,1ujpo6di-VHGmf1kZnRtpQ,Chicago,IL,French,41.8807911918252,-87.6310143247247,$$,702,4.0
+560,Athenian Room,YJMFBlFB_dBpEQ370MO92g,Chicago,IL,Greek,41.9217435,-87.6490466,$$,721,4.0
+561,First Slice Pie Cafe,Ope9rcoWasqIWBvtEmcfsQ,Chicago,IL,Cafes,41.9795889,-87.6695256,$,330,4.5
+562,Oasis Cafe,wehHaAAnkl1G51jRnkNEVg,Chicago,IL,Mediterranean,41.882755,-87.6260309,$,415,4.0
+563,Juno,42GuTKuEm7JbzWtRwv9JTQ,Chicago,IL,Sushi Bars,41.9297369,-87.6552049,$$$,362,4.0
+564,North Pond,C9zXJ484qD6K8o0ISOQI7w,Chicago,IL,American (New),41.92931,-87.636616,$$$$,541,4.0
+565,Pho's Spicier Thai Cuisine,3BL6znoMLs5HyBaowRfuLA,Chicago,IL,Thai,41.942444,-87.670869,$,561,4.0
+566,Do-Rite Donuts & Chicken,xMCLMQY0G7OvNHqJEz8eEg,Chicago,IL,Donuts,41.8853451,-87.6519216,$,239,4.5
+567,Goose Island Brewhouse,_CzK0ssaWnDzmKIqJS54DA,Chicago,IL,Bars,41.9134218987771,-87.6542950746777,$$,915,3.5
+568,Watershed,T-t_OAwQ5e_1Lvp6v_RfXQ,Chicago,IL,Lounges,41.8926001,-87.6279651,$$,391,4.0
+569,Crave Kabob,9ePSkh6Ht0NR9lE7kNQ_xg,Chicago,IL,Mediterranean,41.8813351,-87.66563,$$,196,4.5
+570,The Corned Beef Factory Sandwich Shop,FiJ2O5LHPfL-OyiBBazpgA,Chicago,IL,Sandwiches,41.8857049,-87.6529626,$$,233,4.5
+571,Paladar,JPI7g_Q7x6Q6S30a3ic6Mg,Chicago,IL,Cuban,41.9231462,-87.6879753,$$,327,4.0
+572,Proxi,7NjkcZVOFfw31A0mPBPSPQ,Chicago,IL,Tapas/Small Plates,41.8842951,-87.6422749,$$$,355,4.0
+573,Museum of Contemporary Art,Jk3Df503X6Y53sFlB_y0Kw,Chicago,IL,Art Galleries,41.897133205545,-87.6214514115064,$,522,4.0
+574,Green Tea,o2sx9mzkd8Umc-6yagT3tg,Chicago,IL,Japanese,41.9223934,-87.6387248,$$,340,4.0
+575,Angelina Ristorante,aSxxfNO_647MtX8zc6vhOg,Chicago,IL,Italian,41.947146362475,-87.6469336269836,$$,732,4.0
+576,Mas Alla Del Sol,6a_deomxlTJf4oXKxnAG3Q,Chicago,IL,Mexican,41.9884118474889,-87.6604411700977,$$,285,4.5
+577,Nacional 27,iw6I57dVB_blHYdbamMTJw,Chicago,IL,Dance Clubs,41.89489726738,-87.637452219798,$$$,851,3.5
+578,Rice'N Bread,xiMMZSi06MXtvUoKd63iFQ,Chicago,IL,Korean,41.9446344810848,-87.6540841498032,$,310,4.5
+579,Beatnik,mOywm85qS-S6sYqO4Ir6bg,Chicago,IL,Breakfast & Brunch,41.8962675288597,-87.6676179198911,$$,464,4.0
+580,Osmium Coffee Bar,8IzTjSeBCyAfL7ebLVCWBA,Chicago,IL,Coffee & Tea,41.9396019,-87.6573029,$,257,4.5
+581,Sushi Dokku,r732n4Oq1YO02K58fcR-Yg,Chicago,IL,Sushi Bars,41.8841513653687,-87.6484478840348,$$,385,4.0
+582,Fairgrounds Coffee and Tea,OPjXdkm5y_ARr6oyeEOMfg,Chicago,IL,Breakfast & Brunch,41.9106987115516,-87.6780348762432,$$,245,4.5
+583,Pizzeria Bebu,2YpaHOHIsOmO8CKAl8OK6g,Chicago,IL,Pizza,41.90912,-87.65087,$$,256,4.5
+584,El Taco Azteca,gnNU9D08rqhMioCx0AJbAg,Chicago,IL,Mexican,41.85185,-87.68029,$,178,4.5
+585,Enoteca Roma Ristorante,7Ig90WlrxTm-oLGt8AQrfQ,Chicago,IL,Wine Bars,41.903222,-87.6816573,$$,477,4.0
+586,Pannenkoeken Cafe,z_Fdvv5wAdXmGmFDs6vM5g,Chicago,IL,Creperies,41.9682370444073,-87.6886891946197,$$,441,4.0
+587,Maison Parisienne,5jbqjzdcQR9jNBTsmX8Xog,Chicago,IL,Coffee & Tea,41.94209,-87.65199,$$,179,4.5
+588,Monnie Burke's,KEurf3alWcf4Z0RqPtTYDQ,Chicago,IL,American (New),41.857834,-87.6556186,$$,324,4.5
+589,The Lobby,VZRNSAoPrg_CNiCtMNSlyw,Chicago,IL,American (Traditional),41.8959,-87.625141,$$$,338,4.0
+590,Club Lucky,ytZzmlgLBM8r3TqY7WAY0A,Chicago,IL,Italian,41.91256,-87.67367,$$,604,4.0
+591,Maggiano's Little Italy,ouKaFTfc8DT5v4LOeTiDSw,Chicago,IL,Italian,41.8913803100586,-87.6317443847656,$$,715,4.0
+592,Alegrias Seafood Chicago,avPNh77s2rYNAkABm8MTKw,Chicago,IL,Seafood,41.90046,-87.66776,$$,591,4.0
+593,Mable's Table,Nk4H9CkU8B1VPAofaB2qcQ,Chicago,IL,American (New),41.91582,-87.6699,$$,276,4.5
+594,La Catedral Cafe & Restaurant,SfaA8AXQVtPY1JtAuJrgaw,Chicago,IL,Mexican,41.846148,-87.709083,$$,340,4.5
+595,Guthries Tavern,KEA-qwV8Y8QZsrJ4RdvPYw,Chicago,IL,Bars,41.94738,-87.66177,$$,403,4.0
+596,Chicago Raw,PidZ26sboIS3-6CtUpNskA,Chicago,IL,Live/Raw Food,41.8841694251783,-87.6408842460633,$$,228,4.5
+597,Le Bouchon,gAp38M1cLRkFHbemMhaNAQ,Chicago,IL,French,41.91756,-87.67792,$$$,520,4.0
+598,Richard's Bar,v0X7NblU3NmG0_g87-aHiw,Chicago,IL,Dive Bars,41.89098,-87.64685,$,314,4.5
+599,Ground Control,TqyssEJOYHG2tWCheOVWeQ,Chicago,IL,Vegetarian,41.9173377,-87.7107789,$$,355,4.0
+600,Will's Northwoods Inn,Ifk2tTefkmj9apIZOYyuBw,Chicago,IL,Sports Bars,41.937251,-87.65903,$$,274,4.5
+601,Blaze Fast-Fire'd Pizza,npBBFxQsJEccu7ZRafVv8Q,Chicago,IL,Pizza,41.9398510944604,-87.653542868793,$,401,4.0
+602,Esencia Urban Kitchen,r2eRY7UymHkcopNgzjJv9g,Chicago,IL,Cafes,41.9432065013836,-87.6445358158359,$$,265,4.5
+603,Sheffield's Wine & Beer Garden,fQCVQyUNAsDZmdjebXwY3Q,Chicago,IL,Bars,41.94161,-87.65455,$$,697,4.0
+604,Milk & Honey Cafe,qqax04alS3UPx0Yp4jJNDQ,Chicago,IL,Breakfast & Brunch,41.90352,-87.67573,$$,779,3.5
+605,Chicago Lakefront Trail,77iOCPe5MhQfZ_ARAa1fBw,Chicago,IL,Parks,41.9434529175631,-87.6396700662567,0,211,4.5
+606,Southport & Irving SIP,iV0dJWBCENr4ZiTgqK4lLQ,Chicago,IL,American (New),41.954573,-87.664442,$$,554,4.0
+607,Untitled Supper Club,KGMxtvX0191P1teCk1Yt6w,Chicago,IL,American (Traditional),41.8889649,-87.6316229,$$,1011,3.5
+608,Pizano's Pizza,9LaA6_oGpgHCJWhlAkbnIw,Chicago,IL,Pizza,41.8819708386668,-87.6255734244467,$$,1391,3.5
+609,Bistronomic,ISK4YPxKYvG9PzmxBE6CJg,Chicago,IL,American (New),41.8979072566376,-87.6272430870994,$$$,569,4.0
+610,Lao Sze Chuan,yBRaSkuYwFhYEoucDyD0lA,Chicago,IL,Szechuan,41.85328,-87.63495,$$,1333,3.5
+611,The Office,mGnNer7raiilgF0JWCpGtw,Chicago,IL,American (Traditional),41.8866214,-87.6514653,$$$$,233,4.5
+612,Kitchen 17,27cckuU8ONgwWKxf7fUW3g,Chicago,IL,Comfort Food,41.9387532348521,-87.6448537381136,$$,387,4.0
+613,Eduardo's Enoteca,11_xlt0Sn2tlclHwf_Gd9A,Chicago,IL,Italian,41.90439,-87.63043,$$,358,4.0
+614,Somethin' Sweet Donuts,C9cB74_jNHfEEO1NPtMFMQ,Chicago,IL,Donuts,41.924464,-87.754371,$,230,4.5
+615,Old Irving Brewing,rPp8L8pwkNwepgPRVBy99g,Chicago,IL,Breweries,41.9606817809204,-87.7393777788835,$$,432,4.0
+616,Pera Turkish Kitchen & Bar,-GpYHa2AAm-3vmr8hoDC1Q,Chicago,IL,Turkish,41.93382,-87.6443,$$,187,4.5
+617,The Wiener's Circle,Gw8BSjJ6FFppeghWUv-DGA,Chicago,IL,American (Traditional),41.930108,-87.643951,$,970,3.5
+618,DiSotto Enoteca,hVf31CYionZPWquqKnOsUw,Chicago,IL,Italian,41.89871,-87.62142,$$,230,4.5
+619,Lady Gregory's,DPjDl5yUOh2jj_-Y2YODGQ,Chicago,IL,American (New),41.9774908,-87.6685493,$$,834,3.5
+620,Beezzee,pOQOEBZbKXA3MLUXWsSyTg,Chicago,IL,American (New),41.9328851,-87.6537007,$$,250,4.5
+621,Conte Di Savoia,J9WfLOHSTcXaT_9kz2gq0Q,Chicago,IL,Delis,41.869411,-87.6632462,$,226,4.5
+622,Café Orchid,VAregVfBNLYr9qz-cexxiw,Chicago,IL,Turkish,41.9470849,-87.6731266,$$,443,4.0
+623,Ignotz Ristorante,fGNGjLrTKb75W94DXiWCxw,Chicago,IL,Italian,41.8478012084961,-87.6827697753906,$$,294,4.5
+624,Ann Sather,OiP8yvkLXaygzWx8eQOimw,Chicago,IL,Scandinavian,41.943835,-87.644888,$$,517,4.0
+625,Rangoli,1GiybV2faVpTt1zw13CzLA,Chicago,IL,Indian,41.910198,-87.68809,$$,621,4.0
+626,West Egg Cafe,mieBLLemj2lEtXwchf9psw,Chicago,IL,Sandwiches,41.89324,-87.6203949,$$,790,3.5
+627,Navy Pier,5RGtrijqdZsbw0861RMSlw,Chicago,IL,Landmarks & Historical Buildings,41.891636,-87.605326,0,1221,3.5
+628,Billy Sunday,mBha1l54dLfu86qbsxoaQQ,Chicago,IL,Cocktail Bars,41.9278208,-87.7065507,$$,328,4.0
+629,Uptown Pho,yl5ARTiRX72sBSDzwCpJKA,Chicago,IL,Vietnamese,41.973389,-87.655519,$,295,4.5
+630,PR Italian Bistro,tL8lLGQaAnKb9I7a0vsGtg,Chicago,IL,Italian,41.953063,-87.654755,$$,688,4.0
+631,Somerset,Q6_BGOsbvm2qr5aDDM4stg,Chicago,IL,American (Traditional),41.90241,-87.6289,$$$,350,4.0
+632,11 Degrees North,fPlA_n18OTA09KiF8j0qXg,Chicago,IL,Coffee & Tea,41.9400605,-87.6503407,$,141,4.5
+633,Pizano's Pizza,A6rjC7k7fvMnAVEB_W0_Aw,Chicago,IL,Pizza,41.89863,-87.62844,$$,790,3.5
+634,Skylark,5oCdd7n_IINlIrDlNACuTQ,Chicago,IL,Dive Bars,41.85279,-87.64619,$,435,4.0
+635,First Draft,VCLQpc78prtGTxJAKjz-Ow,Chicago,IL,American (Traditional),41.873437,-87.630308,$$,464,4.0
+636,Sushi X,1g52-6WzlhjIOpNAsBjPJg,Chicago,IL,Sushi Bars,41.896362,-87.656584,$$,484,4.0
+637,Reno,48LgtDgqtzQpF8KYUb1pJg,Chicago,IL,American (Traditional),41.929155,-87.707174,$$,483,4.0
+638,Yolk Marina City,sUDWHJCEKd6GUjhMysoUYw,Chicago,IL,Breakfast & Brunch,41.888682,-87.628757,$$,416,4.0
+639,Gyu-Kaku Japanese BBQ,NzTK1ZgqdzzOCbgxXWtvOg,Chicago,IL,Japanese,41.884454,-87.661355,$$,378,4.0
+640,Bangers & Lace,fLwNhXatcSoQEI8XeFbrtg,Chicago,IL,Pubs,41.90357,-87.67023,$$,576,3.5
+641,Tony's Burrito Mex,H-Bb2G3PixdNRONKEyX-Pw,Chicago,IL,Breakfast & Brunch,41.9393,-87.67816,$,347,4.0
+642,Caffe Streets,t3kaqHh5SwP8qn0kg4EY6g,Chicago,IL,Coffee & Tea,41.90354,-87.67197,$$,334,4.0
+643,Pearl's Southern Comfort,SCkRTMcs6ya1KSm8Qm4ikA,Chicago,IL,Southern,41.9797154720227,-87.660177473124,$$,440,4.0
+644,D4 Irish Pub & Cafe,F-Ucb69aUN5UI1Dv3nngQw,Chicago,IL,Cafes,41.892019224495,-87.618911921119,$$,768,3.5
+645,La Villa Restaurant,hvHVAs2lhaoYo_rxOUuSTQ,Chicago,IL,Pizza,41.94754,-87.72775,$$,585,4.0
+646,Shanghai Terrace,TjPPHjSDJwrFWvG1W3drtw,Chicago,IL,Chinese,41.895999,-87.6250761,$$$,322,4.0
+647,Sushi Mon,ewNcPWT3DSaIT0vwMA_10Q,Chicago,IL,Sushi Bars,41.9267026,-87.64097,$$,369,4.0
+648,Rosebud Steakhouse,5zrksL0drFQBc8_zByiq_g,Chicago,IL,Steakhouses,41.9000993,-87.6220543,$$$,369,4.0
+649,HaiSous Vietnamese Kitchen,hdEpBdmDqKGgodcPyegh4Q,Chicago,IL,Vietnamese,41.857905464288,-87.653351765299,$$,335,4.0
+650,Jarabe- Mexican Street Food,VhScSsvXZl6J7j1Vat7ccw,Chicago,IL,Mexican,41.86886,-87.68334,$,175,4.5
+651,Stella Barra Pizzeria,emwETJLmITVycIPNAO_toQ,Chicago,IL,Pizza,41.917657,-87.648684,$$,507,4.0
+652,Ay Ay Picante,NHCYS3udwbhO6qKeXx04hA,Chicago,IL,Seafood,41.964112,-87.734107,$$,564,4.0
+653,Yummy Yummy Asian Cuisine,c-33j2eSYNCppwBVLUFpzg,Chicago,IL,Chinese,41.9351256288396,-87.6440628857616,$$,619,4.0
+654,Twisted Spoke,BnuVd40aBq0Z61P3wSSNlw,Chicago,IL,Breakfast & Brunch,41.8912954404938,-87.6585463125038,$$,697,3.5
+655,Real Kitchen,Z8zsvzJxCP83Ls-EShQJIQ,Chicago,IL,Caterers,41.9612561,-87.6665041,$$,204,4.5
+656,Chicago Riverwalk,kSDupSRuYSQKCQ4f0TABWw,Chicago,IL,Landmarks & Historical Buildings,41.8875448,-87.6174791,0,156,4.5
+657,Acadia,ZGnxEJXlv8e41qhVLkfKtQ,Chicago,IL,American (New),41.859047,-87.625243,$$$$,469,4.0
+658,Hot Dog Station,gFQ-NcVxqAb4S29S7DLehA,Chicago,IL,Hot Dogs,41.9679886090324,-87.7134617808249,$,176,4.5
+659,Maria's Packaged Goods and Community Bar,r4iweDMqH0NGdPIZ53Buuw,Chicago,IL,Beverage Store,41.8380881441828,-87.6511075736107,$$,356,4.0
+660,Rickshaw Republic,HwOzFKTCkOE1NwGrxXxuAQ,Chicago,IL,Indonesian,41.92388,-87.64711,$$,365,4.0
+661,JAM,bgfOCJADPdrvYNctbX_Wxg,Chicago,IL,Breakfast & Brunch,41.933595,-87.707188,$$,732,3.5
+662,Links Taproom,kNyNZE7-6vgrMtaeS1sOVw,Chicago,IL,Beer Bar,41.9098596489117,-87.6763864489499,$$,235,4.5
+663,Perkolator,j7kcbdUFjroGeta8ieN1gw,Chicago,IL,Cafes,41.9531543,-87.7782196,$,203,4.5
+664,Taco Bell,MAnqkx5fDLCkI5TZdmyeDw,Chicago,IL,Fast Food,41.928279,-87.673393,$,319,4.5
+665,Garcia's Restaurant,08X_5WTOVNvk4SgPRKBjjQ,Chicago,IL,Mexican,41.9680265354179,-87.6884323571472,$$,1237,3.5
+666,CC Ferns Coffee Bar & Spirits,BpwVIB258we6x2XwekpFug,Chicago,IL,Coffee & Tea,41.8994049,-87.6970885,$$,134,4.5
+667,Bakin' & Eggs,3wK-MKxgpiTQ7C7HSFbK0w,Chicago,IL,Breakfast & Brunch,41.93823,-87.66714,$$,726,3.5
+668,Headquarters Beercade River North,MU5NxL5nQzRhuzSC0APmiA,Chicago,IL,Bars,41.89718,-87.6352,$$,477,4.0
+669,Kim & Carlo's Hot Dog Stand,OO-PuBnfrdXlZWKCyPPiQg,Chicago,IL,Hot Dogs,41.8653123213288,-87.6154239848256,$,266,4.5
+670,Gemini,wsox4oAdEk94m6YploUfdA,Chicago,IL,American (New),41.9200319,-87.640967,$$$,478,4.0
+671,The Boiler Room,Z5xaAmM_cHIHv8NxVXXsCg,Chicago,IL,Pizza,41.922116,-87.697669,$$,868,3.5
+672,Susie's Noon Hour Grill,yD1aRxezQ8XjrKogEfuShw,Chicago,IL,Korean,42.0075552249299,-87.6662723055139,$,275,4.5
+673,Mild 2 Spicy,X1X_1cPqu8RiPmjOXWeyTQ,Chicago,IL,Indian,41.9329125732542,-87.6472141966224,$$,234,4.5
+674,Yoshi's Cafe,PFg_W14UFHXtwHOxquirIA,Chicago,IL,American (New),41.9417028,-87.6492322,$$$,301,4.0
+675,The Kitchen,MwobGG_QI3QLf5HencV3Yg,Chicago,IL,American (New),41.8880238,-87.6312069,$$$,600,4.0
+676,Fatpour Tap Works,bEhKMjnmpZLtFb7oAKjYYA,Chicago,IL,Sports Bars,41.90289,-87.67762,$$,581,3.5
+677,Rossi's Liquors,6QT-YirAXDUyQL0ikTPywQ,Chicago,IL,Dive Bars,41.88974,-87.62819,$,328,4.0
+678,Thai Aree House,q65G-7JIZWy0bTeOzwMzTw,Chicago,IL,Thai,41.9459,-87.73551,$$,184,4.5
+679,Nonnina,wYBTYDCk5ebNm7WtPfvX-g,Chicago,IL,Italian,41.8883821,-87.6311649,$$,446,4.0
+680,Craft Pizza,8-eWe05s8Z7I1AejHXNsEA,Chicago,IL,Pizza,41.9048454,-87.6775072,$$,235,4.5
+681,Lou Malnati's Pizzeria,84r_TaEPqE1bnYFLqYdOtQ,Chicago,IL,Pizza,41.908901,-87.6774103,$$,336,4.0
+682,Uncommon Ground,zcMR0uDgshgPA0rauDlekA,Chicago,IL,American (New),41.95125,-87.66007,$$,1050,3.5
+683,Spiaggia,mnvQFi_uwBKgBjrIyRQ6YQ,Chicago,IL,Italian,41.900622,-87.624411,$$$$,555,4.0
+684,Broken Shaker Chicago,dkN4tBckgSUM39_yI5eGEA,Chicago,IL,Cocktail Bars,41.89233,-87.62727,$$,374,4.0
+685,Macku Sushi,iuFSSw6VYxgcnUmVDqwQ0Q,Chicago,IL,Sushi Bars,41.92255,-87.66521,$$$,404,4.0
+686,Maggie Daley Park,wILxEU86YqC5EgWsF0NnlQ,Chicago,IL,Parks,41.8818434527342,-87.6189020735213,0,169,4.5
+687,The Duck Inn,2mXTTmT65KzUCf_2l-VS-w,Chicago,IL,Cocktail Bars,41.8444817593219,-87.6601841065537,$$$,435,4.0
+688,Mirai Sushi - Wicker Park,R9MFihPd2WlN6Ze7OcOdqQ,Chicago,IL,Sushi Bars,41.9034767150879,-87.67822265625,$$$,513,4.0
+689,The Long Room,ijItniAY6ggVdNLv91Dy2w,Chicago,IL,Bars,41.9543649269481,-87.6699660345912,$$,289,4.5
+690,The Italian Village Restaurants,4hEWyzVZ4gKdAoBpsd7Rrw,Chicago,IL,Italian,41.880595,-87.630159,$$,964,3.5
+691,Park & Field,_wpU0jwlbpfun7MVU79UbQ,Chicago,IL,American (New),41.924257,-87.714317,$$,466,4.0
+692,Blackwood BBQ,zQnbP2dJoro12dk66RUXBA,Chicago,IL,Barbeque,41.885604,-87.63594,$,349,4.0
+693,The Grind,mVPS8uYDkz1J9Q_KAhZzxQ,Chicago,IL,Coffee & Tea,41.9654579162598,-87.6860885620117,$,360,4.0
+694,Silli Kori,xJEA6P6VS-Ukl9dmjleDkw,Chicago,IL,Thai,41.90286,-87.67935,$$,215,4.5
+695,Buena Vista,m_J7wFRwwRdck6M-dfn3iw,Chicago,IL,Mexican,41.9389519,-87.6441962,$,332,4.0
+696,The California Clipper,_1rixyDTpzEdBQ7iISH3mw,Chicago,IL,Lounges,41.8995106,-87.6969527,$$,350,4.0
+697,Chicago's Dog House,IvEwb3qOgFK6E23FN6D1Yw,Chicago,IL,Hot Dogs,41.9255849,-87.6492199,$,417,4.0
+698,Pastoral,aOPvO5JFJY7U8abN62Tt9g,Chicago,IL,Cheese Shops,41.9362589,-87.6441550018524,$$,275,4.5
+699,Cafe Tola,jFuAPa4aUHLHVv_pCQB8oQ,Chicago,IL,Coffee & Tea,41.9474121183157,-87.6640179008245,$,266,4.5
+700,Fig & Olive - Chicago,XHTod-9H66e1krXYQjxRBQ,Chicago,IL,Mediterranean,41.901044,-87.625532,$$$,796,3.5
+701,Same Day Cafe,-pgwH-_0OaF4SAGeqAJTig,Chicago,IL,Desserts,41.9297214,-87.7073451,$$,190,4.5
+702,Dollop Coffee & Tea,xFh35XIc5-9z88dLFH-Bxw,Chicago,IL,Coffee & Tea,41.8924508684265,-87.6186701969267,$,477,4.0
+703,Blaze Fast-Fire'd Pizza,c-2RLpueD2I9m4dYgL9kPQ,Chicago,IL,Pizza,41.89314,-87.62161,$,392,4.0
+704,San Soo Gab San,_n3OmwreEGPQmiHKklsD8w,Chicago,IL,Korean,41.9775897881067,-87.6887278533035,$$,1280,3.5
+705,Roots Handmade Pizza,AxWlIqLC9qwNcZ67RSh1gQ,Chicago,IL,Pizza,41.8962,-87.67565,$$,854,3.5
+706,Pasta D'Arte Trattoria Italiana,3NViikBJwbjvq1ensGYRcw,Chicago,IL,Italian,41.99563,-87.78578,$$,350,4.5
+707,Slim's,QPr7dxBlnNipJ0R5-GMd-w,Chicago,IL,Sandwiches,41.9615868227063,-87.6799042895436,$,337,4.0
+708,Niu Japanese Fusion Lounge,YQ_ZW6rnU5IshuiGlnlTUg,Chicago,IL,Sushi Bars,41.891185141978,-87.618678666509,$$,791,3.5
+709,Ricano's Restaurant,IoJoWPp7dQOjeCfT2ki3cA,Chicago,IL,American (Traditional),41.87793,-87.66707,$$,304,4.0
+710,The Victor Bar,AT-tDO0T72d7gacVYXPu7g,Chicago,IL,Cocktail Bars,41.9544934,-87.6785759,$$,150,4.5
+711,Protein Bar,t3Gg5wW9wxHO4s9tGBArQQ,Chicago,IL,American (New),41.8790123356902,-87.6350229818467,$,396,4.0
+712,Billy Goat Tavern - Chicago,gYngvyYN0-iqXqjk55mfpA,Chicago,IL,Dive Bars,41.890362,-87.624495,$,905,3.5
+713,Mrs. Murphy & Sons Irish Bistro,4FCKIS7PWqw9-diFbtr-gg,Chicago,IL,Irish,41.9526899,-87.67732,$$,463,4.0
+714,Bienmesabe,iw1_4RySfJpOMvuZ73XAvw,Chicago,IL,Venezuelan,41.9614551,-87.670454,$$,405,4.0
+715,Fabcakes,OCrTpzL3Hsst-ckiaTeMyQ,Chicago,IL,Bakeries,41.8953018,-87.6345367,$,262,4.5
+716,Pokiology,rAPCpaJENgcSDM-t_Lsqag,Chicago,IL,Poke,41.965489041314,-87.6613923567586,$$,199,4.5
+717,Upton's Breakroom,LeA-eBkN7UMoFKuHRP_MyQ,Chicago,IL,Vegan,41.8908805274879,-87.6793019379492,$,199,4.5
+718,Beatrix Fulton Market,WjNakFKJRj1vajq-JYopbg,Chicago,IL,Breakfast & Brunch,41.8868249661409,-87.6488907835047,$$,332,4.0
+719,The StopAlong,Nza-kbPzUfFMZGyJz12sYg,Chicago,IL,Pizza,41.91426,-87.68393,$$,194,4.5
+720,Aroy Thai Restaurant,W3G0ytMhEITrWhJGCZ3D0g,Chicago,IL,Thai,41.966782,-87.679292,$$,397,4.0
+721,Meli Cafe,cVULFhP_qRHskfIWNysR_w,Chicago,IL,Breakfast & Brunch,41.8918462775328,-87.6342765335556,$$,685,3.5
+722,Roeser's Bakery,TYn-f0IJT3QHJvcNE8htyA,Chicago,IL,Bakeries,41.9102493353917,-87.7076072288361,$$,284,4.0
+723,Tea Pot Brew Bakery,eI8i0p5SgxB3KJ0sDGczXA,Chicago,IL,Bakeries,41.85769,-87.626,0,142,5.0
+724,Honky Tonk BBQ,3Yw8i4DTPR5a7SpQJMMS9Q,Chicago,IL,Barbeque,41.85779,-87.65678,$$,863,3.5
+725,Wheat's End Cafe,kETAh5tmJry7Nf4Y2Y_3Yg,Chicago,IL,Bakeries,41.9346173107624,-87.6441695541143,$$,250,4.5
+726,Adobo Grill,IgxcO01CIt2Cy8YjFEDLCA,Chicago,IL,Mexican,41.9109338,-87.6353587,$$,743,3.5
+727,Dolo Restaurant and Bar,eHpf-vadyWIK23bdK67IXA,Chicago,IL,Dim Sum,41.8525599,-87.63604,$$,447,4.0
+728,Petterino's,d_8fXdA3E0IW44NYqt6haw,Chicago,IL,American (Traditional),41.8846425,-87.6296888,$$,735,3.5
+729,Chiu Quon Bakery & Dim Sum,EVQUygqTpgwJnvoHctJ8jw,Chicago,IL,Bakeries,41.85139,-87.63161,$,314,4.0
+730,Mity Nice,oT7oYmyGKFdBk0IkuNZG0A,Chicago,IL,American (Traditional),41.8981170141684,-87.6232167949677,$$,423,4.0
+731,Sumo Sushi and Hibachi,mWDZVQxJ5p6aNp7ipa6DEQ,Chicago,IL,Sushi Bars,41.9359375,-87.6444353,$$,277,4.5
+732,Coco Pazzo Cafe,lwl1vEEagUrhNXhDI1StQA,Chicago,IL,Italian,41.8927539,-87.6220247,$$,345,4.0
+733,Montrose Dog Beach,9byvOQM3fSG9RU1fTYte5A,Chicago,IL,Dog Parks,41.968537,-87.6422305396728,0,254,4.5
+734,Antico,tzP7xNT7OokI6JKgtINTlA,Chicago,IL,Italian,41.91746,-87.68281,$$$,216,4.5
+735,Piatto Pronto,RU3rDAIUv3iNwkiuS3wMbg,Chicago,IL,Delis,41.98425,-87.66929,$,317,4.5
+736,Chicago History Museum,w4eSvNabRvAgsODaqUEdBw,Chicago,IL,Museums,41.9113772,-87.6315416,0,345,4.0
+737,The Coffee Studio,z-XvS31G0aUZHU9eLdtQRA,Chicago,IL,Coffee & Tea,41.984327090113,-87.669086660493,$,418,4.0
+738,Dark Matter Coffee - The Mothership,LzSy-jphOHeHEKDAMJgKfA,Chicago,IL,Coffee & Tea,41.89508,-87.68723,$$,214,4.5
+739,Public House,qizzFBua15kSbWB48T8XGg,Chicago,IL,American (New),41.8893653140557,-87.6282758306885,$$,1097,3.5
+740,La Crosta Woodfire Pizzeria Italiana,Z-SJv3keY-u2bIAnkrDq_Q,Chicago,IL,Pizza,41.9248027560034,-87.6479495139774,$$,186,4.5
+741,Brazilian Bowl,HAi1irLE91wjLJo5Qiskpg,Chicago,IL,Brazilian,41.940256,-87.644653,$,467,4.0
+742,Hungry Brain,51hKiQfGwowwpmry84HcGw,Chicago,IL,Dive Bars,41.93921,-87.68644,$,199,4.5
+743,Jibek Jolu,JS5mi7IPnfntxujiXtirHw,Chicago,IL,Russian,41.9732243,-87.6913578,$$,326,4.0
+744,The Berkshire Room,2kgPIuJMqYnLR2Dp_7-40A,Chicago,IL,Lounges,41.89226,-87.627502,$$,350,4.0
+745,Caro Mio,NGfbRjWoqUh2fGw8DU_pmA,Chicago,IL,Italian,41.9651506,-87.6758369,$$,593,4.0
+746,Ceres Cafe,TP8zxYve1T4_xq7mLAT-1g,Chicago,IL,American (Traditional),41.8780574,-87.6322115,$$,397,4.0
+747,The Matchbox,OcMQUx_fyrUQdWwtnfuofw,Chicago,IL,Bars,41.8955764770508,-87.6549072265625,$$,267,4.0
+748,Kanela Breakfast Club,ZSLyeUcAlLVQTyVZFrMpaQ,Chicago,IL,Breakfast & Brunch,41.8912549,-87.6138566,$$,675,4.0
+749,Alice & Friends' Vegan Kitchen,0dsmnEYaTVsT2OglrlWTmg,Chicago,IL,Vegan,41.9875134,-87.6603665,$$,320,4.5
+750,El Milagro Tortilla,umGEOhvhbqhh72Mn47a4Zw,Chicago,IL,Mexican,41.8551733,-87.6631926,$,334,4.0
+751,BLVD,bFWnNX0WIxrx13J_7xleeg,Chicago,IL,American (New),41.8854,-87.64823,$$$,427,4.0
+752,Primo Chuki's,33r5J19uqUKJHreIgUBWZg,Chicago,IL,Mexican,41.96898,-87.671467,$,249,4.5
+753,Smith & Wollensky,34C7qV4KzeOyRWZId6pl_g,Chicago,IL,Steakhouses,41.8883017,-87.6281349,$$$,862,3.5
+754,Navigator Taproom,w7DTxXHFOmEeULKI5m4LVQ,Chicago,IL,Beer Bar,41.9211288,-87.6941778,$,132,4.5
+755,Small Cheval - Wells,lMKK_to3ZZ31Ste-ncsJ0Q,Chicago,IL,Burgers,41.90703,-87.63414,$$,203,4.5
+756,Fremont,ID-0tVdM9YatcHzjDfiofg,Chicago,IL,American (New),41.89063,-87.6287,$$,531,4.0
+757,TeaGschwendner,LHv1tTXfeJYXq8gN3lAgjA,Chicago,IL,Tea Rooms,41.9034734,-87.6288729,$$,171,4.5
+758,Herb,hbFDXHPMSJld7mSvh0syxQ,Chicago,IL,Thai,41.98073,-87.66039,$$$,238,4.5
+759,Bridgeport Coffee,-WwqSNbXZ16Rv8r6wc_umQ,Chicago,IL,Coffee & Tea,41.8378601074219,-87.6508483886719,$,406,4.0
+760,Sweetwater Tavern and Grille,ugOU_IJV4qFSaC1BtuazyQ,Chicago,IL,American (New),41.886472,-87.624099,$$,1004,3.5
+761,Bourgeois Pig Cafe,3aoCOA9tc3Nhi2swyhR-1Q,Chicago,IL,Vegetarian,41.92567,-87.64791,$,854,3.5
+762,Del Toro,Ocayko4Wvm2Oz7-RGx91kw,Chicago,IL,Burgers,41.85324,-87.6462,$$,372,4.0
+763,The Happy Lobster,figkYyQO-6kmS3gw8K34kA,Chicago,IL,Seafood,41.8842821,-87.6410974,$$,146,4.5
+764,Jimmy's Red Hots,lSrO-tXH3jR9HODPzft9OQ,Chicago,IL,Hot Dogs,41.906653,-87.726735,$,289,4.5
+765,Bar Takito,g2BZVEeNbFQfruKLDDe-ZQ,Chicago,IL,Latin American,41.8857,-87.6519851,$$,543,4.0
+766,Wood,tCBKjclvCuiuSkiNz1fOjw,Chicago,IL,Bars,41.942829280388,-87.649184667136,$$,507,4.0
+767,Centennial Crafted Beer & Eatery,zwEvkkliEdhDcRZtnHO2JA,Chicago,IL,Beer Bar,41.8958299,-87.63235,$$,203,4.5
+768,Chicken & Farm Shop,cnDJOvf7kErlCj1LgDTe6A,Chicago,IL,American (Traditional),41.883746,-87.648281,$$,347,4.0
+769,Ava's Italian Ice,AmyMmgoyJQsECiNaegsVgg,Chicago,IL,Shaved Ice,41.9144331,-87.687481,$,103,5.0
+770,Habana Libre Restaurant,1AwTFlZTeFxINxC5e9VIpA,Chicago,IL,Cuban,41.8962642,-87.6640126,$$,448,4.0
+771,Pl-zen,gGnXdeIA6mox_qN0NK51AA,Chicago,IL,Gastropubs,41.8575592041016,-87.6645660400391,$$,371,4.0
+772,Les Nomades,L-JFa3cZEP8nEaC0tak_SA,Chicago,IL,French,41.89367,-87.62172,$$$$,244,4.5
+773,Dollop Coffee & Tea,g0mIxIj16ANKtdI9MRH1lQ,Chicago,IL,Coffee & Tea,41.95807,-87.6495,$,497,4.0
+774,Peggy Notebaert Nature Museum,z0luJPSQb4w8953Dci5Kcg,Chicago,IL,Museums,41.9262474775314,-87.6339550316334,0,187,4.5
+775,Southern Cut Barbeque,60qudKwZHT6-UijNbGVNWw,Chicago,IL,American (Traditional),41.8994131791425,-87.6220517233197,$$,652,3.5
+776,Mima's Taste of Cuba,6jshyTJKUdcz0YTHyhi1ew,Chicago,IL,Cuban,41.95365,-87.70171,$,333,4.0
+777,Nori Sushi Bar - Lakeview,_aDftia5RSSBpDLHatEfFg,Chicago,IL,Sushi Bars,41.932718,-87.653535,$$,498,4.0
+778,Kopi Travelers Cafe,4ECBK15z86rdy9KP-qMREQ,Chicago,IL,Coffee & Tea,41.97859,-87.66796,$$,540,4.0
+779,Rolls N Bowls,alA4ccSsga38IVqkZyRk6g,Chicago,IL,Sushi Bars,41.965995,-87.6866153,$$,392,4.0
+780,Daisies,ngB0iQM1Yz7Nx_tQZqU7NA,Chicago,IL,Pasta Shops,41.92735,-87.70405,$$,216,4.5
+781,Firecakes Donuts,kcTO5R9SPjQCe2DMiFkOKw,Chicago,IL,Donuts,41.92696,-87.641186,$,285,4.0
+782,Al's Beef,WsU46rtQDsc9tZUWroD4TA,Chicago,IL,Italian,41.89302,-87.6337999,$,644,3.5
+783,Bacino's of Lincoln Park,XeJkMq4uK4KJgbxL9_Ublg,Chicago,IL,Pizza,41.9220898692102,-87.6441773455396,$$,382,4.0
+784,Galway Bay,q4P8Ifx3VATzdhbrkzIEHA,Chicago,IL,Dive Bars,41.932995,-87.641603,$,229,4.5
+785,Blue Door Farm Stand,ige3s8PkYAErLRVbSvqItQ,Chicago,IL,Salad,41.9185554983396,-87.648811124884,$$,419,4.0
+786,Asian Outpost,c3DGLqz31UbLapOYoRJJiw,Chicago,IL,Sushi Bars,41.865437,-87.6255416320581,$$,389,4.0
+787,Windy City Cafe,FZuVE8sm9To2mPUGwpRBeQ,Chicago,IL,Breakfast & Brunch,41.8964341368,-87.6550369757684,$$,298,4.0
+788,Ghirardelli Ice Cream & Chocolate Shop,U7V6TyvRjlMXA__kCnF8XA,Chicago,IL,Ice Cream & Frozen Yogurt,41.8976950118404,-87.6249388497375,$$,489,4.0
+789,Jess Cafe,QG6k8viDLaAf5WBIytthDA,Chicago,IL,Chinese,41.93825,-87.77216,$,391,4.0
+790,Silom 12,bg20bWGO5cD7A873sEb9kw,Chicago,IL,Thai,41.91487,-87.68488,$$,417,4.0
+791,Burger Bar Chicago - South Loop,mspxW1oelEoo6YJskI5cJg,Chicago,IL,Burgers,41.867902,-87.62438,$$,595,4.0
+792,Strings Ramen - Lakeview,RhBrHIjmCD6B0Yvw7MxhMA,Chicago,IL,Ramen,41.93977,-87.65227,$$,277,4.0
+793,Ms. T's Southern Fried Chicken,8VMNhH7CDY3Mb1Rha4psjg,Chicago,IL,Southern,41.94309,-87.644496,$,237,4.5
+794,Bar on Buena,MPfcgPwCcm3-imbg_BUNcA,Chicago,IL,American (Traditional),41.9585637,-87.653337,$$,534,4.0
+795,Star of Siam,c9LCR5lJ7Lzg-BEg3FGCyA,Chicago,IL,Thai,41.8906364440918,-87.62744140625,$$,1122,3.5
+796,Argo Tea,2AH6AcX1L6sNX60GUsEwVA,Chicago,IL,Coffee & Tea,41.8844881653786,-87.6284531503916,$,374,4.0
+797,Buddy Guy's Legends,wbOL77wMgSKV1yOkQuxw2Q,Chicago,IL,Jazz & Blues,41.8730157686049,-87.6262064974468,$$,540,4.0
+798,Caffe Umbria,BWgtmakp1vfcv-y4nQ2uQQ,Chicago,IL,Coffee & Tea,41.8887173,-87.6311077740857,$$,179,4.5
+799,Magnolia Bakery Chicago,miYKBz-Z9eLOeyJRSjV5WQ,Chicago,IL,Bakeries,41.8839027754304,-87.6281622141316,$$,1153,3.5
+800,The Burger Point,H4KzoY_z3D3tUnPZMv3HXg,Chicago,IL,Burgers,41.8562862457147,-87.6273884868141,$$,540,4.0
+801,Scafuri Bakery,TpRzi_TaFkaN2toazG72wg,Chicago,IL,Bakeries,41.8692659,-87.6606725,$,213,4.5
+802,Tac Quick,txerhr0c6RtWhlNWhWIB5Q,Chicago,IL,Thai,41.9543649401989,-87.6550871455236,$$,548,4.0
+803,Epic Burger,7xpf5VhK73NN3gcb4gbMCA,Chicago,IL,Burgers,41.8752826,-87.6274851,$$,788,3.5
+804,Zaytune Mediterranean Grill,ntLthO5cQDnwn-vKiT3WxA,Chicago,IL,Mediterranean,41.8370666503906,-87.6508560180664,$$,426,4.0
+805,Jeni's Splendid Ice Creams,lEy037oOtXSEHv-_eYge4Q,Chicago,IL,Ice Cream & Frozen Yogurt,41.918395,-87.651142,$$,136,4.5
+806,Cellars Bar and Grill,-C_O2sunRZD_sgWtCIpuAQ,Chicago,IL,Breakfast & Brunch,41.98922,-87.66065,$$,578,4.0
+807,Jin Ju,CUYnO-T4OJqrpdx-3d2Y8g,Chicago,IL,Korean,41.9764,-87.66803,$$,332,4.0
+808,Fontano Subs,_pvjspuIWHbdkWLPiX9QRQ,Chicago,IL,Sandwiches,41.87209,-87.653431,$,163,4.5
+809,The Northman,XWbMHh7WQRu7tEZzIRKEgg,Chicago,IL,Bars,41.96063,-87.68301,$$,231,4.5
+810,Hash,xx4AqXy2x2jvIIR2hsQotQ,Chicago,IL,Breakfast & Brunch,41.90655,-87.68673,$$,406,4.0
+811,Chick-fil-A,s-NaiGf0DHA8wuVG9C060g,Chicago,IL,Fast Food,41.897119,-87.62706,$,382,4.0
+812,Green Door Tavern,8oKRLk54AhYwEaBe7onYog,Chicago,IL,Pubs,41.8946215100706,-87.6373652708838,$$,442,4.0
+813,BarTucci,MqB2og2Bdv0YcztieKEWjg,Chicago,IL,Italian,41.9423838,-87.806911,$$,242,4.5
+814,Pops for Champagne,bvB-S8FsKodF7qkfIfYI8g,Chicago,IL,Wine Bars,41.8926209396105,-87.6279114723251,$$$,772,3.5
+815,Lucia's Gourmet Italian Cuisine,Hs3b3jbwPQ88qtycbcR65w,Chicago,IL,Italian,41.91026,-87.67359,$$,330,4.0
+816,Tapster,PH4QEQNSWfgNdShuoD2rig,Chicago,IL,Bars,41.91039503401,-87.6785549999718,$$,183,4.5
+817,Cafe Ballou,PynQtVMw55Maam0ah-Zr-A,Chicago,IL,Cafes,41.89873,-87.68659,$,199,4.5
+818,The Fat Shallot Food Truck,lD3qc5CidZj1yRi1p0xl6g,Chicago,IL,Food Trucks,41.8797006295987,-87.6302485220684,$$,197,4.5
+819,Ukai Japanese Restaurant,forjLZnWO4KyRWH4y1W8KA,Chicago,IL,Japanese,41.9396951,-87.6561638,$$,398,4.0
+820,Gene & Georgetti,jsXtfVrcn7FrX06q3j_Xmg,Chicago,IL,Italian,41.89091,-87.63581,$$$,810,3.5
+821,Stax Cafe,jpdKZ8XBoRHrtDiB887o9A,Chicago,IL,Breakfast & Brunch,41.8691,-87.66184,$$,541,3.5
+822,Bar Roma,wfxgPtSkiAfkKNBVEWts9g,Chicago,IL,Bars,41.9745114390209,-87.668036185205,$$,263,4.5
+823,Chilam Balam,4LRC9kedY535bIBpqyBWdw,Chicago,IL,Mexican,41.93722,-87.64401,$$,701,3.5
+824,Four Moon Tavern,fM7wQZVC1DRxU6OXgaAmhw,Chicago,IL,American (Traditional),41.943149,-87.675881,$$,267,4.0
+825,Machu Picchu Restaurant,UTGDlrcdYWUwQYzXUChdaA,Chicago,IL,Steakhouses,41.9516650316681,-87.6690340870022,$$,489,4.0
+826,El Barco,rNEx_ZreaXvSfZDS3MQHHg,Chicago,IL,Mexican,41.9007453918457,-87.6670761108398,$$,788,3.5
+827,Letizia's Natural Bakery,dc0xhJKzWgHRPYjJk66ibw,Chicago,IL,Bakeries,41.9034199,-87.68154,$,379,4.0
+828,Uncle Julio's,qsbqJTaZhkdEM9oJ6fxKNg,Chicago,IL,Mexican,41.91058,-87.65028,$$,1224,3.0
+829,Rock Bottom Restaurant & Brewery,UQJ6tKY4Uz6P-7d7oych2w,Chicago,IL,American (Traditional),41.8915042,-87.6283644490738,$$,1034,3.5
+830,Salam Restaurant,IHb-KcVYS_wZBo4ZTIN_tw,Chicago,IL,Middle Eastern,41.9657874,-87.708574,$$,568,4.0
+831,The Garage Bar & Sandwiches,rUV1d6NhrT6wgYmAlJVk7g,Chicago,IL,Pubs,41.99337,-87.78454,$$,356,4.0
+832,Pokeworks,IcxvTVeRFmSb_ytS4UbJhg,Chicago,IL,Poke,41.8819551,-87.6250045,$$,228,4.5
+833,Frontier,Kx9pLt4R4xidSYp0O6eYIg,Chicago,IL,American (New),41.901201,-87.663558,$$,830,3.5
+834,Java & Mug Cafe,7YEhilJMQOntdKMleZCGuw,Chicago,IL,Coffee & Tea,41.98279,-87.71071,$,193,4.5
+835,Troy Mediterranean Grill,jpNBqkHd8gh3ZJnwR1aubg,Chicago,IL,Mediterranean,41.935216,-87.644337,$$,215,4.5
+836,City Winery,sai33VSs51v_OVrJjFW_PQ,Chicago,IL,American (New),41.88463,-87.6574,$$,1007,3.5
+837,AceBounce,7SlA6TVEt5lp-Li3rU0sVA,Chicago,IL,Cocktail Bars,41.8864846,-87.6311647,$$,217,4.5
+838,Sabri Nihari Restaurant,mLm998PYW5boFf8Y3hdWQg,Chicago,IL,Pakistani,41.9978027,-87.692538,$$,788,3.5
+839,Nellie's,nTfySYjeLQ4jvy3jyImgPg,Chicago,IL,Breakfast & Brunch,41.90314,-87.689317,$$,334,4.0
+840,Swirlz Cupcakes,JTRat0OWhUpuQw6iF7I7Bg,Chicago,IL,Custom Cakes,41.9235077,-87.6466326,$$,474,4.0
+841,Legend Tasty House,FC2GofdCA_qB9q0_5eJ26g,Chicago,IL,Ice Cream & Frozen Yogurt,41.85161,-87.63228,$,239,4.0
+842,Franco's Ristorante,IX34m-olKrlEeeEIXEPh9g,Chicago,IL,Italian,41.83843,-87.6343,$$,201,4.5
+843,Beermiscuous,5wQRq6-dyKyfkStKDiEETQ,Chicago,IL,Beer Bar,41.932827,-87.659398,$$,169,4.5
+844,Daebak Korean BBQ,Sx0CL_h4JitfC1qlsKAuMw,Chicago,IL,Korean,41.85477,-87.63257,$$,444,4.0
+845,Asian Cajun,PsQFHkJHhSqw7mOCh4Rs7w,Chicago,IL,Cajun/Creole,41.92604,-87.66852,$$,238,4.0
+846,Triple Crown Restaurant,NSQ-hexS7EpP5e_wlKt81g,Chicago,IL,Dim Sum,41.852477,-87.6318687435513,$$,690,3.5
+847,Volumes Bookcafe,0sp7zjPiP3V-ojIF38g-1w,Chicago,IL,Coffee & Tea,41.9084999,-87.67506,$$,121,4.5
+848,Naansense,4_D3FA4GoRCj6e_aG2DrQw,Chicago,IL,Indian,41.8852573615387,-87.6336954232788,$,458,4.0
+849,Tuscany - Taylor,QaNr4e16T3MW0li-Um2kGQ,Chicago,IL,Italian,41.869577,-87.651847,$$,431,4.0
+850,the Albert,IJMLIIudGq04iDwQGxTMJA,Chicago,IL,American (New),41.8936097,-87.6215573,$$$,216,4.5
+851,Chez Moi,I4R5Zs7whwQf29XhQ_RaBA,Chicago,IL,French,41.920093536377,-87.6487808227539,$$,373,4.0
+852,Coco Pazzo,4NMrTDI0DVQqUsF_4SWdVA,Chicago,IL,Italian,41.890148203883,-87.6357354950368,$$$,407,4.0
+853,Benjyehuda,CLuaGuxDvRO2IYdWNRw7hw,Chicago,IL,Falafel,41.87695,-87.634243,$,322,4.0
+854,Tempo Cafe,jUpC2e91d5mFTH-9Y99moA,Chicago,IL,Coffee & Tea,41.898485654682,-87.627969592056,$$,729,3.5
+855,Yvolina's Tamales,wMhG0PouKKXiZ5zYalxJMw,Chicago,IL,Vegan,41.85831,-87.64727,$,143,4.5
+856,Hagen's Fish Market,ArFuhXxp9n0_pGlbYY8_zA,Chicago,IL,Seafood Markets,41.96019,-87.76876,$$,223,4.5
+857,Defloured,RHf-0ZKp-hcX5FTkGEyz2g,Chicago,IL,Bakeries,41.9797151,-87.6679192,$$,125,5.0
+858,Margeaux Brasserie,7o5H7U52hQb-iy-yHtGI-A,Chicago,IL,French,41.8996979,-87.627619,$$$,179,4.5
+859,Corridor Brewery & Provisions,SbdZRJSSISB-cUQ9ShBetQ,Chicago,IL,American (New),41.94474,-87.66429,$$,387,4.0
+860,Indian Garden Restaurant,MBSKDy2NO0Md9Syvzh0dRw,Chicago,IL,Indian,41.893209,-87.620806,$$,731,3.5
+861,Nookies Edgewater,HRGw4jttKMokp_PSGPhh8g,Chicago,IL,American (New),41.98395,-87.65824,$$,528,4.0
+862,Simone's Bar,ARfeNUuLOleeewI1mgCPmQ,Chicago,IL,Lounges,41.8581707126579,-87.6510884753762,$$,684,3.5
+863,Sai Cafe,ql34OG6XR7oKnpAV6Mi1nQ,Chicago,IL,Sushi Bars,41.9183686,-87.6534449,$$,324,4.0
+864,3 Greens Market,dsNOMy73KW_eP6ZtecZqCg,Chicago,IL,Salad,41.8900399,-87.6377633,$$,234,4.0
+865,Ben's Noodles and Rice,v2t3jeEBTXLyy35tVvXSeA,Chicago,IL,Thai,41.9835028,-87.6593878,$,374,4.0
+866,Kit Kat Lounge & Supper Club,IITu5GokSXIJC902vV_b0A,Chicago,IL,American (New),41.949263828004,-87.6497471053475,$$,656,3.5
+867,My Pi Pizza,Mp1-ZUhNcXUAM-D3h3nGkQ,Chicago,IL,Pizza,41.918533,-87.67779,$$,346,4.0
+868,Giordano's - Navy Pier,PlJM2cGFBEhv51_ZpP2EuQ,Chicago,IL,Pizza,41.891823,-87.60966,$$,626,3.5
+869,Nookies Too,yB7JF4Sr0CgBmymnL1KwRw,Chicago,IL,Breakfast & Brunch,41.9204807281494,-87.648650854826,$$,448,4.0
+870,Paulie Gee's Logan Square,Xh5vGcoKk-SaBw7GUZDFxg,Chicago,IL,Pizza,41.92589,-87.70168,$$,333,4.0
+871,Little Beet Table,W8-W5b8kZYCM7AnN7Ct7TA,Chicago,IL,American (New),41.8980946545345,-87.6280522408365,$$,317,4.0
+872,Chicken Planet,p_tOKdAg5rlyVYRCkmVPCA,Chicago,IL,Chicken Shop,41.876749,-87.633383,$,187,4.5
+873,The Grafton,JVPraLjYtcNRzcfhHHNOhQ,Chicago,IL,Pubs,41.96393,-87.68587,$$,502,4.0
+874,Krung Thep Thai Cuisine,1PMp9MqVvqmZ5n3kN_TO2w,Chicago,IL,Thai,41.9401536,-87.6490613,$$,242,4.0
+875,Interurban Boathouse,n7ENmPWxhAXEONNMN393Jw,Chicago,IL,Bakeries,41.91706,-87.66494,$,117,4.5
+876,Dimo's Pizza,11O_S3IFvyF9JAB5uhLdAw,Chicago,IL,"Beer, Wine & Spirits",41.911037,-87.677126,$,393,4.0
+877,Farm Bar Lakeview,sJOPkTGLi53eB46ykvDeRg,Chicago,IL,Bars,41.93643,-87.66141,$$,249,4.0
+878,Rockwell's Neighborhood Grill,EfSiYrSkWfGV6q0G-if6hw,Chicago,IL,American (New),41.96587,-87.6939699,$$,395,4.0
+879,Gibsons Italia,8wARj6QqmnSkUqLwoBCn7w,Chicago,IL,Steakhouses,41.8866045,-87.6396918,$$$,327,4.0
+880,7 Plates Cafe,PYmYzvpsXPv5oRg7IqZHOg,Chicago,IL,Breakfast & Brunch,41.92257,-87.64436,$$,123,4.5
+881,Mfk,26AX3IYq2L_ZgUj7hFr9aQ,Chicago,IL,Seafood,41.9329949,-87.64057,$$$,231,4.0
+882,Taxim,XUuowLQFgy8Bo7xpeb5bkw,Chicago,IL,Greek,41.9098026,-87.6767066,$$$,451,4.0
+883,La Sardine,-3UhToDI8YYrvkIRD8tySg,Chicago,IL,French,41.8833789,-87.6530362,$$$,351,4.0
+884,Gorée Cuisine,2iArxEMmFHny0A2C60zGsw,Chicago,IL,Senegalese,41.8097706381699,-87.5981277573409,$$,201,4.5
+885,1492 Cuban Fusion,4oATsYP0OF0ciHz-_-c_Lw,Chicago,IL,Cuban,41.909976,-87.692779,$,162,4.5
+886,Rogers Park Social,AbLaL2AsZMzL5TTYTyuO-w,Chicago,IL,Lounges,42.0074272,-87.6662979,$$,176,4.5
+887,Torteria San Lenchito,_3hz43PN50iPIap6XnjU8w,Chicago,IL,Mexican,41.9686651,-87.7171894,$,94,5.0
+888,Macello,UBRWllRUeY1yolEfcglRmA,Chicago,IL,Italian,41.885228,-87.6582169,$$,300,4.0
+889,Gaslight Coffee Roasters,rYc8maCCT-zleaQdEBKweA,Chicago,IL,Cafes,41.92458,-87.69972,$,271,4.0
+890,Enolo Wine Cafe,5SLlXjQRWnLCaRAJtX5uhA,Chicago,IL,Wine Bars,41.8906945040373,-87.6312950202378,$$,283,4.0
+891,Rosa's Lounge,_xwu0u89oj6th1g_BFcDMw,Chicago,IL,Jazz & Blues,41.9176,-87.71278,$$,143,4.5
+892,Royal Thai Restaurant,Rw0xPco50HMr9JNiqgiGnQ,Chicago,IL,Thai,41.9612451,-87.684196,$,284,4.0
+893,sweetgreen,c1J0cIfrq8zC-zovH5AJRQ,Chicago,IL,Salad,41.893103,-87.6278976,$$,250,4.0
+894,Yassa African Restaurant,CjAKxQ0okWHqtz0o4jxMFg,Chicago,IL,Senegalese,41.830723756206,-87.6167381675416,$$,261,4.5
+895,Heaven on Seven Wabash,KdTYm6S6PyIIEfYHHONZkw,Chicago,IL,Cajun/Creole,41.88347,-87.62575,$$,423,4.0
+896,Bellemore,RqUPrDTsGTuCzwQylbAEtg,Chicago,IL,American (New),41.8847,-87.6423,$$$$,206,4.0
+897,Wishbone,RYw_no9ohtCg09aKorVffg,Chicago,IL,Southern,41.941674636742,-87.67028176426,$$,740,3.5
+898,Brando's Speakeasy,0s3yJUGqg9KrPCSwk8hJNA,Chicago,IL,Karaoke,41.87713,-87.629,$$,467,4.0
+899,Soupbox,kr2ipJbSnYUYI0fdwQizaw,Chicago,IL,Soup,41.936229,-87.644115,$,512,4.0
+900,Driehaus Museum,1Sz1C_jyrjx_f7I7jyyOpw,Chicago,IL,Museums,41.8939343632448,-87.6274770509009,0,110,4.5
+901,Split-Rail,8XNGM8f0QLSOqDEactfigA,Chicago,IL,American (Traditional),41.8959276538074,-87.6895823702216,$$,155,4.5
+902,Big Bowl,W4dwdmpUAZFv2hsUOcZOnA,Chicago,IL,Chinese,41.892629,-87.6261317,$$,789,3.5
+903,LD Pho,jXFtE49rqbJyHuyc8DZuzA,Chicago,IL,Vietnamese,41.9672852,-87.7086269,$$,160,4.5
+904,Nando's Peri-Peri,nlzCOQG-8oKBOGMMtbreTg,Chicago,IL,Portuguese,41.881399,-87.626399,$$,390,4.0
+905,Stan's Donuts & Coffee,5Ztwcg5GmMSqne-kQ0UOBw,Chicago,IL,Donuts,41.893903150112,-87.6205265079346,$,346,4.0
+906,Cafe Central,YF1YUnp1hDs38O5khC6rjQ,Chicago,IL,Puerto Rican,41.8960102,-87.6639254,$,227,4.0
+907,Sociale Chicago,PPMAnBtLm9yrnO3lGCV9uA,Chicago,IL,Bars,41.8719817,-87.6306186,$$,378,4.0
+908,Gio's Cafe and Deli,K9PR2ixP1in-sqiQN-kinA,Chicago,IL,Delis,41.84366,-87.64312,$$,248,4.0
+909,Tavern On Rush,_mvEpTQ7IuUs51cWXfzGKA,Chicago,IL,Steakhouses,41.9018219998443,-87.6279733472541,$$$,970,3.5
+910,Bob's Pizza,1wSxClt75nOBS31--dlWYg,Chicago,IL,Pizza,41.853945,-87.6683543622494,$$,99,5.0
+911,Arbor,sqaHmXuonFpBxJuQFmmsng,Chicago,IL,American (New),41.931542,-87.692155,$$,174,4.5
+912,Furious Spoon - Logan Square,LAhLCarbN4hX0X8BBgzmsg,Chicago,IL,Ramen,41.9249801635742,-87.7010879516602,$$,557,4.0
+913,Chicago Raw,2kNaY86bIQqj1OwNXHwD5A,Chicago,IL,Vegan,41.8947448,-87.6301154,$$,182,4.5
+914,Chiu Quon Bakery,HAXPZ2zKHLQ5OtkA05e3NA,Chicago,IL,Bakeries,41.97302,-87.6588699,$,257,4.0
+915,Riccardo Trattoria,he9H0xVDQW4EOvUap_YdVg,Chicago,IL,Italian,41.9207649230957,-87.6371841430664,$$$,347,4.0
+916,SmallBar,vEzJt2Ouq0KZcTNLk-KBgw,Chicago,IL,Bars,41.935667,-87.705441,$$,285,4.0
+917,Smack Dab,S96imo1X3KP-CPBd7rhjWw,Chicago,IL,Breakfast & Brunch,42.004685,-87.673247,$,198,4.5
+918,Min's Noodle House 渔家重庆小面,0F80pfvLYzKdHhSakhbYAg,Chicago,IL,Noodles,41.8353899,-87.64586,$$,254,4.0
+919,Broken English Taco Pub - The Loop,LdinBOfr0f0RFi5kJpbgyQ,Chicago,IL,Mexican,41.885722438168,-87.6250369825827,$$,686,3.5
+920,Mr D's Shish-Kabobs,2LLApMHFO88KvxaM8emM_w,Chicago,IL,Fast Food,41.93117,-87.79283,$,158,4.5
+921,"Travelle at The Langham, Chicago",Sv1_VhFbQOBc60KfCT5ENg,Chicago,IL,American (New),41.888596585748,-87.6275642841309,$$$,271,4.0
+922,26th Street Sugar Shack,d7JGTH8GtiWwLZRnrace7w,Chicago,IL,Ice Cream & Frozen Yogurt,41.84558,-87.6428,$,207,4.5
+923,Nepal House Indian & Nepalese,RyP97ONsO612MeIQfzhmoA,Chicago,IL,Himalayan/Nepalese,41.8656524,-87.623901,$$,505,4.0
+924,Vosges Haut-Chocolat,jrpTw_SXbqXZVJ-15h0PSA,Chicago,IL,Chocolatiers & Shops,41.891495154136,-87.6245298650818,$$$,226,4.0
+925,Akhirah's Praline Candy,hTlUfq-RT2FAzIuP4k3b5g,Chicago,IL,Candy Stores,41.8565,-87.62678,$,105,5.0
+926,Hutch American Bistro - Lakeview,-oQpuRWBkoC2OLKe__7F7g,Chicago,IL,American (Traditional),41.9419518,-87.6521806,$$,614,3.5
+927,Brew Brew Coffee and Tea,duIL_7gzqd23L6tJgulrcw,Chicago,IL,Coffee & Tea,41.9319705579233,-87.7234526412826,$,153,4.5
+928,The Hideout,Osydc4MWSzNjiyewt8dNFQ,Chicago,IL,Music Venues,41.91387,-87.66254,$,216,4.0
+929,Bombay Wraps,Nj1S50plrXjrchoDuNT95Q,Chicago,IL,Indian,41.88393,-87.63403,$,424,4.0
+930,Pizzeria Serio,klq9aUxCxA1kneDhc6hc_Q,Chicago,IL,Pizza,41.9399147033691,-87.6715316772461,$$,371,4.0
+931,Range,UBRUh0001F5MbeziBV-BFw,Chicago,IL,American (New),41.921427,-87.656728,$$,269,4.0
+932,Cleos,q8H-w31ZLgwXVk2yDMSF0A,Chicago,IL,American (Traditional),41.89563,-87.67599,$$,414,4.0
+933,Funkenhausen,TBCNrNW2WY4kuvg9LybEFA,Chicago,IL,German,41.89571,-87.67022,$$,166,4.5
+934,Exchequer Restaurant & Pub,q9AUsrYTakTMIHJkKA_EIQ,Chicago,IL,Pizza,41.8787384660152,-87.6263198788816,$$,555,3.5
+935,Portage Grounds Coffee & Tea,0qgAi9NA512PuF0ug-yQwg,Chicago,IL,Coffee & Tea,41.952901,-87.764705,$,222,4.5
+936,Shake Shack,i0DvXKkPTHQC4HOnp8Z2Zg,Chicago,IL,Burgers,41.881664,-87.624969,$$,575,3.5
+937,The Fifty/50,6gZTET0y7ARZMrbJRmI2mw,Chicago,IL,Sports Bars,41.90301427628,-87.6788022511999,$$,671,3.5
+938,Kāl'ish,p9_aj36ycQx-oqx4puFzwg,Chicago,IL,Vegan,41.9651912,-87.6629087,$$,188,4.5
+939,Zam Zam,-sQAdsG5rFgpBDkaO6qYwA,Chicago,IL,Middle Eastern,41.94515,-87.65463,$$,236,4.0
+940,Old Jerusalem,2yB1cFS4YZN1eziiCKHrzg,Chicago,IL,Middle Eastern,41.90783,-87.63442,$$,362,4.0
+941,Loop Juice,bNsgLUvWZRs3TvxslbhZcA,Chicago,IL,Juice Bars & Smoothies,41.8840684,-87.6412297,$,142,4.5
+942,Eli's Ark,wmj_Xz6jR3-G02Fb950x2Q,Chicago,IL,Gelato,41.91026,-87.67437,$$,92,4.5
+943,The Book Cellar,9UdMTorJLPaUoRj1IZXYoA,Chicago,IL,Bookstores,41.96748,-87.68826,$$,273,4.0
+944,Hamburger Mary's,Rs2n1VDDD6pkQqexBAJJ0w,Chicago,IL,American (Traditional),41.97997,-87.66851,$$,976,3.5
+945,Rica Arepa,H1Bs27aRoY5X3UyJEm_Q0Q,Chicago,IL,Venezuelan,41.916972,-87.733514,$,102,4.5
+946,Cellar Door Provisions,6bjsGpmLl9JgbsRZ-JYR-w,Chicago,IL,American (New),41.931956,-87.703627,$$,194,4.5
+947,Baptiste & Bottle,JfgS1O2N84LCnEnzUY8bSQ,Chicago,IL,American (New),41.893975,-87.6252358,$$,323,4.0
+948,Sushi Tokoro,z7aD_vt4Y69OqqkUZpKGpw,Chicago,IL,Japanese,41.9683599,-87.68925,$$,413,4.0
+949,El Taco Feliz Taqueria,nXbaIvOAi14TcQhKE2k_5A,Chicago,IL,Mexican,41.94566,-87.76335,$,173,4.5
