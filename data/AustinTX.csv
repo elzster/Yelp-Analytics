@@ -1,0 +1,951 @@
+,Business,Business ID,City,State,Category,Latitude,Longitude,Price,Reviews
+0,Perry's Steakhouse & Grille - Downtown Austin,ZJFIDLUiZ2Vs0NTj0pGVfg,Austin,TX,Steakhouses,30.26916,-97.7426,$$$,1037
+1,Pinthouse Pizza,j3CWjH0XtesbbDZFVq3c7Q,Austin,TX,Pizza,30.3187905381179,-97.7391115483136,$$,944
+2,Abo Youssef,wjzyQScG1gjO-VdcjeEarg,Austin,TX,Mediterranean,30.283955,-97.719837,$,398
+3,Mozart's Coffee Roasters,-4ofMtrD7pSpZIX5pnDkig,Austin,TX,Coffee & Tea,30.2955449740542,-97.7841031551361,$$,1293
+4,Pho Please,G6_o1h3cm7ocJK-To1HWew,Austin,TX,Vietnamese,30.24272,-97.72791,$,808
+5,Fricano's Deli,A-toRZgCFfvHNGkKs6-5Jw,Austin,TX,Delis,30.288094,-97.742851,$,563
+6,Kerbey Lane Cafe - Central,Qmq4gr5Mmo2oIVejag48PA,Austin,TX,Breakfast & Brunch,30.30803,-97.75047,$$,1229
+7,"Snooze, An A.M. Eatery",6A-flzVZVs1l-Jsl4tRvjQ,Austin,TX,Breakfast & Brunch,30.250894,-97.765847,$$,1002
+8,Lamberts Downtown Barbecue,eJ7X_8KXVlyHZtGrrLz4yg,Austin,TX,Barbeque,30.2652,-97.74785,$$,1705
+9,Sway,Szz42LOHUZnuApxQh_CxhQ,Austin,TX,Thai,30.250142,-97.754556,$$,1608
+10,Phoebe's Diner,KEh3efWSOIzd8BvuW-X4-g,Austin,TX,Breakfast & Brunch,30.2416132,-97.7588755,$$,650
+11,Cooper's Old Time Pit Bar-B-Que,9e5lIroM6Eyd4aS26pWWEQ,Austin,TX,Barbeque,30.2649296236062,-97.7437352389097,$$,1237
+12,Launderette,JW3SkLOUfGhcVQGosoozUA,Austin,TX,American (New),30.25193,-97.72273,$$,978
+13,Haru Sushi - formerly known Hanabi,EoIJZMBqFwX-TNAj6rmctg,Austin,TX,Sushi Bars,30.386785,-97.741872,$$,728
+14,SLAB BBQ & Beer,tG7C9aZpYmj0-Z8hZC-0cg,Austin,TX,Barbeque,30.3713101540255,-97.7246514312134,$$,770
+15,Roaring Fork,AsYbCd5d7TtIZEWIL5VhOw,Austin,TX,American (Traditional),30.2691040039062,-97.7419586181641,$$,1035
+16,DeSano Pizzeria Napoletana,J0oTYJx-dGn5yk926s6eGw,Austin,TX,Pizza,30.3585052490234,-97.7306518554688,$$,603
+17,Sugar Mama's Bakeshop,xoBBLN7uDy_oI4PiKD4VWA,Austin,TX,Desserts,30.24613,-97.7564,$,945
+18,Via 313 Pizza - North Campus,8RPIjybMh5Eg90eVsv3fRQ,Austin,TX,Pizza,30.297872,-97.741436,$$,473
+19,Perla's,UacakYbLnef2TYU2YDrtuw,Austin,TX,Seafood,30.2499652289007,-97.7499698671015,$$$,1464
+20,Arlo's,SWdiMa_8Oq9FIAKB1sJ0hw,Austin,TX,Vegan,30.26942,-97.73618,$,578
+21,Tan My Restaurant,jvNkx23Jwg0TGEAJzzwiNQ,Austin,TX,Vietnamese,30.3640941093519,-97.7141626141729,$,669
+22,Cabo Bob's Burritos,VV0Vx8HUXdZwuQ7dLBnyag,Austin,TX,Mexican,30.2209809152295,-97.756928435967,$,758
+23,Crepe Crazy,_7lONCWyP_dZOCgWF8dEsg,Austin,TX,Creperies,30.24154,-97.78456,$,444
+24,DEE DEE,0m9yum2bqMCQtxbHuQbQFw,Austin,TX,Thai,30.2315332,-97.7877942,$$,355
+25,Péché,4-RkxDM200qfSG756uVmtQ,Austin,TX,Lounges,30.266988,-97.745231,$$,1065
+26,Tacodeli,CgZfMVFv0ilEDZbH06apyA,Austin,TX,Caterers,30.3104773946775,-97.7400862024725,$,658
+27,"Manolis Ice Cream, Pastries, & Cakes",hYWsMDz0ms7TOnFTcsxYcw,Austin,TX,Desserts,30.244198,-97.758048,$,263
+28,The Peached Tortilla,KYr5xhJZ4_7Dzm1wIrW__w,Austin,TX,Asian Fusion,30.33075,-97.74021,$$,690
+29,Jewboy Burgers,wB1qckz9iC0aq5XuWRmCIA,Austin,TX,Food Trucks,30.3212704266421,-97.739480091546,$$,263
+30,Draught House Pub & Brewery,YUCAPAhFfltJmqKb7HjNXw,Austin,TX,Pubs,30.31098,-97.74283,$$,559
+31,Casa De Luz,m2AzyGWRKkwYoe66dY1MzQ,Austin,TX,Vegan,30.26451,-97.76159,$$,577
+32,Counter Culture,LinZJmeh2jQxBVbqN0ixgQ,Austin,TX,Vegan,30.254728,-97.717401,$$,741
+33,Churro Co.,Su_TBFW5kQGDM4Wzthu3Qw,Austin,TX,Desserts,30.24602,-97.75695,$,379
+34,Ceviche7,kqeblz37dvpiwy7-l9VfXA,Austin,TX,Peruvian,30.29634,-97.74139,$,252
+35,Eureka!,Tta8AYBZq3fwr1n2up75vQ,Austin,TX,Bars,30.2678427491661,-97.7412401139736,$$,721
+36,Summermoon Coffee Bar,W-vmx7fKenv6GX-lVhCXbg,Austin,TX,Coffee Roasteries,30.23323,-97.76485,$$,886
+37,Picnik,NaRmhh_q5X3NNcrHK4HKRQ,Austin,TX,American (New),30.3189735054924,-97.7391379775419,$$,576
+38,Arturo's Underground Cafe,eZE0FdYB9rUvbuPS4fNyYA,Austin,TX,Breakfast & Brunch,30.2797094,-97.74192,$$,615
+39,Central Market - North Lamar,xdIY9G8f_PeXxaMcMTAYUw,Austin,TX,Bakeries,30.30779,-97.7412499,$$,623
+40,Clay Pit,KK-6rXbIo9B4-b_P5WO5Qg,Austin,TX,Indian,30.279073,-97.74232,$$,1474
+41,Swift's Attic,CqOkl94q9ttvYNWIITA8ow,Austin,TX,American (New),30.26563,-97.74337,$$,1013
+42,Via 313 Pizza - Oak Hill,KzXeYr0LJWUr-Kt0l1ObnQ,Austin,TX,Pizza,30.232823,-97.865637,$$,724
+43,North Italia,VJDXjHHahRU3P_Ultl7-Yw,Austin,TX,Italian,30.4022781469848,-97.7259850502014,$$,1190
+44,The Roosevelt Room,vJvUga5XNBqjTrEEK7kI-Q,Austin,TX,Cocktail Bars,30.2677,-97.74627,$$,402
+45,Chi'Lantro,0lgGW93HYeVqrTTx9d3gUA,Austin,TX,Korean,30.2706345638105,-97.7415420642792,$,719
+46,Torchy's Tacos,mF0UJobNyaZCRH7rmgiRlg,Austin,TX,Breakfast & Brunch,30.236755,-97.762718,$,769
+47,Jo's Coffee,tfJpt7XJFhaDvhJRFsC79A,Austin,TX,Coffee & Tea,30.251045,-97.749371,$,815
+48,"Snooze, An A.M. Eatery",zZIWHmITwqaC8OhnPkjEIQ,Austin,TX,Breakfast & Brunch,30.30603,-97.74329,$$,761
+49,Alamo Drafthouse Cinema Ritz,2VJ91McOlLP_d_pSOEv_nQ,Austin,TX,Cinema,30.26732,-97.73956,$$,556
+50,Fogo de Chão Brazilian Steakhouse,Ld3VO9saSuKmslPCzc7XVA,Austin,TX,Brazilian,30.2641638492063,-97.7406714815973,$$$,770
+51,Cabo Bob's Burritos,-Ce8p148xb0-4dv_3zwm3A,Austin,TX,Mexican,30.295789,-97.7442669,$,365
+52,24 Diner,QzFBu9Zj5zS-sWyrmysEOQ,Austin,TX,Diners,30.2719219266941,-97.754193841977,$$,1799
+53,Fabi + Rosi,ui77NOh5_RY-hlrJzZ11Yw,Austin,TX,Modern European,30.2789000355663,-97.7726416986868,$$,557
+54,More Home Slice Pizza,TO54OXfj7o97Na9WDTPsZg,Austin,TX,Pizza,30.249255,-97.749626,$,485
+55,FoodHeads,eUD2rCO5pfus19UN34Cgzw,Austin,TX,Sandwiches,30.30091,-97.7403,$$,517
+56,Texas Coffee Traders,z6mbatIyCTaAxIvf_qzeIw,Austin,TX,Coffee Roasteries,30.26202,-97.72873,$,216
+57,Eldorado Cafe,wQ8XK2NJAL2csx_LmZfz4g,Austin,TX,Comfort Food,30.362224,-97.7423571527181,$$,494
+58,Tacodeli,H1yyjI2UiWD78WKKYwdiSw,Austin,TX,Seafood,30.40744,-97.71322,$,936
+59,Troy ATX,PvsrQOlk1T6reEzpXzRmCw,Austin,TX,Turkish,30.3719209,-97.7565463,$,454
+60,Chuy's,_V-VpV5AWREqop5b3hV8Hw,Austin,TX,Tex-Mex,30.263803,-97.763323,$$,978
+61,Second Bar + Kitchen,qU5gXGWVzLkebRXcr7ZWhg,Austin,TX,American (New),30.2645939290629,-97.7444895054345,$$,1195
+62,D K Sushi & Seoul Asian Food Market,rGf_fy3TP4jET3irLQHW3A,Austin,TX,Grocery,30.325165,-97.727198,$$,574
+63,Kurry Takos,aC6Wjr8aLCYMsqrHpP_gPg,Austin,TX,Food Trucks,30.253308,-97.712918,$,200
+64,Lebowski's Grill,r9UEYY-nO-jQnqe_TUBPpA,Austin,TX,Burgers,30.37186,-97.72586,$,324
+65,Culinary Dropout,43N-TKU1m-y4FljMA0VXCg,Austin,TX,Bars,30.403653,-97.721503,$$,1121
+66,Musashino Sushi Dokoro,08wLD2pUdZV73zHywMpREA,Austin,TX,Japanese,30.2980839,-97.7475817,$$,641
+67,Heo Eatery,wApAjLkqBJ5sehzPovtEyQ,Austin,TX,Vietnamese,30.3308502022095,-97.7235301584005,$$,320
+68,Roaring Fork,Oj0dSJ9oL1jqf6Ud6cOYkA,Austin,TX,American (New),30.40064,-97.73747,$$,1077
+69,Red Ash,XOo0oa5sXCZGjKXapIN95w,Austin,TX,Italian,30.26588,-97.744672,$$$,527
+70,Paperboy,jmmzYxurOoA_K_RtanzQow,Austin,TX,Food Trucks,30.272754,-97.728223,$,401
+71,Pueblo Viejo,Qn375GaXRU_6OCcD2z_uSw,Austin,TX,Mexican,30.2648784981505,-97.7339497333556,$,439
+72,Waltons Fancy and Staple,iyeJrTWE3_Xtup77dC_Mtg,Austin,TX,Delis,30.26951,-97.749014,$$,745
+73,Wink,d9t0YcIVpw9KgsqkJLfsyQ,Austin,TX,American (New),30.275848,-97.752427,$$$,781
+74,Revival Coffee,cMB8pX870DZzTNg1TSGRVA,Austin,TX,Coffee & Tea,30.26427,-97.72776,$,467
+75,Halal Bros,1-0Jhx0QpzPk9cGcMYRUDA,Austin,TX,Middle Eastern,30.29252,-97.74165,$,574
+76,Taco Joint,g6B2TZYS7JKKpNWPwVnwqw,Austin,TX,Mexican,30.2916114,-97.734951,$,403
+77,Mount Bonnell,8ygBj0DQu5U_lIOc0iUUEQ,Austin,TX,Hiking,30.32104,-97.7735299,0,366
+78,Habanero Mexican Cafe,PBfFmFy8C0WOtpHF_frVWA,Austin,TX,Mexican,30.24122,-97.75822,$,633
+79,Torchy's Tacos,XjC5H-uKRrsctioXxuCMQQ,Austin,TX,Breakfast & Brunch,30.2936988,-97.7417964,$,840
+80,Capital City Bakery,I1y3BOxQLqIFZYoOnrisSA,Austin,TX,Bakeries,30.2552398835739,-97.7199098141422,$,460
+81,Barton Creek Greenbelt,htg3YbExMUWF9kcqNbVFMQ,Austin,TX,Parks,30.2439733194568,-97.8005103330048,0,255
+82,Pinthouse Pizza,gKREdIgb5vB844iOtbzqBA,Austin,TX,Pizza,30.2360495666265,-97.7958310016646,$$,508
+83,Enoteca Vespaio,0dIF4OMuWzq1ltvBVb-WeQ,Austin,TX,Italian,30.24732,-97.75079,$$,782
+84,Mother's Cafe & Garden,QaB_KE3IGv1xtsT4Oo3WUg,Austin,TX,Vegetarian,30.304374,-97.726005,$$,909
+85,El Alma,acMhW2yiFCNU6PoGiHxvPQ,Austin,TX,Mexican,30.2601,-97.75562,$$,826
+86,Stella San Jac,7_keO0r3oVj6hllofDUWfw,Austin,TX,American (New),30.2665762751589,-97.740525726058,$$,707
+87,Cenote,_BbODcinangkwNvVwpvfuA,Austin,TX,Coffee & Tea,30.2605580485887,-97.7336812427286,$,710
+88,Magnolia Cafe South,H2QGxJvWlf2f3HclvgT30A,Austin,TX,Breakfast & Brunch,30.2446738918801,-97.7519036373102,$$,1515
+89,Loro,He2KYtXXfaIR0nkCXH5xiQ,Austin,TX,Smokehouse,30.24775,-97.77127,$$,851
+90,Arpeggio Grill,OfgCuP2QN165d-EsrCCIYg,Austin,TX,Pizza,30.3309659,-97.7155318,$$,715
+91,Torchy's Tacos,10dR2YozAl0Tiwt0FnBMng,Austin,TX,Breakfast & Brunch,30.2453955434005,-97.751556154546,$,734
+92,Wholy Bagel,SmNKuXHrcrojfKp8tS5DRw,Austin,TX,Bagels,30.2236706391258,-97.8387865238803,$,698
+93,Home Slice Pizza,8sEbM_ACHUbBsZ-TRZFXWA,Austin,TX,Pizza,30.3163524006061,-97.7183958217672,$$,297
+94,Michi Ramen,Pxz_Si1XOtBQWw5LTIGJtQ,Austin,TX,Ramen,30.33331,-97.72131,$$,1220
+95,Casey's New Orleans Snowballs,ZlIUV5wDsUrQJ1AgANG47g,Austin,TX,Ice Cream & Frozen Yogurt,30.3120767,-97.714964,$,299
+96,Lucky Robot,HKi7fd2bTzZfVB_Dz9vGng,Austin,TX,Sushi Bars,30.250828,-97.748986,$$,923
+97,Fixe Austin's Southern House,97bK6WFJdJzy0oNNb3X6Hg,Austin,TX,Southern,30.26853,-97.74773,$$$,646
+98,Town Lake Metropolitan Parks,4wRdoVx6KuZd2S4OZs4yJw,Austin,TX,Parks,30.2708947256967,-97.7648599185516,0,175
+99,Granny's Tacos,5fI9ZzqzRLnMNYoTMjUGGQ,Austin,TX,Food Trucks,30.2642655487135,-97.7281585084058,$,197
+100,Fonda San Miguel,z4fQL2IHUR4ENonH7A_9tQ,Austin,TX,Mexican,30.32545,-97.7435,$$,824
+101,Mandola's Italian,ZvYDNfxeJgnB0_9jwSAsxQ,Austin,TX,Italian,30.3159319310134,-97.7336796197883,$$,908
+102,Via 313 Pizza - Rainey Street,rwm4sZS7IuCqhAq9qCBfag,Austin,TX,Pizza,30.257924,-97.738618,$$,368
+103,Summermoon Coffee Bar,wP5mU6WLU5y6NVLm1NpPBA,Austin,TX,Coffee & Tea,30.39442,-97.72019,$,484
+104,Papalote Taco House,omzxJo2aWruaJo_82xTfkA,Austin,TX,Mexican,30.2435,-97.78188,$,527
+105,Sala and Betty,JW1gWHsnL1ClKpBOzGEu-w,Austin,TX,American (New),30.31318,-97.71476,$$,462
+106,Lazarus Brewing,C9QXRfi43sYP5lXkNGrM7A,Austin,TX,Breweries,30.26169,-97.72204,$,361
+107,Kerlin BBQ,lD3_dT5rbdaVHCyTKB4dfg,Austin,TX,Barbeque,30.2579056948034,-97.725737653535,$$,314
+108,Brown's Bar-B-Que,cxQEW0JaFDqOqkavm4zKXg,Austin,TX,Barbeque,30.24941,-97.76696,$$,311
+109,Chez Nous,BomU5ZTro4yjB4RLcLgzFg,Austin,TX,French,30.26648,-97.7385,$$$,490
+110,Casino El Camino,KjaK4CsJ_PypmVBncLwWAA,Austin,TX,Dive Bars,30.26636,-97.7377,$$,1182
+111,The Backspace,8yWbiBG_nGm9XGklAtssUw,Austin,TX,Italian,30.26685,-97.74043,$$,647
+112,Aster's Ethiopian Restaurant,7iU8fc5BcQi7BJNBOWjKkA,Austin,TX,Ethiopian,30.28732,-97.72503,$$,500
+113,Las Trancas,cYsillXIBTJzaxxC3-5wJg,Austin,TX,Mexican,30.2596927300688,-97.731671333313,$,297
+114,Bartlett's,SRwJ6tNJ6r7hQ3uQ7hIBpQ,Austin,TX,Steakhouses,30.3567047119141,-97.7312469482422,$$$,695
+115,Cosmic Coffee + Beer Garden,dDz2erKJ_Z2HMur0tQ_iJA,Austin,TX,Coffee & Tea,30.2274,-97.76272,$$,280
+116,Van's Banh Mi,MgIylzMhBjJ6XyGyz0iYFg,Austin,TX,Vietnamese,30.31739,-97.72109,$,185
+117,Parkside,GdR9YyZ0e9VeP0r9C303SQ,Austin,TX,Seafood,30.2670631408691,-97.7403259277344,$$$,955
+118,Gelateria Gemelli,eWZ8jj01Etcjd8Z9LtNbRw,Austin,TX,Gelato,30.2647018432617,-97.7321319580078,$,285
+119,Caroline,-IIvmjoEKa9Trhf4OxzJeA,Austin,TX,Bakeries,30.26873,-97.74217,$$,600
+120,Firehouse Lounge,Nyt-CEuXN6yMgDbywso-RQ,Austin,TX,Lounges,30.268173,-97.741043,$$,453
+121,Bennu Coffee,gXip--EE80jF-sqdk5Aghw,Austin,TX,Coffee & Tea,30.27987,-97.71957,$,680
+122,MezzeMe,D0a-5tvB43JItaD0cvImhA,Austin,TX,Mediterranean,30.3155528,-97.7332374,$,310
+123,SnoMo,xyVO973jt1bRk_3IpnYzzA,Austin,TX,Bubble Tea,30.3823114202971,-97.6880223761269,$,472
+124,Amy's Ice Creams,G6H8NkJUkKAtfzn7KEb2Zg,Austin,TX,Ice Cream & Frozen Yogurt,30.2720075610766,-97.7544708294765,$,381
+125,Tio Pepe Chicken,blciQ1v3kP8wodDodFUe3A,Austin,TX,Chicken Shop,30.325292,-97.707955,$$,230
+126,Sarah's Mediterranean Grill & Market,CR1wnucPvoWQtuAYVxUvyQ,Austin,TX,Greek,30.32455,-97.740112,$,488
+127,The Original Black’s Barbecue,k8KHoiDklnXDtXvLyxbd-w,Austin,TX,Barbeque,30.298492113663,-97.7412682360079,$$,603
+128,Truluck's,A7M_2DiB8Xvj3NTs1RGfDg,Austin,TX,Seafood,30.3952662489598,-97.7454305690891,$$$,514
+129,Licha's Cantina,fAw1VGWzFWGUVQRWWUZLwQ,Austin,TX,Bars,30.264108,-97.728966,$$,551
+130,Wheatsville Food Coop,xXEqYcnlf_L3efWpQByUog,Austin,TX,Delis,30.297615041948,-97.7411398883378,$$,361
+131,Amy's Ice Creams,2ekSBeeosMbqJbihoqDfSg,Austin,TX,Ice Cream & Frozen Yogurt,30.2509499,-97.7489319,$,519
+132,The Vegan Nom,XqNgfxyXP3kz8t3iG8ehZA,Austin,TX,Vegan,30.255168,-97.718217,$$,421
+133,Jack Allen's Kitchen 360,GbsVsvABa4d3tDJRJdRs-Q,Austin,TX,Southern,30.3352434572574,-97.8075081023773,$$,447
+134,Gino's Vino Osteria,N20Ind9AWLbsCFFxtR_URQ,Austin,TX,Italian,30.307265,-97.706995,$$$,331
+135,Gourmands Neighborhood Pub,o8cjmgX0RB6BQxjtnwevug,Austin,TX,Sandwiches,30.26265,-97.71539,$,514
+136,Mango 8,hcIVCssKh9wXewUKMxSVPQ,Austin,TX,Shaved Ice,30.28778,-97.74554,$,254
+137,Flower Child,UEOWANRUd-iODsW5Qzw1rA,Austin,TX,Salad,30.4031873337772,-97.7219390289392,$$,523
+138,Blenders and Bowls - Downtown,ShyA_yAfTtj8_WD5kZFo3g,Austin,TX,Juice Bars & Smoothies,30.265971,-97.741606,$$,367
+139,Whisler's,595Xi3naMPiCt0dWiT53Yw,Austin,TX,Cocktail Bars,30.2619673762692,-97.7226847531614,$$,416
+140,Vespaio Ristorante,3gYruqSQnMtCmF2DiXcEOQ,Austin,TX,Italian,30.24726,-97.75081,$$$,534
+141,Eddie V's Prime Seafood,X7fLdR3A_0hJCBqv3-7O-A,Austin,TX,Seafood,30.389393,-97.752657,$$$,441
+142,Bufalina,cM-qEu8khiRs_qzfGQsUPQ,Austin,TX,Pizza,30.2584294,-97.72879,$$,510
+143,Citizen Eatery,h9JTj7NrcdJLC_pYqxruqQ,Austin,TX,Vegetarian,30.3216936764352,-97.7389393582665,$$,448
+144,Pho Saigon Noodle House,1-WToB8DgyCljgukdaxUsw,Austin,TX,Vietnamese,30.3780509244419,-97.6873283075485,$$,701
+145,Emmer & Rye,U72ZAUh47P1cX-91jqLpJw,Austin,TX,Tapas/Small Plates,30.2567958831787,-97.7391738891602,$$$,525
+146,Justine's Brasserie,b3XX4atH_V0pA3ejH-6tUA,Austin,TX,French,30.253236,-97.700576,$$,1045
+147,Dai Due,Lcb9FB6Y_EhLEiJVUJ7tVA,Austin,TX,Butcher,30.2848871297558,-97.7167839693365,$$,495
+148,Monkey Nest Coffee,szqma4QibwpVaA9fsE8soQ,Austin,TX,Coffee & Tea,30.32769,-97.73941,$,614
+149,Tuk Tuk Thai Cafe,XZb-K_pP8Roz8WIG2hPFEg,Austin,TX,Thai,30.21589,-97.79683,$$,608
+150,Epoch Coffee,krzzyozIVGC7pX1lfVO40w,Austin,TX,Coffee & Tea,30.3186,-97.72457,$,777
+151,Cherrywood Coffeehouse,TQxHoUZNzVOoBnHm0aMkpA,Austin,TX,Coffee & Tea,30.29332,-97.71597,$,729
+152,Tarka Indian Kitchen,a_4HzG8ycp5tmPzug6Mh0Q,Austin,TX,Indian,30.230872,-97.817546,$,889
+153,The Jackalope,LXQiHzcMUxm4hp36v_Ah_w,Austin,TX,Dive Bars,30.26732,-97.73892,$,937
+154,Quack's 43rd Street Bakery,Xuyfcldi878hjqQPAOtlCA,Austin,TX,Bakeries,30.30471,-97.72653,$,680
+155,Zilker Park,FoIGEXfZ7I4XmG1mVA_xwA,Austin,TX,Parks,30.266957,-97.772854,0,218
+156,Upper Crust Bakery,OPFAHCE8zPxWf7-I132h1g,Austin,TX,Bakeries,30.3158,-97.74165,$,526
+157,Russian House,BxsDjT2b2vcm-rvLDeO3Jw,Austin,TX,Russian,30.26603,-97.74023,$$,557
+158,Sa-Tén - Canopy,Xa4YAhSdEie3Qp6AK8QN7g,Austin,TX,Japanese,30.2619597964214,-97.6990253046073,$,347
+159,Saigon Le Vendeur,jRdMmtb9jE_0QysMeEOnEA,Austin,TX,Food Trucks,30.2613162994385,-97.7145767211914,$,246
+160,East Side Pies,KyYhQZjysb0TYibMIjYeGw,Austin,TX,Pizza,30.268782,-97.72407,$,627
+161,Paco's Tacos,xFhkWmQZA2RRBiLv0Y_mRA,Austin,TX,Mexican,30.3075,-97.70581,$,574
+162,Craft Pride,lnG403wPUtZr7fxHETB3Rw,Austin,TX,Bars,30.257925,-97.738777,$$,450
+163,Café Crêpe,HvWTntcf7Hz_BEW5zBN4-g,Austin,TX,Creperies,30.2638586673367,-97.7418548134918,$$,809
+164,Houndstooth Coffee,-4bP1UUgpZumIu6DZMaMzw,Austin,TX,Coffee & Tea,30.3105879441575,-97.7400099372758,$$,523
+165,Mayfield Park,JYLVkLzvwQfWhEUd0d7mqw,Austin,TX,Parks,30.3129088133728,-97.7719357744139,0,176
+166,Phil's Icehouse,0oXuts9ew-_LN0F5c9M1YA,Austin,TX,Burgers,30.33218,-97.74032,$,519
+167,East Side King,hT8ihPNLAasb5RIkUVcW0w,Austin,TX,Asian Fusion,30.2626674,-97.7251338,$$,535
+168,Fukumoto Sushi & Yakitori,Uav2xHxqZZxy4eblNB--PA,Austin,TX,Sushi Bars,30.2647051303186,-97.731695353373,$$$,372
+169,LBJ Presidential Library,BTiH03z-2Z9YOx5GeHqW_A,Austin,TX,Libraries,30.285823,-97.729263,0,219
+170,Iron Works Barbecue,fP8YU03hNC4MfzPp8JVMYg,Austin,TX,Barbeque,30.2622132062534,-97.7389470883606,$$,1067
+171,Taco Joint,V8B1lqK7IXULiOe-zuIpMw,Austin,TX,Mexican,30.25637,-97.74552,$,370
+172,Topgolf,I_ahD8eAsSUv2I6gO3l1fA,Austin,TX,American (New),30.3982988883254,-97.7175606715332,$$,678
+173,House Wine,lQ6GoixqjQq6kYXGsJ9NwA,Austin,TX,Wine Bars,30.26194,-97.75894,$$,362
+174,Chi'Lantro,2ZVSDvbFK2DNoZb9x7NlfQ,Austin,TX,Asian Fusion,30.252212,-97.763751,$,602
+175,Shady Grove,kMdvUci8cLp7Pwwi682bDw,Austin,TX,American (Traditional),30.262983,-97.76193,$$,924
+176,Luke's Inside Out,MM8QXW6JjW_tqxki0NnlXQ,Austin,TX,Sandwiches,30.25502,-97.76177,$$,315
+177,Kemuri Tatsu-ya,yqL1P6wcSZYQAgpO3TfhBQ,Austin,TX,Izakaya,30.2537937164307,-97.7129516601562,$$,612
+178,Lin Asian Bar And Dim Sum,28RuK9yoG0k0LLGM7fqKQQ,Austin,TX,Asian Fusion,30.27281,-97.75799,$$,408
+179,Hula Hut,aq0aE997rfi6NMTuTcoyNQ,Austin,TX,Tex-Mex,30.2947120806306,-97.7843958519819,$$,1503
+180,Austin Beer Garden Brewing Company,mUPGTM4KZCyDpkqsZ-eKsg,Austin,TX,Breweries,30.2453753579274,-97.7689108006329,$$,633
+181,Cafe Josie,SCwzUgW_RUdahXNObknkTg,Austin,TX,American (New),30.2731212879431,-97.7571356024467,$$$,300
+182,Pacha,GruGgKqo15Jpl9n7IDwU5A,Austin,TX,Coffee & Tea,30.317377,-97.7406,$,648
+183,Batch - Craft Beer and Kolaches,fd3yGJTbSviei1TFgHGXUw,Austin,TX,Beer Bar,30.2871694082172,-97.7031195536256,$,215
+184,Elizabeth Street Cafe,qR-kjkED4bnRSSMeg5k1gg,Austin,TX,Vietnamese,30.2497925192929,-97.7546439319185,$$,1320
+185,Estância Brazilian Steakhouse,N35x8TyRfRBQkv_W3eabVg,Austin,TX,Steakhouses,30.39326497962,-97.7474884023912,$$$,632
+186,Café Crème,g6Z8jugUqTHV_qc-_zEjDQ,Austin,TX,Coffee & Tea,30.23187,-97.73568,$,383
+187,Rollin Smoke BBQ,mWDRxwPt8HgOdrNyckv99A,Austin,TX,Barbeque,30.2628836718604,-97.7268981039445,$,207
+188,Botticelli's,Tyk1gQgcAJZAxivdT0XiQg,Austin,TX,Italian,30.2503552,-97.7491967,$$,549
+189,The Beer Plant,f5P9ufNH5mJz9BWj-sl8pw,Austin,TX,Vegan,30.2966658,-97.7676046,$$,387
+190,The Halal Corner,VjSUoCUZivCmCFkyywyPjA,Austin,TX,Halal,30.306236,-97.707646,$,410
+191,Bananarchy,D7gQeIBGgxBjZNv2lLP81w,Austin,TX,Desserts,30.250734,-97.7542967,$,308
+192,Kura Revolving Sushi Bar,tgjXDSQtQZsons4XlMR59A,Austin,TX,Conveyor Belt Sushi,30.3375294200535,-97.7176486010726,$$,821
+193,Pappadeaux Seafood Kitchen,WZYMlu0nyTRyZZd4DIwWFw,Austin,TX,Seafood,30.3253,-97.70515,$$,710
+194,Halcyon,sjtbU9h4T4Oc02BzCZ3U2Q,Austin,TX,Coffee & Tea,30.2669600634204,-97.7457208584112,$$,799
+195,Balkan Cafe & Grill,JFfvSm9K8EG1z34c61Agww,Austin,TX,Modern European,30.3876,-97.68399,$$,255
+196,Patika,PV3cJUqLNI6mGQfa3CAJWQ,Austin,TX,Coffee & Tea,30.2475078504171,-97.772622294724,$,339
+197,Mi Tradición,5AJevayxjC9a8poECTCCWg,Austin,TX,Bakeries,30.3635419647482,-97.7193168289696,$,332
+198,Winebelly,75HV-KqCtn_oHeiLiGlO_w,Austin,TX,Tapas Bars,30.241377,-97.7589601,$$,378
+199,Noble Sandwich,LiwNTQrGos8ubI81T2FVvg,Austin,TX,Sandwiches,30.3190872591982,-97.7389053106308,$$,520
+200,La Traviata,yRTwMbREScu8YhGaBfD1Bg,Austin,TX,Italian,30.265912,-97.744071,$$,493
+201,La Condesa,IhsJHBMamH3wrjOdZSYu5g,Austin,TX,Mexican,30.2656391,-97.7477811,$$,1366
+202,Xian Sushi and Noodle,7CXy5h3u_aWsK9qov6B4rg,Austin,TX,Sushi Bars,30.3029292726445,-97.6989614591002,$$,505
+203,Clark's Oyster Bar,r0LLzy0DYJz02Nc4XCg7rw,Austin,TX,Seafood,30.273129,-97.757323,$$$,542
+204,T22 Chicken Joint,O7a9CttwRV61f3NRZ6o9GQ,Austin,TX,Chicken Wings,30.34801,-97.73535,$$,491
+205,Contigo,0lpHYqjWvNZ1Z66Re3KNoQ,Austin,TX,Bars,30.28804,-97.70335,$$,789
+206,Donut 7,emGEJND3abhpSw554D4xaw,Austin,TX,Donuts,30.39442,-97.720187,$,230
+207,The Carillon,gghrK_T4ulGBgJPtn2cbiA,Austin,TX,American (New),30.2818694031,-97.7400357374344,$$$,280
+208,Tumble 22,8Dga4I-cMTIsQtM2-5hT6A,Austin,TX,Chicken Shop,30.3480034,-97.7353473,$,302
+209,HandleBar,UiDZIzI7qOz6BwlyGMtr-A,Austin,TX,Beer Bar,30.26661,-97.74204,$$,344
+210,Korean Grill,lx_ml9N0Bi8g2AJW1itfeA,Austin,TX,Korean,30.378910719879,-97.6867842656067,$$,444
+211,Doc B's Restaurant + Bar,FbZLY5XASP9phByStRTSaw,Austin,TX,American (New),30.402758,-97.719745,$$,405
+212,Pete's Dueling Piano Bar,Fkow62xjmVdt8c7WOrk6ww,Austin,TX,Bars,30.266916118202,-97.7386209368706,$$,442
+213,Dragonbeard Kitchen,1LIsav2g98DhgYy5N5EM-A,Austin,TX,Asian Fusion,30.3310371446081,-97.6669375598431,$$,230
+214,Peace Bakery and Deli,gFSYUocORZz4xJNq6AWN1w,Austin,TX,Mediterranean,30.381804,-97.687232,$,365
+215,Velvet Taco,gvpoFnaCq2J7TBXV7yFIkQ,Austin,TX,Tacos,30.40101,-97.72247,$,581
+216,Biscuits and Groovy,FpyyZkQ2zr7zUvhjDwSTcQ,Austin,TX,Breakfast & Brunch,30.3141044899503,-97.7196990873646,$,580
+217,Torchy's Tacos,bwuSbB0PyXHDHHj6PA_QiQ,Austin,TX,Breakfast & Brunch,30.3707226502842,-97.7562901579395,$,831
+218,Top Notch,Cssyygapm69vafj0IpaxEA,Austin,TX,Fast Food,30.351081,-97.733436,$,656
+219,Saffron,vdfA3cRWZuQRQ9A7qIxHZw,Austin,TX,Indian,30.35501,-97.7555,$$,385
+220,S-H Donuts,wqowhFAa_8_k5l0xfqnkAw,Austin,TX,Breakfast & Brunch,30.30054,-97.68516,$,191
+221,Torchy's Tacos,KJKGptN6mhZarT2SNGI1Kw,Austin,TX,Breakfast & Brunch,30.3233778,-97.7392263,$,496
+222,Tiny Tails To You,yzf_33N7N02QRtxahqXi6w,Austin,TX,Petting Zoos,30.2193908691406,-97.7475433349609,0,139
+223,Mellizoz Tacos,0-Y_m4TJZufHBVozbMOqbA,Austin,TX,Tex-Mex,30.25113,-97.754309,$,472
+224,Quality Seafood Wholesale,9LPV0rSMkiPocCeOMB-DMA,Austin,TX,Seafood,30.31831,-97.71223,$$,821
+225,MAX's Wine Dive,6l3j3ZGUMhIKC-NNe3Fj8w,Austin,TX,Wine Bars,30.264254,-97.74129,$$,925
+226,Chez Zee American Bistro,zE0EGIsOdAO83xE3CypN-A,Austin,TX,Desserts,30.3367272,-97.7579259,$$,895
+227,Daruma Ramen,Xxj7YpKT4XdGpW77an3KJQ,Austin,TX,Ramen,30.2664104548667,-97.73639483874,$$,623
+228,Cow Bells,zZBCrufNELc9eZTfohARWQ,Austin,TX,Burgers,30.242325,-97.729232,$,251
+229,Hopfields,6e3UQmbqFLGWWDCI5VczCA,Austin,TX,Pubs,30.2985538576336,-97.7409893637848,$$,450
+230,Black Star Co-op Pub & Brewery,KQGeS22MTsuoWdPbVrUIIw,Austin,TX,Breweries,30.3381716531677,-97.7188450098038,$$,726
+231,Wholly Cow,BbDujOZvq3OjgsRROtaiDg,Austin,TX,Burgers,30.24292,-97.78384,$,555
+232,Tyson's Tacos,jUiS3w1HX6qhEzNduA3oVw,Austin,TX,Mexican,30.3096229820831,-97.7153485985112,$,691
+233,Curra's Grill,-_GnwXmzC3DXsHR9nyaC2g,Austin,TX,Mexican,30.23709,-97.749441,$$,1118
+234,Thinkery,ceD_H21rhWixxulkK9Y5fQ,Austin,TX,Kids Activities,30.2978206337651,-97.7050186447683,0,276
+235,BD Riley's Irish Pub Downtown,ygG_bZbeoyy893jzmHhPnw,Austin,TX,Irish,30.267727,-97.741123,$$,412
+236,New Fortune Chinese Seafood Restaurant,FYNrcBd9C_mNipttGxkhhQ,Austin,TX,Dim Sum,30.3776346736639,-97.6879827004826,$$,516
+237,Olive & June,cIbVQrylwj3Rljpka5AZ9w,Austin,TX,Italian,30.30726,-97.75113,$$$,574
+238,Bats Under the Congress Avenue Bridge,-F4pgQy3hmNU6tTSRh41yA,Austin,TX,Landmarks & Historical Buildings,30.261741,-97.745163,0,462
+239,ALC Steaks,TKEmPN45epfqtNQq6wY8Dg,Austin,TX,Steakhouses,30.27712,-97.75098,$$$,556
+240,Houndstooth Coffee,GupWM1mEHLk6ls_9OUoS9w,Austin,TX,Coffee & Tea,30.2661539768833,-97.7430225306884,$$,300
+241,Suerte,KIHoGUfCOLhBFQVSAN4QSg,Austin,TX,Mexican,30.26228,-97.72331,$$$,371
+242,Hoover's Cooking,BRPcQEdlla9YaM4TPqkYrQ,Austin,TX,Southern,30.2843863,-97.720344,$$,843
+243,Lick Honest Ice Creams,MxzEl6SPSxTVzor_UXVAhA,Austin,TX,Ice Cream & Frozen Yogurt,30.3411422856792,-97.7383256978199,$,284
+244,Skylark Lounge,Peyica9L2UpPvjhXM9F0Ng,Austin,TX,Dive Bars,30.2846205,-97.70491,$,186
+245,Tiny Pies,4NvImtfnY-aIQRUe2cjbAA,Austin,TX,Desserts,30.3222052752972,-97.7393028885126,$$,210
+246,BackDraft Pizzeria,Z5I1wDa_KnZEWQ8JSeqL0A,Austin,TX,Food Trucks,30.3852,-97.71196,$$,225
+247,Taste of Ethiopia,yHhws1HFk4rgX8YhY5-B9g,Austin,TX,Ethiopian,30.2259650875173,-97.7619186684117,$$,240
+248,Honest Mary's,BqmXzVm9klKNfy0HjmD-jw,Austin,TX,American (New),30.39447,-97.74826,$$,389
+249,Taco More,i-uz0Hv4kttlmb15iJRvNg,Austin,TX,Tacos,30.36793634355,-97.7063755938472,$,317
+250,Mary's Cafe,F4qWfjoGGUJ7ioVySu9org,Austin,TX,Coffee & Tea,30.2914204,-97.7269608,$,258
+251,Buenos Aires Café - Este,OlB0841vj4V7Wje5tTtLWA,Austin,TX,Argentine,30.26414,-97.73044,$$,616
+252,The Driskill Bar,ai29zMnhhapQ_NrGckIzXQ,Austin,TX,Lounges,30.26807,-97.74168,$$,370
+253,Alamo Drafthouse Cinema Village,fD5uCmtXSMilFYvqmAdZOw,Austin,TX,Cinema,30.3596329824891,-97.7348411435718,0,584
+254,Whip In,vcfLPwB8wpB_KNXl-27wrA,Austin,TX,"Beer, Wine & Spirits",30.2379359562403,-97.7394390106201,$$,702
+255,Kerbey Lane Cafe - South,_I-gzz4FEuU2XBygdWP7SA,Austin,TX,Breakfast & Brunch,30.2418,-97.78381,$$,1006
+256,Lenoir,-jQOsyXnAMKu6ND7ongXFg,Austin,TX,American (New),30.24686,-97.75586,$$$,427
+257,Nancy's Sky Garden,5a_jB7LruuScswVL5kgMuA,Austin,TX,Asian Fusion,30.323041,-97.6950529,$$,115
+258,Wu Chow,nyDs0CD-lFysI3oIG9T5bw,Austin,TX,Dim Sum,30.2685154974461,-97.7478443831205,$$,682
+259,Trudy's,fL_ilXgNUq_j9vMpZwdcLg,Austin,TX,Tex-Mex,30.295775,-97.741048,$$,914
+260,Prohibition Creamery,STNf87wH--aqR1bnP8bymQ,Austin,TX,Ice Cream & Frozen Yogurt,30.26422,-97.72763,$$,339
+261,Tiff's Treats Cookie Delivery,IM15oB7zInJytQk2BfKRrg,Austin,TX,Desserts,30.28187,-97.74415,$,265
+262,Mai Thai Restaurant,TIjRjj155FFcNixESdhNwg,Austin,TX,Thai,30.26427,-97.74127,$$,578
+263,III Forks,PL80RWPFTJpoOOdJ-LLawA,Austin,TX,Steakhouses,30.26435,-97.74676,$$$$,447
+264,Corona Coffee,YO2ZNZM1pccR0x_JVgYp3Q,Austin,TX,Coffee & Tea,30.31236,-97.70467,$,221
+265,Texas Chili Parlor,CjvV9PzdSOk7gapnwS1Xww,Austin,TX,American (Traditional),30.27696,-97.74197,$,707
+266,Magnolia Cafe,6KGBXOeSJYf9ePdyAUmx3g,Austin,TX,American (New),30.277692,-97.771822,$$,836
+267,Mi Madre's,BdsDcyOCcniu1WlOr32daA,Austin,TX,Tex-Mex,30.28412,-97.7189099,$$,644
+268,Rosita's Al Pastor,tHv6_4DKOV8sZnlvTrCN9Q,Austin,TX,Mexican,30.2418985962868,-97.728518396616,$,392
+269,Din Ho Chinese BBQ,i61ob7-OiiynnH2dsrpN1Q,Austin,TX,Chinese,30.361341,-97.715612,$$,774
+270,Con Madre Kitchen,AFmmjtNuVfEyP_BMmrcOtg,Austin,TX,Mexican,30.2370468,-97.7490891,$,261
+271,Bombay Dhaba,vP2axJe0_0DVe33OLm0iqw,Austin,TX,Food Trucks,30.251903,-97.753903,$,267
+272,Z'Tejas - Austin 6 STREET,pp73b2zGEwRbwSgYYvB2Dg,Austin,TX,Tex-Mex,30.272638,-97.756051,$$,715
+273,Italic,4Ia7fk4VWe3T-SDk4RVB2g,Austin,TX,Italian,30.2682,-97.74402,$$$,464
+274,Numero28,yPpHMQ-QJxEEOor9C5Fl_A,Austin,TX,Italian,30.2656718,-97.7484536,$$,359
+275,Cover 3,dsqmIQtNB21J3g-56mVmsg,Austin,TX,American (New),30.3586849562721,-97.7350158670119,$$,653
+276,Midnight Cowboy,Ef-9J6ToOcrAJ6tL0Pn_HA,Austin,TX,Bars,30.266983,-97.740028,$$,422
+277,Kebabalicious,QjxEOAEqJkuCSmpBB2ZlgQ,Austin,TX,Turkish,30.2679261455238,-97.7384948730469,$,320
+278,Radio Coffee & Beer,VLh3Hn6FSaqDr5WXFge6Eg,Austin,TX,Coffee & Tea,30.231538,-97.787778,$,633
+279,Terra Toys,5Kq_q-tngZqhJbVbiYmpsg,Austin,TX,Toy Stores,30.357855,-97.731603,$$,203
+280,Stubb's Bar-B-Q,_JOSiG_X--3W0FWgPrHO0g,Austin,TX,Barbeque,30.26857,-97.73617,$$,1283
+281,Bistro Vonish,adhmQxDfyx3BaQ8jiUIB3g,Austin,TX,Food Trucks,30.3152493228979,-97.7165968411313,$$,154
+282,Thai 2 U,_z6r--ulprSsH6IeVx_Epg,Austin,TX,Food Trucks,30.219516,-97.829436,$,156
+283,Phoenician Resto Cafe,f1UXpvAVRY4FtUS2Eo1edA,Austin,TX,Lebanese,30.2597553,-97.737549,$$,292
+284,Kung Fu Tea,Wp2FP2e9l-6ZnPdXSzcHxg,Austin,TX,Bubble Tea,30.3731951160699,-97.7284159018027,$,218
+285,Workhorse Bar,ehaOHDQ6EzXavMCaQ0nXvw,Austin,TX,Dive Bars,30.31771,-97.721675,$,287
+286,Song La,2SbmgX5eHK4EMaIJmO1qbw,Austin,TX,Food Trucks,30.286232,-97.742502,$,125
+287,Juniper,i1GWpxJ1Phm2awhVaTkouA,Austin,TX,Italian,30.254867,-97.717182,$$$,322
+288,Matt's El Rancho,AKmD2-SgVaHAltP8lLzavA,Austin,TX,Mexican,30.24514,-97.77924,$$,1212
+289,Caffe Medici,mO9pdG7ssRhObnb56MyZ_A,Austin,TX,Coffee & Tea,30.27954,-97.75937,$,333
+290,Hi Hat Public House,F6b_O4-wtd3956YOvAoerg,Austin,TX,American (New),30.26023,-97.71893,$$,230
+291,Jim-Jim's Water-Ice,GCgnLwwI4b9cOee-vtK1aQ,Austin,TX,Ice Cream & Frozen Yogurt,30.26613,-97.73653,$,166
+292,The Little Longhorn Saloon,wRitGLmWK86di83q6o8lCA,Austin,TX,Dive Bars,30.329585,-97.740064,$,213
+293,Spider House Cafe & Ballroom,r-MdoGkMYp3Kt71E9MUiIA,Austin,TX,Cocktail Bars,30.295505,-97.741761,$,715
+294,Tam Deli & Cafe,Kk_NDHsv75drldT28_EKaA,Austin,TX,Delis,30.35204,-97.70961,$,434
+295,El Primo,4CApB_GqrraGweVr1FZtfQ,Austin,TX,Food Stands,30.24467,-97.75732,$,199
+296,Figure 8 Coffee Purveyors,E8Y9xCwoxEYVmXOAj1dHeg,Austin,TX,Coffee & Tea,30.2669088526373,-97.7199441075042,$,205
+297,River Place Nature Trail,88kosdu9NbLZnHrioyPSGg,Austin,TX,Hiking,30.3558918,-97.8650678,0,177
+298,Yogurtland Austin,mGVVbBW0e6NVyNxHRstz_w,Austin,TX,Ice Cream & Frozen Yogurt,30.356633,-97.735315912896,$,161
+299,Tous Les Jours,MFr9Wsasx6l1ENKJYMQSbw,Austin,TX,Bakeries,30.3360919952393,-97.7201538085938,$,316
+300,Zilker Brewing Company and Taproom,PntbqCQ291VVOsXM24ta3A,Austin,TX,Breweries,30.262096,-97.72454,$,207
+301,Tommy Want Wingy,-gPfDIdch1QNPsMLEom5Mw,Austin,TX,Chicken Wings,30.260687,-97.738376,$,278
+302,Aviary Wine & Kitchen,AMM36tDkea1sn8bntzyRkg,Austin,TX,Lounges,30.24824,-97.7715,$$,223
+303,The Buzz Mill,5XENCwJ9Xgw8BsfuWqOsSw,Austin,TX,Coffee & Tea,30.241682,-97.726864,$,447
+304,Tsukimi,NxLE-_uSPCRbdRoC1zcRVg,Austin,TX,Sushi Bars,30.4021972,-97.675699,$$,166
+305,La Patisserie,qUY04I5gDm5uyInd1mCizg,Austin,TX,Desserts,30.247668,-97.756206,$$,392
+306,Poke House - Austin,eMOy9BUQIUTGjKsytxAcGw,Austin,TX,Poke,30.4061981042147,-97.7463034540415,$$,334
+307,Tony's Jamaican Food,ATNVRZWUxp613GiHGsoA8A,Austin,TX,Caribbean,30.2687816619873,-97.7279052734375,$$,220
+308,Tarka Indian Kitchen,oW9b_NLLTY_vrg-y3EoE4g,Austin,TX,Indian,30.3569992815093,-97.734911441803,$,508
+309,Jacoby's Restaurant & Mercantile,Y6tpEFutDG3a-DHu2cJ7LQ,Austin,TX,American (New),30.2515,-97.70737,$$$,512
+310,Caffé Medici,N_sZ_nR1eI2hBnILDjDYGQ,Austin,TX,Coffee & Tea,30.2646273022446,-97.7441918849945,$,282
+311,Bob's Steak & Chop House,ZgIPuv43YvTMqNLW6Qj9QQ,Austin,TX,Steakhouses,30.2660236358643,-97.7460403442383,$$$,354
+312,Sao Paulo's Restaurant,4_Z2QGkLj5QICAaSv94gnQ,Austin,TX,Brazilian,30.29153133,-97.73500933,$$,359
+313,Barlata Tapas Bar,LPYACwYAeHJdQIpxEtJYvw,Austin,TX,Tapas Bars,30.2522283079698,-97.7644667171967,$$,600
+314,Maria's Taco Xpress,NvdLYZgLmqXYZaFx7KR9MA,Austin,TX,Tex-Mex,30.24591,-97.77835,$,575
+315,Austin Daily Press,8Gs5Civ8LpPKu_lc-bmn4g,Austin,TX,Delis,30.2802176628505,-97.7211093269837,$,258
+316,Dawa Sushi,y0TYw6j_-91OGXnDVYZ6ew,Austin,TX,Food Trucks,30.2516759671733,-97.7538518413175,$,146
+317,Bun Belly,XH2y4duYEvKsDqIq8-WDlw,Austin,TX,Vietnamese,30.31124,-97.71505,$$,457
+318,Korea House,rFVXX2vRHhKmY6LpzpSeeQ,Austin,TX,Korean,30.359268,-97.73399,$$,784
+319,Tacos Guerrero,MiRr3aHDWpryg7YZC30hkg,Austin,TX,Mexican,30.2526512,-97.7129882,$,128
+320,The Capital Grille,2vppZx0rTDZtCzw-NljdRQ,Austin,TX,Steakhouses,30.26633,-97.74464,$$$,312
+321,Chi'Lantro,HIs4Y4J9KHmMP_0_hiJekw,Austin,TX,Korean,30.3245593141276,-97.740055874205,$,358
+322,La Cocina de Consuelo,1mgAhLHRWJjJkJ2GbwrWUA,Austin,TX,Mexican,30.316091,-97.74143,$,355
+323,Hut's Hamburgers,L0h_ZfYWqJbm5XC1OqeHuQ,Austin,TX,Burgers,30.2702549082469,-97.7511854452463,$,704
+324,Eberly,vwwG4ZL46BBXeZMdrhi8PQ,Austin,TX,Bars,30.2587887974766,-97.7587449596709,$$$,421
+325,Sawyer & Co,P45NurIP2ekDgQDBIyP9IQ,Austin,TX,Cajun/Creole,30.2513332366943,-97.7017822265625,$$,540
+326,Garrison,kCdONcIH6Fz5Gz3TmBWdTw,Austin,TX,American (New),30.26198,-97.73862,0,113
+327,Baton Creole,BhflCXaNL7rBeUghfX5FBg,Austin,TX,Food Trucks,30.2651,-97.73155,$$,210
+328,Salata,aazeiYGC-BLm5OynjikcJg,Austin,TX,Salad,30.388883,-97.733055,$$,232
+329,Polvo's Mexican Restaurant,RKJq9UPMQhVoRMtnPdhiWw,Austin,TX,Mexican,30.24532,-97.75745,$$,1376
+330,Mugshots,sMl5mDAks5d1Zejfpxy2XA,Austin,TX,Dive Bars,30.2676,-97.73849,$,176
+331,Thunderbird Coffee,g3xgpfY6TtxL96xJTVmzOw,Austin,TX,Coffee & Tea,30.2844181060791,-97.7193756103516,$,408
+332,Foreign & Domestic,u5XqU3ys3nXd1Ee0XYKLWg,Austin,TX,American (New),30.3171071,-97.7196383,$$,648
+333,Cypress Grill,z1gHWH13NqxfL893O5PfwA,Austin,TX,American (Traditional),30.22378213933,-97.8389456767437,$$,600
+334,Mikado Ryotei,Qxf2f3JlIXtOKtU6_qnKlA,Austin,TX,Sushi Bars,30.37343,-97.72469,$$,439
+335,Corner,Ye1lObLkfsb5-QhdSJYo7Q,Austin,TX,American (Traditional),30.264545,-97.74329,$$,491
+336,The B's Kitchen,OZgWsP7363rzGUad1c9HHw,Austin,TX,Vietnamese,30.2569908,-97.7249709,$,104
+337,North Italia,PXDwg6vXCzmpqnht6qmAnw,Austin,TX,Italian,30.265803,-97.748895,$$,287
+338,Halal Time,JM4gK13DvAzGpdPeae3wVQ,Austin,TX,Food Trucks,30.2631107184963,-97.7272480692696,$,100
+339,Red's Porch,cEIlyb9VYO34cJIf4VolvA,Austin,TX,Southern,30.23987,-97.78819,$$,933
+340,Holy Roller,89QLdUDKCn7GTzqIVUvRwg,Austin,TX,Breakfast & Brunch,30.26948,-97.74943,$$,402
+341,Halal Bros,fDagm540ieAAh5G9LA27Yg,Austin,TX,Mediterranean,30.393005,-97.706731,$,296
+342,Copper Restaurant & Dessert Lounge,xFduQVg6jqxMs_OhcrbegA,Austin,TX,Desserts,30.40042,-97.72714,$$,486
+343,Anderson's Coffee Company,YAnvqg699tciMYsqQfqMjw,Austin,TX,Coffee Roasteries,30.3085746765137,-97.7504272460938,$$,135
+344,Zilker Botanical Gardens,jGuKvat6sca3atLc66rXMA,Austin,TX,Botanical Gardens,30.26628,-97.76895,0,235
+345,The Mean Eyed Cat,QRBfVSUKpqYTstxwV0xRzg,Austin,TX,Music Venues,30.27452,-97.76496,$,262
+346,Flat Track Coffee,fSTLgWmOJ3ngs31aPGRpHQ,Austin,TX,Coffee & Tea,30.2577149,-97.7271767,$,166
+347,Amy's Ice Creams,NSDalToWWh3VsfYCjN77MA,Austin,TX,Ice Cream & Frozen Yogurt,30.3014488220215,-97.7392807006836,$$,294
+348,Picnik,yrMcWGdGXwJdZlJmY83xyQ,Austin,TX,Coffee & Tea,30.2512817994368,-97.7659426379593,$$,280
+349,Don Japanese Kitchen - Austin,hsMSCuhbpw8w22T9alfV5w,Austin,TX,Japanese,30.29284,-97.7417399,$,222
+350,Flightpath Coffeehouse,oth4c9c1bA71pxf_fD556g,Austin,TX,Coffee & Tea,30.31386,-97.71983,$,400
+351,Brentwood Social House,bF8ExmkwsE3LyzZO9x8cWA,Austin,TX,Cafes,30.3322058641016,-97.7345593268946,$,204
+352,East Side King,Fdn-JblBEB_3z856yLjlMQ,Austin,TX,Asian Fusion,30.2475757598877,-97.7750549316406,$$,428
+353,San Francisco Bakery & Café,OJxWVI_240DS1Xyb-JK-uw,Austin,TX,Sandwiches,30.3594731452811,-97.735598096828,$,343
+354,North By Northwest Restaurant & Brewery - Stonelake,P3CFVL-yni3P74QtnHuVfA,Austin,TX,American (Traditional),30.39065,-97.73754,$$,886
+355,Torchy's Tacos,7b7OOWYTm6bAzbFEWbV5Cg,Austin,TX,Breakfast & Brunch,30.2416719469466,-97.7842652700447,$,465
+356,The Grove Wine Bar & Kitchen,v87I5i4XxiCr9Ihiqkbc4A,Austin,TX,Pizza,30.2963184857946,-97.8328549861908,$$,463
+357,Taco Flats,HnyCxHXrCuZnlemW_1FrKw,Austin,TX,Mexican,30.330914,-97.740225,$$,410
+358,Black Sheep Lodge,HIhgfQtM9KXpjj1iZATxiQ,Austin,TX,Burgers,30.24837,-97.77118,$$,655
+359,Barfly's,45704GF8kDhKNoUvFGAnpg,Austin,TX,Bars,30.3167018890381,-97.7141571044922,$,257
+360,Counter Cafe,VWGWxuLjmu3FBJFqC2_QGA,Austin,TX,Diners,30.2725857,-97.753714,$$,593
+361,Violet Crown Cinema,s1NIISfH0aZjYSxiPBsAig,Austin,TX,Cinema,30.26554,-97.74806,0,401
+362,Continental Club,WE13CwOp8Tir_82LBHwgeA,Austin,TX,Dive Bars,30.2504978179932,-97.7490234375,$$,341
+363,Coco's Cafe,hug4QV-cEB6grXlPY2SBCA,Austin,TX,Taiwanese,30.3612785778592,-97.7156337500247,$,475
+364,Lonesome Dove Western Bistro,BmiR8s9dHBDs47zIZ1LC_Q,Austin,TX,American (New),30.2673,-97.74428,$$$,243
+365,P. Terry's Burger Stand,KrL_ljyM3sa8YZTZ_1TdCA,Austin,TX,Burgers,30.2616110513805,-97.7585685119583,$,624
+366,Garage,JF6tshUSeH8U9eRDemzI7Q,Austin,TX,Cocktail Bars,30.2676758046831,-97.7440973042297,$$,230
+367,Rice Bowl Cafe,4THc7ojs6ppNHKhLl74www,Austin,TX,Chinese,30.382525452192,-97.6885507713028,$$,633
+368,The Mediterranean Chef,6HVR1WjB9eejnIx8ZLFfAw,Austin,TX,Mediterranean,30.32987,-97.72806,$,174
+369,Nervous Charlie's,6cIzTqQGthBctMWzxLHwRQ,Austin,TX,Bagels,30.32317,-97.72758,$,222
+370,Habesha Ethiopian Restaurant and Bar,IJDuykkbPXfKa9eixyol0Q,Austin,TX,Ethiopian,30.32127467,-97.7057905,$$,300
+371,Kick Butt Café,LMpZdARWyOILtY_J2ZicyQ,Austin,TX,Coffee & Tea,30.3221788205653,-97.7138607718277,$,398
+372,TLC Austin,okamtsdTV_8ZgDbLtOSr9A,Austin,TX,American (Traditional),30.25576,-97.76252,$$,254
+373,Zhi Tea,W3Afc7vgpCkfTgMte_KLJg,Austin,TX,Tea Rooms,30.267079,-97.692381,$$,158
+374,Taverna,oAa1My9qUpw6Zss2Ye-1Fg,Austin,TX,Italian,30.26513,-97.74633,$$,796
+375,Juliet Italian Kitchen,mHHPfCZGRp4BQe_QvVno7g,Austin,TX,Italian,30.26184,-97.76006,$$,487
+376,Spun Ice Cream,2umRVmFsc7ZEB6KhZ1Ja_g,Austin,TX,Ice Cream & Frozen Yogurt,30.26266,-97.72113,$$,324
+377,Mongers Market + Kitchen,fTwvEZw8tvF73QxcX-5TdA,Austin,TX,Seafood,30.254511,-97.717614,$$,326
+378,TRACE Restaurant,ynulZGp0xjv1LMufQEigbw,Austin,TX,American (New),30.2651558,-97.7466468,$$$,429
+379,Soto - South Lamar,fWgfmVcdwx_vY4wSphV1Lw,Austin,TX,Japanese,30.25576,-97.76252,$$$,185
+380,Lucy's Fried Chicken,8l0zeJCRfAL8BYrnDxPcJQ,Austin,TX,American (New),30.24051,-97.75335,$$,930
+381,1886 Cafe & Bakery,hpAOH8cmY5WHjnl8jGQ1dA,Austin,TX,American (Traditional),30.268032,-97.74195,$$,460
+382,Ramen Tatsu-Ya,7ZU9DwctpN_tkC7EOd3C-Q,Austin,TX,Ramen,30.26326,-97.72624,$$,258
+383,Torchy's Tacos,tt9gTrwhd_3v6AoQesEZmw,Austin,TX,Breakfast & Brunch,30.222323,-97.840419,$,684
+384,Yard House,EulwNBngDrkPvduuBJnPZw,Austin,TX,American (New),30.4053,-97.72308,$$,533
+385,The Halal Gurus,363ZNWe9hyIlaLTk0T8HZg,Austin,TX,Halal,30.2419105269154,-97.7595381896206,$,226
+386,Fleet Coffee,sup8P8WEyFFpEkFleTD-2w,Austin,TX,Coffee & Tea,30.2627670402415,-97.7143703753992,$,150
+387,Güero's Taco Bar,B-iYNDpW71lySdtDKoX0nQ,Austin,TX,Mexican,30.249373,-97.750189,$$,1591
+388,Seventh Flag Coffee,xIlOv0vChZfmm5DW68pODQ,Austin,TX,Coffee & Tea,30.24971,-97.75528,$,306
+389,Hillside Farmacy,u5kXPgXAumLOl6zMFw3D_g,Austin,TX,American (New),30.2680931091309,-97.7269134521484,$$,869
+390,Billy's on Burnet,Kp8dey7sWZKMU4dLJgaOQw,Austin,TX,American (Traditional),30.3220291137695,-97.7397613525391,$,368
+391,Genuine Joe,63uqZAAmP2Sq8odbKmOjEg,Austin,TX,Coffee & Tea,30.3541,-97.72729,$,333
+392,County Line On The Lake,EKQMAqLW1rUfe8yY5YDQXg,Austin,TX,Barbeque,30.3571242748654,-97.7856454079346,$$,730
+393,NeWorlDeli,hzamnmFBJF9jnOVa4DGMKg,Austin,TX,Delis,30.30642,-97.73545,$$,296
+394,Bullock Texas State History Museum,DZXp8m38R0s9U3Saj4Qbcw,Austin,TX,Cinema,30.27977,-97.73858,0,258
+395,Tacodeli,Ymr0gtRtsRZZwgxpIlr0Wg,Austin,TX,Breakfast & Brunch,30.3487159938227,-97.7351448406143,$,199
+396,Mañana,F3v2FifOAl-ZPaFqoO5mrg,Austin,TX,Coffee & Tea,30.2474,-97.75006,$$,149
+397,Dan's Hamburgers - Austin,NmukLItypDHZTH3L89ZUAw,Austin,TX,Burgers,30.32483,-97.727184,$,324
+398,ATX Cocina,hpttZ0nryCCmV1hxwN3ZGg,Austin,TX,Mexican,30.2649458683025,-97.7492585281865,$$$,272
+399,First Chinese Barbecue,BCoVE-SCPwbcA88BVxjuFg,Austin,TX,Chinese,30.3788135342932,-97.6864677649429,$,443
+400,The Peached Tortilla,SIIzjxEP8-SMxVQPp8qPBQ,Austin,TX,Asian Fusion,30.3252124786377,-97.7383422851563,$,275
+401,Dan's Hamburgers,yei4zDTuu21xxzvs2ig6tQ,Austin,TX,Burgers,30.23073,-97.7882,$,387
+402,Gabriela's Downtown,-dNzrtdgR9v5kbqxw0ZKoA,Austin,TX,Mexican,30.2666,-97.73302,$$,323
+403,Bombay Bistro,dQ80ktWSRj5UIk96bRUmWw,Austin,TX,Indian,30.398689499479,-97.7474199440414,$$,549
+404,Baguette House,Z_H0pY1cU5A1YIiBZ963kg,Austin,TX,Vietnamese,30.3771243408178,-97.6868110876968,$,365
+405,Cuba 512,yd6dmLkbX1Ycmy3VcDVzng,Austin,TX,Caribbean,30.209067,-97.816031,$$,450
+406,Cafe Nena'i,4CH5ZOCr8gyS7GZjhpWyhw,Austin,TX,Coffee & Tea,30.22724,-97.70237,$,145
+407,Maggiano's Little Italy,_OvpwIXRqRXkVjCguyxgXA,Austin,TX,Italian,30.39556,-97.72694,$$,705
+408,Greater Goods Coffee Roasters,Bb9SwlpjCnwep7rphk-p1Q,Austin,TX,Coffee & Tea,30.25767,-97.71501,$$,137
+409,Fat Cats Organic Coffee And Dessert,s21VZ2u1LnzIHUCeBOHCxw,Austin,TX,Coffee & Tea,30.33849,-97.71895,$,205
+410,The Steeping Room,DqH8YuvcQF4jbsSdkgDM1Q,Austin,TX,Breakfast & Brunch,30.31218,-97.73866,$$,288
+411,Ola Poke,pOm5-NnH13surto71-ivjw,Austin,TX,Hawaiian,30.335921,-97.720494,$$,355
+412,Yellow Jacket Social Club,t5lJ7FXMJDyoBYWDCsqD_w,Austin,TX,Lounges,30.26159,-97.72456,$,379
+413,Caffe Teo - Gelato and Espresso,QF9-_EoCi2bVCBjLhd4gtg,Austin,TX,Coffee & Tea,30.306588,-97.745231,$,315
+414,Conscious Cravings,abWx9PGjV84Q9RxJYAKoyQ,Austin,TX,Gluten-Free,30.25096,-97.75421,$,252
+415,Li'l Nonna's,xdWHz4mqq1Htarg3dLOKBw,Austin,TX,Pizza,30.2416820526123,-97.7268676757812,$$,131
+416,Joe's Bakery & Coffee Shop,GHo8JLtFJfIM-uhk8bRXZw,Austin,TX,Mexican,30.2610703,-97.7166672,$,333
+417,Biscuits + Groovy - South,1VVujesB-UmR_84B5CBiOA,Austin,TX,Food Trucks,30.261005,-97.757362,$,188
+418,Intero Restaurant,MnO3YMUGAnkHm-iy5wo0mQ,Austin,TX,Italian,30.2538078303281,-97.7146533178121,$$$,163
+419,Bombay Bistro,3LBiMHGe9yTtg2qZj6nFyg,Austin,TX,Indian,30.2361178,-97.7952578,$$,432
+420,Via 313 Pizza - East Side,mbNRIX5ROAzeDAmCVM_xzg,Austin,TX,Pizza,30.26219,-97.72305,$$,195
+421,Pho Thaison,8cKup9J1Ph3BHkACq8dBQA,Austin,TX,Vietnamese,30.3577892109939,-97.733040337859,$$,613
+422,BarChi Sushi,_7Jg-PLTf0d7u_IZiJ4ISw,Austin,TX,Sushi Bars,30.265278,-97.7454714,$$,653
+423,Anthem,P2fi7qugfLPOFSxscpaAxg,Austin,TX,American (Traditional),30.26006,-97.73813,$$,211
+424,Hi Wings,TxJxKvTD_vjpUAwW54h1EQ,Austin,TX,Chicken Wings,30.3550760480797,-97.7327821745008,$$,147
+425,Sap's Ver Fine Thai Cuisine,qU7elDB7uNRr6nKYcaAPOA,Austin,TX,Thai,30.3335091520894,-97.7408943834809,$$,387
+426,Pho Dan,FpzMEfjhCm8Y9JjaTx5X5g,Austin,TX,Vietnamese,30.382055738338,-97.687512756414,$,440
+427,Bodhi Viet Vegan,8hGvAFOswW9f-uiWULlcxg,Austin,TX,Vietnamese,30.4173078973424,-97.6998962373252,$,122
+428,Poke Bay,h8Jg7-i0zwWPZwUSmr9Vjw,Austin,TX,Hawaiian,30.282849477862,-97.7417685091496,$$,122
+429,The Blanton Museum of Art,m8bPWfql97px5p18HqXu6Q,Austin,TX,Art Museums,30.2809014475581,-97.7377464363135,0,186
+430,Irene's,QjBJ4-iH3MUoPGXQqa9X2Q,Austin,TX,Bars,30.269838,-97.751213,$$,424
+431,Poke-Poke,lJKM3V65LfbsmVvMp1JEaw,Austin,TX,Hawaiian,30.2318,-97.75932,$$,334
+432,Big Fat Greek Gyros,yVieoh-MxTE4eNzubNE9KA,Austin,TX,Greek,30.2583972,-97.7385941,$,215
+433,Julie's Noodles,Q7mYMmlbhOWUIo6R6hy7qw,Austin,TX,Noodles,30.3611406172422,-97.7157957205178,$,284
+434,Be More Pacific,t2fvNsYiHZ0uuO_O2vClPQ,Austin,TX,Filipino,30.36068,-97.74139,$$,295
+435,JINYA Ramen Bar,qDyZQ6mT1JajQ7_Yj7PeLw,Austin,TX,Ramen,30.4002508252956,-97.7232788317383,$$,675
+436,Paper Route Bakery,lnwSczhscBoGm-UtJtJlTg,Austin,TX,Bakeries,30.2606150709564,-97.733610107085,0,71
+437,Dos Batos,WnP9a3Lj_wszdSyJuhernA,Austin,TX,Tacos,30.35692,-97.73525,$,479
+438,Vince Young Steakhouse,O31SAvOOjle_RLvRpHDdmg,Austin,TX,Steakhouses,30.26485,-97.74115,$$$,443
+439,Kerbey Lane Cafe - University,fsqtrHKBUeucacxeX9FPaA,Austin,TX,Tex-Mex,30.29122,-97.7415,$$,824
+440,Hyde Park Bar & Grill Central,EwUahd4SYKdPH1p1Cpe5fg,Austin,TX,American (Traditional),30.30419,-97.72668,$$,607
+441,Toss Pizzeria & Pub,8SnpSe6YXHXE-Jo66bYKMQ,Austin,TX,Pizza,30.2363363,-97.762862,$$,302
+442,Sugar Pine,bQbO4RPTcS50EzoLx2Y2QQ,Austin,TX,Japanese,30.36184,-97.71761,$$,133
+443,Crown and Anchor Pub,M8JeAAViy8nW9TrlTWyOIQ,Austin,TX,Pubs,30.2924600026945,-97.7357137160887,$,282
+444,Jack Allen's Kitchen,M6_Jp6Xcf2z-j_Ay_GiHtA,Austin,TX,American (Traditional),30.3612,-97.73943,$$,241
+445,D'Lites,khghDJpPqW5hG4IXr8sF4A,Austin,TX,Ice Cream & Frozen Yogurt,30.223735,-97.839451,$,150
+446,Kismet Cafe,KYLDv6fOFhFMNvn-KGNrDg,Austin,TX,Halal,30.30005,-97.72136,$,207
+447,Burrito Factory,CfXB2vQ0_wLzwhVUpkj-XA,Austin,TX,Mexican,30.2833881378174,-97.7413177490234,$,123
+448,Pho Van,mOnesB4IF9j6-ZmHoOHOig,Austin,TX,Vietnamese,30.361322,-97.715629,$,336
+449,Julio's Café,digUTaXtbnaO9rL1oCfhHQ,Austin,TX,Mexican,30.30495,-97.72617,$,366
+450,Veggie Heaven,YXMIASWpa3v9baSd4iqFGw,Austin,TX,Vegetarian,30.27432,-97.76448,$,553
+451,Icenhauer's,JGjfjIHLxdLAc0InA0Hqww,Austin,TX,Bars,30.25936,-97.73824,$$,339
+452,Revelry Kitchen + Bar,-JqrUI1y8jaUQma7t2ShUA,Austin,TX,American (Traditional),30.2637173006037,-97.7277220894538,$$,187
+453,Polkadots Cupcake Factory,0b98YTfhRFLQGRA7GxfalA,Austin,TX,Desserts,30.29558,-97.74416,$,267
+454,Takoba,9H0dtrIBFD2PAcS90367Xg,Austin,TX,Mexican,30.26413,-97.72737,$$,747
+455,Kebabalicious,QdprxDshnPvtNwo0y9oqIA,Austin,TX,Turkish,30.264476,-97.728304,$$,231
+456,Scotty's BBQ,0wu_75_1HQtIog3p2Qz_pQ,Austin,TX,Barbeque,30.253308,-97.712918,$$,226
+457,Budare's Venezuelan Food,Y5wIVVSb_iKvMDrk2OPUfQ,Austin,TX,Venezuelan,30.32118,-97.7395,$,91
+458,Counter Cafe East,6nNseNdeC6QTKa6XloL3zg,Austin,TX,Breakfast & Brunch,30.2616692,-97.7215424,$$,367
+459,Austin Chai Wala,DDX_MarslhZsF_1gWMBlYA,Austin,TX,Food Trucks,30.31497,-97.7414299,$,95
+460,Pitchfork Pretty,cXfrjcNQ4msDvvR-9yFJaA,Austin,TX,Cocktail Bars,30.25343,-97.71351,$$,214
+461,Flower Child,aNX8OAI9CI662uxbWwsPHA,Austin,TX,Salad,30.2657509,-97.7488719,$$,225
+462,Tamale House East,irE73-NU8kJ35AvY-R9zig,Austin,TX,Mexican,30.2615296296076,-97.7244004474619,$,393
+463,P. Terry's Burger Stand,sOUbbSAwhfdZoGnSZqOlWw,Austin,TX,Burgers,30.30176,-97.74487,$,442
+464,Ichiban,SnfcwDrb5YyWqFhQ2i9SGw,Austin,TX,Sushi Bars,30.34921,-97.73588,$$,343
+465,Galaxy Cafe,XZkLjHALlN0j7mFy2tgpQw,Austin,TX,American (Traditional),30.27937,-97.75999,$$,376
+466,Mighty Fine Burgers Fries & Shakes,n85oc0lNQhEDomqhljmZqg,Austin,TX,Burgers,30.3898268088141,-97.7331859925039,$,591
+467,Casa Colombia,aJpPFyqmYweduHwuMPu_tw,Austin,TX,Colombian,30.2608,-97.71482,$$,323
+468,Iron Cactus - Austin,tO3jMM7UApHkj6LtG0Rgng,Austin,TX,Mexican,30.26734,-97.73941,$$,1041
+469,Café No Sé,yH33eQMUlxsM2GDHA7Gmmg,Austin,TX,Cafes,30.2472100582746,-97.7504142968754,$$,399
+470,Veracruz All Natural,yHjaVbz6wjL1ahml12u4jw,Austin,TX,Breakfast & Brunch,30.375522753902,-97.7293153479695,$,238
+471,Opa! Coffee & Wine Bar,lpEbPMtzuFgz-xZ6ZgHMYw,Austin,TX,Wine Bars,30.24899,-97.76946,$$,444
+472,Shake Shack,pSUtTbKLtV8YhmJlmo66mA,Austin,TX,Burgers,30.2558660897055,-97.7617584698364,$$,622
+473,Giovanni's Pizza Stand,99QWPoYEE_qcy4aV7r7ILQ,Austin,TX,Pizza,30.243649,-97.782849,$,208
+474,Four Brothers,Oc3yk8qaC8U3XR2eQE1m_A,Austin,TX,Food Trucks,30.2641,-97.76237,$,153
+475,Tso Chinese Delivery,PpgP0TEv8gvJ3NUCrFyM3A,Austin,TX,Chinese,30.29564,-97.717253,$$,193
+476,Wright Bros Brew & Brew,x4kl3G0L-nGaDeCD013GnA,Austin,TX,Bars,30.2642705386769,-97.7330322191119,$,250
+477,Vinaigrette,PhSdU1yYD3CcIy8DtPNxfw,Austin,TX,Salad,30.2415789297179,-97.7519873902202,$$,338
+478,MOD Pizza,rFSbSKU4nxVkX4wV_pbsCA,Austin,TX,Pizza,30.3034239717993,-97.6989206925209,$,225
+479,L'Oca d'Oro,ZYtgu8IWHoAiO56vvxsiqg,Austin,TX,Italian,30.297251,-97.704674,$$,346
+480,Salt & Time,an4tPMzgOG-KwCXfAoKKWQ,Austin,TX,Butcher,30.26266,-97.72113,$$,473
+481,Seoulju,XNPn1KRStDXxy7vc77Bp3w,Austin,TX,Bars,30.3646543475126,-97.6943624764681,$$,171
+482,Me Con Bistro,YDawSup__BY0EekWbA9T6w,Austin,TX,Chinese,30.21296,-97.82943,$$,323
+483,Third Coast Coffee Roasting Company,BrE-SFYoYWQlwS3AvdnLBQ,Austin,TX,Coffee & Tea,30.21736,-97.76784,$,81
+484,Deckhand Oyster Bar - South,gYuTx4cB_5UutuWIGusmUQ,Austin,TX,Seafood,30.2350720320656,-97.7933467962823,$$,422
+485,Shu Shu's Asian Cuisine,M8f-9hj8lPWOIjTMwBqs0A,Austin,TX,Asian Fusion,30.3632364003784,-97.7285520710945,$,409
+486,Cherry Creek Catfish,Bkf1orK8EPMFz813bdLRVQ,Austin,TX,Seafood,30.2146892056764,-97.7993884507873,$$,375
+487,Irie Bean Coffee & Wine Bar,V6hXT5bXb8-jkeHNWirTqQ,Austin,TX,Coffee & Tea,30.2475307202109,-97.774888,$,185
+488,Andiamo Ristorante,T4GbWPx-KXi_6-xDrVT1BA,Austin,TX,Italian,30.382337,-97.723175,$$$,396
+489,Mrs Johnson's Bakery,nMcCoHAqw7KIrILBIkiWEQ,Austin,TX,Donuts,30.31011,-97.71519,$,417
+490,Trudy's,SXe2EkxGmpnYC4HFIGKKeQ,Austin,TX,Tex-Mex,30.3706003956709,-97.7276092788008,$$,902
+491,Austin Taco Project,00K-UTXqg9iDoMXB3QXh0A,Austin,TX,Tapas/Small Plates,30.26506,-97.73862,$$,441
+492,Ranch 616,apNQUS92Vhsu8s5QUqdRQA,Austin,TX,American (Traditional),30.27044,-97.7483,$$,485
+493,Edis Chocolates,7sWyMdjajhUOT31MnA2mdg,Austin,TX,Desserts,30.36492,-97.74918,$$,95
+494,Hoboken Pie,7AFctw607BF-0gBxVht3Cg,Austin,TX,Pizza,30.26822,-97.73678,$,504
+495,Olamaie,f6bsxIitCz6o2XgXeyYJLw,Austin,TX,Southern,30.2799,-97.74367,$$$,375
+496,The Boardwalk Trail at Lady Bird Lake,BE4nLrG_7Irit2CCThi4tg,Austin,TX,Hiking,30.2503491471899,-97.7370151865082,0,79
+497,Gravy,6nykVtoEZdnAK8jZL6taVQ,Austin,TX,Breakfast & Brunch,30.296589,-97.70729,$,154
+498,Sushi Junai,uK3hclf6oje7rRAbUhPCLg,Austin,TX,Sushi Bars,30.279045,-97.741726,$$,469
+499,Bender Bar & Grill,Hqj40L1eMHCVoUQ8cpZa3g,Austin,TX,Lounges,30.2242720206809,-97.7673519325409,$,288
+500,In-N-Out Burger,bG7TmUzpwXiRcVRUs1OKWg,Austin,TX,Burgers,30.30427,-97.715451,$,622
+501,Waller Creek Pub House,IC1EY-fCHdmATvVgmsa7oA,Austin,TX,American (Traditional),30.26644,-97.73576,$$,208
+502,El Taquito,5WzAkhu3JY7Eue1oyJFogg,Austin,TX,Mexican,30.243582,-97.730586,$,418
+503,Llama's Peruvian Creole,A2VuODFluM_28BORfE-m2A,Austin,TX,Street Vendors,30.26778,-97.7389199,$,254
+504,Manuel's,74ZOTBit9H9Z_YAP7YaE1Q,Austin,TX,Mexican,30.2655782,-97.7437069,$$,538
+505,Sundaze,amawyqBviyChi62PFixb1w,Austin,TX,Vegan,30.229108,-97.78411,$,126
+506,Thai Fresh,PzzxZ8oOSu3aDwrduLhYxA,Austin,TX,Thai,30.24788,-97.76167,$$,816
+507,Clive Bar,11W5Nm8cDNPgJjWaxsrU0A,Austin,TX,Bars,30.2600536346436,-97.7385940551758,$$,267
+508,Marye's Gourmet Pizza,cbfgoMR_UQ9Rm5O3J1erKQ,Austin,TX,Pizza,30.2788789699226,-97.807303494104,$$,163
+509,Chinos Banditos,3rMQRtMfPJsleM2EiyAuZA,Austin,TX,Tex-Mex,30.2333800106497,-97.8659587288361,$,228
+510,Chuy's,k69jIL6VfzuIMmED_CEAkg,Austin,TX,Tex-Mex,30.3751687,-97.6905747,$$,390
+511,ñoños tacos,knOY5Nt5GlmIxAadPlirvQ,Austin,TX,Mexican,30.3480349675096,-97.7032811567187,$,117
+512,Dive Bar and Lounge,TRMSNc6MM_YRzT1YnaEmWA,Austin,TX,Dive Bars,30.2798841,-97.7421312,$,145
+513,Hideaway Kitchen & Bar,NTM21on42zdaabHWUSnZ1w,Austin,TX,Breakfast & Brunch,30.211273,-97.753902,$$,269
+514,Jo's  Hot Coffee Good Food,l8vsKRUUzHH7MCS77ebfvQ,Austin,TX,Coffee & Tea,30.26505,-97.74606,$$,489
+515,The Grove Wine Bar & Kitchen,vo1MjyIvHbAJ93PasKHIRg,Austin,TX,Wine Bars,30.27053,-97.750899,$$,250
+516,Sorrento's Drive Thru Coffee,Hrqfxt99q19T4OdEG5_6bQ,Austin,TX,Coffee & Tea,30.360571,-97.740738,$,162
+517,Jeffrey's,hveKjJmiPTcUS4sKuvZBYg,Austin,TX,American (Traditional),30.28047,-97.75919,$$$$,308
+518,Mandala Kitchen & Bar,ZNwznJunPKKLyc-YSAbCcw,Austin,TX,Thai,30.255356,-97.762147,$$,149
+519,Mr. Natural,0wljsy6_0HIni0pooc5ozw,Austin,TX,Vegetarian,30.25696,-97.7245,$,353
+520,Three Little Pigs,ZfI_ZhB5A-tAiRzn4JC3qg,Austin,TX,Food Stands,30.340254,-97.738615,$,165
+521,El Borrego De Oro,e8oZY1y1DTCSlUh6-SzZZA,Austin,TX,Mexican,30.2242723720297,-97.7634823322296,$,292
+522,Sap's Ver Fine Thai Cuisine,NWOjNoMc9dH2cyvqCJrnpQ,Austin,TX,Thai,30.231357294157,-97.8009125242355,$$,701
+523,Donn's Depot,iX6oInZ6C4fi2_bzV5xtLg,Austin,TX,Dive Bars,30.27413,-97.76333,$,136
+524,Thai Kun at Whisler's,MD4jmHIMzUuMNmQlF-g4ow,Austin,TX,Food Trucks,30.262006,-97.722595,$,206
+525,Slake Cafe,ai0UHYBdeozo-a7Redqgrg,Austin,TX,Breakfast & Brunch,30.268785,-97.7413576,$$,303
+526,CU29 Cocktail Bar,KrFp5Q3tjGalfYWCcCeyXw,Austin,TX,Lounges,30.269103,-97.741214,$$,240
+527,Dia's Market,RFdWKiVVGLHRZJcQt-IMZw,Austin,TX,Grocery,30.3376016840199,-97.7205597010859,$$,76
+528,Austin Terrier,EF0IqhJph_HNloXXqlVvLA,Austin,TX,Pizza,30.357109,-97.748635,$$,345
+529,Thai Kun,kCay_3uqhE44jaWNDCBmhA,Austin,TX,Thai,30.4016022028548,-97.7223529556808,$$,445
+530,The Celia Jacobs Cheesecake Experience,MnVmFOGEqzm9G7QCpLhaGg,Austin,TX,Food Trucks,30.21861,-97.76579,$,78
+531,Habana Soco Restaurant,pc1PkDBggUSNU73jONdqHw,Austin,TX,Cuban,30.2347102609152,-97.757420539856,$$,549
+532,El Naranjo,ikCYmn5LWlXX7oCUbaLtow,Austin,TX,Mexican,30.25949,-97.73819,$$,427
+533,Spartan Pizza,p99DZXmdF7smudK9FnlC9A,Austin,TX,Pizza,30.2649398,-97.7320932,$,246
+534,Cedar Door,rvM4hrCnaChlw97NRPbgLg,Austin,TX,American (Traditional),30.2640756302475,-97.74259017472,$$,505
+535,IM Thai Cuisine,btqvmsmX5Phgr1A0jH6j0w,Austin,TX,Thai,30.2302979315386,-97.8156566619873,$,456
+536,Cuvée Coffee Bar,HcAB8Gb-TZWDz22uD45wIA,Austin,TX,Coffee & Tea,30.261483,-97.720973,$,265
+537,The Soup Peddler Real Food & Juice Bar,Yv1Elrlw7DNY5zg4J_Eg-Q,Austin,TX,Juice Bars & Smoothies,30.2437995654545,-97.7816225552759,$,275
+538,St Elmo Brewing Company,UiZfYjd4tCZIhcUy0W1k7g,Austin,TX,Breweries,30.2174492910035,-97.7610477949677,$$,134
+539,Coco's Cafe,Phqwjk7x11WMAd-rVGbY0A,Austin,TX,Coffee & Tea,30.2825503330558,-97.7422962817638,$,391
+540,Scoreboard,G-FI19sD78LEJXppn9FMDw,Austin,TX,Sports Bars,30.3701398638632,-97.8000269570084,$$,150
+541,Drink Well,AWGRRRSaxAHI1zeWYb06sg,Austin,TX,Gastropubs,30.31728,-97.72062,$$,308
+542,Vivo Austin,hKHtua-rA2i4PnDqClMhQw,Austin,TX,Tex-Mex,30.3254085112821,-97.7085228255478,$$,253
+543,Thunderbird Cafe & Tap Room,uLihBq095KIQC92PsNlqoA,Austin,TX,Cafes,30.3308099,-97.731889,$,423
+544,Mohawk,xaTGgwLwFGopzr1VlpBuBw,Austin,TX,Music Venues,30.2701302,-97.7359046,$,240
+545,Casa Chapala Mexican Cuisine & Tequila Bar,zM98ZSIJyuBQabyYornLpw,Austin,TX,Mexican,30.3737166,-97.7255182,$$,485
+546,Emerald Tavern Games & Cafe,-aRu1BAs4mWiWL6keT_I3A,Austin,TX,Coffee & Tea,30.371192,-97.724749,$,133
+547,Lala's,SJJjhZSaX0O81gqUmKMWOg,Austin,TX,Pool Halls,30.3446,-97.73649,$,233
+548,Way South Philly Deli,PW9jWV4ldr3S9Lj0xZOC2w,Austin,TX,Sandwiches,30.3243479175908,-97.7399788442358,$$,162
+549,Lima Criolla,ZKe5mhiC7BtwrsN51wWJ_w,Austin,TX,Latin American,30.3260568380981,-97.7076581067457,$$,248
+550,PhoNatic,5YVuTdJtFCYLke6F92acSw,Austin,TX,Vietnamese,30.355609,-97.733617,$$,436
+551,Taqueria Mi Trailita,k8xzsgn7mzcUuzm3Iz6Pwg,Austin,TX,Food Trucks,30.30002,-97.68539,$,118
+552,The Tigress Pub,4dEi-lxaUlwsuzE529j-Qg,Austin,TX,Pubs,30.317891,-97.722182,$$,198
+553,Lucille,TwfPhUssfH0jQnsBm7vKMA,Austin,TX,Bars,30.258753,-97.738621,$$,231
+554,TOMS,Tkc36Nc8ANU800Adkxf1kg,Austin,TX,Coffee & Tea,30.24961,-97.74935,$$,153
+555,Mighty Fine Burgers Fries & Shakes,OoN36_NeJ_Z37zN_kn-gQQ,Austin,TX,Burgers,30.226993,-97.821132,$,371
+556,Violet Crown Social Club,XnEcTslaKVJrdHEMUlLtyw,Austin,TX,Lounges,30.26426,-97.73078,$,177
+557,Whole Foods Market,ou-fiNCY_iAO_oYTH5PWGA,Austin,TX,Grocery,30.406302,-97.720033,$$,365
+558,Steiner Ranch Steakhouse,J7Hs5_PGlZajNRxGptGRvw,Austin,TX,Steakhouses,30.38991,-97.87181,$$$,710
+559,Beirut,2OsRp8J0sogQ7RL8Zi9A2Q,Austin,TX,Lebanese,30.3961942,-97.7279217,$$,128
+560,Yogurt Planet,56wiR9t843vpjhJHZENi5Q,Austin,TX,Ice Cream & Frozen Yogurt,30.3150117670216,-97.7354710860443,$,193
+561,Greetings From Austin Postcard Mural,1i08zi0GG0woyQFFBl58vA,Austin,TX,Public Art,30.247627,-97.7559107,0,70
+562,Michoacana Natural Ice Cream,_SNGG8_fciOsAT5d-jutcA,Austin,TX,Ice Cream & Frozen Yogurt,30.3690258957361,-97.706375289006,$,90
+563,The Wheel,b3HRJJhzLgQbFjpPYLTC0A,Austin,TX,Bars,30.280246473018,-97.7208685643035,$$,103
+564,Amy's Ice Creams,ZHxrgZY4NAqtnsBuoNKmig,Austin,TX,Ice Cream & Frozen Yogurt,30.3322467627111,-97.7405043632292,$,155
+565,Royal Blue Grocery - Congress Ave,JpuCKMWJSFPnOu-GK46-cA,Austin,TX,Grocery,30.26831,-97.74227,$$,166
+566,Once Over Coffee Bar,NQshhhnwMRMsYcMUnWPzKg,Austin,TX,Coffee & Tea,30.2448539733887,-97.7570266723633,$,328
+567,Mission Dogs,iprkfoFv7JR3J1Dt5cIwyg,Austin,TX,Hot Dogs,30.257579,-97.726537,$,106
+568,Milano Cafe,D30TE3714icySFIrXj6TsQ,Austin,TX,Italian,30.2396599913685,-97.8319001197815,$$,394
+569,ASTI Trattoria,ojHIGVvaz3koIzgnrCb21Q,Austin,TX,Italian,30.30499,-97.72646,$$,407
+570,Zax Restaurant & Bar,0P4x7C_49I9aduv9RKxCiw,Austin,TX,American (Traditional),30.2589030496681,-97.7483948687172,$$,360
+571,Hecho En Mexico,nvrOGHRDucxeNkplIikM2A,Austin,TX,Mexican,30.2284872486666,-97.8634008356514,$$,512
+572,Gusto Italian Kitchen & Wine Bar,tmvswVDr4n56EjWq_RptBA,Austin,TX,Italian,30.3183136593457,-97.7399416283112,$$,373
+573,Fleming's Prime Steakhouse & Wine Bar,aBcavBl9yDfICIlTy-w0YQ,Austin,TX,Steakhouses,30.26374,-97.74129,$$$,316
+574,Veracruz All Natural,vuOfLg269Rr4-moMAidLqg,Austin,TX,Food Trucks,30.2315091492886,-97.7877727532582,$,248
+575,Zucchini Kill Bakery,_VcTzv8XUhfanoxiUfqPlQ,Austin,TX,Cupcakes,30.3152751,-97.7166412,$,62
+576,The Soup Peddler Real Food & Juice Bar,hFJuNFJgfw8-FIksapKaGw,Austin,TX,Soup,30.24629,-97.75613,$,204
+577,Julie's Handmade Noodles,LvSKdHCch7Reet3c78XhaQ,Austin,TX,Noodles,30.290535,-97.744756,$,170
+578,Frost - Austin,iKRYhLw3noyRAwyDU9kkYg,Austin,TX,Gelato,30.40305,-97.7223999,$$,190
+579,Paul Martin's American Grill,iClHtgPSeNwDQ5V8qjfgBA,Austin,TX,American (New),30.4028293040057,-97.7214696452519,$$,430
+580,First Wok,hWbHI6kVm-Uvb20cgsfmYA,Austin,TX,Chinese,30.2078941688822,-97.7810110687044,$,406
+581,Rockstar Bagels,QAL0cceTch85e8ZbWgNXQw,Austin,TX,Bagels,30.269887,-97.718907,$,180
+582,EastSide Tavern,eDAQ_dfy-bik-GWg20_CUw,Austin,TX,Bars,30.2589905157159,-97.7287379999974,$$,295
+583,Walnut Creek Metropolitan Park,wVbcpNgiW0V15qzQostUnQ,Austin,TX,Parks,30.3991227,-97.6794893,0,164
+584,Nothing Bundt Cakes,PZzANB92lvp2In-TizDlBw,Austin,TX,Desserts,30.2704349528286,-97.7883751094669,$$,82
+585,Yard Bar,9g_mBYZ_UjG9ttLu8-pPKA,Austin,TX,Bars,30.34303,-97.73921,$$,326
+586,Vaquero Taquero,FWppPI6i6GJ1EXtT7U3G4Q,Austin,TX,Food Trucks,30.30471,-97.72571,$,112
+587,The Doughminican,bN49DwqWOEE8m2-8DXBkFA,Austin,TX,Food Trucks,30.269063,-97.728267,$,79
+588,Halal Bros,WSTN8D48FwOUObzRjSXhBw,Austin,TX,Halal,30.2679627,-97.7387739,$,109
+589,JuiceLand,yQQetbtZc14N1XtwvfBbjg,Austin,TX,Juice Bars & Smoothies,30.3492415,-97.7346104,$$,160
+590,Half Step,dx962JkpnwLSIoOx1ygpTQ,Austin,TX,Cocktail Bars,30.2583942,-97.7385891,$$,197
+591,Old Thousand,6cpyParNNfo2c0XFm4caVA,Austin,TX,Cocktail Bars,30.26962,-97.72992,$$,310
+592,Sweet Treets Bakery,EodbQesFTzdtPED11DrrvQ,Austin,TX,Bakeries,30.2334526,-97.8659842,$$,207
+593,Taco-Mex,qByK1e9R-4fWw9yXXzLTsg,Austin,TX,Mexican,30.28483,-97.7149,$,178
+594,Lupe Tortilla,eaI6pjS8ZdSIgeOLlJhg-w,Austin,TX,Mexican,30.3870148827449,-97.7339748464585,$$,620
+595,The Wild Parrots of East Austin,AI4TNVcuDMR7H3OZpmfRCQ,Austin,TX,Local Flavor,30.2642,-97.73294,0,67
+596,Il Brutto,skvuuJVurCYV6J9QcAC0SA,Austin,TX,Italian,30.2628204676926,-97.7263318834324,$$$,214
+597,Ken's Subs Tacos & More,8tLzmoG8Dluy80_iULO-Xg,Austin,TX,Sandwiches,30.35157,-97.67574,$,242
+598,Cafe Malta,WO6TXr7ExpOLs2fTmDQedA,Austin,TX,Mediterranean,30.2126407338377,-97.8304787422343,$$,468
+599,Berry Austin,CN-Pw0sd7Oa3qgkg20OSKg,Austin,TX,Ice Cream & Frozen Yogurt,30.26452,-97.7443399,$,182
+600,Shangri-La,9zTOwKZ8JEC9snIIks1ejw,Austin,TX,Lounges,30.2649360275368,-97.7316098818593,$,283
+601,Austin Nature & Science Center,aVzTsmyGqVqK6d0Rq_pFKQ,Austin,TX,Zoos,30.2721969,-97.7733149,0,97
+602,Epicerie Cafe & Grocery,exNtQAqA-v0J6fQx-Dz53A,Austin,TX,Grocery,30.3245258331299,-97.7436752319336,$$,344
+603,Cake and Spoon,UL8Wj0nFRBTmF73H-hud3g,Austin,TX,Bakeries,30.2597165,-97.7068795,$$,51
+604,Lucky Lab Coffee,VntALdl7oo_97ppGMkGslQ,Austin,TX,Desserts,30.2885573389099,-97.7421442050357,$$,149
+605,Cannone Cucina Italiana,8GusTJDbsUChxDYP677npg,Austin,TX,Food Trucks,30.2635955810547,-97.7626953125,$$,112
+606,The Brewtorium Brewery & Kitchen,2ZZ-_nSKBkKrww0TrEq2Kw,Austin,TX,Brewpubs,30.3258884311273,-97.7175339123001,$$,170
+607,Fleming's Prime Steakhouse & Wine Bar,GfO55IFjBnA1XXm6JH8Sbg,Austin,TX,Steakhouses,30.4032128248743,-97.72563715159,$$$,426
+608,G'Raj Mahal Cafe & Lounge,rdCTNduxapI7tSmeEDn5PQ,Austin,TX,Indian,30.2582946504594,-97.7386422248052,$$,619
+609,Brama Restaurant,PzLUr6kWHNHKlJZFcF9_wA,Austin,TX,Russian,30.36622,-97.73872,$$,90
+610,Ruth's Chris Steak House,0F3LEU42pE0c56o0EpXW-Q,Austin,TX,Steakhouses,30.2680442902426,-97.7435132861137,$$$$,305
+611,Yahala Hookah Lounge,Duo_6gTM6fITah0CwG3s6Q,Austin,TX,Hookah Bars,30.33109,-97.71513,$,88
+612,Bar Peached,LoSheJfJ57sNedZj0GWO5A,Austin,TX,Cocktail Bars,30.27354,-97.76001,$$,113
+613,Otoko,CLcRsv9px0tbBkPkRN5qBQ,Austin,TX,Japanese,30.2474,-97.75006,$$$$,81
+614,Gloria's Latin Cuisine,bXLfGGLx61eEjjL2iKkO3g,Austin,TX,Latin American,30.4002523626054,-97.7260378716888,$$,723
+615,The Cupcake Bar,CEPM4KKEjwke65V79T7uDg,Austin,TX,Desserts,30.361120223999,-97.7349472045898,$$,67
+616,The Brewer's Table,4ojRsKGHkRNxKeTIA_J6Hw,Austin,TX,American (New),30.25331,-97.70198,$$,227
+617,The Hideout Coffeehouse,tM1IgJCzeokdXrHWbX0K8Q,Austin,TX,Coffee & Tea,30.26856,-97.74215,$,302
+618,The Bonneville,6VhtbD5J97IEhF8XG-6l5A,Austin,TX,American (New),30.263942,-97.746137,$$,276
+619,Lucy's Fried Chicken,pS6U_sjwEFHenTwY7qXr4Q,Austin,TX,American (Traditional),30.328717,-97.740235,$$,570
+620,Better Half Coffee & Cocktails,mcwsZGskQ9O4d-kKzV473A,Austin,TX,Cafes,30.27137,-97.75839,$$,184
+621,Tarbouch Lebanese Grill & Hookah,8GlSKTjZhzgghRT1I74LXA,Austin,TX,Mediterranean,30.2371318596233,-97.7496900781989,$,358
+622,Nasha,FcnPDdXx_Y1MdB-zc1lVeA,Austin,TX,Indian,30.26379,-97.7248,$$,353
+623,Pappasito's Cantina,iIzk55asuvtuASridPT-Dg,Austin,TX,Tex-Mex,30.3268833125071,-97.7049401481323,$$,514
+624,Colleen's Kitchen,xyvGNML9BW-3seLMqeYCWA,Austin,TX,Southern,30.2984,-97.704748,$$,289
+625,ThoroughBread,QlpNG4q2tBLo2arUlJoHBA,Austin,TX,Bakeries,30.25438,-97.77206,0,54
+626,The Liberty,-uKlx5Ab45PTAQerE7_C_A,Austin,TX,Bars,30.2626674,-97.7251338,$,251
+627,Maiko,_IKSOPFwJvI9yJI3uLQj_Q,Austin,TX,Japanese,30.26863,-97.74584,$$,563
+628,Chi'Lantro,xFgIiLmJVCKqKX8Ra_ZNQQ,Austin,TX,Korean,30.39442,-97.720184,$,288
+629,Poke-Poke,fZbTZ8MS-fv-TUDEyfCxeg,Austin,TX,Hawaiian,30.324867,-97.743266,$$,114
+630,Tropicana Cuban Restaurant,qUCk1-VQqo6o7F1jhqAbDA,Austin,TX,Cuban,30.3664948620654,-97.695752300925,$,185
+631,Arlo's,Vqhv-LUPrvmO9r2Z3xxNRw,Austin,TX,Vegan,30.295175,-97.742017,$$,109
+632,Newk's Eatery,PceDd3uYY5VNBeI_zB2RBA,Austin,TX,Pizza,30.3951521427765,-97.7509877814021,$$,336
+633,It's Italian Cucina,nVy4W0Utg4iasHvSmOymOA,Austin,TX,Wine Bars,30.25243,-97.76454,$$,198
+634,Amy's Ice Creams,fOAEYe7EXSjKe_sqawCdEg,Austin,TX,Ice Cream & Frozen Yogurt,30.3910217287766,-97.7485145965439,$,251
+635,China Family Restaurant at Highland,OdsJHnau47hVuDx-7ySKeg,Austin,TX,Szechuan,30.33406,-97.71649,$$,93
+636,Torchy's Tacos,irXjl1l2cMSI6k027jUpjg,Austin,TX,Tacos,30.265713,-97.749633,$,138
+637,Flitch Coffee,sg1Oq46DsvsAoXyCUEhbWQ,Austin,TX,Coffee & Tea,30.25772,-97.70554,$,70
+638,Rosewood,EiG06LHu__5TZIZA2e72pQ,Austin,TX,American (Traditional),30.26835,-97.72626,$$$,144
+639,Milto's,YHI5RsnXxsmZcGv-vPMH3w,Austin,TX,Pizza,30.29564,-97.7424,$,344
+640,Hay Elotes,cZzN8lIgiHacCnjrtI7cHw,Austin,TX,Desserts,30.261543,-97.716572,$,163
+641,Pollo Regio,l0uED9EkMpje2zvSnNNmOg,Austin,TX,Mexican,30.36272,-97.71852,$,141
+642,Soursop,ut7lib8QBd_bGz0mirq00A,Austin,TX,Food Trucks,30.2175493194082,-97.7610521927884,$$,140
+643,Tierra Linda Taqueria,nccYQ96JTx6bBCk1oFnBjQ,Austin,TX,Mexican,30.3605776179957,-97.7175248382325,$,85
+644,The Happy Lobster Truck,DxPyYqvyatW9Eg1v7-hn8w,Austin,TX,Seafood,30.2707290649414,-97.7432250976563,$$,90
+645,G's Dynamite Deli,Y1le-e6H5pBd7Ql96d7VIg,Austin,TX,Delis,30.24262,-97.75928,$$,219
+646,Sushi Hi,-XOAzMXCWX8BvxFAcrfpTA,Austin,TX,Sushi Bars,30.296,-97.74264,$,123
+647,Kebabalicious,bsNEHMVu4PKP030s46gMyg,Austin,TX,Turkish,30.2652053436875,-97.7440714913087,$,161
+648,Anti Social Ice Cream Co,pRKTi7pf6apiqCOJg4weqA,Austin,TX,Ice Cream & Frozen Yogurt,30.40615,-97.87492,$,104
+649,Hey Cupcake!,HA9j8yafU_sPX2-VkTCZLw,Austin,TX,Cupcakes,30.2487529780589,-97.7497779778312,$,742
+650,The White Horse,yQu0U8jKscnqsRLA-s0yfg,Austin,TX,Dance Clubs,30.262545,-97.727024,$,338
+651,El Pollo Rico,WJqcwq0pxa0No3TbOF3tXQ,Austin,TX,Fast Food,30.2088613483505,-97.7815927256561,$,172
+652,MOD Pizza,lRTGjg1rygCdTtM6pHDKaQ,Austin,TX,Pizza,30.4054812119506,-97.6738198667533,$,180
+653,Hank's,MvJmCt7i-i48vtDXe5-6rg,Austin,TX,Coffee & Tea,30.31203,-97.69365,$$,398
+654,Thai Kitchen,HnWAjMY9k2_eV9cjlqcewA,Austin,TX,Thai,30.29673,-97.74167,$,526
+655,Green Mesquite BBQ & More,7WpftWXygXXZs9QNDKmtyA,Austin,TX,Barbeque,30.2614917755127,-97.7592315673828,$$,602
+656,CAVA,JD7cXdmPyjHI3VyEfe3l2Q,Austin,TX,Mediterranean,30.2885622487397,-97.741684423978,$$,84
+657,Shanghai Restaurant,kvZp1t3Dauqzp5SJ-pKe1g,Austin,TX,Dim Sum,30.3294153,-97.7066257,$$,455
+658,Harry Ransom Center,6FeVQr1dIgo4WYKYvxLaNQ,Austin,TX,Museums,30.2843,-97.74119,0,72
+659,Ross' Old Austin Cafe,G7OGDV_NfcBbPaK9TOWS8g,Austin,TX,American (Traditional),30.3884431070727,-97.6838314533234,$,216
+660,Lady Bird Lake,CrfFjoS7JC-yKPHzlRe_fA,Austin,TX,Parks,30.2492459265365,-97.7301087075054,0,81
+661,Javi's Best of Tex-Mex,a0UVUJGOcZOxYsl-nU1FBw,Austin,TX,Tex-Mex,30.217777,-97.689705,$$,314
+662,Rabbit Food Grocery,WAmCbmvwXbVpgdDHYcTZAg,Austin,TX,Grocery,30.2976016,-97.7673076,$$,57
+663,Hai Ky,yxeE7ixuECa0S-O7XR7LCg,Austin,TX,Vietnamese,30.230788,-97.735009,$,444
+664,Growler Room,ah2v7AwiH0AOkjmWU6za4Q,Austin,TX,Beer Bar,30.34439,-97.73853,$$,67
+665,Sazón,BOXmNc9VykHjj4bYZ4z2hQ,Austin,TX,Mexican,30.2499752044678,-97.7671432495117,$$,344
+666,Texas Military Forces Museum,RXsaBOxLJ_N4wZLlqycA7Q,Austin,TX,Museums,30.313886,-97.761341,0,51
+667,WAT ZAB Thai Food,75dsYFB3QDE8dOBGSG7qLQ,Austin,TX,Food Trucks,30.321215351334,-97.7397533594812,$,81
+668,Conans Pizza North,QPii9neIvUFgXunqZ_WKpw,Austin,TX,Pizza,30.3576304070656,-97.7309694916713,$$,299
+669,Biderman's Deli,B3FleeBQX8tsgBhMwdFXLQ,Austin,TX,Delis,30.35623,-97.75803,$$,250
+670,Turf N Surf Po' Boy,tz5HfiS-yqev2_T7qfwj7g,Austin,TX,Seafood,30.24141,-97.78495,$$,133
+671,Pluckers,hGNI2d-tCmVwUWKztDDl2w,Austin,TX,American (Traditional),30.2862846755023,-97.7449311760574,$$,393
+672,360 UNO,r7lqPcx9h9hluN_YLsFsew,Austin,TX,Italian,30.3365693076126,-97.803835041867,$$,274
+673,El Chile Café Y Cantina,VXJR1VTskAKspL9G0Md1bA,Austin,TX,Mexican,30.28351,-97.72256,$$,429
+674,Mort Subite,_RYB1TIj4MeiBm63iLyxHg,Austin,TX,Pubs,30.265719,-97.7439904,$$,82
+675,Enchiladas Y Mas,XPyL9dCrctfsRn0eD7fuZA,Austin,TX,Salad,30.35394,-97.72691,$,474
+676,Wingzup,V016y3Rz1TdZAb1lGGjI0A,Austin,TX,Chicken Wings,30.3000422859832,-97.7214402221356,$$,368
+677,Epoch Coffee,TKL3zqXCflCpY3R6FOMZeg,Austin,TX,Coffee & Tea,30.3594288284599,-97.7346194331883,$,289
+678,Twin Lion Chinese Restaurant,WrCh1Wxt43mi2-mka5OlZA,Austin,TX,Chinese,30.400181,-97.748058,$,310
+679,Snap Kitchen,LUCmOKTK5Uh7eU84yJq3mQ,Austin,TX,Gluten-Free,30.27193,-97.75454,$$,126
+680,King Bee Lounge,8sJ_y0iRNJGSmBsuG2P-Tw,Austin,TX,Bars,30.2740546417273,-97.7197040731558,$$,93
+681,Het Say Vietnamese Kitchen,DNM2CWwf0UzMpze0tsKStQ,Austin,TX,Vietnamese,30.229816,-97.732206,$,110
+682,Le Bleu,A3K4Uk9l5dB5XV6f4J6fAA,Austin,TX,Vietnamese,30.372145,-97.727231,$$,105
+683,The Vegan Yacht,erLD01SfdUbGWurNoJTAzw,Austin,TX,Vegan,30.2188160252696,-97.7954140305519,$,179
+684,Steel City Pops,uOVu13ZYr6zy3zVKesvyzw,Austin,TX,Desserts,30.2966641495777,-97.7417726830768,$,93
+685,Bao'd Up,tUcTrbsYcvG3C8cHZ37oMQ,Austin,TX,Bubble Tea,30.2986505538655,-97.7043759638237,$,268
+686,Bananarchy,OIyHoyqPKKTTjXZkC2NBeA,Austin,TX,Desserts,30.3153663,-97.7167065,$,71
+687,JuiceLand,piQ4M0HYhpMkrIC4Fvipbw,Austin,TX,Juice Bars & Smoothies,30.277522,-97.772221,$$,129
+688,Roppolo's Pizzeria,eAifnc03bdAKyGN0MZm6_g,Austin,TX,Pizza,30.2675,-97.73964,$,402
+689,Z-Tejas Southwestern Grill,TFylNfp1RM0NuUQopvsyIA,Austin,TX,Tex-Mex,30.38934,-97.75211,$$,559
+690,Spokesman,LYbS9nJAWyMjfrLIx8Ow1Q,Austin,TX,Coffee Roasteries,30.2164715,-97.7618791,$,98
+691,Knomad Bar,4QKuGnvjiPta_kk7JHwGgQ,Austin,TX,Lounges,30.312658,-97.704584,$,231
+692,Baby Acapulco,8DaOKltvuqXnh8zPGC2MFQ,Austin,TX,Mexican,30.26306,-97.76237,$$,513
+693,Taj Palace,Plgp3puwXSQfbpUdIA1RBw,Austin,TX,Indian,30.32856,-97.70735,$$,318
+694,Artessano,tZfQ_H2Gx96pLhMvNcUMOw,Austin,TX,Colombian,30.2639255523682,-97.7298965454102,$,80
+695,The Butterfly Bar,azX1NmrF1GCmXobaMmj3KA,Austin,TX,Lounges,30.28442,-97.71744,$$,140
+696,Auditorium Shores - Leash-free Dog Zone,aiY3aq45wAr6BePEmlyIDw,Austin,TX,Dog Parks,30.2615136855724,-97.7498245239258,0,100
+697,Torchy's Tacos,twCcFfO7fMgH5gh_qbcTrA,Austin,TX,Breakfast & Brunch,30.3035163105056,-97.6989054679871,$,389
+698,CAVA,Uivt3ZgK7yTH1douikhsew,Austin,TX,Mediterranean,30.2677976,-97.7426845,0,100
+699,Burro Cheese Kitchen,9MbWzPRvxANIbpV5PgggNQ,Austin,TX,Sandwiches,30.251704,-97.748737,$,272
+700,Dirty Martin's Place,uZLrwhCDu8kzv-r39IOa8w,Austin,TX,Burgers,30.2940394530544,-97.7423573225261,$,297
+701,Mia Italian Tapas & Bar,tOdHxrKI9lS3CCVzSxrBlw,Austin,TX,Italian,30.400769,-97.723219,$$,305
+702,Flaming Pizza,hjmlhx0xoVY5dsQ9aZXO6Q,Austin,TX,Pizza,30.3958767213967,-97.7274357995616,$,131
+703,Poke Austin,Kev3Ir5MhmOQTP4X4iToPw,Austin,TX,Poke,30.2266894172616,-97.821194,$$,173
+704,MOD Pizza,xPfH5K1gQZj2IR0iV0a5Rg,Austin,TX,Pizza,30.2432794101908,-97.728215134652,$,185
+705,La Fruta Feliz,VO1ifwP9UJ7hjkswXaOrNA,Austin,TX,Mexican,30.28679,-97.70447,$,129
+706,40 North,_njeaLgMzbaVT5VGUb_YTg,AUSTIN,TX,Pizza,30.2749757,-97.7517051,$$,172
+707,The Baked Bear,7iHrie5M8Thzi-dMnI1tQw,Austin,TX,Ice Cream & Frozen Yogurt,30.2674333892765,-97.7527232842732,$,121
+708,Fareground At One Eleven,VeJywB-UzzhUx5f8rD4aHQ,Austin,TX,Food Court,30.263545,-97.74354,$$,122
+709,Country Boyz Fixins,ubxNaKsTqzqR0IYnjsN9HQ,Austin,TX,American (Traditional),30.2792292692514,-97.6871675728775,$,126
+710,Bennu Coffee,dyMSJkhVYbx0rIXq-0bhag,Austin,TX,Coffee & Tea,30.25609,-97.747,$,132
+711,Lavaca Teppan,8HqUl6witSBb156Kohx74A,Austin,TX,Japanese,30.28003,-97.7413399,$$,176
+712,Madam Mam's,ce8ww7funWlXcHBMvAaPvg,Austin,TX,Thai,30.3595731136068,-97.7345749153442,$$,606
+713,Yuyo,PqdSkcG_kN4OtaFaiRWU_Q,Austin,TX,Peruvian,30.28407,-97.72177,$$,180
+714,Mister Tramps Sports Pub and Café,PPbn4oVTutVy0mfmFcFA7w,Austin,TX,Sports Bars,30.3614513838757,-97.7162416375759,$$,285
+715,Mattie's,bjzOuok1eXLceKaWWR-y7g,Austin,TX,American (Traditional),30.24492,-97.76232,$$$,205
+716,Little Thai Food,6OcDg2ZECfSCHckCjMNYdA,Austin,TX,Thai,30.25187,-97.75392,$,213
+717,Quick Fix Cuisine,Laqw7n828MgjBdOoly5TpQ,Austin,TX,Food Trucks,30.25323,-97.71297,$$,50
+718,OP Italian Austin,qFoIsaqnw80jQtQ-eVIs7Q,Austin,TX,Italian,30.264154303255,-97.7431068048935,$$,202
+719,Geraldine's,hBXgiEy2MbV7pL2jCnrB1w,Austin,TX,American (New),30.26029,-97.73927,$$$,368
+720,Javelina,OC5kki_SlY6vB3Lc3-4rDA,Austin,TX,American (Traditional),30.258020401001,-97.7388458251953,$$,299
+721,Amaya's Taco Village,sHgRJ37WZK7B1m5U2wV33w,Austin,TX,Mexican,30.3192128219237,-97.7079937677168,$,477
+722,Upstairs at Caroline,LnBBOksOrzUiiDQkjUeMdg,Austin,TX,Cocktail Bars,30.26873,-97.74217,$$,206
+723,K-Bop,2WEp9uJef3bO9osNNInLCA,Austin,TX,Korean,30.2829,-97.74238,$,151
+724,JuiceLand,mPCASesmfsYoC-I8h2m0eQ,Austin,TX,Juice Bars & Smoothies,30.307195,-97.724816,$$,112
+725,Hopdoddy Burger Bar,Q4hTZVbGC8NmZRpBrVc2-g,Austin,TX,Burgers,30.3150704,-97.7344067,$$,226
+726,Red Lotus Asian Grille,Zv9dVSpfKxt4d_v65H50Iw,Austin,TX,Chinese,30.369571,-97.800953,$$,127
+727,Kung Fu Saloon,54mjQweIUsvE3dnco83PEg,Austin,TX,Arcades,30.2703265,-97.7502847,$$,357
+728,Maru Japanese Sushi Restaurant,8oOZMeMg8it2ly0meXp-lw,Austin,TX,Sushi Bars,30.31796,-97.740084,$$,272
+729,Azul Tequila,aM-FPdJicti_TzymjW3Usg,Austin,TX,Tex-Mex,30.2334009356777,-97.7921942954925,$$,365
+730,Big Vinny's Bbq,Tbo5IAk7GA1-f4pZ6hz_YQ,Austin,TX,Barbeque,30.2459408,-97.7514741,$$,70
+731,Gloria's Latin Cuisine,9al-eBiJVbuhuFzzuQpiSQ,Austin,TX,Mexican,30.268908842348,-97.7453328786244,$$,320
+732,Texas French Bread,stBfsf8DYEfPmO_r_HVORw,Austin,TX,Bakeries,30.29617,-97.74407,$$,320
+733,La Mexicana Bakery,q-9jaNRUJjXY_fy6u_a_nQ,Austin,TX,Bakeries,30.2458419799805,-97.7571182250977,$,309
+734,Josephine House,ErpJa6jMQMDlbyyNn34Ofg,Austin,TX,American (Traditional),30.280623,-97.759015,$$,263
+735,Dolce Bacio Gelato & Desserts,6A8smdPYPc1u5pP1ATZQug,Austin,TX,Desserts,30.255323,-97.720232,0,58
+736,Nightcap,O9kPl8Rd3SY3rjq4znpvKA,Austin,TX,Cocktail Bars,30.27371,-97.76045,$$,183
+737,Brick Oven on 35th,raXi6598v97VVJGxuet_ZQ,Austin,TX,Pizza,30.307613,-97.7509029,$$,198
+738,The Pizza Press,q1C3m4ssFeN401uAgL1O6A,Austin,TX,Pizza,30.29072,-97.74201,$,142
+739,Flavia's Kitchen,_Nb-nFJ0AWbDT0EtiKcdoA,Austin,TX,Mexican,30.241897,-97.758403,0,50
+740,The Mighty Cone,4HF1-isiiwUrlC9NogaRBQ,Austin,TX,American (New),30.2635106,-97.7628834,$,399
+741,Fresa's - South 1st,QT7_styx37g2-zwle0KhPw,Austin,TX,Mexican,30.2478675842285,-97.7551193237305,$$,379
+742,Sour Duck Market,1YTwSd08iJCRCVARRo0UkA,Austin,TX,Bakeries,30.2801861306563,-97.7215872207829,$$,206
+743,Tito Adobo,wRMFreMjQsE3wpcxu4AlkQ,Austin,TX,Food Trucks,30.269151,-97.728314,$,55
+744,The County Line,-BBSLCjzw3i2PHuwJ_dabA,Austin,TX,Barbeque,30.2976233367595,-97.8359489609215,$$,433
+745,Bombay To Kathmandu Kitchen,Moi9jsCSeYjpn1XnaNu39g,Austin,TX,Indian,30.3666867100134,-97.6953087335907,$$,156
+746,Cover 3,ncdjrtQJzZqGJ8XdkYqaPw,Austin,TX,American (New),30.2761773651651,-97.7656084588242,$$,155
+747,Siena Ristorante Toscana,unHqK3bV0McA3TAOc8OJFA,Austin,TX,Tuscan,30.3603783346568,-97.7894139289856,$$$,314
+748,CRÚ Food & Wine Bar,uAAWnxoZ4vXup2pLbSlQWg,Austin,TX,Wine Bars,30.26502,-97.74594,$$,266
+749,El Tacorrido,8FDt0a8jrJE8ClZuum8lUw,Austin,TX,Mexican,30.3623251,-97.697608,$,150
+750,Pokeatery,gPf1hBlc9TgkYvVtgD9DcQ,Austin,TX,Poke,30.30557,-97.70986,$$,163
+751,Haymaker,MEVJNWo9ZL8z11nWOk3BQg,Austin,TX,Sandwiches,30.28479,-97.71757,$$,466
+752,Fresa's Chicken al Carbon,vyb9Ud7CT1F2kDtFOuTlVw,Austin,TX,Mexican,30.27446,-97.75216,$$,372
+753,Comedor,TSKMu1M0HAFoPvCZuJxx1w,Austin,TX,Mexican,30.2674256611843,-97.744442592654,$$$,85
+754,Kerbey Lane Cafe - Southwest,-WA4tNsXZq5sxcGw8a5_IQ,Austin,TX,American (Traditional),30.22135,-97.83949,$$,625
+755,Sosa Mediterranean foods,LYX72Wb6uCdwJdc8um3vFg,Austin,TX,Food Trucks,30.262027,-97.739841,$,47
+756,Biryani & Co.,32D9-O14iipRun5h3WzKVg,Austin,TX,Indian,30.40681,-97.74673,$$,193
+757,Sandy's Hamburgers,9GKfYUUASkl6yIvayM9J7A,Austin,TX,Burgers,30.2584,-97.75099,$,367
+758,360 Pizza,cXPM7gRVNhAVBk_QGE4Nmg,Austin,TX,Pizza,30.3605561907303,-97.7894970859833,$$,217
+759,Happy Chicks,fCtYjRZo5vV8dfmod128uQ,Austin,TX,Bars,30.267617,-97.740781,$$,163
+760,Berry Austin,L4pD-c7voBE7HchG6lvPNQ,Austin,TX,Ice Cream & Frozen Yogurt,30.33666,-97.7572,$,105
+761,Juan Pelota,kkgOp6v-z_iui8lv96qmTQ,Austin,TX,Coffee & Tea,30.26778,-97.74912,$,135
+762,Shake Shack,RpsSJWzznTOLMbdt8kk02A,Austin,TX,American (Traditional),30.3990835189245,-97.7257996994751,$$,408
+763,Austin Cake Ball,OtQpn2VRUGanWLWTCIFl_w,Austin,TX,Desserts,30.3262853450464,-97.7405854408406,$$,135
+764,Taco More - Austin,Q9xmImP2KKS1we8EzBOmVQ,Austin,TX,Tacos,30.240271,-97.728518,$,205
+765,Rainey Street,pmuxDD-7e-tBWPLDcLGauA,Austin,TX,Local Flavor,30.260169175309,-97.7383372725193,0,93
+766,Blue Dahlia Bistro,ZlUYovGhlMWKOnETAys3mQ,Austin,TX,Cafes,30.278640289503,-97.80777385929,$$,207
+767,Nate's Baked Goods & Coffee,QP-FRdblP-86ES4u8qyHDw,Austin,TX,Coffee & Tea,30.27145,-97.75932,$,53
+768,Modern Market Eatery,Y845hMKYflYP_NdPLPOhzQ,Austin,TX,Salad,30.395069,-97.749307,$$,277
+769,Snap Kitchen,7zKBN84mTLiyAFFO1TsjOQ,Austin,TX,Gluten-Free,30.3151916705042,-97.7336025238037,$$,141
+770,June's,RUs0hG72w5xa76-10ZhSXA,Austin,TX,Breakfast & Brunch,30.2463083255216,-97.7511458576444,$$,250
+771,Pelons Tex-Mex,_rt-Z934kfFzgG19nTrIcQ,Austin,TX,Tex-Mex,30.26872,-97.7366,$$,417
+772,Tex-Mex Joe's,d6ZhDsvM86OMGqLTMKuH1Q,Austin,TX,Tex-Mex,30.344343,-97.714959,$,138
+773,Snowy Village Dessert Cafe,M-i5g-P9GKv4JvmBRPaiwQ,Austin,TX,Desserts,30.3369242094183,-97.7166612687497,$$,110
+774,Pluckers Wing Bar,b7kKPiS9fJLpnScMs4qAnQ,Austin,TX,American (Traditional),30.3729185008493,-97.727730652531,$$,490
+775,85°C Bakery Cafe,NYTxZDV_G3AdC3INltgTpA,Austin,TX,Coffee & Tea,30.33712,-97.71728,$,140
+776,Hao-Q Asian Kitchen,bzsxST3jE5HmaqNl3ECgRw,Austin,TX,Chinese,30.3562298,-97.7580338,$$,214
+777,Milky Way Shakes,yjcMEN_yvpad7bCLit6DJA,Austin,TX,Vegan,30.29551,-97.74174,$,49
+778,East Side Pies,FlTCiBHfrSM9rFj9a31O1g,Austin,TX,Pizza,30.31478,-97.71514,$$,211
+779,Mueller Lake Park,ynVdmnuwWFyJtkUipU9xag,Austin,TX,Playgrounds,30.3051045,-97.7034921,0,82
+780,Super Thai Cuisine,HWzfD5_8s533OJLbwjGXnA,Austin,TX,Thai,30.24926,-97.76855,$$,154
+781,Short 'N Sweet,I0HNlSG2IAv1NeflOI2xsQ,Austin,TX,Coffee & Tea,30.378073069514,-97.6872885209015,$,222
+782,Casa Maria,SnET6UQ6uDiKEdP15L4Zbw,Austin,TX,Mexican,30.22153,-97.772284,$,274
+783,BAMBU,YEz2kmzSS_B7ymHMrXcIdw,Austin,TX,Coffee & Tea,30.3773697955382,-97.6872049829422,$,214
+784,Yanagi,fQ4-MQu9PH66Wol8wKR_tQ,Austin,TX,Sushi Bars,30.223993,-97.839499,$$,337
+785,Sa-Ten,EnHurlCwKl-j3EDnFU8oxg,Austin,TX,Japanese,30.31073,-97.71515,$,102
+786,Kolache Shoppe,8yk4SUzKamk_yjhMKDo7bg,Austin,TX,Bakeries,30.34716,-97.73442,$,108
+787,Gibson Bar,pf47uED7TzhZMaKldq9a9Q,Austin,TX,Bars,30.25502,-97.76177,$$,337
+788,Madam Mam's,hTp23z3Q5PCvuGvKTIQtXw,Austin,TX,Thai,30.29093,-97.74238,$$,531
+789,Pennybacker Bridge,AFJj5Gl6exQ71m0-bLQylw,Austin,TX,Landmarks & Historical Buildings,30.3500261876146,-97.7971091087615,0,82
+790,Sunflower Restaurant,8usevdObEiPnaun7Gtbt8Q,Austin,TX,Vietnamese,30.3617906873157,-97.7153992300247,$,306
+791,Hole in the Wall,j2cYa0F0IU40EE4nh784yQ,Austin,TX,Music Venues,30.29005,-97.74161,$,180
+792,Deep Eddy Cabaret,tLfE02hzaKPBeNDe--4JCw,Austin,TX,Dive Bars,30.2778909,-97.7724955,$,92
+793,Las Abuelas,d27P-HGCTjuBL3fWjWl7IA,Austin,TX,Food Trucks,30.15364,-97.83376,0,60
+794,Austin Rotisserie,fDKbXHlYKZsI02j6_qBSAA,Austin,TX,Comfort Food,30.254034,-97.697454,$,54
+795,La Mancha,OpRCsjfrBtJ5CWXjVfZWhg,Austin,TX,Tex-Mex,30.3224182128906,-97.7408905029297,$$,340
+796,Texas Honey Ham Company,pATn0K6yFj-_F4pjc9qnjQ,West Lake Hills,TX,Sandwiches,30.280861,-97.807227,$,250
+797,Stay Gold,_MiauShza42XoUxGzga6RQ,Austin,TX,Cocktail Bars,30.2570762634277,-97.7237091064453,$$,121
+798,Barrett's Coffee,r_lRu79XBGSNSKc0Ix-gdw,Austin,TX,Coffee & Tea,30.3389581371224,-97.7162065189136,$,76
+799,Ray's World Taco,CSPeL8v2zVxFdbawHQ77mA,Austin,TX,Mexican,30.398394,-97.727842,$,183
+800,Chuy's,GxSmuTCzGuHwu9ozwB8_0w,Austin,TX,Tex-Mex,30.217729,-97.841512,$$,419
+801,Machine Head Coffee,ZqY9A0D1Q1mjIBe4X0wOnQ,Austin,TX,Coffee & Tea,30.37592,-97.72923,$,70
+802,Full English,86ojKiHHj7i40JO938JJ4A,Austin,TX,British,30.21888,-97.79565,$,281
+803,Arlo's,llvK6bU7b8wQTk-lU8n7Yw,Austin,TX,Comfort Food,30.2624189380997,-97.7241916581988,$,110
+804,Darna Mediterranean Cuisine,KaRPKdLdLfSNAVBbsGbcNg,Austin,TX,Moroccan,30.27404,-97.74493,$$,158
+805,Mour Cafe,DirIhq4yh5EcQkMhldIPXw,Austin,TX,American (New),30.2438494,-97.7285157,$,186
+806,Pinch,Wr7CfGPJvvHcVzkypF1YvQ,Austin,TX,Food Trucks,30.2876780434401,-97.7427316687172,$,70
+807,Kabobzi Mediterranean Grill,2Ku5f8dfaGU_ldkxcMWKgg,Austin,TX,Mediterranean,30.395772,-97.719664,$,103
+808,Tiff's Treats,OZ7AR4kW7p0IENPXyRr76g,Austin,TX,Desserts,30.40358,-97.74471,$,128
+809,Cheer Up Charlie's,cjWJiayDTSQtBTgsndrQ2w,Austin,TX,Dive Bars,30.2696098,-97.7363583,$,118
+810,Chosun Korean BBQ,E9DUNswqkV6QcC69G-HCwQ,Austin,TX,Korean,30.329818,-97.706662,$$,370
+811,The OASIS on Lake Travis,Z5Oc3lC-NAhbmfVfRnwSzQ,Austin,TX,Tex-Mex,30.4058986,-97.8739516,$$,2303
+812,Pollo Regio,StC6I0fRK8d54IwHfN3bpg,Austin,TX,Mexican,30.31959,-97.6889,$,89
+813,Small Victory,F2dfc05p5He1WltL1D4-iw,Austin,TX,Cocktail Bars,30.2689112,-97.7416833,$$,104
+814,Austin's Habibi,ylO2a6TC80g-na_fAgJ90w,Austin,TX,Mediterranean,30.26957,-97.75303,$,179
+815,Austin Daily Press,CX9gm33JKx1TV-K9LHiAkQ,Austin,TX,Sandwiches,30.25232,-97.70316,$$,47
+816,Hayley Cakes & Cookies,WmSuOV_JC9l-ZXzizRWU1w,Austin,TX,Bakeries,30.3931811110917,-97.8453960046463,$$,182
+817,BBQ Revolution,uSEpSKMhIruSersdsEnsCg,Austin,TX,Food Trucks,30.242148,-97.758414,$,123
+818,Hat Creek Burger Company Burnet,m659W6eXvZpki-kT_Dp8Sg,Austin,TX,Burgers,30.3283576093807,-97.7399912097575,$,339
+819,El Tacorrido,4PufI6Mz9Q-1coFLGApudA,Austin,TX,Mexican,30.24245,-97.75955,$,351
+820,The Driskill Grill,vsxNLpgHX5hv0fWAI9XyHA,Austin,TX,American (New),30.2686613206705,-97.7417146061516,$$$$,214
+821,Taqueria Arandas,MBcCGInWjSqZVkRa6BAt1g,Austin,TX,Mexican,30.341533,-97.739173,$,252
+822,Toulouse Cafe and Bar,0zGkKhD-neVI2lKAYI2gpw,Austin,TX,French,30.40283,-97.72161,$$,219
+823,Stinson's,G39Atee-jAK_LWAkaWSL3g,Austin,TX,American (Traditional),30.3151275,-97.7417583,$,176
+824,Chinatown North,5_RnnLBKO-5vpb4iiFAvBQ,Austin,TX,Chinese,30.35675,-97.74736,$$,375
+825,First Watch,omYnPPhlXZTCoQ_TcSzsyg,Austin,TX,Breakfast & Brunch,30.355535,-97.732669,$$,200
+826,Maudie's North Lamar,k8zC6EKsEA_zPMERW4dnhQ,Austin,TX,Tex-Mex,30.3711140788907,-97.6914373913583,$$,298
+827,Xian Noodles,Y5m-kSHt2GRKnFNCBadmcw,Austin,TX,Noodles,30.4010543570803,-97.727352976799,$$,183
+828,Mandola's Italian,V4N5heYXnJmUnGEZYa-zCA,Austin,TX,Italian,30.220104,-97.839961,$$,349
+829,Stony's Pizza,Tv0_XqTtO3kcnbqGrgLPJQ,Austin,TX,Pizza,30.26083,-97.73825,$,119
+830,2N1 Salad Bar and Grill,1tepUnoMCFEVMNE26ijYRQ,Austin,TX,Salad,30.382948,-97.689198,$,83
+831,Pho Phong Luu,TzS49xbUjlCv1z_ZrydeFw,Austin,TX,Vietnamese,30.36123,-97.69855,0,51
+832,Uncle Nicky's,LNJIUbU6bKOYBreQGGd0Rg,Austin,TX,Italian,30.30489,-97.72621,0,57
+833,Cisco's Restaurant Bakery & Bar,ZZTAiGThsHjZOfUF0zOzHA,Austin,TX,Breakfast & Brunch,30.26287,-97.72682,$,270
+834,Southside Flying Pizza,N778WRas8hqZ_QiHymA1YA,Austin,TX,Pizza,30.2410677492406,-97.7528862650818,$$,459
+835,BANTHAI Express,CL8R_Tmbm478Bnd3x0Roow,Austin,TX,Thai,30.206816,-97.83567,$$,62
+836,The Omelettry,yrHMqDwZf9iu3xLS11DK5A,Austin,TX,American (Traditional),30.3067274782042,-97.7154679810898,$,311
+837,Russell's Bakery,76osOZ3gPv9a2NaYlXXieQ,Austin,TX,Bakeries,30.33275,-97.76021,$,197
+838,Quattro Gatti Ristorante e Pizzeria,kHOI8apECknxdVDbG-foPg,Austin,TX,Italian,30.271351,-97.742053,$$,320
+839,Sichuan River,b3bx_ot0LcmNEJf9Lu_b4A,Austin,TX,Szechuan,30.2309207447597,-97.8024514764547,$$,281
+840,Marcelino's,k5HBvQzRa21pph7zgaivag,Austin,TX,Tacos,30.26257,-97.70359,$,84
+841,Cenote,ohkyum0iYT1_TvYUC_P0sw,Austin,TX,Coffee & Tea,30.3204456874673,-97.6969876885414,$$,146
+842,Star Of India,lLtw_bBUYckmCWAt0U1gLw,Austin,TX,Indian,30.3600040944627,-97.7364586214264,$$,295
+843,Local Slice,AAkz8Wd-qbuMSzomqND4iQ,Austin,TX,Pizza,30.33067,-97.66709,$,89
+844,WhichCraft Tap Room & Bottle Shop,5EG0UsV0kespc5OPEqaMnw,Austin,TX,Beer Bar,30.297184,-97.704532,$$,56
+845,Keith's BBQ,T5Bie5M1TXaNoYytXaYT4Q,Austin,TX,Food Trucks,30.2531580982284,-97.7639387157008,$,77
+846,Poke Me Long Time,P6eajp6YsCaacv15nsOodw,Austin,TX,Poke,30.2436902,-97.7214099,$$,113
+847,Shoal Creek Saloon,-85pDrVcAdzNK55bFpintg,Austin,TX,Southern,30.2742751657888,-97.7523102139017,$$,334
+848,Bento Picnic,n_WTYSmfSpSdVYDHBcPDKQ,Austin,TX,Food Delivery Services,30.2540192,-97.715191,$$,45
+849,Tiny Pies,YJ3lsGCgOJ07FYqUQyqxNg,Austin,TX,Desserts,30.249323,-97.768767,$$,95
+850,Shiner's Saloon,Fjt54fSz56goWef5n42HWA,Austin,TX,Bars,30.267053604126,-97.743537902832,$,164
+851,Scoot Inn,gE9F2Xay3rCkynq54-e4PQ,Austin,TX,Music Venues,30.2621437958762,-97.7293942171793,$,159
+852,Chupacabra Cantina Y Tacqueria,936JLLXsTk58KaUn1BOMyw,Austin,TX,Bars,30.267735,-97.739205,$$,435
+853,Little Sheep Mongolian Hot Pot,At8xN-MR5jFdtY5aoFGQRg,Austin,TX,Mongolian,30.288094,-97.744105,$$,265
+854,Culver's - Austin,wSECiSzu_t6r3J74M7f3eA,Austin,TX,Burgers,30.3914442020144,-97.7139369909109,$,199
+855,Container Bar,fGXTiBrbx3hrQpoCEI9GjA,Austin,TX,Bars,30.2602724972382,-97.7384885028005,$$,316
+856,Le Politique,Z1YYD-S7LW7G6JE2iZXJ1g,Austin,TX,French,30.26534,-97.74905,$$,242
+857,Dong Nai,sMH9EtsDzE9tTyVZC2KEEw,Austin,TX,Vietnamese,30.234289,-97.792953,$,294
+858,Phil's Ice House,Lwk1gPWk7utcji9ocXCuRA,Austin,TX,Burgers,30.24306,-97.78243,$,238
+859,i Fratelli Pizza North - Austin,P8x-eXc5_lBwqf2rClKtuA,Austin,TX,Pizza,30.392389069451,-97.745244987309,$$,100
+860,Insennity,rFxbs-NdlmIbHlbfowC-PQ,Austin,TX,Food Trucks,30.2861986,-97.7425615,0,36
+861,Make It Sweet,memCGspf7tQ4XsKB-tKVcA,Austin,TX,Cooking Schools,30.3725184635765,-97.72775894841,$$,113
+862,Umlauf Sculpture Garden & Museum,6_W4zObD62lbneAHPVBV7w,Austin,TX,Museums,30.25884,-97.76653,0,81
+863,101 By Teahaus,6uSPLo9R0vxtJxPIhsMSMg,Austin,TX,Bars,30.33712,-97.71728,$,168
+864,Black Walnut Cafe,MwhfSbdHnfjHeqJkEtyw8w,Austin,TX,American (Traditional),30.3953740973379,-97.7197363657456,$$,334
+865,Sushi Japon & Hibachi Grill,8RG6_egQd3dmtxbFzS02Ew,Austin,TX,Sushi Bars,30.3285468288254,-97.7053593099294,$$,252
+866,Baretto,HPTr7IJeeftEx8fD8dGDDQ,Austin,TX,Cocktail Bars,30.398676,-97.749059,$$,106
+867,LOTUS CHINESE,1JNEiKSh5B1w-UMOJyG96w,Austin,TX,Asian Fusion,30.401074,-97.722614,$$,135
+868,Chen Z Noodle House,v0i7m-V1oiBallbv308S4g,Austin,TX,Chinese,30.2333176861351,-97.8659395492126,$,232
+869,NadaMoo!,L1eFKT60jkKdxumBa6O2wg,Austin,TX,Ice Cream & Frozen Yogurt,30.25054,-97.76547,$,92
+870,Yaya Cafe & Shaved Ice,9fOJxRpRgObO_hsaySDc2w,Austin,TX,Cafes,30.3025,-97.73861,$,234
+871,South Austin Trailer Park & Eatery,SVhakVk93aGZDHKh4XqLAw,Austin,TX,Food Stands,30.25096,-97.75421,$,106
+872,Amy's Ice creams,eY3IFXk5w_Y8WoUwTHafUQ,Austin,TX,Ice Cream & Frozen Yogurt,30.230731,-97.79993,$,105
+873,Las Cazuelas Mexican Restaurant,QE2WUvdPySHBQ7Xu41dDPA,Austin,TX,Mexican,30.2574939727783,-97.7265472412109,$,344
+874,Town Lake Running Trail - The Rock,gRvEabwacHin0IjrQc-Z7w,Austin,TX,Lakes,30.2750396728516,-97.7709579467773,0,34
+875,Papadom Indian Restaurant,gKUbE_F1_nGnuNfgnVy9JQ,Austin,TX,Indian,30.26611,-97.74516,$$,151
+876,The Park on South Lamar,5Pp4jCBSRe5bxQHhrcrcRQ,Austin,TX,Burgers,30.2363116,-97.7934158,$$,443
+877,El Caribe Mexican Restaurant,fMoq8jat2U7aig8ZXoZKlA,Austin,TX,Mexican,30.32515,-97.72718,$,271
+878,Uncle Julio's,RSU6VAyzuAcYwam1aS1Glw,Austin,TX,Tex-Mex,30.2645838,-97.7414455,$$,379
+879,Zoes Kitchen,J_UHnzrs6ynrEkbM8xf4gg,Austin,TX,Greek,30.2279418615523,-97.8207964,$,212
+880,Tortilleria Rio Grande,lY3zSBjWrl2TLdvxUfhL1g,Austin,TX,Mexican,30.37612,-97.67356,$,116
+881,Masala Wok,jWz0NBCz5Ya2OSyeRNbI1w,Austin,TX,Indian,30.3889560597482,-97.7328532733126,$,316
+882,Sushi Zushi of the Domain,0RbMD6-aaC3XUTRbs0TmRQ,Austin,TX,Japanese,30.394752,-97.727723,$$,511
+883,Sushi Niichi,9VlV09HupfzZcRP3lTRi8Q,Austin,TX,Sushi Bars,30.28778,-97.74554,$$,366
+884,Sweetness Bakery Austin,uFB5Tjgs-BhPFunRBVqUgw,Austin,TX,Bakeries,30.356238,-97.758036,$$,65
+885,Pad Thai Cuisine,a4PyTwXhliTY2Gt9YqNfvw,Austin,TX,Thai,30.305907,-97.708225,$$,278
+886,School House Pub,5Kklp6a7lggH2XQ2MSYANA,Austin,TX,Pubs,30.284213,-97.718819,$$,155
+887,In-N-Out Burger,EvSHjCNcgc9EQDwpI_IjBw,Austin,TX,Burgers,30.238658,-97.788604,$,196
+888,Alamo Drafthouse Cinema South Lamar,C0d5kzUx6C19mLcxQyhxCA,Austin,TX,Cinema,30.25608,-97.763508,$$,400
+889,C-Hunt's Icehouse,06mTqmgQfIGmnGup58vDkw,Austin,TX,Dive Bars,30.37925,-97.72395,$,85
+890,Arlo Grey,Fuv7Apt32H5_ihp0qDEbAg,Austin,TX,American (New),30.26278,-97.74396,$$$,202
+891,CraigO’s Pizza and Pastaria,Fb4ZlYipMkRY8o9I_CBE2A,Austin,TX,Pizza,30.2356713002585,-97.8208206947708,$,195
+892,The Grip Coffee,ytPBtRTqkmSJGh5NBLK4JQ,Austin,TX,Food Trucks,30.32118,-97.7395,$,32
+893,Taqueria Anyeli,BQZ6_qTCYHu_SO1eXyKArg,Austin,TX,Food Trucks,30.30179,-97.744874,$,33
+894,Buffet Palace,HJisBzwgGpCZu0ZkO8LFzA,Austin,TX,Chinese,30.23027,-97.80127,$$,430
+895,Sushi Zushi,fTgnVCCu6k_Ds25Nz73s5Q,Austin,TX,Sushi Bars,30.274161,-97.764474,$$,428
+896,Cactus Cafe,vWRgg4104wXuzIRkev9jiw,Austin,TX,Bars,30.2861233893208,-97.7410697937012,$$,53
+897,Trianon Coffee,eoxUfRqQfAJ66pi7UjKgJQ,Austin,TX,Coffee Roasteries,30.27957,-97.80622,$,129
+898,The Soup Peddler Real Food & Juice Bar,P6psaE2zbQoQsThEIsrOJA,Austin,TX,Soup,30.3066503520412,-97.71538,$,89
+899,Jade Restaurant,-Xq6ruGk0U3inDf7BOX1YA,Austin,TX,Asian Fusion,30.3352979,-97.804464,$$,100
+900,Lola Savannah Coffee Lounge,Pef5LKrvElpJcsJr6k1iVA,Austin,TX,Coffee & Tea,30.2961801775877,-97.8321158892926,$$,129
+901,Butler District Park,CCIoR56lQGszKnLq7UuNLw,Austin,TX,Parks,30.2621783273936,-97.7544393968658,0,42
+902,Monk's Momo,n7qBU0UHM5wdaZU59AGU7g,Austin,TX,Food Trucks,30.2584,-97.73859,$,56
+903,Moonlight Bakery,AeSuMBgAlXIIFFBH68MYfA,Austin,TX,Bakeries,30.24785,-97.77463,$,125
+904,Texas Capitol Visitors Center,w7HmuCgfC7wcNutFq3Td8Q,Austin,TX,Landmarks & Historical Buildings,30.2727007,-97.7409249,0,65
+905,Cakes ROCK!!!,eFOR3e7QvBBy2ecylJhknw,Austin,TX,Bakeries,30.220634,-97.764808,$$,61
+906,Museum of the Weird,yDOEoQPUOCvn_WLiRKHYHQ,Austin,TX,Museums,30.2672214508057,-97.7386627197266,0,245
+907,Cafe Bistro,GYRsTbwNyqWjbJT11a7PHg,Austin,TX,American (New),30.2587799228757,-97.8084361553192,$$,105
+908,The Brixton,a_e8bZt8gsYdB2vuf33_TA,Austin,TX,Dive Bars,30.2635168,-97.7275935,$,172
+909,El Meson,AUIMVCbPTUrF6AKf2TjZqQ,Austin,TX,Mexican,30.2488717,-97.7690199,$$,318
+910,Maudie's Café,N8bkqAHarq_aAvpiPo1fOg,Austin,TX,Caterers,30.28281,-97.77557,$$,270
+911,Mr Natural,GwF9MLWb34ttSRQdgEypEQ,Austin,TX,Vegetarian,30.24726,-97.77752,$,257
+912,ARTIPASTA,JTOivJ-Qw8rJNU1pd__nGg,Austin,TX,Italian,30.18517,-97.79212,$$,65
+913,Gordo's Tortas & BBQ,eMpyoVTdsJPEWz1fhhzJ1g,Austin,TX,Mexican,30.2302033152743,-97.9351133399506,$,99
+914,Lick Honest Ice Creams,8HdP8F-_VQleiy0HzEvnWA,Austin,TX,Ice Cream & Frozen Yogurt,30.2978476778684,-97.7051388637543,$$,96
+915,The Tavern,z3JW-nsdfC8ijst_PSeMIA,Austin,TX,Sports Bars,30.277075,-97.7511169,$$,322
+916,Vigilante Gaming Bar,nfYN65WLXFPTx9e8pSxViA,Austin,TX,Bars,30.3394025962971,-97.7183186262846,$$,151
+917,Texas Ranch BBQ,xq0XeA-IjFYdMPdhQgplnQ,Austin,TX,Barbeque,30.22661,-97.76223,$$,81
+918,Growler USA - Austin,7eHAjcRoXltx-KsZrz6XPA,Austin,TX,Pubs,30.2955795,-97.7434722,$$,86
+919,Cafe Blue - Downtown,wvU_-fiTIwW4GTEj_4I5Hg,Austin,TX,Seafood,30.26365,-97.74084,$$,198
+920,Discada,kLLx0hlm7yyraE8EeT2-sQ,Austin,TX,Tacos,30.2686025800296,-97.7246335521341,0,54
+921,JuiceLand,cj4RAy13GHGO78OwFHbZDw,Austin,TX,Juice Bars & Smoothies,30.29533,-97.74298,$$,65
+922,Vazquez Restaurant,KLZNYrPiFOZAvUrtQE6MiA,Austin,TX,Mexican,30.37439,-97.72733,$,155
+923,One-2-One Bar,SxT2pgDV89OETyTHJstEGQ,Austin,TX,Bars,30.2519187927246,-97.7635116577148,$$,83
+924,El Coqui,YyLFxPNMEe2OTXBxDFzCSw,Austin,TX,Food Trucks,30.25323,-97.71297,$,58
+925,Bakery Lorraine,OlKdIDTXbiF1Y7gE-7gLSQ,Austin,TX,Bakeries,30.40183,-97.7227,$$,118
+926,Teji's Indian Restaurant and Grocery,HCVSPXCOpfDsWFykq04ZCw,Austin,TX,Indian,30.2839763948773,-97.7421483663718,$,407
+927,UTea Pho,CXnwchIvuOkMVgROiwoz5w,Austin,TX,Vietnamese,30.28685,-97.74501,0,61
+928,Cipollina,Vlz20mD_QeTxmroSLZ9C0w,Austin,TX,Italian,30.2807,-97.75843,$$,260
+929,Capital Taco,J3L6Vo-Pe0PGyTxhuT8bSw,Austin,TX,Food Trucks,30.2308338408262,-97.7917863428593,$,85
+930,Caffe Medici,PgBAgj4Iw1aZcBfRw4_ymA,Austin,TX,Coffee & Tea,30.2854238617514,-97.7419710043511,$,206
+931,Hunan Lion,g-NDCVx4r4vXfjtTKHMccQ,Austin,TX,Chinese,30.2372444264224,-97.7937643857317,$$,280
+932,Apt 115,KQds0wAC6UBUxCBpRqVDHg,Austin,TX,Wine Bars,30.2616,-97.71982,$$,34
+933,Tx Shawarma,sCSVQt4bSuU_LvmD3uCCBw,Austin,TX,Mediterranean,30.2443269490385,-97.7580774904749,$,42
+934,Cool Beans,RQXxu5U7iC-IS3aqQGMtjg,Austin,TX,Food Trucks,30.2955044,-97.7417585,$,85
+935,Teal House Coffee and Bakery,2lfJnS98uTMvp6QBnHQo9Q,Austin,TX,Coffee & Tea,30.153155,-97.768223,$,47
+936,The Contemporary Austin - Laguna Gloria,RLZqKONtuJHDJKlmjPaGtQ,Austin,TX,Museums,30.31212,-97.7744,0,86
+937,The Side Bar,y2gbw5lhCcpPwqsF9JjQFw,Austin,TX,Bars,30.26752,-97.73643,$,139
+938,Nothing Bundt Cakes,xAaUvqvhGfspMkZysRDIkQ,Austin,TX,Bakeries,30.394416012844,-97.743282213803,$$,79
+939,Manuels,DDKAp6wVkZtmv5gdk6FMIQ,Austin,TX,Mexican,30.3967818,-97.7494226,$$,429
+940,Quickie Pickie,H0qWFulEjpaqXGmQ-L6gYg,Austin,TX,"Beer, Wine & Spirits",30.268796,-97.727235,$$,207
+941,El Nuevo Mexico- Austin,CKUn4-PX66Ms8S0FXLYGcw,Austin,TX,Mexican,30.347992691529,-97.7146657239426,$,186
+942,CAVA,F_FIr4d9RQNQQY4csobTkg,Austin,TX,Mediterranean,30.2730557218149,-97.7992287605744,$$,83
+943,Merit Coffee,tQRKD55NmN-VZY4zGxHIjQ,Austin,TX,Coffee & Tea,30.267396,-97.752107,$$,77
+944,Sway,mB4MXcA2TakwRsQZi0CgVg,Austin,TX,Thai,30.4004932869176,-97.7227822272256,$$$,180
+945,Coat & Thai,eBfy7Xk1O-56J-KkdaGG1g,Austin,TX,Thai,30.2636136779954,-97.762858442043,$,228
+946,The Parlor,sxxeWFpxhU53lR1ndH6qzg,Austin,TX,Pizza,30.30873,-97.73406,$$,207
+947,Coco Paloma Desserts,-V53iiKbReGRCNmLwHXoSg,Austin,TX,Bakeries,30.3040525,-97.7437526,$$,46
+948,Sweet Chive,F6JdjM5d_Eok5tVnq1fmJg,Austin,TX,Taiwanese,30.2538770926394,-97.7156530217538,$$,99
+949,The Cheesecake Factory,pFae6__zRph9JWRiuA5QmA,Austin,TX,Desserts,30.3907453374602,-97.7476143837018,$$,567
