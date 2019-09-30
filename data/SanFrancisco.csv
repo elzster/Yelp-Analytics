@@ -1,550 +1,550 @@
 ,Business,Business ID,City,State,Category,Latitude,Longitude,Price,Reviews,Rating
-0,Bi-Rite Creamery,wGl_DyNxSv8KUtYgiuLhmA,San Francisco,CA,Ice Cream & Frozen Yogurt,37.761591,-122.425717,$,9522,4.5
-1,Brenda's French Soul Food,lJAGnYzku5zSaLnQ_T6_GQ,San Francisco,CA,French,37.7829016,-122.4190434,$$,10740,4
-2,Gary Danko,WavvLdfdP6g8aZTtbBQHTw,San Francisco,CA,American (New),37.80587,-122.42058,$$$$,5439,4.5
-3,Tartine Bakery & Cafe,ri7UUYmx21AgSpRsf4-9QA,San Francisco,CA,Bakeries,37.761425,-122.4240513,$$,7768,4
-4,Hog Island Oyster Co,Xg-FyjVKAN70LO4u4Z1ozg,San Francisco,CA,Seafood,37.795831,-122.393303,$$,5819,4.5
-5,Mitchell's Ice Cream,76smcUUGRvq3k1MVPUXbnA,San Francisco,CA,Ice Cream & Frozen Yogurt,37.7442315,-122.422816,$,3885,4.5
-6,House of Prime Rib,oT08T3Vpn1I7jDmrBBRMTw,San Francisco,CA,American (Traditional),37.79338,-122.4225,$$$,6966,4
-7,Burma Superstar,eYXwVR4mMAjzkJnm5wneHQ,San Francisco,CA,Burmese,37.78278732,-122.4625397,$$,6656,4
-8,The House,ZoZjbOYR-apY8XvommlNUA,San Francisco,CA,Asian Fusion,37.79851,-122.40706,$$$,4709,4.5
-9,Kokkari Estiatorio,PsY5DMHxa5iNX_nX0T-qPA,San Francisco,CA,Greek,37.796996,-122.399661,$$$,4437,4.5
-10,San Tung,M0JTO3oyu6gxh1mfFjU-dA,San Francisco,CA,Chinese,37.763693,-122.469008,$$,6668,4
-11,B Patisserie,2XQm-uFcTS7oc8MFP-8olA,San Francisco,CA,Bakeries,37.78783,-122.44073,$$,2410,4.5
-12,Nopa,ttarnopezxmp2ROB1N2PaA,San Francisco,CA,American (New),37.77483,-122.43746,$$$,5012,4
-13,El Farolito,SGRmnarrNuVEsAjYdEoA0w,San Francisco,CA,Mexican,37.75265,-122.41812,$,4802,4
-14,Fog Harbor Fish House,f-m7-hyFzkf0HSEeQ2s-9A,San Francisco,CA,Seafood,37.809041,-122.410233,$$,5703,4
-15,Zazie,gqVl3RprESEqkIPeJH0yOg,San Francisco,CA,Breakfast & Brunch,37.765244,-122.4501138,$$,4303,4
-16,Saigon Sandwich,hqQoVK0vadOX7_4gN1sh3g,San Francisco,CA,Vietnamese,37.78315196,-122.417318,$,3200,4.5
-17,Sweet Maple,#NAME?,San Francisco,CA,American (Traditional),37.78573568,-122.4350777,$$,3527,4
-18,Golden Boy Pizza,PTFxtXS47ZVRCdZIrEWvGw,San Francisco,CA,Pizza,37.7997956,-122.4080729,$,3406,4.5
-19,Liholiho Yacht Club,KkAVX3Wb7E3lP5F_f_8pXg,San Francisco,CA,Bars,37.78818,-122.41458,$$$,2264,4.5
-20,Tony's Pizza Napoletana,mSMZJj2pFvttWLpcDmgrEA,San Francisco,CA,Pizza,37.80033154,-122.409054,$$,4862,4
-21,Sotto Mare Oysteria & Seafood,8dUaybEPHsZMgr1iKgqgMQ,San Francisco,CA,Seafood,37.79979,-122.40834,$$,3600,4.5
-22,Foreign Cinema,n6L5VIGunR51-D55C-eYeQ,San Francisco,CA,Breakfast & Brunch,37.75637,-122.41925,$$$,4758,4
-23,Golden Gate Bakery,m3xdxV8YNH5uh1N01xdnLA,San Francisco,CA,Bakeries,37.79633,-122.40703,$,3323,4.5
-24,Marufuku Ramen SF,HHtpR0RslupSQ99GIIwW5A,San Francisco,CA,Ramen,37.785155,-122.432075,$$,2567,4.5
-25,Little Star Pizza,__I9HmtBMV4dDkEgT22V4g,San Francisco,CA,Pizza,37.77753,-122.43798,$$,2853,4.5
-26,Mama's On Washington Square,MvAo0hj9FXOeNL5PwBZ0fQ,San Francisco,CA,Breakfast & Brunch,37.801606,-122.409599,$$,4179,4
-27,Chapeau!,L5vSeC_sa3TUQW_lticqyA,San Francisco,CA,French,37.78327,-122.46066,$$$,2674,4.5
-28,Humphry Slocombe Ice Cream,47OC_X6KkiDDQ4jwoCUjFg,San Francisco,CA,Ice Cream & Frozen Yogurt,37.75279,-122.4122,$,3351,4
-29,The Codmother Fish & Chips,PDhfVvcVXgBinZf5I6s1KQ,San Francisco,CA,British,37.80727026,-122.4170938,$$,2918,4.5
-30,La Taqueria,JARsJVKLPgs_yC3cwDnp7g,San Francisco,CA,Mexican,37.75088,-122.41805,$,3954,4
-31,Bob's Donut & Pastry Shop,GXu3PD4IPsxIHpo011aydg,San Francisco,CA,Bakeries,37.79185,-122.42128,$,2916,4.5
-32,Golden Gate Bridge,Lz7ydUVmsr2DekT9enEhvw,San Francisco,CA,Landmarks & Historical Buildings,37.81659701,-122.4780746,0,1835,4.5
-33,Twin Peaks,WV2fVK6OJfzn2BkRGpbP7A,San Francisco,CA,Parks,37.75215641,-122.4475193,0,1111,4.5
-34,State Bird Provisions,QZQGRJZ4bZCmNoXjs3z1XQ,San Francisco,CA,Tapas/Small Plates,37.78374,-122.433005,$$$,2683,4
-35,Arizmendi Bakery,xDwEMq8kgT0eQepn90Jkvg,San Francisco,CA,Bakeries,37.7633882,-122.4664991,$,1897,4.5
-36,Espetus Brazilian Steak House,ciEDsTWhajcdL3KuJqBRlw,San Francisco,CA,Steakhouses,37.77333275,-122.4221317,$$$,3350,4
-37,Mission Dolores Park,Tf_27JvnneEx0Tz79UwShg,San Francisco,CA,Parks,37.759764,-122.427052,0,1445,4.5
-38,Dottie's True Blue Cafe,uEeWn6sPq-giWvfE9uhQ7A,San Francisco,CA,American (Traditional),37.78170504,-122.4098396,$$,4427,4
-39,Kitchen Story,XQLmEdXoMzOpffwoFaBtaQ,San Francisco,CA,Breakfast & Brunch,37.7642352,-122.4306936,$$,3168,4
-40,Beretta,4KfQnlcSu4bbTqnvGdGptw,San Francisco,CA,Italian,37.75384,-122.42055,$$,3528,4
-41,Suppenküche,DGyoVB9PdI9_jw0CNi_OPg,San Francisco,CA,German,37.77626038,-122.4263916,$$,3092,4
-42,Philz Coffee,akXf1BdFZjQb2fO8Ca7FtA,San Francisco,CA,Coffee & Tea,37.7523971,-122.4142637,$,1665,4.5
-43,Schubert's Bakery,DyXoC_NhJW0Xx5j_OPQRHQ,San Francisco,CA,Bakeries,37.78267,-122.46493,$$,1653,4.5
-44,Alcatraz Island,Y12NJdzfE-33OQtoHmomMw,San Francisco,CA,Museums,37.82696849,-122.4229479,0,1668,4.5
-45,Golden Gate Park,KIVq5BlJKTipwtB3NATX0g,San Francisco,CA,Parks,37.770518,-122.479878,0,1167,4.5
-46,HRD,bUr4iq2mKKiBOu2HKynylg,San Francisco,CA,Korean,37.78110658,-122.3953297,$$,2473,4
-47,Anthony's Cookies,PrlH7YcQ22m9DyuWbxJjMA,San Francisco,CA,Bakeries,37.7502,-122.42013,$,1654,4.5
-48,Arsicault Bakery,1U9_ZNruMLf4EL0pMoxb_w,San Francisco,CA,Bakeries,37.783429,-122.459307,$$,1089,4.5
-49,Marrakech Magic Theater,bqSZc4Xh2o253DZXr5QOmg,San Francisco,CA,Comedy Clubs,37.78597124,-122.411804,$$,903,5
-50,Swan Oyster Depot,eI0DpD2Xx8hFlk7eAdFCqQ,San Francisco,CA,Seafood,37.790939,-122.420796,$$,2709,4
-51,Marco Polo Italian Ice Cream,RrIduU6-SUNCanTEVF-hIQ,San Francisco,CA,Ice Cream & Frozen Yogurt,37.7426223,-122.481885,$,1431,4.5
-52,Anchor Oyster Bar,ZDvIMjJ-7I0561ckM4pAeA,San Francisco,CA,Seafood,37.759689,-122.434609,$$$,1471,4.5
-53,Shizen Vegan Sushi Bar & Izakaya,CYttYTEiQuhSfo3SEh79fA,San Francisco,CA,Sushi Bars,37.768314,-122.421642,$$,1498,4.5
-54,Chez Maman East,UTVDbZv-qiHU06sDkoel3g,San Francisco,CA,French,37.76243889,-122.3966923,$$,2043,4.5
-55,Plow,A0AziPST4T6k-V3neWFRNA,San Francisco,CA,Breakfast & Brunch,37.76253767,-122.395351,$$,2519,4
-56,Tacorea,u39mZEYojBiNic3lqKhPNw,San Francisco,CA,Mexican,37.7897794,-122.410717,$$,1585,4.5
-57,Tropisueno,_EncdQezAzcShATMFXL0dA,San Francisco,CA,Cocktail Bars,37.78530085,-122.4039187,$$,4330,4
-58,Lou's Cafe,IJk76B-pTta_klpAZcpQdA,San Francisco,CA,Coffee & Tea,37.78045,-122.473308,$$,1462,4.5
-59,Limón Rotisserie,r7RwvYMwxDuK3u26fHbYDA,San Francisco,CA,Peruvian,37.7570514,-122.4164197,$$,3130,4
-60,Blue Bottle Coffee,EFefgQdk_19WxQXvVtwEog,San Francisco,CA,Coffee & Tea,37.77638,-122.423211,$$,1669,4.5
-61,Loló,1hMD7RQogPDWpE-p3LKjXA,San Francisco,CA,Tapas/Small Plates,37.7573462,-122.4214034,$$,2100,4
-62,Fort Funston,-fqw8aDcx1Sgjs-4u__Aiw,San Francisco,CA,Parks,37.71415484,-122.5003427,0,954,5
-63,Lolinda,wEpiKz--Z2b1q_FSCCNiow,San Francisco,CA,Steakhouses,37.756673,-122.4190868,$$$,1908,4
-64,Lands End Trail,yniMfk_yS1sk9dxPLDVchg,San Francisco,CA,Hiking,37.780077,-122.510029,0,819,5
-65,Absinthe Brasserie & Bar,353bun0151fMbR3ut2d-nw,San Francisco,CA,French,37.77714,-122.42268,$$$,3226,4
-66,Hollywood Cafe,vVN_oVe6jvr4PCmXg_m9CA,San Francisco,CA,Breakfast & Brunch,37.8065799,-122.41584,$$,2053,4.5
-67,Scoma's Restaurant,jqEpBbf_qNfWuz_GBkwCjw,San Francisco,CA,Seafood,37.808944,-122.418462,$$$,3630,4
-68,Good Mong Kok Bakery,#NAME?,San Francisco,CA,Bakeries,37.79545848,-122.4083584,$,2523,4
-69,Wayfare Tavern,ykvr3ib1gHQHI4tznSn8iA,San Francisco,CA,American (Traditional),37.79394849,-122.402308,$$$,3821,4
-70,Garden Creamery,OvBC83vOK6vRw175vHiArg,San Francisco,CA,Ice Cream & Frozen Yogurt,37.75873013,-122.42038,$,776,4.5
-71,Farmhouse Kitchen Thai Cuisine,8kck3-K4zYKTJbJko0JlXQ,San Francisco,CA,Thai,37.7602179,-122.4110749,$$,2145,4
-72,Limoncello,2hGIxgprREdBieylltWaRQ,San Francisco,CA,Sandwiches,37.78731841,-122.4235914,$$,777,5
-73,L’Ardoise Bistro,9yM20-7fj4LMrOO30nqkBw,San Francisco,CA,French,37.7665241,-122.4331385,$$$,1244,4.5
-74,Mr Holmes Bakehouse,9lX1QuC6GBj7WyKImHkRRw,San Francisco,CA,Bakeries,37.78759094,-122.4183526,$$,2384,4
-75,Golden Bear Trading Company,b-ylC7pGKuh4yw6l1Q1k9g,San Francisco,CA,Grocery,37.7621609,-122.463128,$$,1161,4.5
-76,Blue Bottle Coffee,lNbKeOfCMTNkoihZHqrbrg,San Francisco,CA,Coffee & Tea,37.78246647,-122.4077533,$$,2210,4
-77,Mr. and Mrs. Miscellaneous,YzA3ocJ0XvsTuD18qr2ctg,San Francisco,CA,Ice Cream & Frozen Yogurt,37.7578152,-122.3880343,$,1420,4.5
-78,Zanze's Cheesecake,8oT00ympYI-mQ8KEetQ63g,San Francisco,CA,Bakeries,37.72994,-122.46984,$$,968,4.5
-79,Pearl's Deluxe Burgers,TRBP1G1l8vZkjgfqdx96Cw,San Francisco,CA,Burgers,37.787823,-122.413699,$$,2151,4
-80,Philz Coffee,hWE2CDphzZ3nXlwv3Uk6Og,San Francisco,CA,Coffee & Tea,37.77566402,-122.3934518,$,1398,4.5
-81,Crissy Field,MKqtBlDciknkwW0q_Xa-Ow,San Francisco,CA,Parks,37.80366025,-122.4583083,0,770,5
-82,Frances,dMlsQsPU8Y_oiPYC5hHi2A,San Francisco,CA,American (New),37.76272202,-122.4322763,$$$,1498,4.5
-83,Bourbon & Branch,aud84H-NpMx3opWPtLX-vg,San Francisco,CA,Cocktail Bars,37.78592,-122.41336,$$$,3062,4
-84,Palace Of Fine Arts,u3mX2Hkc0XoCgPxG6xRFkg,San Francisco,CA,Landmarks & Historical Buildings,37.802006,-122.448656,0,956,4.5
-85,Genki Crepes & Mini-Mart,83dXgt2nG98JJG2F7ai8AQ,San Francisco,CA,Desserts,37.78326,-122.46283,$,2191,4
-86,California Academy of Sciences,6PzyzeiWjJ0fPpuKZffn9g,San Francisco,CA,Museums,37.769816,-122.466041,0,3079,4
-87,Zero Zero,8skVQNkVBv90iiPtFeSpzw,San Francisco,CA,Pizza,37.78163,-122.40204,$$,3251,4
-88,Rosamunde Sausage Grill - Haight St,g9LSMqUK5dkUcmpgTnU-dQ,San Francisco,CA,Hot Dogs,37.77183,-122.43114,$,1604,4.5
-89,Marlowe,c0WpyZFR3EoEBKcoY2LZ3Q,San Francisco,CA,American (New),37.77832005,-122.3967713,$$,2678,4
-90,Bar Crudo,CTE5lnXUYp4xidmh35knNg,San Francisco,CA,Seafood,37.77566736,-122.438271,$$$,1818,4
-91,Pizzeria Delfina - Mission,bai6umLcCNy9cXql0Js2RQ,San Francisco,CA,Pizza,37.7614143,-122.4242316,$$,2267,4
-92,È Tutto Qua,F6SOy6-3tP4i-ipACZUS0g,San Francisco,CA,Italian,37.7977599,-122.40625,$$,2130,4
-93,Benkyodo Co,0100LAmvjZPFjEPswwrDBQ,San Francisco,CA,Bakeries,37.786366,-122.43011,$,965,4.5
-94,Super Duper Burgers,zjlwTVZOyCU8OzzUPEavQQ,San Francisco,CA,Burgers,37.78685407,-122.4039683,$$,2730,4
-95,Smitten Ice Cream,mMiOVbGovegeBg-6YyqDxA,San Francisco,CA,Ice Cream & Frozen Yogurt,37.77635652,-122.4242036,$,2401,4
-96,La Mar Cebichería Peruana,Qbr2JG96K6d31NqqAUxf9g,San Francisco,CA,Latin American,37.79741824,-122.3951298,$$$,3635,4
-97,La Folie,eSixRz7xcwtFdeh9hN5TyQ,San Francisco,CA,French,37.798136,-122.422036,$$$$,1439,4.5
-98,Surisan,i09UMzccKgyLwGYKDVP28w,San Francisco,CA,Korean,37.80678,-122.41756,$$,1637,4.5
-99,Boulevard,Tttm1r5Dw1sRMCfc3EQWPw,San Francisco,CA,American (New),37.79337,-122.39274,$$$,2641,4
-100,The Italian Homemade Company,K9XVDlPNhrrSVEJN7uWqJQ,San Francisco,CA,Italian,37.801752,-122.411851,$$,1408,4.5
-101,Nara Restaurant & Sake Bar,cL0q9S4bqwpbAN9ZKh-Zeg,San Francisco,CA,Japanese,37.77216653,-122.4306757,$$,981,4.5
-102,Cha Cha Cha,kOYj2sGMZnyC1lU-_Uw5fA,San Francisco,CA,Caribbean,37.7691434,-122.4520399,$$,3195,4
-103,Neighbor Bakehouse,4vrX5JhM1D3dTiL4DU5clQ,San Francisco,CA,Bakeries,37.759631,-122.388171,$$,720,4.5
-104,Thanh Long,z9CN58fSrA46ggyb6OnCnQ,San Francisco,CA,Seafood,37.76017,-122.50609,$$$,2595,4
-105,The Buena Vista,wdlyeH5ug7uZpvtb-N97fQ,San Francisco,CA,Bars,37.8065091,-122.4207222,$$,2550,4
-106,Woodhouse Fish Company,PFk6k_hEGG0n6_FAJSm9EQ,San Francisco,CA,Seafood,37.78742,-122.43327,$$,2198,4
-107,Mandalay,IPpQnGDJVApDEM5A93txtw,San Francisco,CA,Burmese,37.7851484,-122.4643918,$$,2116,4
-108,Urban Putt,fPYCsVL3s0vM13jJeOWAig,San Francisco,CA,Mini Golf,37.75570199,-122.4168268,$$,1340,4.5
-109,Home,t0MUKjSjCaQeXHTGQlfosg,San Francisco,CA,Coffee & Tea,37.75445393,-122.4770139,$,1073,4.5
-110,Philz Coffee,wsPDEO08w_lH0x123_YEXg,San Francisco,CA,Coffee & Tea,37.7601254,-122.4348964,$,1049,4.5
-111,The 16th Avenue Tiled Steps,5ksN4f83NeC9t_XsyeFx9A,San Francisco,CA,Local Flavor,37.75626959,-122.4731481,0,603,5
-112,Belly Good Cafe & Crepes,V6L23CJAM9cm0zzWAhSwVA,San Francisco,CA,Ice Cream & Frozen Yogurt,37.785091,-122.430635,$,1282,4.5
-113,PPQ Dungeness Island,-4wz0dOG3RdBNYE02l9KjA,San Francisco,CA,Seafood,37.78233,-122.484454,$$,3007,4
-114,KUSAKABE,U0GqpXzcIDlad7vQHbB63Q,San Francisco,CA,Sushi Bars,37.79570177,-122.4028848,$$$$,867,4.5
-115,Eight AM,4-ra3RxOy1PpvnaK49dy8w,San Francisco,CA,American (New),37.806251,-122.419204,$$,1225,4.5
-116,Little Star Pizza,OoyK7MyuPtKOQAXmEmyM5g,San Francisco,CA,Pizza,37.76625989,-122.422121,$$,2029,4
-117,Don Pistos,voFE8DTKsTFi1Vzm_zzd0Q,San Francisco,CA,Mexican,37.80078,-122.40784,$$,1777,4
-118,The Slanted Door,ZuhygpLHdwsELMWa3Nbymw,San Francisco,CA,Vietnamese,37.79618244,-122.3936968,$$$,5594,3.5
-119,R&G Lounge,ka1_lat2boQwLMsOCiwGiA,San Francisco,CA,Chinese,37.7941241,-122.4049374,$$,4371,3.5
-120,Four Barrel Coffee,E8RJkjfdcwgtyoPMjQ_Olg,San Francisco,CA,Coffee & Tea,37.76701695,-122.4218428,$,2069,4
-121,Boba Guys,yn5gA62ekL-TzKBBI_rq-A,San Francisco,CA,Coffee & Tea,37.7899434,-122.4073063,$,1903,4
-122,Garaje,tnhfDv5Il8EaGSXZGiuQGg,San Francisco,CA,Mexican,37.78175295,-122.396122,$$,1524,4.5
-123,Deli Board,BcW0vRdM8N-rteR2FfV1jg,San Francisco,CA,Delis,37.7776248,-122.4070127,$$,1289,4.5
-124,Lers Ros,WFgRFq_KxIs2fkYo1iD6Tg,San Francisco,CA,Thai,37.784703,-122.417566,$$,2168,4
-125,Mensho Tokyo,ey_UUXdDMUoO77QIF6SGaQ,San Francisco,CA,Ramen,37.78669085,-122.4143263,$$,2078,4
-126,Boudin Bakery & Cafe,yyi2GpG_p7TX7XAq_eHSZA,San Francisco,CA,Bakeries,37.80841003,-122.4150794,$$,3626,4
-127,Isa Restaurant,QINiEjMRGA7pKfvhPQtfBg,San Francisco,CA,French,37.8001099,-122.43749,$$$,2018,4
-128,Chantal Guillon Macarons,TfvirefqknwFZGCGYvHFgw,San Francisco,CA,Desserts,37.77667228,-122.4236196,$$,1013,4.5
-129,Dumpling Time,VPXezwmTETrwitrzj9BZPA,San Francisco,CA,Dim Sum,37.7697533,-122.4022546,$$,1628,4
-130,Delfina,YqvoyaNvtoC8N5dA8pD2JA,San Francisco,CA,Italian,37.76131,-122.42431,$$$,2046,4
-131,The Walt Disney Family Museum,0LOx2_t8mUQ8zB_JY5pBHg,San Francisco,CA,Museums,37.8012674,-122.4582993,0,928,4.5
-132,Submarine Center,286uOfEOt2P2BpakntKhGQ,San Francisco,CA,Sandwiches,37.7409,-122.46532,$,1168,4.5
-133,Gracias Madre,rwiL8C8989DlHMD88bxi3A,San Francisco,CA,Vegan,37.761606,-122.419241,$$,3151,4
-134,Roli Roti Gourmet Rotisserie,fK6ZCDLTFtPV9HT4oAo5-w,San Francisco,CA,Sandwiches,37.79539824,-122.392534,$$,1431,4.5
-135,The Chairman Truck,sT8TRzofJym5w0khZkOJhw,San Francisco,CA,Food Trucks,37.78404,-122.4175,$,1424,4
-136,Devil's Teeth Baking Company,elgE2cUhKotsLoBUdghexQ,San Francisco,CA,Bakeries,37.75318245,-122.5050075,$,1558,4.5
-137,Roxie Food Center,HRiP-_TSWvJLy3_hXVRPtw,San Francisco,CA,Grocery,37.7267302,-122.4414182,$$,967,4.5
-138,Hot Sauce and Panko,NwqdohySKrDnK0RsAde9UA,San Francisco,CA,Chicken Wings,37.79451652,-122.4178762,$$,1087,4.5
-139,Lovejoy's Tea Room,s-ihKanDRDHTD8U49HFA5Q,San Francisco,CA,British,37.74919,-122.42689,$$,1178,4.5
-140,Mymy,VzlVF1yc_BboRwwqJcvkxg,San Francisco,CA,Breakfast & Brunch,37.79094006,-122.4192695,$$,1676,4
-141,Tommy's Joynt,0YPcBWiU-8t2kGe-DOhW5g,San Francisco,CA,American (Traditional),37.785547,-122.421814,$$,2821,4
-142,Spruce,ZfMLpV7p3EvRv3Idpx89sQ,San Francisco,CA,American (Traditional),37.787621,-122.452734,$$$$,1875,4
-143,Taqueria Cancún,g0VCHer2uE5NLOEdblZuSw,San Francisco,CA,Mexican,37.76047,-122.41951,$,2010,4
-144,Craftsman and Wolves,AfqpSxetSUMc63ZPCfbneg,San Francisco,CA,Bakeries,37.7609695,-122.4218206,$$,1490,4
-145,Harris' Restaurant,FqYg7BcsryLFiUTknxpQpw,San Francisco,CA,Steakhouses,37.79508,-122.42287,$$$$,1822,4
-146,Alexander's Steakhouse,PLx_VnZyFmxTS1zNTaDJxA,San Francisco,CA,Steakhouses,37.7793,-122.39568,$$$$,1683,4
-147,The Front Porch,wxzx3duu1c0CcomzEOvfOQ,San Francisco,CA,Southern,37.7438,-122.422035,$$,2747,4
-148,Hot Cookie,qZFRnzb-VTfkMC2vDoWJVA,San Francisco,CA,Bakeries,37.76227,-122.43494,$,1443,4
-149,U :Dessert Story,aVskw5NKrs7ibAQ54E_bZw,San Francisco,CA,Desserts,37.76426421,-122.4305173,$$,1136,4.5
-150,DOSA on Fillmore,U1TgSEKZwgdTftTOxCtFOQ,San Francisco,CA,Indian,37.78535,-122.43284,$$$,3006,4
-151,Señor Sisig,ma-IFK7XaRdVwA9lxNyMXA,San Francisco,CA,Filipino,37.79059,-122.40306,$$,1545,4
-152,Ryoko's,mydKjdG8gJOcRQ9cZwkQpQ,San Francisco,CA,Sushi Bars,37.78819878,-122.4120592,$$,2893,4
-153,Tommaso's,MWaeG9XhJdFzbcrSrpF6mQ,San Francisco,CA,Italian,37.797778,-122.405204,$$,1579,4
-154,Hard Knox Cafe,8pZevgVXucZStPwUYPfAkQ,San Francisco,CA,Soul Food,37.75752,-122.38858,$$,2134,4
-155,The Ice Cream Bar,s3Vi_0iue-hIRJ7O78JzRQ,San Francisco,CA,Ice Cream & Frozen Yogurt,37.76643,-122.45033,$$,1305,4
-156,Benu,q2EbLD93gEO5uXXx7Pk3bw,San Francisco,CA,American (New),37.785402,-122.399068,$$$$,1040,4.5
-157,Holy Gelato!,WhTpALYvB4ZBMcT8fFVLvw,San Francisco,CA,Ice Cream & Frozen Yogurt,37.7624176,-122.4660266,$,1041,4.5
-158,Seven Hills,dTWMVRcMVC4zynbFQC7A2A,San Francisco,CA,Italian,37.7953586,-122.4182303,$$$,995,4.5
-159,The Original Ghirardelli Ice Cream & Chocolate Shop,vzBSlQezq2GJkDeqBQxdtw,San Francisco,CA,Ice Cream & Frozen Yogurt,37.80585,-122.42292,$$,2498,4
-160,Molinari Delicatessen,FmGF1B-Rpsjq1f5b56qMwg,San Francisco,CA,Delis,37.79838,-122.40782,$$,1082,4.5
-161,Nick's Crispy Tacos,ziVej4oW2JpUConTE_Y_mg,San Francisco,CA,Mexican,37.79607,-122.42196,$,3288,4
-162,Bella Trattoria,msT3LrLB4fhN04HYHuFsew,San Francisco,CA,Italian,37.78148,-122.46085,$$,1375,4
-163,Matcha Cafe Maiko,sSiUcnbwPQ4ssHY3EMV0Fw,San Francisco,CA,Coffee & Tea,37.785051,-122.432095,$,825,4.5
-164,Sightglass Coffee,VD527WwvrhE3Nhzf5vaMNw,San Francisco,CA,Coffee & Tea,37.7768998,-122.4086371,$$,1806,4
-165,The Monk's Kettle,g2ktKLz4rNTi8T5WUEUYuw,San Francisco,CA,Bars,37.76472909,-122.4229749,$$,2161,4
-166,B Star Bar,6bc2FmFGzrcEvXcS2cOeeA,San Francisco,CA,Burmese,37.78298,-122.46065,$$,1833,4
-167,Acquerello,mDM7-ho67ePJXd5TodtCOg,San Francisco,CA,Italian,37.79157,-122.4213296,$$$$,1083,4.5
-168,La Ciccia,1toCkhuD0b57iFotMu3XEQ,San Francisco,CA,Seafood,37.7420027,-122.4266273,$$$,1072,4.5
-169,The Bird,WOVHQYzSAdyXYOiYDTmujQ,San Francisco,CA,Chicken Shop,37.78724,-122.39995,$,1553,4
-170,Samovar Tea - Yerba Buena Gardens,Ml0ZjPaKXYmXTyGLvkhY8A,San Francisco,CA,Tea Rooms,37.78417745,-122.4020686,$$,2367,4
-171,Woodhouse Fish,fGj7q3Qro-Efk7t-IVnpXQ,San Francisco,CA,Seafood,37.76766159,-122.4284421,$$,1638,4
-172,Andytown Coffee Roasters,IoPgRTk7Cs3ydeM5R2NRZA,San Francisco,CA,Coffee & Tea,37.756805,-122.502283,$,791,4.5
-173,Firefly Restaurant,i_OkjtKWm02Upc-PlcUrrg,San Francisco,CA,American (New),37.751206,-122.438189,$$$,1448,4
-174,La Fusión,DLpHmXitZxDLdqTwydUSdA,San Francisco,CA,Latin American,37.79163575,-122.4036916,$$,1100,4.5
-175,Coqueta,xv8dq_jBNfQkHeX2wJGlAg,San Francisco,CA,Spanish,37.7984672,-122.3966163,$$$,2016,4
-176,AsiaSF,6LfqlrbkpjZt83bEMZWq7A,San Francisco,CA,Asian Fusion,37.77503,-122.41281,$$$,1808,4
-177,Blackwood,UGKNNQ6bjL-ZttHSdZISfA,San Francisco,CA,Thai,37.800591,-122.438832,$$,1519,4
-178,Sophie's Crepes,cegatrLOnlyeSgDpYOua2g,San Francisco,CA,Desserts,37.785048,-122.432093,$,1673,4
-179,Quince,zFxD8QinHt69Bs7M2mgB-Q,San Francisco,CA,French,37.7975,-122.40336,$$$$,1452,4
-180,DOSA on Valencia,yYhMl5jjJRU92BhAGZACfw,San Francisco,CA,Indian,37.75709219,-122.4210593,$$,2306,4
-181,Pacific Catch,5xp-qHGhzEzXevsSzYrwkg,San Francisco,CA,Seafood,37.80057,-122.43652,$$,1564,4
-182,The View Lounge,lOCewxz6QNegZbArImNBfw,San Francisco,CA,Lounges,37.78536627,-122.4043559,$$,1692,4
-183,El Techo,HECB3khkUffaD2zWCngLuw,San Francisco,CA,Latin American,37.75663073,-122.4190983,$$,1792,4
-184,Ebisu,D1K_lFglA5fOYquqltYcdg,San Francisco,CA,Sushi Bars,37.76445472,-122.466417,$$,1763,4
-185,Exploratorium,sHLt1_UcZm5Wrdmip4eudA,San Francisco,CA,Venues & Event Spaces,37.800875,-122.398619,0,1018,4.5
-186,Zuni Café,oqsu3pKpgRMGHj9QItsx0A,San Francisco,CA,Italian,37.7734826,-122.4216396,$$$,2700,4
-187,Hillstone,_D1Ev_zTZs5ijHkleK6C2w,San Francisco,CA,American (New),37.8057126,-122.4052805,$$$,2154,4
-188,Tuba Authentic Turkish Restaurant,bH8FgQYhxkj5qQ4wL7vPFA,San Francisco,CA,Mediterranean,37.7548912,-122.4228895,$$,994,4.5
-189,Acme Bread Company,I19ntZQrZxMn9gYOOK1rhg,San Francisco,CA,Bakeries,37.79575246,-122.3936471,$,838,4.5
-190,Blue Bottle Coffee,vJaF4HdnmSVF_V0BjeKjtg,San Francisco,CA,Coffee & Tea,37.79604481,-122.39381,$,1512,4
-191,Salt & Straw,_5Dzuo9r5vaXsqy8P9AlOQ,San Francisco,CA,Ice Cream & Frozen Yogurt,37.78993,-122.43432,$$,915,4.5
-192,Pancho Villa Taqueria,UjjNgzBFAVXF3iVXPVjH_Q,San Francisco,CA,Mexican,37.7648138,-122.4212461,$,2535,4
-193,Pizzetta 211,QOpqNPKpClL48TVVrYobAw,San Francisco,CA,Pizza,37.783684,-122.482974,$$,1243,4.5
-194,Frascati,xdAgbLBQcffIxI8mYgjT1Q,San Francisco,CA,Italian,37.79835892,-122.4191055,$$$,1168,4.5
-195,Blue Plate,rxY7canIJeXtICb6lprUcQ,San Francisco,CA,American (Traditional),37.74523,-122.42033,$$$,1409,4
-196,Roka Akor - San Francisco,qKVwVCJ_5D0iOxJYE9wSJw,San Francisco,CA,Steakhouses,37.79653914,-122.4038505,$$$$,1235,4
-197,Hakkasan,dN_v0Lu6xhv0yJcx-M0fpg,San Francisco,CA,American (New),37.78771,-122.40385,$$$,1712,4
-198,Tadich Grill,WxxE5kE8omgQhJE8sWIvmA,San Francisco,CA,Seafood,37.79343156,-122.3994682,$$$,2369,4
-199,Il Casaro Pizzeria & Mozzarella Bar - North Beach Location,I8T8aoAsFQYwQiRvLBayFA,San Francisco,CA,Italian,37.79852,-122.40739,$$,1087,4.5
-200,Tadu Ethiopian Kitchen,xkTx2lxZQptqxNeCBCaArA,San Francisco,CA,Ethiopian,37.7848298,-122.4142271,$$,651,4.5
-201,Hogwash,t5OypGYSwYIXKjkEQx3BNw,San Francisco,CA,Gastropubs,37.7891754,-122.4099292,$$,1027,4.5
-202,Leopold's,sQavxElZ71EGMrQ1zktn8Q,San Francisco,CA,German,37.79892,-122.42207,$$,1036,4.5
-203,The Taco Shop At Underdog's,cx6y2D1Q77R6dEqMOvnL7g,San Francisco,CA,Sports Bars,37.76378,-122.47765,$$,1813,4
-204,Thorough Bread & Pastry,MTIqLOBdISaon4G22qb5Lg,San Francisco,CA,Patisserie/Cake Shop,37.76651238,-122.4290349,$,835,4.5
-205,Rusty's Southern,wZv5s1J3xmUkO-x9b8_-yQ,San Francisco,CA,Southern,37.7844,-122.41855,$$,956,4.5
-206,Akiko's Restaurant,IRD_9JUjR-06zztisuTdAA,San Francisco,CA,Sushi Bars,37.790582,-122.404653,$$$,1848,4
-207,Parada 22,TlBFKt2N2eSEBpN-UZmDBw,San Francisco,CA,Latin American,37.76929678,-122.4520651,$$,1160,4
-208,Farm : Table,TcbKvh-e1lxywJuN6in5JQ,San Francisco,CA,Coffee & Tea,37.78768,-122.414339,$$,1742,4
-209,Perbacco,ztL8KI0ed0snCiK88ZUfNw,San Francisco,CA,Italian,37.79345438,-122.3993366,$$$,1996,4
-210,Waterbar,7Q3QIZz5UX-JSTSKKkRqDg,San Francisco,CA,Seafood,37.7900429,-122.3886065,$$$,2972,3.5
-211,La Mediterranee,iZ5VBmyFAZyJCt88KLwhJw,San Francisco,CA,Middle Eastern,37.7900665,-122.4338783,$$,1490,4
-212,Smuggler's Cove,15g05u3vgH1CZipI1eIeUA,San Francisco,CA,Venues & Event Spaces,37.77945,-122.42327,$$,1717,4
-213,Humphry Slocombe Ice Cream,PpKob6r-Cjz4H8D1roK2lA,San Francisco,CA,Ice Cream & Frozen Yogurt,37.795692,-122.393693,$,1096,4.5
-214,XOX Truffles,qkHlhvv6DrCkvY54ogcPiA,San Francisco,CA,Chocolatiers & Shops,37.80175,-122.41206,$,622,4.5
-215,Roam Artisan Burgers,6wUNarxe7sJTriiqLjZHAA,San Francisco,CA,Burgers,37.79793151,-122.428534,$$,1523,4
-216,Cuisine of Nepal,iUockw0CUssKZLyoGJYEXA,San Francisco,CA,Himalayan/Nepalese,37.74097,-122.42318,$$,529,4.5
-217,Milkbomb Ice Cream,LFEBCjZ-M3XUFJDszYFX6A,San Francisco,CA,Ice Cream & Frozen Yogurt,37.76475,-122.40077,$,596,4.5
-218,Legion of Honor,J-FkG5x_2Odh61Wnep9cuQ,San Francisco,CA,Museums,37.784927,-122.500802,0,826,4.5
-219,Wonderful Dessert & Cafe,xji2vmCj8kqsbA_cvd5hvw,San Francisco,CA,Candy Stores,37.7633253,-122.479963,$,1248,4
-220,Art's Cafe,MXKWFQHoC0SXy9UI-Djn7g,San Francisco,CA,Diners,37.763926,-122.4657578,$,1089,4
-221,Koo,4GAsfSjaB1XewzS3TKOtTg,San Francisco,CA,Japanese,37.76435855,-122.4624383,$$$,1097,4
-222,Souvla,kFgjHGp-cTUK5uPaSJOORA,San Francisco,CA,Greek,37.77643,-122.425,$$,1295,4
-223,BIX,PzPPcGVg5O4UuW5cTopJhA,San Francisco,CA,American (Traditional),37.79686,-122.40291,$$$,1781,4
-224,Golden Gate Fortune Cookies,7CR8EP4gV-oYXyNa2-PTcw,San Francisco,CA,Bakeries,37.79577,-122.40725,$,926,4.5
-225,Amélie,OCk8JFBaOw_p2EY6mi5iLQ,San Francisco,CA,Wine Bars,37.79312009,-122.4209065,$$,1321,4
-226,Trestle,jcFf2ZnJYL0nWCdIpqiA-g,San Francisco,CA,American (New),37.796127,-122.404495,$$$,835,4.5
-227,The Alembic,f8fYPWuRB4o225YjPEjq8w,San Francisco,CA,Bars,37.769371,-122.451176,$$,1669,4
-228,Dynamo Donut & Coffee,I0UVBT1-k0LqUICRLr9l5A,San Francisco,CA,Coffee & Tea,37.752971,-122.407676,$,1850,4
-229,Limón Rotisserie,chWLsfWUJ5k8-73t9FOM9A,San Francisco,CA,Peruvian,37.76441574,-122.4221344,$$,2473,3.5
-230,Cafe Claude,gsf5yf5HS3h8Z8MHpJ4t3w,San Francisco,CA,French,37.79032095,-122.4045239,$$$,1980,4
-231,Taylor Street Coffee Shop,lvoKIKQ8zD4ZvcbUmImrQg,San Francisco,CA,Burgers,37.7856803,-122.4114826,$$,1162,4
-232,Colibri Mexican Bistro,u30abI5AtOKAddJRxUfZTg,San Francisco,CA,Mexican,37.78716065,-122.4106367,$$,2318,4
-233,Yummy Yummy,KCVZ0Z5GQgQxduizQ91O1Q,San Francisco,CA,Vietnamese,37.76368,-122.46879,$$,1390,4
-234,Liguria Bakery,CfU_8BIc6SX7lhDYAB9Xkw,San Francisco,CA,Bakeries,37.80153,-122.40916,$,707,4.5
-235,Sushi Zone,M175LTlKPJjAWREIUPyMGg,San Francisco,CA,Sushi Bars,37.77116513,-122.4239152,$$,1035,4
-236,Izakaya Sozai,pKP6ikrLyM5Gtua13kVoUw,San Francisco,CA,Ramen,37.763879,-122.47413,$$,2048,4
-237,Lands End,fGLexj1k40gCUzfAwXF3Yg,San Francisco,CA,Parks,37.78650818,-122.5061411,0,386,5
-238,Park Tavern,4-pWX0F9mi_VlN1IAxweSQ,San Francisco,CA,American (New),37.80113,-122.409,$$$,1548,4
-239,5A5 Steak Lounge,Q8cYhJGa9pwlu63f-KMV-A,San Francisco,CA,Steakhouses,37.7969972,-122.4000609,$$$,2162,4
-240,Katana-Ya,F3bL-3Btko-JSupCC2pPAw,San Francisco,CA,Sushi Bars,37.78726,-122.41037,$$,4111,3.5
-241,Mourad Restaurant,6Wzy5p_0lLajjMhDIs0i1g,San Francisco,CA,Moroccan,37.78661,-122.4,$$$,999,4.5
-242,Muracci's Japanese Curry & Grill,7qK2Gwu0afQMtYFSJvvCqQ,San Francisco,CA,Japanese Curry,37.791036,-122.404233,$$,1695,4
-243,Hops & Hominy,AoxdFkE06fQs_ZP0S0VRPw,San Francisco,CA,Southern,37.789312,-122.405731,$$,2073,4
-244,Kin Khao,kqk5BoCJU59MC9fH0IB4wQ,San Francisco,CA,Thai,37.78522788,-122.4093481,$$,2006,4
-245,de Young,RJ3NiTTSl00iT-Hu0-2ktQ,San Francisco,CA,Art Museums,37.771468,-122.468681,0,1578,4
-246,Honey Honey Cafe and Crepery,W1DGoHrkx8qptuWCcWSPLA,San Francisco,CA,Breakfast & Brunch,37.787835,-122.41152,$$,2475,4
-247,Ruth's Chris Steak House,Kxwc8PIKy2JsegNwgBjAtA,San Francisco,CA,Steakhouses,37.7905481,-122.4226117,$$$,2062,4
-248,Fresh Brew Coffee,U9HWtltvf_U2y1wYSOwFUA,San Francisco,CA,Coffee & Tea,37.79001,-122.41177,$,556,4.5
-249,Lapisara Eatery,0mNzmmh1mrdh5Cpg2QUBiw,San Francisco,CA,Breakfast & Brunch,37.7878344,-122.4131853,$$,608,4.5
-250,Roy's Restaurant,iWUSAD2WALWNFF0pPiomHA,San Francisco,CA,Seafood,37.7881,-122.3991,$$$,2258,4
-251,Truly Mediterranean,0QydZwQebF1b36i9OwHppA,San Francisco,CA,Mediterranean,37.764755,-122.422263,$,1177,4
-252,Cockscomb,oaBpGm6woGN69J9iRqu0Fw,San Francisco,CA,Bars,37.77865,-122.39733,$$$,1199,4
-253,Stella Pastry & Cafe,Av-PbVkajf1XrgqIS8POSQ,San Francisco,CA,Bakeries,37.79918,-122.40828,$,1291,4
-254,Lime Tree Southeast Asian Kitchen,sp4Axlo-ddvYpl8xUeUsVw,San Francisco,CA,Singaporean,37.764337,-122.462736,$$,1482,4
-255,San Francisco Botanical Garden,wHhA0cdo0Qzugga1LupN8A,San Francisco,CA,Botanical Gardens,37.767674,-122.469326,0,554,4.5
-256,Skool,ZN7x2duyVesVVzlhWJNamQ,San Francisco,CA,Seafood,37.7685097,-122.4021363,$$,1718,4
-257,North India Restaurant,gR9DTbKCvezQlqvD7_FzPw,San Francisco,CA,Indian,37.78778912,-122.3993057,$$,1582,4
-258,Hai Ky Noodles,wCf2GGyEOkaSFE0xCYpgOA,San Francisco,CA,Chinese,37.7840538,-122.4179535,$,917,4.5
-259,Saru Sushi Bar,6TL8udi-vy_5rH-wikMSoA,San Francisco,CA,Sushi Bars,37.751706,-122.4288283,$$$,818,4.5
-260,SusieCakes,MKjhQLLVP0udUB6P-rv_Aw,San Francisco,CA,Bakeries,37.80045,-122.4381,$$,1122,4
-261,Bistro Central Parc,W97siDhQbWIVa0MEpcq9iA,San Francisco,CA,French,37.775023,-122.44427,$$$,924,4.5
-262,Betty Lou's Seafood & Grill,OH3GLEJvGhbER4d3xMuPIA,San Francisco,CA,Seafood,37.79827248,-122.4070575,$$,692,4.5
-263,Rich Table,Xdx2_n3nk9Td_aSe7E5ARQ,San Francisco,CA,American (New),37.77485,-122.42284,$$$,1170,4
-264,Aha Fresh,3sGEIoyXkMmc1YX1TYkSMg,San Francisco,CA,Breakfast & Brunch,37.751351,-122.432183,$$,982,4
-265,Brenda's Meat & Three,UbKrcsBaZoaBkBOajEX08g,San Francisco,CA,Soul Food,37.77814892,-122.4385513,$$,1038,4
-266,Seward Street Slides,jsZQijuwRzy1oJN0jTmqaw,San Francisco,CA,Parks,37.75791894,-122.4398138,0,538,4.5
-267,Fino Ristorante & Bar,rj3zIk7t9ySGMxVGGTA8gg,San Francisco,CA,Italian,37.78798807,-122.4122871,$$$,1141,4
-268,Home,Bsz2u4raa8xNolhl3PDV2Q,San Francisco,CA,Coffee & Tea,37.782323,-122.480993,$$,576,4.5
-269,Lazy Bear,uBaXDGwJPUkOSLWxS2vZ9Q,San Francisco,CA,American (New),37.76041,-122.41969,$$$$,577,4.5
-270,Swensen's Ice Cream,cf6el4kGXe686x4Kb6F18Q,San Francisco,CA,Ice Cream & Frozen Yogurt,37.799191,-122.419276,$,1033,4.5
-271,Loving Cup,8LEnV8Z0-YKPWb1nLKgQHQ,San Francisco,CA,Desserts,37.798653,-122.422157,$,1081,4
-272,Topsy's Bar,TjKw7TV8XCWc-w-kjKWPyg,San Francisco,CA,Cocktail Bars,37.7905828,-122.4038175,$$,659,4.5
-273,Off the Grid: Fort Mason Center,C7VHU3Cp6AprIKStbPvQXA,San Francisco,CA,Food Trucks,37.805503,-122.431801,$$,1012,4
-274,Bobo's,yNU6sPRWzVl0ngCRqat1TQ,San Francisco,CA,Steakhouses,37.80140888,-122.4257441,$$$,2061,4
-275,Sushi Bistro,TmXkYM0N-FjrMasxj5uXsA,San Francisco,CA,Sushi Bars,37.77701,-122.4635,$$,1520,4
-276,Zushi Puzzle,u2qFhVAiH3kQIGhEW6PmMA,San Francisco,CA,Sushi Bars,37.80052,-122.43308,$$$,1333,4
-277,Trattoria Contadina,6e7gMgVJRQ5rtkIbTF6TLQ,San Francisco,CA,Italian,37.80018,-122.41228,$$,1335,4
-278,Baker Beach,fTlqRlDPtOMayvZM46LVlA,San Francisco,CA,Parks,37.79052988,-122.4834643,0,722,4.5
-279,Miette Patisserie,mUbk7FCM1R9gSko6EMdU2A,San Francisco,CA,Bakeries,37.79601,-122.393979,$$,1548,4
-280,Japanese Tea Garden,JcVzpOTp7OH6l8AsM_wGdQ,San Francisco,CA,Tea Rooms,37.77008973,-122.4703147,$,1373,4
-281,Tataki,r2jiJk3yivcLkWSSYELGcA,San Francisco,CA,Sushi Bars,37.78783905,-122.4412277,$$,1258,4
-282,Han Il Kwan,eBxkmr-hJ2KgpZQzEO3ArQ,San Francisco,CA,Korean,37.77675,-122.4783,$$,1565,4
-283,The Sentinel,kEhq0qT_JFxgeh-pCS4lPA,San Francisco,CA,Sandwiches,37.78829778,-122.4013724,$,1291,4
-284,The Italian Homemade Company,FRpULkKmvD9caSKabQzq5w,San Francisco,CA,Italian,37.79742,-122.43097,$$,861,4.5
-285,Yasukochi's Sweet Stop,EfkCyCaKoUFVdkRoi2prMw,San Francisco,CA,Bakeries,37.78673,-122.42978,$$,564,4.5
-286,Starbelly,J7_-faNq_Ag9qTOlDn81Pw,San Francisco,CA,Comfort Food,37.764096,-122.432574,$$,1789,4
-287,Broken Record,QCQ3WN7hd9xMPs2_ycHa_A,San Francisco,CA,Dive Bars,37.71426,-122.437,$,1236,4
-288,Boiling Hot Pot,Y43L1WlyrpDWVwAj6NF-VA,San Francisco,CA,Hot Pot,37.7806682,-122.4786992,$$,831,4.5
-289,Pakwan Restaurant - 16th Street,zf62D_W7iGzgdV6U_CeApQ,San Francisco,CA,Indian,37.7649157,-122.4237774,$$,1714,4
-290,Flour + Water,qs7FgJ-UXgpbAMass0Oojg,San Francisco,CA,Italian,37.75892,-122.41231,$$$,2248,3.5
-291,Sutro Baths,nS8Mlt5NRvjLiIHd2RBGDw,San Francisco,CA,Beaches,37.77998368,-122.5137377,0,491,4.5
-292,Old Skool Cafe,2oj_6uCp4DgVTJhYqEmBbA,San Francisco,CA,Soul Food,37.734266,-122.390515,$$,545,4.5
-293,Nopalito,055dTcfz2AOAFPed_2KjEQ,San Francisco,CA,Mexican,37.7734353,-122.438993,$$,1840,4
-294,Marugame Udon,q1Mv7oQSOorl4a9zbtl-rQ,San Francisco,CA,Japanese,37.72856,-122.47688,$$,1515,4
-295,Salt & Straw,CB5FsH1m4D0R5wZ0JFmKzw,San Francisco,CA,Ice Cream & Frozen Yogurt,37.7766412,-122.4259532,$$,476,4.5
-296,Hinodeya Ramen Bar,Fe-YjAdSRLqDC2H_pqPcSw,San Francisco,CA,Ramen,37.78615746,-122.4300571,$$,965,4
-297,Super Duper Burgers,uK9gleO9ufjw53z-qekWaw,San Francisco,CA,Burgers,37.7846045,-122.4038825,$$,1328,4
-298,Just For You Cafe,N6z0so39b9fzGi8UWzI1Ww,San Francisco,CA,American (Traditional),37.75795851,-122.388854,$$,1398,4
-299,Asian Art Museum,s3kwbvB8qAzZUtV0rSlypg,San Francisco,CA,Art Museums,37.7796308,-122.4165973,0,721,4.5
-300,Crepevine Restaurant,527usXXrlHi46bs54IFRTQ,San Francisco,CA,Creperies,37.76435,-122.46467,$$,1555,4
-301,KitTea Cat Cafe,D1GB7el1CaX-22CkX94zfw,San Francisco,CA,Themed Cafes,37.7739346,-122.4222081,$$,703,4.5
-302,Polly Ann Ice Cream,2kigSyi7myx0-34YATi-Xw,San Francisco,CA,Ice Cream & Frozen Yogurt,37.753435,-122.497758,$,1233,4
-303,Papalote Mexican Grill,jwb3vTh8rn3OsN9wlI56-Q,San Francisco,CA,Mexican,37.75194,-122.42094,$$,2178,3.5
-304,Dragon Beaux,Su1ay8vJyKsHZKQG_eluaA,San Francisco,CA,Seafood,37.7805,-122.4807,$$,1465,4
-305,House Of Pancakes,DQy0uYB0kym-s3oZZRxs5Q,San Francisco,CA,Chinese,37.742904,-122.476349,$,928,4
-306,Pho Huynh Hiep 2 - Kevin's Noodle House,Bfc3RwM7UAEohk9e19Q1xw,San Francisco,CA,Vietnamese,37.763338,-122.477795,$,1610,4
-307,Boba Guys,18TtLS_JtiS2OH30FLqNrw,San Francisco,CA,Bubble Tea,37.75994,-122.42112,$,1431,4
-308,The Little Chihuahua,7rUZnmRVyCpq4TrB9Brsiw,San Francisco,CA,Mexican,37.7720399,-122.43688,$$,1459,4
-309,Universal Cafe,DlLsw9bJMJ-YdnrUp2G7mw,San Francisco,CA,Breakfast & Brunch,37.76062,-122.41064,$$,1339,4
-310,Basa Seafood Express,imHjAJ9uuUK_PNkzT9kCag,San Francisco,CA,Seafood,37.75276,-122.41338,$,632,4.5
-311,Cordon Bleu,Di4kb-1tnjP5OKFuV8qbUA,San Francisco,CA,Vietnamese,37.7907203,-122.4205111,$,1053,4
-312,Delancey Street Restaurant,SvpTxa_8_tclKB6Tk298dQ,San Francisco,CA,American (Traditional),37.78435697,-122.3884369,$$,1562,4
-313,The Stinking Rose,ZiF9L8JML7kwfOi989OaTQ,San Francisco,CA,Italian,37.7982486,-122.4073904,$$,3907,3.5
-314,Cinderella Bakery & Cafe,hpWcjUQ0dhXRN-2wUWQYCQ,San Francisco,CA,Bakeries,37.77745,-122.46374,$$,933,4
-315,The Flying Falafel,y97u_oCqjAjstK4YOY9ygA,San Francisco,CA,Falafel,37.7812488,-122.411304,$,884,4.5
-316,Franchino,kgKMZc97EdDaq77dtTqqNQ,San Francisco,CA,Italian,37.79833,-122.40757,$$,1096,4
-317,Local Edition,jp4X-7QjdffRBab9XMf2Bg,San Francisco,CA,Lounges,37.78759,-122.4031601,$$,1588,4
-318,Gialina Pizzeria,fAaxYP_sc03MV57trhBNPA,San Francisco,CA,Pizza,37.73405,-122.43424,$$,1095,4
-319,Fort Point,kiUnW44GC-nNaRXpAeZ6NQ,San Francisco,CA,Landmarks & Historical Buildings,37.810621,-122.477052,0,376,5
-320,Sushirrito,rMuLW1qVB-deU5NStYerWA,San Francisco,CA,Japanese,37.79022418,-122.4037662,$$,1493,4
-321,Grandview Park,dvUv35RQlpjA4rHzqJ_MzQ,San Francisco,CA,Parks,37.75627,-122.47127,0,317,5
-322,Marnee Thai,JSWgCOJ3zuegIhkTAfW7yQ,San Francisco,CA,Thai,37.76513,-122.46671,$$,1620,4
-323,Yamo,D1-_5ff4aic1-7rLqzUd4g,San Francisco,CA,Burmese,37.76194633,-122.4197646,$,1949,3.5
-324,Nopalito,bBa6-Hhe56m1RH-12IOXMw,San Francisco,CA,Mexican,37.76540958,-122.4662815,$$,1294,4
-325,Old Jerusalem Restaurant,pzTBJAR0dr3xQ4tjF7ageg,San Francisco,CA,Middle Eastern,37.7495007,-122.4184218,$$,1051,4
-326,Box Kitchen,GyBh5QsGham__kK7eJ2feQ,San Francisco,CA,Food Stands,37.78115108,-122.4063651,$$,791,4.5
-327,Outerlands,aIgbg-WdNmgBb-V63RfRUg,San Francisco,CA,Breakfast & Brunch,37.76025391,-122.5050201,$$,2234,3.5
-328,Ritual Coffee Roasters,VOoHZDC-dgDUzTSsmgESOQ,San Francisco,CA,Coffee & Tea,37.75642,-122.42137,$$,1897,4
-329,Yank Sing,SAFRM460dH7LHqYVAdoWgA,San Francisco,CA,Dim Sum,37.79272241,-122.3931266,$$$,2531,3.5
-330,Baonecci Ristorante,gtIud2JPu_tW3LMldEOUaw,San Francisco,CA,Pizza,37.799824,-122.407833,$$,954,4.5
-331,Amber India,dC_kA-R2qb-0iEmoI4VKPg,San Francisco,CA,Indian,37.78580903,-122.4045396,$$$,2053,4
-332,Dumpling Kitchen,BI40rGhpngLNPacrjWpseQ,San Francisco,CA,Chinese,37.7423,-122.48701,$$,1453,4
-333,Chez Maman West,9hUYiiyPe0QOu8Oezq_yqQ,San Francisco,CA,French,37.776988,-122.423164,$$,1097,4
-334,Crossroads Cafe,t_89aTecX2_eFBUto_dCPw,San Francisco,CA,Coffee & Tea,37.7831325,-122.3890356,$,970,4
-335,Stonemill Matcha,LV9GJW3NCHgMRbnWo_5xgw,San Francisco,CA,Cafes,37.76401,-122.4215,$$,720,4
-336,Kabuto Restaurant,7iiWJyo_N5rGz4agqe9EbA,San Francisco,CA,Sushi Bars,37.78031,-122.47441,$$$,1014,4
-337,Super Duper Burgers,hXeusGZQvH5oMxaR6XgYwA,San Francisco,CA,Burgers,37.764028,-122.433706,$,1269,4
-338,Pier Market Seafood Restaurant,HaAb_L9zVNLjJwrBkSf_Vw,San Francisco,CA,Seafood,37.80993865,-122.4105504,$$,1974,4
-339,Dinosaurs,yC5ATYRQah7MjeTiRsGcvA,San Francisco,CA,Vietnamese,37.76441547,-122.4318349,$,884,4
-340,Alimento,v5-upYI3belSfXOeT1dNWw,San Francisco,CA,Gelato,37.799643,-122.409622,$,675,4.5
-341,Black Sugar,F4YgPOvuCClXTwB9PJk8Qg,San Francisco,CA,Tea Rooms,37.78642,-122.41032,0,593,4.5
-342,Lyon Street Steps,5ZoeIusBHVOP1Fip5Hydtw,San Francisco,CA,Landmarks & Historical Buildings,37.79469,-122.44675,0,327,5
-343,Little Delhi,Qr0dBKxCtWWUr9bJ74aWQA,San Francisco,CA,Indian,37.78416,-122.40901,$$,1898,4
-344,Delarosa,QQkroHtwS96-dzMpT4a-DA,San Francisco,CA,Italian,37.800287,-122.4391102,$$,1476,4
-345,Piccolo Forno,o43B4DnnQbvkdDK6AVafQg,San Francisco,CA,Pizza,37.80136993,-122.411981,$$,536,4.5
-346,Atelier Crenn,c3khi7kxBaA2ATUuMjtMZA,San Francisco,CA,French,37.79833156,-122.4358795,$$$$,701,4.5
-347,Walzwerk,ISCijFt3uO4M7yzclSwEuw,San Francisco,CA,German,37.7672658,-122.4175768,$$,977,4
-348,Oasis Grill,gBRjRvIfA4fIo6pNebTjuA,San Francisco,CA,Mediterranean,37.79444642,-122.3967365,$$,1232,4
-349,Pork Store Cafe,eOCVoXsOEnbr9c89RD0UEQ,San Francisco,CA,Breakfast & Brunch,37.76997,-122.44623,$$,1339,4
-350,Rickhouse,f9ikTGTJL5RgvVKbQLNh4w,San Francisco,CA,Cocktail Bars,37.79049683,-122.403595,$$,1581,4
-351,Roam Artisan Burgers,4eaK2-Q0dEXWMr5SOoV_Sg,San Francisco,CA,Burgers,37.787682,-122.433853,$$,1172,4
-352,Press Club,Fvn-UN7IQvxlfLBpJdbMUA,San Francisco,CA,Wine Bars,37.78595317,-122.4046469,$$$,1176,4
-353,Manna,tr15WgMHIC_W2gqBpuk3-A,San Francisco,CA,Korean,37.76384,-122.46708,$$,1019,4
-354,The Richmond,1KbZaqEdZkn6LHlA55M64g,San Francisco,CA,Wine Bars,37.77702,-122.46534,$$$,666,4.5
-355,Toronado,hRx9n9PJ7FLmoi9GwoFg3g,San Francisco,CA,Dive Bars,37.77183,-122.43114,$,1772,4
-356,Cotogna,HVJdo4f_6MxkM_1aCAK3NA,San Francisco,CA,Italian,37.7975,-122.40336,$$$,1410,4
-357,Barbacco,Wd5ho0_FKk9n7uV8pSCYIg,San Francisco,CA,Italian,37.79359212,-122.3993386,$$,1587,4
-358,The Rotunda,QhXJqmPoR6jyCf44ck7Sxg,San Francisco,CA,American (New),37.78741174,-122.4063565,$$$,1620,4
-359,Greens Restaurant,ssI9ivccrDBT-RH_52fPBQ,San Francisco,CA,Vegetarian,37.8053224,-122.432264,$$$,1994,4
-360,Little Skillet,SdI0uCelI4ihCwGyMLv03A,San Francisco,CA,Soul Food,37.778851,-122.393937,$$,1969,3.5
-361,Montesacro Pinseria SF,ikkPHZqQQ2UU2hGFyBuffQ,San Francisco,CA,Pizza,37.7815976,-122.410121,$$,647,4.5
-362,Pica Pica Arepa Kitchen,_Iupdt0IslH_jU8zkKcWLA,San Francisco,CA,Gluten-Free,37.766409,-122.421714,$$,1471,4
-363,Gamine,RM1ioN-76NzXDbfv63GhTQ,San Francisco,CA,French,37.7968797,-122.4359489,$$,881,4
-364,El Metate Restaurant,2y2lTn53XJCGFh8lkXJ8OA,San Francisco,CA,Mexican,37.75567453,-122.4096238,$,1095,4
-365,Butter,SEZpdigGSqVNWnyANNIMeA,San Francisco,CA,Dive Bars,37.771019,-122.413343,$,1120,4
-366,Zeitgeist,UXru0FThfONxJQ95oPnaBw,San Francisco,CA,Dive Bars,37.77003,-122.4221,$,2623,3.5
-367,The American Grilled Cheese Kitchen,gxb1-SxUSEIskQg-nNcO-A,San Francisco,CA,Breakfast & Brunch,37.782229,-122.392869,$$,1492,4
-368,Eiji,#NAME?,San Francisco,CA,Sushi Bars,37.764058,-122.430685,$$,1071,4
-369,Palmyra,ZD5-5Gu44WrcsYtw7qMgiw,San Francisco,CA,Mediterranean,37.771851,-122.433937,$,844,4
-370,Pizzeria Delfina - Pacific Heights,wPJjpOZ0mnsajJLBkWUnwA,San Francisco,CA,Pizza,37.789104,-122.434441,$$,1460,4
-371,Hunan Home's Restaurant,cHoNUKltOAJWSmNfsZ1h-w,San Francisco,CA,Chinese,37.79640579,-122.4056549,$$,2098,4
-372,Piccino,i2VhtC1JkV_sZOA4urd1ng,San Francisco,CA,Italian,37.75762,-122.38992,$$,1379,4
-373,Picaro,KRcMsXmeILmC8OXmcXOQgA,San Francisco,CA,Spanish,37.76513,-122.42245,$$,1532,4
-374,Alamo Square,HSLPjCmw6r_LrzmrNVScsw,San Francisco,CA,Parks,37.77565724,-122.432985,0,507,4.5
-375,Perilla,RNy3_hU1N2qyS5PVc9RaYQ,San Francisco,CA,Vietnamese,37.76415,-122.46711,$$,1248,4
-376,Wooly Pig,Id2aVe9l5YQlHtlXnGye-Q,San Francisco,CA,Sandwiches,37.76066216,-122.3884211,$,645,4.5
-377,Patxi's Pizza,WLqqZYTeo6wFXuCFtlweqA,San Francisco,CA,Pizza,37.77649,-122.425,$$,2229,3.5
-378,NightLife,B_PStt9QFGs4BrgNxegbjg,San Francisco,CA,Museums,37.76979881,-122.4667025,$$,945,4
-379,Roma Antica,B09WOy0W83Od-Xw4xEXxog,San Francisco,CA,Italian,37.79989,-122.4408,$$,517,4.5
-380,Prospect,0Sh-XNVgGDRwiN4K3UEQJA,San Francisco,CA,American (New),37.78995261,-122.390914,$$$,1543,4
-381,Conservatory of Flowers,TRN1vdp0-og9M-3AgKmZZg,San Francisco,CA,Botanical Gardens,37.77250417,-122.4587631,0,556,4.5
-382,Basil Thai Restaurant & Bar,lL-Zq1hlHreP7qAA2sVqNg,San Francisco,CA,Thai,37.7753334,-122.4091797,$$,1481,4
-383,My Tofu House,KhG-jWIr7-TJj3isz3ZIFQ,San Francisco,CA,Korean,37.7806563,-122.4691286,$$,1639,4
-384,The New Spot On Polk,7bO6OHn52SJP4Mi3U-XflQ,San Francisco,CA,Breakfast & Brunch,37.798839,-122.422409,$$,580,4.5
-385,Fat Angel,W0mlelgnkSPU3ELhyzkXHA,San Francisco,CA,Bars,37.78338529,-122.4331856,$$,815,4
-386,Mozzeria,chZfJOs022rr8DufI4r3Uw,San Francisco,CA,Pizza,37.76489,-122.42488,$$,766,4.5
-387,Good Luck Dim Sum,o8mLw7SrcTPis4NcvLzsOw,San Francisco,CA,Dim Sum,37.78307724,-122.4672012,$,1556,4
-388,Mikkeller Bar,A4dzocYPoer0llJydoQU-g,San Francisco,CA,Gastropubs,37.783976,-122.408981,$$,1203,4
-389,Wako Japanese Restaurant,bE_1J-17ut6t6bvNhkkxSw,San Francisco,CA,Japanese,37.78283,-122.46148,$$$$,529,4.5
-390,Rye,GIm5jbvmymBNo_e7Y84efw,San Francisco,CA,Lounges,37.78677,-122.41461,$$,1300,4
-391,Tín Vietnamese Cuisine,p1oiqn-SkMrQG0lT3V6jIA,San Francisco,CA,Vietnamese,37.780772,-122.40568,$$,1235,4
-392,Beanstalk Cafe,O0iAR6OBHXqFtK4nKO9g2Q,San Francisco,CA,Coffee & Tea,37.79015176,-122.4092884,$,828,4
-393,Vive La Tarte,4qC4rdMhPBV-BDI-ET2ijg,San Francisco,CA,Bakeries,37.7769811,-122.4109073,$$,528,4.5
-394,CoffeeShop,KRDQab-AjHP66pcbkbc5qQ,San Francisco,CA,Coffee & Tea,37.747,-122.41865,$$,343,4.5
-395,The Hidden Vine,bJm7lxFjXPTg1yJ3WBikMg,San Francisco,CA,Wine Bars,37.79555,-122.40072,$$,787,4.5
-396,SPQR,uEucSd4jwY_zb10AcEye_g,San Francisco,CA,Italian,37.78725,-122.43376,$$$,1933,3.5
-397,Crab House at Pier 39,kWrVV4mS-SLy-Ph_DeJSAg,San Francisco,CA,Seafood,37.80942689,-122.4103653,$$$,2177,3.5
-398,Hinata,yD9-WrXijc_grVmi_zkCfQ,San Francisco,CA,Sushi Bars,37.78324,-122.42048,$$$$,459,4.5
-399,Gott's Roadside,qXUzHmPdbGEt5EKSdWqbmg,San Francisco,CA,Ice Cream & Frozen Yogurt,37.79617861,-122.3941098,$$,2639,3.5
-400,"La Boulangerie de San Francisco, Pine",tQE4SPlX9ZlFSbF4JPU4pg,San Francisco,CA,Bakeries,37.78762,-122.43403,$,748,4.5
-401,Bouche,mfD5wlWS6tY92FJHDcBwJA,San Francisco,CA,French,37.79020106,-122.4073613,$$$,760,4.5
-402,Serpentine,68-n3xi30GwhEvkElVNgiw,San Francisco,CA,American (New),37.75810027,-122.3881888,$$,1507,4
-403,Sanraku,cjfJOMF6hpE7bX0ESWdAEg,San Francisco,CA,Japanese,37.7889514,-122.4124289,$$,1651,4
-404,Udupi Palace,8ZmEszI4ZMncK9kuJYQjuA,San Francisco,CA,Indian,37.75667,-122.42091,$$,1341,4
-405,Mazarine Coffee,asOdajhfMCSx_x60j4D42w,San Francisco,CA,Coffee & Tea,37.78757998,-122.4040565,$$,763,4
-406,Ananda Fuara,ZWvXWUhJUBph9Ip1a2j-xw,San Francisco,CA,Vegetarian,37.77798,-122.4162,$$,1067,4
-407,a Mano,XhJ6ZYagcWNHpJ1H1KvNlQ,San Francisco,CA,Italian,37.77696388,-122.4238685,$$,813,4
-408,Hopwater Distribution,mbmJRdYFNUKeV_toR0KfVA,San Francisco,CA,American (Traditional),37.78995385,-122.411339,$$,697,4.5
-409,Thai Idea Vegetarian,f8kY-c4xNHanSwQuI3nYGg,San Francisco,CA,Thai,37.7834938,-122.4190575,$$,719,4.5
-410,Carmel Pizza Company,IhVsaINdU_Syqp23JuKzrA,San Francisco,CA,Pizza,37.80759703,-122.4173284,$$,787,4.5
-411,Cafe Bunn Mi,Ep3VtYXc-wvSAp8SaEGa_Q,San Francisco,CA,Vietnamese,37.78273,-122.46369,$,1192,4
-412,Joe's Ice Cream,#NAME?,San Francisco,CA,Ice Cream & Frozen Yogurt,37.78077,-122.47777,$,823,4
-413,San Francisco's Hometown Creamery,iTJ3jZ-dli9WLOrVsFXr6A,San Francisco,CA,Ice Cream & Frozen Yogurt,37.7643108,-122.4661588,$,725,4
-414,Bluestem Brasserie,dhTrfvdlpFE33USafJ3cjQ,San Francisco,CA,Brasseries,37.785985,-122.404921,$$$,1673,4
-415,Marnee Thai,pYk2UZ_AUGWO4s8YFepRHQ,San Francisco,CA,Thai,37.76311,-122.4818,$$,1775,4
-416,Kingdom of Dumpling,r19XhpINtQxhMwB0eKnmjA,San Francisco,CA,Dim Sum,37.74246003,-122.4846341,$,2034,3.5
-417,Chloe's Cafe,uXfKnbkDgtIPKw48MeQdKA,San Francisco,CA,Breakfast & Brunch,37.74863512,-122.4269552,$$,982,4
-418,Capo's by Tony Gemignani,OEBWAAJ3FmcseeP1oNwzBQ,San Francisco,CA,Italian,37.7985156,-122.4084149,$$,780,4.5
-419,Cha-Ya,29lhGyTOtiWGkLCWDJZZFg,San Francisco,CA,Japanese,37.760753,-122.421787,$$,1169,4
-420,Miyako Old Fashioned Ice Cream,L3_71hwGHkr38nZ2daksuA,San Francisco,CA,Ice Cream & Frozen Yogurt,37.78309914,-122.432462,$,327,4.5
-421,The Grove Yerba Buena,4_hIVof0Q8dfUBwlREOEGg,San Francisco,CA,Sandwiches,37.786555,-122.401971,$$,1912,3.5
-422,Ozumo,PNxwbgtfdpldd3CyJFIw3w,San Francisco,CA,Sushi Bars,37.79266872,-122.3923726,$$$,2122,3.5
-423,In-N-Out Burger,_RysiB_bqTgCBmG8W96H4A,San Francisco,CA,Fast Food,37.80775,-122.41853,$,1800,4
-424,Original Joe's,GtKxIGU6LJu14UErdNulmQ,San Francisco,CA,Italian,37.80021,-122.40945,$$,1373,4
-425,Burma Love,7tsN9N9mhfJRNTe37pLFMg,San Francisco,CA,Burmese,37.76961,-122.42205,$$,1107,4
-426,Tselogs,#NAME?,San Francisco,CA,Filipino,37.78656,-122.41295,$,575,4.5
-427,The Pink Elephant Alibi,XjViuoOVtkQQtPfqdaIHVA,San Francisco,CA,American (New),37.78682,-122.40049,$$,1176,4
-428,Beard Papa's,-6VcjD0CMrsxFr9g_y0QIA,San Francisco,CA,Bakeries,37.784534,-122.406556,$,1020,4
-429,Nob Hill Cafe,yNMCITEPGh6cgqd6VDfQOg,San Francisco,CA,Italian,37.793182,-122.412648,$$,1306,4
-430,Arizmendi Bakery,_2_1FQO_DGzeCTky0x9DQA,San Francisco,CA,Bakeries,37.75255792,-122.4210748,$,601,4.5
-431,Sushi Time,OzFb5aZuA3RGV_YZlxorNg,San Francisco,CA,Japanese,37.76455,-122.43206,$$,704,4
-432,Pläj Scandinavian Restaurant & Bar,feufnVt4k_t2eJakDU1bAw,San Francisco,CA,Scandinavian,37.7787285,-122.4222183,$$$,659,4
-433,Town Hall,Tyn-UqOTpVHtZAgrB0lWyQ,San Francisco,CA,American (New),37.7895383,-122.3949794,$$$,1929,3.5
-434,Coit Tower,efJYZuvYICyzJJYBO-sGvw,San Francisco,CA,Landmarks & Historical Buildings,37.80237947,-122.4058379,0,883,4
-435,Michael Mina,5I3fM8fRdkJdKL-_BJ1qvw,San Francisco,CA,Middle Eastern,37.7934609,-122.3996416,$$$$,1198,4
-436,Saint Frank Coffee,AsmIi9jXkb9ACliVB4Fp9w,San Francisco,CA,Coffee & Tea,37.798473,-122.422026,$,656,4.5
-437,Twenty Five Lusk,zvIbFkcZwqhTuDF7t7eQsQ,San Francisco,CA,American (New),37.778506,-122.394342,$$$,1418,4
-438,Lombard Street,zTIN_rpW3koEcoEmGN3DwA,San Francisco,CA,Local Flavor,37.80209576,-122.4188353,0,753,4
-439,Myriad Gastropub,l7xUpaUBzsh32M7b8yWGfA,San Francisco,CA,Gastropubs,37.757248,-122.418733,$$,583,4.5
-440,Omakase,WpcWACqlAodx5dbe5GJWZA,San Francisco,CA,Sushi Bars,37.77067191,-122.4028886,$$$$,438,4.5
-441,Taqueria Guadalajara,1dwJK21zm7cuhUKdROWJXQ,San Francisco,CA,Mexican,37.72129074,-122.437459,$,927,4
-442,Farallon,4raSXRuvBH1CHawSsuJiBA,San Francisco,CA,Seafood,37.78832916,-122.4093117,$$$,1583,4
-443,Live Sushi Bar,j_YtZXamd5GHfL-BhfkiLQ,San Francisco,CA,Sushi Bars,37.764681,-122.4036308,$$,1228,4
-444,Volcano,WnQoN1uV65vacUj0q1TgoQ,San Francisco,CA,Japanese Curry,37.78067,-122.47802,$,1114,4
-445,Urban Ritual,VQPtsRVNTFkFptcXDTtIyg,San Francisco,CA,Bubble Tea,37.77576,-122.42585,$,468,4.5
-446,St. Francis Fountain,Zx_VDLeaFdnMFkGyorDZtQ,San Francisco,CA,Breakfast & Brunch,37.7527199,-122.40834,$$,1161,4
-447,Bandit,cwLN5xjMi6UJ14QmEtEs4A,San Francisco,CA,Burgers,37.7864,-122.41451,$$,362,4.5
-448,15 Romolo,m0ip9nECwVVjfjulwrKisQ,San Francisco,CA,Tapas/Small Plates,37.7981914,-122.4063459,$$,1056,4
-449,Home Plate,kesgk8dCRyg3qRDYpuAKGg,San Francisco,CA,Breakfast & Brunch,37.800044,-122.437191,$$,1082,4
-450,Mr Pollo,s_ni_uFL3rczrNiGQmyXHw,San Francisco,CA,American (New),37.7518828,-122.4183969,$$,587,4.5
-451,Hard Knox Cafe,NGIJa15WL41RKgIh9x6RAg,San Francisco,CA,Soul Food,37.78222,-122.48574,$$,1668,3.5
-452,El Castillito,1ULAxKR5_7RWzQ4CRJD1hg,San Francisco,CA,Mexican,37.76887438,-122.4292374,$$,835,4
-453,Ocean Beach,H8naPxTB9BUQJTRcQuoXtA,San Francisco,CA,Parks,37.77028487,-122.5109904,0,837,4
-454,Canela Bistro & Wine Bar,zK9-A4cIZwOUMpGBDz25DA,San Francisco,CA,Spanish,37.764878,-122.432438,$$,620,4
-455,Plentea - San Francisco,vMiM0kaavveZZ61lBe-LJg,San Francisco,CA,Tea Rooms,37.79142644,-122.404249,$,1922,3.5
-456,Arinell Pizza,QjnmVuqVArA7d-syiUCiUw,San Francisco,CA,Pizza,37.76469072,-122.4217121,$,1145,4
-457,Golden Era Vegan Restaurant,ww-HKAff5xmQbiXgO-KcSQ,San Francisco,CA,Vegan,37.78147345,-122.4168358,$$,607,4.5
-458,Nojo Ramen Tavern,1IqqA8pcuCIWJtuKfHwU8g,San Francisco,CA,Ramen,37.77669,-122.42151,$$,773,4
-459,Pacific Catch,3bxO8T8U96uKu2numljjsw,San Francisco,CA,Seafood,37.76567,-122.46619,$$,1751,3.5
-460,Pazzia Ristorante Italiano,0LVKwqqzwiUnGtKFo7f6AA,San Francisco,CA,Italian,37.78341516,-122.398017,$$,961,4
-461,San Francisco Museum of Modern Art,d02DobgJ7kyspSSHz6NrZA,San Francisco,CA,Art Museums,37.785716,-122.40105,0,624,4
-462,House of Nanking,C0whbbQhUMBv8X-Mmtqrcg,San Francisco,CA,Chinese,37.79649,-122.405392,$$,3341,3.5
-463,Breakfast at Tiffany's,ZdKUKq7A94x9cEobARf2cA,San Francisco,CA,Diners,37.73045383,-122.404732,$$,853,4
-464,Bursa,OeTD5HlXMjrmztfu02niQQ,San Francisco,CA,Middle Eastern,37.74036,-122.46674,$$,775,4
-465,Shalimar,6KhSJxwHTQqHiaT35TDkQQ,San Francisco,CA,Pakistani,37.78627228,-122.4129461,$$,1412,4
-466,The Yellow Submarine,o0SCABG4LGBKmIjiIB6WIQ,San Francisco,CA,Sandwiches,37.76402,-122.46337,$,891,4
-467,Cafe de Casa,x29tzG5M7VbZhpG1jcREKQ,San Francisco,CA,Coffee & Tea,37.8061099,-122.41892,$$,382,4.5
-468,Daeho Kalbijjim & Beef Soup,dY0Mc_PHH6nLENvWmVtwxQ,San Francisco,CA,Korean,37.78601,-122.42858,$$,470,4.5
-469,Curry Leaf,c70nh-BV7Nn_rnNXDXnABg,San Francisco,CA,Indian,37.80308,-122.41452,$$,609,4.5
-470,Firenze by Night Ristorante,GJ0eh6qBV0NjVwmPQUkHXQ,San Francisco,CA,Italian,37.79887,-122.4091,$$,986,4
-471,La Palma Mexicatessen,bNvaWa9wSLHjlFlrD7i9Ow,San Francisco,CA,Mexican,37.75297,-122.40994,$,625,4.5
-472,Phat Philly,UU10C7_zKoZZzAvOvz96oQ,San Francisco,CA,Sandwiches,37.75224,-122.42037,$$,1012,4
-473,New Eritrea Restaurant & Bar,u6AFSw9Hawsjhf7hmFdoSg,San Francisco,CA,Ethiopian,37.76384,-122.46764,$$,724,4
-474,Haight Street Market,Yi37TP021npWZsOPeZ2Xqw,San Francisco,CA,Grocery,37.77021,-122.44758,$$,462,4.5
-475,Lahore Karahi,5zKrxtjKK09F_Dwgs5Kxwg,San Francisco,CA,Indian,37.78568,-122.4149,$,1403,4
-476,Jane on Fillmore,Xc_ZRIqAbNfUb2m54xnRoA,San Francisco,CA,Coffee & Tea,37.78934,-122.43423,$$,969,4
-477,Nihon Whisky Lounge,vOjAWfhzLaXHa1v5cGnuIQ,San Francisco,CA,Japanese,37.768697,-122.41529,$$$,1381,3.5
-478,Mona Lisa Restaurant,bC3FfFqfaQu7gZznjkmt9Q,San Francisco,CA,Italian,37.798371,-122.407778,$$,1596,4
-479,Ace Wasabi  Rock-N-Roll Sushi,NMTWmJKWxJD1flwkn7JIPA,San Francisco,CA,Sushi Bars,37.80016,-122.43813,$$,885,4
-480,Magnolia Haight,tdPIuXJrcjH17SQn-H_mZw,San Francisco,CA,Breweries,37.7703644,-122.4451952,$$,1773,3.5
-481,Pier 39,B5e069dbuKZG9IJypIhkyg,San Francisco,CA,Local Flavor,37.8087272,-122.4097766,0,1319,4
-482,The Progress,CS0pUlk25RV2-vhKFFbxqA,San Francisco,CA,American (New),37.7836799,-122.43296,$$$$,846,4
-483,Velvet Cantina,jHCtJJycHt5DLAlPjQ0PoA,San Francisco,CA,Mexican,37.753802,-122.419701,$$,1225,4
-484,Beard Papa's,Nw8h8pc4TzHdVlPA3gsOlA,San Francisco,CA,Bakeries,37.78543,-122.40436,$,1027,4
-485,Destino,8Jos9nqlts6DX6o2zKDAzA,San Francisco,CA,Latin American,37.7712546,-122.4237757,$$,1179,4
-486,Frena Bakery and Cafe,N-vfl3FXnj4M7N6jW-1EGA,San Francisco,CA,Bakeries,37.780321,-122.408274,$$,382,4.5
-487,The Fly Trap,MYl6xxo93hNfy8bR0X9yPw,San Francisco,CA,Bars,37.78535,-122.397074,$$$,968,4
-488,Miette,JPOZ0Uv4UFAjewz9qvIHbg,San Francisco,CA,Candy Stores,37.77635322,-122.4246921,$$,692,4
-489,House of Thai,vKBW6SWFrIYXW1kIOFY_Ng,San Francisco,CA,Thai,37.7862824,-122.4183383,$$,1331,4
-490,Capannina,HWWXRD3KWJRB-WBuXX9RKQ,San Francisco,CA,Italian,37.7977488,-122.4291735,$$$,815,4
-491,The Baked Bear,W01ZzmeWz0vJip3TVDmdyA,San Francisco,CA,Ice Cream & Frozen Yogurt,37.8072919,-122.417122,$,397,4.5
-492,VeganBurg,wfa6U2LrTN_Qt9BurOOykw,San Francisco,CA,Vegan,37.77017,-122.44646,$$,753,4
-493,Pink Onion,IxDRIBkKtP-f24sr5zHAhQ,San Francisco,CA,Pizza,37.76871,-122.41482,$$,341,4.5
-494,Aslam's Rasoi,XANvY_2W7MR6YTyR8CGzWQ,San Francisco,CA,Indian,37.7563,-122.42088,$$,921,4
-495,Teds Market & Deli,2b4YW6ZKXq45TfZA53_zXg,San Francisco,CA,Delis,37.77287,-122.41623,$,468,4.5
-496,Trick Dog,1CkTVogrU7pmy4pkEFIubw,San Francisco,CA,Cocktail Bars,37.75917279,-122.4112384,$$,797,4
-497,Eats,21wF1dQFS2bEL56DuqxRsw,San Francisco,CA,American (Traditional),37.7832999,-122.45988,$$,1120,4
-498,FK Frozen Custard Truck,zvqoeNxrfZKqbUFlNiKplg,San Francisco,CA,Ice Cream & Frozen Yogurt,37.771428,-122.43515,$,328,4.5
-499,Bernal Heights Park,OTVtCX59SVu4kurXP3PAbA,San Francisco,CA,Dog Parks,37.74326577,-122.4149036,0,297,4.5
-500,Grubbin',3yPTDS6aWaMi4tNHZcf5rw,San Francisco,CA,Sandwiches,37.7429221,-122.4812913,$,461,4.5
-501,The Mill,#NAME?,San Francisco,CA,Coffee & Tea,37.77648015,-122.43775,$$,1108,4
-502,Blackbird,Cs5DX-6syMfiJ1rACSRDVQ,San Francisco,CA,Bars,37.76735528,-122.4294701,$$,685,4
-503,Hong Kong Lounge,VYd8UzwlwmX8Db5umNHNig,San Francisco,CA,Dim Sum,37.780671,-122.476619,$$,1586,3.5
-504,Marcella's Lasagneria,F7UZBVdp69mTI_1M7stq2Q,San Francisco,CA,Italian,37.7580376,-122.3890908,$$,359,4.5
-505,IPOT,3oiMUFH3mqaCqCLJuknILQ,San Francisco,CA,Chinese,37.76387996,-122.4732102,$$,954,4
-506,Freshroll Vietnamese Rolls & Bowls,l1oXDZh6vE-cYreeAcfRBw,San Francisco,CA,Vietnamese,37.78393513,-122.4033701,$$,1175,4
-507,Lao Table,VdxJdMX53XZYNZvZlr96HA,San Francisco,CA,Laotian,37.78751373,-122.3987198,$$,937,4
-508,Noe Valley Bakery,oHuPyoGY7nhCQeprHCv21g,San Francisco,CA,Bakeries,37.75121,-122.4334,$$,723,4
-509,Chisme Cantina,7X76HyhNAUTcYuY6t6ionQ,San Francisco,CA,Tacos,37.78862,-122.41483,$$,376,4.5
-510,"Hey, Cookie!",bnx58K-MQPOoyA_wWOvbzg,San Francisco,CA,Desserts,37.75743866,-122.4193726,$,191,5
-511,Kitchen Istanbul,Wcd6K6APT-yWVCSi4oq-kg,San Francisco,CA,Greek,37.782849,-122.46321,$$,466,4.5
-512,Caffe Greco,uzqUJiCHUqV2c3PnvSsqeQ,San Francisco,CA,Coffee & Tea,37.798918,-122.4084483,$,1004,4
-513,De Afghanan Kabob House,MIJ2lGmKAHe41xRcefHzvg,San Francisco,CA,Afghan,37.78577,-122.420359,$$,538,4.5
-514,Campton Place,iU-XQ4dhII3WF1UKR4XrNQ,San Francisco,CA,American (New),37.78910306,-122.4066977,$$$$,728,4
-515,jū-ni,OcRSAkpOhnWHjV7X0FoM5Q,San Francisco,CA,Japanese,37.77653,-122.43883,$$$$,294,4.5
-516,Cassava,muX0aRES6vsp5DEuJaW_uw,San Francisco,CA,American (New),37.77564316,-122.4964766,$$,842,4
-517,Poc-Chuc,5_ZPjPKZhPYXwGNCaMpxFg,San Francisco,CA,Latin American,37.765643,-122.417139,$$,526,4.5
-518,Domo,xeRy4mjZWczet5V9Jtmx1g,San Francisco,CA,Sushi Bars,37.77586,-122.42631,$$,885,4
-519,Delarosa,vu6PlPyKptsT6oEq50qOzA,San Francisco,CA,Pizza,37.78561789,-122.4045166,$$,1157,4
-520,West of Pecos,ReeiGTEamR1ScmzAdH7s4A,San Francisco,CA,American (Traditional),37.76402,-122.4221,$$,969,4
-521,Rhea's Deli & Market,humRe1SGupNdDJUxEdDmMg,San Francisco,CA,Delis,37.759861,-122.4215622,$,601,4
-522,Sakesan Sushi & Bistro,LDqA7rQ3fCmPWFymhIXXcQ,San Francisco,CA,Japanese,37.7830954,-122.466049,$$,1038,4
-523,Trattoria da Vittorio - San Francisco,FvPRM23d7NAOdyS_OX0MpQ,San Francisco,CA,Italian,37.73933,-122.46775,$$,683,4
-524,Cafe du Soleil,IzRVZB6EuoizmnwAFy8siQ,San Francisco,CA,French,37.78326745,-122.397891,$$,391,4.5
-525,Padrecito,2nXYpojLdnIWkFW-Xe7B2A,San Francisco,CA,Mexican,37.7656775,-122.4500746,$$,893,4
-526,El Rio,hcGPjfWl8RnmxewFaGemdQ,San Francisco,CA,Music Venues,37.74681,-122.41946,$,783,4
-527,EPIC Steak,2DihFta_jZB8aAiL_zjp9A,San Francisco,CA,Steakhouses,37.79081791,-122.389449,$$$,2208,3.5
-528,Californios,9S6GK2In2b1tuJ7xoC84pA,San Francisco,CA,Mexican,37.75566688,-122.4169488,$$$$,279,4.5
-529,San Jalisco,_mWCUrUZf_ytJj2N87On2Q,San Francisco,CA,Mexican,37.75865,-122.41668,$$,761,4
-530,M.Y. China,TCUfp_AdAQv-g7aD6ktEEQ,San Francisco,CA,Chinese,37.784236,-122.406566,$$,1616,3.5
-531,Good Luck Cafe and Deli,kK0s7FAovaLmVDM4D_NdSQ,San Francisco,CA,Delis,37.793838,-122.404846,$,403,4.5
-532,La Corneta Taqueria,EjFsWyScsqh-Fg2ozblYmw,San Francisco,CA,Mexican,37.734085,-122.434144,$$,1085,4
-533,Vesuvio Cafe,ZKVAo-v0LgVFhKQOXytsQQ,San Francisco,CA,Lounges,37.79747486,-122.4061409,$$,849,4
-534,Mi Lindo Perú,1DDbE3XJF6lFL_KpU6Pmww,San Francisco,CA,Peruvian,37.74509354,-122.420391,$$,718,4
-535,Comstock Saloon,fL02NLRFLMQT7Pot44gxhA,San Francisco,CA,Lounges,37.79674195,-122.4050465,$$,953,4
-536,Keeva Indian Kitchen,GIl4gBFUknk9HJD3wvQI1Q,San Francisco,CA,Indian,37.78287802,-122.4690229,$$,465,4.5
-537,Pacific Cocktail Haven,b7jlvEKz4wHATdJNNZf9aw,San Francisco,CA,Cocktail Bars,37.78906867,-122.4097557,$$,362,4.5
-538,Sixth Course,K0r1oltM3JbM14ApsTe_yA,San Francisco,CA,Desserts,37.7668797,-122.4186656,$$,359,4.5
-539,Monsieur Benjamin,9e2UrZrwbWsTyN3hWyS6Ig,San Francisco,CA,French,37.77749,-122.42356,$$$,900,4
-540,The Cavalier,_RkG6ao09nTYczVfLG-Zrw,San Francisco,CA,American (New),37.78334565,-122.4068362,$$$,1004,4
-541,Cha Cha Cha,QH8WwAYdr3NrH2QwHiPjog,San Francisco,CA,Bars,37.75971006,-122.4189119,$$,1933,3.5
-542,Sodini's Green Valley Restaurant,iZCSLA7clUGpUFzRnZtQkw,San Francisco,CA,Italian,37.79981,-122.40763,$$,895,4
-543,Stacks,qHCqD2rIiIQ9BK8wfTjVvg,San Francisco,CA,American (Traditional),37.77651707,-122.4247906,$$,1623,3.5
-544,Shabu Club,xErl0-LbQO9n-5e6ZQQ-Uw,San Francisco,CA,Japanese,37.78256914,-122.469567,$$,733,4
-545,Mersea,xAALy_s3a1dT6K09vSrAGQ,San Francisco,CA,American (Traditional),37.82257193,-122.3758539,$$,540,4.5
-546,Tonga Room & Hurricane Bar,458NXhlB0ZtEaJUPI3PPcA,San Francisco,CA,Asian Fusion,37.79242251,-122.4097159,$$$,2644,3.5
-547,Causwells,DL-2iaugPoULjvZ6pyNRAQ,San Francisco,CA,American (New),37.80013427,-122.4419839,$$,714,4
-548,Pluto's,vogO7OMasID3sa8_k9RmpA,San Francisco,CA,Sandwiches,37.764082,-122.464775,$$,1175,4
+0,Bi-Rite Creamery,wGl_DyNxSv8KUtYgiuLhmA,San Francisco,CA,Ice Cream & Frozen Yogurt,37.761591,-122.425717,1,9522,4.5
+1,Brenda's French Soul Food,lJAGnYzku5zSaLnQ_T6_GQ,San Francisco,CA,French,37.7829016,-122.4190434,2,10740,4
+2,Gary Danko,WavvLdfdP6g8aZTtbBQHTw,San Francisco,CA,American (New),37.80587,-122.42058,4,5439,4.5
+3,Tartine Bakery & Cafe,ri7UUYmx21AgSpRsf4-9QA,San Francisco,CA,Bakeries,37.761425,-122.4240513,2,7768,4
+4,Hog Island Oyster Co,Xg-FyjVKAN70LO4u4Z1ozg,San Francisco,CA,Seafood,37.795831,-122.393303,2,5819,4.5
+5,Mitchell's Ice Cream,76smcUUGRvq3k1MVPUXbnA,San Francisco,CA,Ice Cream & Frozen Yogurt,37.7442315,-122.422816,1,3885,4.5
+6,House of Prime Rib,oT08T3Vpn1I7jDmrBBRMTw,San Francisco,CA,American (Traditional),37.79338,-122.4225,3,6966,4
+7,Burma Superstar,eYXwVR4mMAjzkJnm5wneHQ,San Francisco,CA,Burmese,37.78278732,-122.4625397,2,6656,4
+8,The House,ZoZjbOYR-apY8XvommlNUA,San Francisco,CA,Asian Fusion,37.79851,-122.40706,3,4709,4.5
+9,Kokkari Estiatorio,PsY5DMHxa5iNX_nX0T-qPA,San Francisco,CA,Greek,37.796996,-122.399661,3,4437,4.5
+10,San Tung,M0JTO3oyu6gxh1mfFjU-dA,San Francisco,CA,Chinese,37.763693,-122.469008,2,6668,4
+11,B Patisserie,2XQm-uFcTS7oc8MFP-8olA,San Francisco,CA,Bakeries,37.78783,-122.44073,2,2410,4.5
+12,Nopa,ttarnopezxmp2ROB1N2PaA,San Francisco,CA,American (New),37.77483,-122.43746,3,5012,4
+13,El Farolito,SGRmnarrNuVEsAjYdEoA0w,San Francisco,CA,Mexican,37.75265,-122.41812,1,4802,4
+14,Fog Harbor Fish House,f-m7-hyFzkf0HSEeQ2s-9A,San Francisco,CA,Seafood,37.809041,-122.410233,2,5703,4
+15,Zazie,gqVl3RprESEqkIPeJH0yOg,San Francisco,CA,Breakfast & Brunch,37.765244,-122.4501138,2,4303,4
+16,Saigon Sandwich,hqQoVK0vadOX7_4gN1sh3g,San Francisco,CA,Vietnamese,37.78315196,-122.417318,1,3200,4.5
+17,Sweet Maple,#NAME?,San Francisco,CA,American (Traditional),37.78573568,-122.4350777,2,3527,4
+18,Golden Boy Pizza,PTFxtXS47ZVRCdZIrEWvGw,San Francisco,CA,Pizza,37.7997956,-122.4080729,1,3406,4.5
+19,Liholiho Yacht Club,KkAVX3Wb7E3lP5F_f_8pXg,San Francisco,CA,Bars,37.78818,-122.41458,3,2264,4.5
+20,Tony's Pizza Napoletana,mSMZJj2pFvttWLpcDmgrEA,San Francisco,CA,Pizza,37.80033154,-122.409054,2,4862,4
+21,Sotto Mare Oysteria & Seafood,8dUaybEPHsZMgr1iKgqgMQ,San Francisco,CA,Seafood,37.79979,-122.40834,2,3600,4.5
+22,Foreign Cinema,n6L5VIGunR51-D55C-eYeQ,San Francisco,CA,Breakfast & Brunch,37.75637,-122.41925,3,4758,4
+23,Golden Gate Bakery,m3xdxV8YNH5uh1N01xdnLA,San Francisco,CA,Bakeries,37.79633,-122.40703,1,3323,4.5
+24,Marufuku Ramen SF,HHtpR0RslupSQ99GIIwW5A,San Francisco,CA,Ramen,37.785155,-122.432075,2,2567,4.5
+25,Little Star Pizza,__I9HmtBMV4dDkEgT22V4g,San Francisco,CA,Pizza,37.77753,-122.43798,2,2853,4.5
+26,Mama's On Washington Square,MvAo0hj9FXOeNL5PwBZ0fQ,San Francisco,CA,Breakfast & Brunch,37.801606,-122.409599,2,4179,4
+27,Chapeau!,L5vSeC_sa3TUQW_lticqyA,San Francisco,CA,French,37.78327,-122.46066,3,2674,4.5
+28,Humphry Slocombe Ice Cream,47OC_X6KkiDDQ4jwoCUjFg,San Francisco,CA,Ice Cream & Frozen Yogurt,37.75279,-122.4122,1,3351,4
+29,The Codmother Fish & Chips,PDhfVvcVXgBinZf5I6s1KQ,San Francisco,CA,British,37.80727026,-122.4170938,2,2918,4.5
+30,La Taqueria,JARsJVKLPgs_yC3cwDnp7g,San Francisco,CA,Mexican,37.75088,-122.41805,1,3954,4
+31,Bob's Donut & Pastry Shop,GXu3PD4IPsxIHpo011aydg,San Francisco,CA,Bakeries,37.79185,-122.42128,1,2916,4.5
+32,Golden Gate Bridge,Lz7ydUVmsr2DekT9enEhvw,San Francisco,CA,Landmarks & Historical Buildings,37.81659701,-122.4780746,1,1835,4.5
+33,Twin Peaks,WV2fVK6OJfzn2BkRGpbP7A,San Francisco,CA,Parks,37.75215641,-122.4475193,1,1111,4.5
+34,State Bird Provisions,QZQGRJZ4bZCmNoXjs3z1XQ,San Francisco,CA,Tapas/Small Plates,37.78374,-122.433005,3,2683,4
+35,Arizmendi Bakery,xDwEMq8kgT0eQepn90Jkvg,San Francisco,CA,Bakeries,37.7633882,-122.4664991,1,1897,4.5
+36,Espetus Brazilian Steak House,ciEDsTWhajcdL3KuJqBRlw,San Francisco,CA,Steakhouses,37.77333275,-122.4221317,3,3350,4
+37,Mission Dolores Park,Tf_27JvnneEx0Tz79UwShg,San Francisco,CA,Parks,37.759764,-122.427052,1,1445,4.5
+38,Dottie's True Blue Cafe,uEeWn6sPq-giWvfE9uhQ7A,San Francisco,CA,American (Traditional),37.78170504,-122.4098396,2,4427,4
+39,Kitchen Story,XQLmEdXoMzOpffwoFaBtaQ,San Francisco,CA,Breakfast & Brunch,37.7642352,-122.4306936,2,3168,4
+40,Beretta,4KfQnlcSu4bbTqnvGdGptw,San Francisco,CA,Italian,37.75384,-122.42055,2,3528,4
+41,Suppenküche,DGyoVB9PdI9_jw0CNi_OPg,San Francisco,CA,German,37.77626038,-122.4263916,2,3092,4
+42,Philz Coffee,akXf1BdFZjQb2fO8Ca7FtA,San Francisco,CA,Coffee & Tea,37.7523971,-122.4142637,1,1665,4.5
+43,Schubert's Bakery,DyXoC_NhJW0Xx5j_OPQRHQ,San Francisco,CA,Bakeries,37.78267,-122.46493,2,1653,4.5
+44,Alcatraz Island,Y12NJdzfE-33OQtoHmomMw,San Francisco,CA,Museums,37.82696849,-122.4229479,1,1668,4.5
+45,Golden Gate Park,KIVq5BlJKTipwtB3NATX0g,San Francisco,CA,Parks,37.770518,-122.479878,1,1167,4.5
+46,HRD,bUr4iq2mKKiBOu2HKynylg,San Francisco,CA,Korean,37.78110658,-122.3953297,2,2473,4
+47,Anthony's Cookies,PrlH7YcQ22m9DyuWbxJjMA,San Francisco,CA,Bakeries,37.7502,-122.42013,1,1654,4.5
+48,Arsicault Bakery,1U9_ZNruMLf4EL0pMoxb_w,San Francisco,CA,Bakeries,37.783429,-122.459307,2,1089,4.5
+49,Marrakech Magic Theater,bqSZc4Xh2o253DZXr5QOmg,San Francisco,CA,Comedy Clubs,37.78597124,-122.411804,2,903,5
+50,Swan Oyster Depot,eI0DpD2Xx8hFlk7eAdFCqQ,San Francisco,CA,Seafood,37.790939,-122.420796,2,2709,4
+51,Marco Polo Italian Ice Cream,RrIduU6-SUNCanTEVF-hIQ,San Francisco,CA,Ice Cream & Frozen Yogurt,37.7426223,-122.481885,1,1431,4.5
+52,Anchor Oyster Bar,ZDvIMjJ-7I0561ckM4pAeA,San Francisco,CA,Seafood,37.759689,-122.434609,3,1471,4.5
+53,Shizen Vegan Sushi Bar & Izakaya,CYttYTEiQuhSfo3SEh79fA,San Francisco,CA,Sushi Bars,37.768314,-122.421642,2,1498,4.5
+54,Chez Maman East,UTVDbZv-qiHU06sDkoel3g,San Francisco,CA,French,37.76243889,-122.3966923,2,2043,4.5
+55,Plow,A0AziPST4T6k-V3neWFRNA,San Francisco,CA,Breakfast & Brunch,37.76253767,-122.395351,2,2519,4
+56,Tacorea,u39mZEYojBiNic3lqKhPNw,San Francisco,CA,Mexican,37.7897794,-122.410717,2,1585,4.5
+57,Tropisueno,_EncdQezAzcShATMFXL0dA,San Francisco,CA,Cocktail Bars,37.78530085,-122.4039187,2,4330,4
+58,Lou's Cafe,IJk76B-pTta_klpAZcpQdA,San Francisco,CA,Coffee & Tea,37.78045,-122.473308,2,1462,4.5
+59,Limón Rotisserie,r7RwvYMwxDuK3u26fHbYDA,San Francisco,CA,Peruvian,37.7570514,-122.4164197,2,3130,4
+60,Blue Bottle Coffee,EFefgQdk_19WxQXvVtwEog,San Francisco,CA,Coffee & Tea,37.77638,-122.423211,2,1669,4.5
+61,Loló,1hMD7RQogPDWpE-p3LKjXA,San Francisco,CA,Tapas/Small Plates,37.7573462,-122.4214034,2,2100,4
+62,Fort Funston,-fqw8aDcx1Sgjs-4u__Aiw,San Francisco,CA,Parks,37.71415484,-122.5003427,1,954,5
+63,Lolinda,wEpiKz--Z2b1q_FSCCNiow,San Francisco,CA,Steakhouses,37.756673,-122.4190868,3,1908,4
+64,Lands End Trail,yniMfk_yS1sk9dxPLDVchg,San Francisco,CA,Hiking,37.780077,-122.510029,1,819,5
+65,Absinthe Brasserie & Bar,353bun0151fMbR3ut2d-nw,San Francisco,CA,French,37.77714,-122.42268,3,3226,4
+66,Hollywood Cafe,vVN_oVe6jvr4PCmXg_m9CA,San Francisco,CA,Breakfast & Brunch,37.8065799,-122.41584,2,2053,4.5
+67,Scoma's Restaurant,jqEpBbf_qNfWuz_GBkwCjw,San Francisco,CA,Seafood,37.808944,-122.418462,3,3630,4
+68,Good Mong Kok Bakery,#NAME?,San Francisco,CA,Bakeries,37.79545848,-122.4083584,1,2523,4
+69,Wayfare Tavern,ykvr3ib1gHQHI4tznSn8iA,San Francisco,CA,American (Traditional),37.79394849,-122.402308,3,3821,4
+70,Garden Creamery,OvBC83vOK6vRw175vHiArg,San Francisco,CA,Ice Cream & Frozen Yogurt,37.75873013,-122.42038,1,776,4.5
+71,Farmhouse Kitchen Thai Cuisine,8kck3-K4zYKTJbJko0JlXQ,San Francisco,CA,Thai,37.7602179,-122.4110749,2,2145,4
+72,Limoncello,2hGIxgprREdBieylltWaRQ,San Francisco,CA,Sandwiches,37.78731841,-122.4235914,2,777,5
+73,L’Ardoise Bistro,9yM20-7fj4LMrOO30nqkBw,San Francisco,CA,French,37.7665241,-122.4331385,3,1244,4.5
+74,Mr Holmes Bakehouse,9lX1QuC6GBj7WyKImHkRRw,San Francisco,CA,Bakeries,37.78759094,-122.4183526,2,2384,4
+75,Golden Bear Trading Company,b-ylC7pGKuh4yw6l1Q1k9g,San Francisco,CA,Grocery,37.7621609,-122.463128,2,1161,4.5
+76,Blue Bottle Coffee,lNbKeOfCMTNkoihZHqrbrg,San Francisco,CA,Coffee & Tea,37.78246647,-122.4077533,2,2210,4
+77,Mr. and Mrs. Miscellaneous,YzA3ocJ0XvsTuD18qr2ctg,San Francisco,CA,Ice Cream & Frozen Yogurt,37.7578152,-122.3880343,1,1420,4.5
+78,Zanze's Cheesecake,8oT00ympYI-mQ8KEetQ63g,San Francisco,CA,Bakeries,37.72994,-122.46984,2,968,4.5
+79,Pearl's Deluxe Burgers,TRBP1G1l8vZkjgfqdx96Cw,San Francisco,CA,Burgers,37.787823,-122.413699,2,2151,4
+80,Philz Coffee,hWE2CDphzZ3nXlwv3Uk6Og,San Francisco,CA,Coffee & Tea,37.77566402,-122.3934518,1,1398,4.5
+81,Crissy Field,MKqtBlDciknkwW0q_Xa-Ow,San Francisco,CA,Parks,37.80366025,-122.4583083,1,770,5
+82,Frances,dMlsQsPU8Y_oiPYC5hHi2A,San Francisco,CA,American (New),37.76272202,-122.4322763,3,1498,4.5
+83,Bourbon & Branch,aud84H-NpMx3opWPtLX-vg,San Francisco,CA,Cocktail Bars,37.78592,-122.41336,3,3062,4
+84,Palace Of Fine Arts,u3mX2Hkc0XoCgPxG6xRFkg,San Francisco,CA,Landmarks & Historical Buildings,37.802006,-122.448656,1,956,4.5
+85,Genki Crepes & Mini-Mart,83dXgt2nG98JJG2F7ai8AQ,San Francisco,CA,Desserts,37.78326,-122.46283,1,2191,4
+86,California Academy of Sciences,6PzyzeiWjJ0fPpuKZffn9g,San Francisco,CA,Museums,37.769816,-122.466041,1,3079,4
+87,Zero Zero,8skVQNkVBv90iiPtFeSpzw,San Francisco,CA,Pizza,37.78163,-122.40204,2,3251,4
+88,Rosamunde Sausage Grill - Haight St,g9LSMqUK5dkUcmpgTnU-dQ,San Francisco,CA,Hot Dogs,37.77183,-122.43114,1,1604,4.5
+89,Marlowe,c0WpyZFR3EoEBKcoY2LZ3Q,San Francisco,CA,American (New),37.77832005,-122.3967713,2,2678,4
+90,Bar Crudo,CTE5lnXUYp4xidmh35knNg,San Francisco,CA,Seafood,37.77566736,-122.438271,3,1818,4
+91,Pizzeria Delfina - Mission,bai6umLcCNy9cXql0Js2RQ,San Francisco,CA,Pizza,37.7614143,-122.4242316,2,2267,4
+92,È Tutto Qua,F6SOy6-3tP4i-ipACZUS0g,San Francisco,CA,Italian,37.7977599,-122.40625,2,2130,4
+93,Benkyodo Co,0100LAmvjZPFjEPswwrDBQ,San Francisco,CA,Bakeries,37.786366,-122.43011,1,965,4.5
+94,Super Duper Burgers,zjlwTVZOyCU8OzzUPEavQQ,San Francisco,CA,Burgers,37.78685407,-122.4039683,2,2730,4
+95,Smitten Ice Cream,mMiOVbGovegeBg-6YyqDxA,San Francisco,CA,Ice Cream & Frozen Yogurt,37.77635652,-122.4242036,1,2401,4
+96,La Mar Cebichería Peruana,Qbr2JG96K6d31NqqAUxf9g,San Francisco,CA,Latin American,37.79741824,-122.3951298,3,3635,4
+97,La Folie,eSixRz7xcwtFdeh9hN5TyQ,San Francisco,CA,French,37.798136,-122.422036,4,1439,4.5
+98,Surisan,i09UMzccKgyLwGYKDVP28w,San Francisco,CA,Korean,37.80678,-122.41756,2,1637,4.5
+99,Boulevard,Tttm1r5Dw1sRMCfc3EQWPw,San Francisco,CA,American (New),37.79337,-122.39274,3,2641,4
+100,The Italian Homemade Company,K9XVDlPNhrrSVEJN7uWqJQ,San Francisco,CA,Italian,37.801752,-122.411851,2,1408,4.5
+101,Nara Restaurant & Sake Bar,cL0q9S4bqwpbAN9ZKh-Zeg,San Francisco,CA,Japanese,37.77216653,-122.4306757,2,981,4.5
+102,Cha Cha Cha,kOYj2sGMZnyC1lU-_Uw5fA,San Francisco,CA,Caribbean,37.7691434,-122.4520399,2,3195,4
+103,Neighbor Bakehouse,4vrX5JhM1D3dTiL4DU5clQ,San Francisco,CA,Bakeries,37.759631,-122.388171,2,720,4.5
+104,Thanh Long,z9CN58fSrA46ggyb6OnCnQ,San Francisco,CA,Seafood,37.76017,-122.50609,3,2595,4
+105,The Buena Vista,wdlyeH5ug7uZpvtb-N97fQ,San Francisco,CA,Bars,37.8065091,-122.4207222,2,2550,4
+106,Woodhouse Fish Company,PFk6k_hEGG0n6_FAJSm9EQ,San Francisco,CA,Seafood,37.78742,-122.43327,2,2198,4
+107,Mandalay,IPpQnGDJVApDEM5A93txtw,San Francisco,CA,Burmese,37.7851484,-122.4643918,2,2116,4
+108,Urban Putt,fPYCsVL3s0vM13jJeOWAig,San Francisco,CA,Mini Golf,37.75570199,-122.4168268,2,1340,4.5
+109,Home,t0MUKjSjCaQeXHTGQlfosg,San Francisco,CA,Coffee & Tea,37.75445393,-122.4770139,1,1073,4.5
+110,Philz Coffee,wsPDEO08w_lH0x123_YEXg,San Francisco,CA,Coffee & Tea,37.7601254,-122.4348964,1,1049,4.5
+111,The 16th Avenue Tiled Steps,5ksN4f83NeC9t_XsyeFx9A,San Francisco,CA,Local Flavor,37.75626959,-122.4731481,1,603,5
+112,Belly Good Cafe & Crepes,V6L23CJAM9cm0zzWAhSwVA,San Francisco,CA,Ice Cream & Frozen Yogurt,37.785091,-122.430635,1,1282,4.5
+113,PPQ Dungeness Island,-4wz0dOG3RdBNYE02l9KjA,San Francisco,CA,Seafood,37.78233,-122.484454,2,3007,4
+114,KUSAKABE,U0GqpXzcIDlad7vQHbB63Q,San Francisco,CA,Sushi Bars,37.79570177,-122.4028848,4,867,4.5
+115,Eight AM,4-ra3RxOy1PpvnaK49dy8w,San Francisco,CA,American (New),37.806251,-122.419204,2,1225,4.5
+116,Little Star Pizza,OoyK7MyuPtKOQAXmEmyM5g,San Francisco,CA,Pizza,37.76625989,-122.422121,2,2029,4
+117,Don Pistos,voFE8DTKsTFi1Vzm_zzd0Q,San Francisco,CA,Mexican,37.80078,-122.40784,2,1777,4
+118,The Slanted Door,ZuhygpLHdwsELMWa3Nbymw,San Francisco,CA,Vietnamese,37.79618244,-122.3936968,3,5594,3.5
+119,R&G Lounge,ka1_lat2boQwLMsOCiwGiA,San Francisco,CA,Chinese,37.7941241,-122.4049374,2,4371,3.5
+120,Four Barrel Coffee,E8RJkjfdcwgtyoPMjQ_Olg,San Francisco,CA,Coffee & Tea,37.76701695,-122.4218428,1,2069,4
+121,Boba Guys,yn5gA62ekL-TzKBBI_rq-A,San Francisco,CA,Coffee & Tea,37.7899434,-122.4073063,1,1903,4
+122,Garaje,tnhfDv5Il8EaGSXZGiuQGg,San Francisco,CA,Mexican,37.78175295,-122.396122,2,1524,4.5
+123,Deli Board,BcW0vRdM8N-rteR2FfV1jg,San Francisco,CA,Delis,37.7776248,-122.4070127,2,1289,4.5
+124,Lers Ros,WFgRFq_KxIs2fkYo1iD6Tg,San Francisco,CA,Thai,37.784703,-122.417566,2,2168,4
+125,Mensho Tokyo,ey_UUXdDMUoO77QIF6SGaQ,San Francisco,CA,Ramen,37.78669085,-122.4143263,2,2078,4
+126,Boudin Bakery & Cafe,yyi2GpG_p7TX7XAq_eHSZA,San Francisco,CA,Bakeries,37.80841003,-122.4150794,2,3626,4
+127,Isa Restaurant,QINiEjMRGA7pKfvhPQtfBg,San Francisco,CA,French,37.8001099,-122.43749,3,2018,4
+128,Chantal Guillon Macarons,TfvirefqknwFZGCGYvHFgw,San Francisco,CA,Desserts,37.77667228,-122.4236196,2,1013,4.5
+129,Dumpling Time,VPXezwmTETrwitrzj9BZPA,San Francisco,CA,Dim Sum,37.7697533,-122.4022546,2,1628,4
+130,Delfina,YqvoyaNvtoC8N5dA8pD2JA,San Francisco,CA,Italian,37.76131,-122.42431,3,2046,4
+131,The Walt Disney Family Museum,0LOx2_t8mUQ8zB_JY5pBHg,San Francisco,CA,Museums,37.8012674,-122.4582993,1,928,4.5
+132,Submarine Center,286uOfEOt2P2BpakntKhGQ,San Francisco,CA,Sandwiches,37.7409,-122.46532,1,1168,4.5
+133,Gracias Madre,rwiL8C8989DlHMD88bxi3A,San Francisco,CA,Vegan,37.761606,-122.419241,2,3151,4
+134,Roli Roti Gourmet Rotisserie,fK6ZCDLTFtPV9HT4oAo5-w,San Francisco,CA,Sandwiches,37.79539824,-122.392534,2,1431,4.5
+135,The Chairman Truck,sT8TRzofJym5w0khZkOJhw,San Francisco,CA,Food Trucks,37.78404,-122.4175,1,1424,4
+136,Devil's Teeth Baking Company,elgE2cUhKotsLoBUdghexQ,San Francisco,CA,Bakeries,37.75318245,-122.5050075,1,1558,4.5
+137,Roxie Food Center,HRiP-_TSWvJLy3_hXVRPtw,San Francisco,CA,Grocery,37.7267302,-122.4414182,2,967,4.5
+138,Hot Sauce and Panko,NwqdohySKrDnK0RsAde9UA,San Francisco,CA,Chicken Wings,37.79451652,-122.4178762,2,1087,4.5
+139,Lovejoy's Tea Room,s-ihKanDRDHTD8U49HFA5Q,San Francisco,CA,British,37.74919,-122.42689,2,1178,4.5
+140,Mymy,VzlVF1yc_BboRwwqJcvkxg,San Francisco,CA,Breakfast & Brunch,37.79094006,-122.4192695,2,1676,4
+141,Tommy's Joynt,0YPcBWiU-8t2kGe-DOhW5g,San Francisco,CA,American (Traditional),37.785547,-122.421814,2,2821,4
+142,Spruce,ZfMLpV7p3EvRv3Idpx89sQ,San Francisco,CA,American (Traditional),37.787621,-122.452734,4,1875,4
+143,Taqueria Cancún,g0VCHer2uE5NLOEdblZuSw,San Francisco,CA,Mexican,37.76047,-122.41951,1,2010,4
+144,Craftsman and Wolves,AfqpSxetSUMc63ZPCfbneg,San Francisco,CA,Bakeries,37.7609695,-122.4218206,2,1490,4
+145,Harris' Restaurant,FqYg7BcsryLFiUTknxpQpw,San Francisco,CA,Steakhouses,37.79508,-122.42287,4,1822,4
+146,Alexander's Steakhouse,PLx_VnZyFmxTS1zNTaDJxA,San Francisco,CA,Steakhouses,37.7793,-122.39568,4,1683,4
+147,The Front Porch,wxzx3duu1c0CcomzEOvfOQ,San Francisco,CA,Southern,37.7438,-122.422035,2,2747,4
+148,Hot Cookie,qZFRnzb-VTfkMC2vDoWJVA,San Francisco,CA,Bakeries,37.76227,-122.43494,1,1443,4
+149,U :Dessert Story,aVskw5NKrs7ibAQ54E_bZw,San Francisco,CA,Desserts,37.76426421,-122.4305173,2,1136,4.5
+150,DOSA on Fillmore,U1TgSEKZwgdTftTOxCtFOQ,San Francisco,CA,Indian,37.78535,-122.43284,3,3006,4
+151,Señor Sisig,ma-IFK7XaRdVwA9lxNyMXA,San Francisco,CA,Filipino,37.79059,-122.40306,2,1545,4
+152,Ryoko's,mydKjdG8gJOcRQ9cZwkQpQ,San Francisco,CA,Sushi Bars,37.78819878,-122.4120592,2,2893,4
+153,Tommaso's,MWaeG9XhJdFzbcrSrpF6mQ,San Francisco,CA,Italian,37.797778,-122.405204,2,1579,4
+154,Hard Knox Cafe,8pZevgVXucZStPwUYPfAkQ,San Francisco,CA,Soul Food,37.75752,-122.38858,2,2134,4
+155,The Ice Cream Bar,s3Vi_0iue-hIRJ7O78JzRQ,San Francisco,CA,Ice Cream & Frozen Yogurt,37.76643,-122.45033,2,1305,4
+156,Benu,q2EbLD93gEO5uXXx7Pk3bw,San Francisco,CA,American (New),37.785402,-122.399068,4,1040,4.5
+157,Holy Gelato!,WhTpALYvB4ZBMcT8fFVLvw,San Francisco,CA,Ice Cream & Frozen Yogurt,37.7624176,-122.4660266,1,1041,4.5
+158,Seven Hills,dTWMVRcMVC4zynbFQC7A2A,San Francisco,CA,Italian,37.7953586,-122.4182303,3,995,4.5
+159,The Original Ghirardelli Ice Cream & Chocolate Shop,vzBSlQezq2GJkDeqBQxdtw,San Francisco,CA,Ice Cream & Frozen Yogurt,37.80585,-122.42292,2,2498,4
+160,Molinari Delicatessen,FmGF1B-Rpsjq1f5b56qMwg,San Francisco,CA,Delis,37.79838,-122.40782,2,1082,4.5
+161,Nick's Crispy Tacos,ziVej4oW2JpUConTE_Y_mg,San Francisco,CA,Mexican,37.79607,-122.42196,1,3288,4
+162,Bella Trattoria,msT3LrLB4fhN04HYHuFsew,San Francisco,CA,Italian,37.78148,-122.46085,2,1375,4
+163,Matcha Cafe Maiko,sSiUcnbwPQ4ssHY3EMV0Fw,San Francisco,CA,Coffee & Tea,37.785051,-122.432095,1,825,4.5
+164,Sightglass Coffee,VD527WwvrhE3Nhzf5vaMNw,San Francisco,CA,Coffee & Tea,37.7768998,-122.4086371,2,1806,4
+165,The Monk's Kettle,g2ktKLz4rNTi8T5WUEUYuw,San Francisco,CA,Bars,37.76472909,-122.4229749,2,2161,4
+166,B Star Bar,6bc2FmFGzrcEvXcS2cOeeA,San Francisco,CA,Burmese,37.78298,-122.46065,2,1833,4
+167,Acquerello,mDM7-ho67ePJXd5TodtCOg,San Francisco,CA,Italian,37.79157,-122.4213296,4,1083,4.5
+168,La Ciccia,1toCkhuD0b57iFotMu3XEQ,San Francisco,CA,Seafood,37.7420027,-122.4266273,3,1072,4.5
+169,The Bird,WOVHQYzSAdyXYOiYDTmujQ,San Francisco,CA,Chicken Shop,37.78724,-122.39995,1,1553,4
+170,Samovar Tea - Yerba Buena Gardens,Ml0ZjPaKXYmXTyGLvkhY8A,San Francisco,CA,Tea Rooms,37.78417745,-122.4020686,2,2367,4
+171,Woodhouse Fish,fGj7q3Qro-Efk7t-IVnpXQ,San Francisco,CA,Seafood,37.76766159,-122.4284421,2,1638,4
+172,Andytown Coffee Roasters,IoPgRTk7Cs3ydeM5R2NRZA,San Francisco,CA,Coffee & Tea,37.756805,-122.502283,1,791,4.5
+173,Firefly Restaurant,i_OkjtKWm02Upc-PlcUrrg,San Francisco,CA,American (New),37.751206,-122.438189,3,1448,4
+174,La Fusión,DLpHmXitZxDLdqTwydUSdA,San Francisco,CA,Latin American,37.79163575,-122.4036916,2,1100,4.5
+175,Coqueta,xv8dq_jBNfQkHeX2wJGlAg,San Francisco,CA,Spanish,37.7984672,-122.3966163,3,2016,4
+176,AsiaSF,6LfqlrbkpjZt83bEMZWq7A,San Francisco,CA,Asian Fusion,37.77503,-122.41281,3,1808,4
+177,Blackwood,UGKNNQ6bjL-ZttHSdZISfA,San Francisco,CA,Thai,37.800591,-122.438832,2,1519,4
+178,Sophie's Crepes,cegatrLOnlyeSgDpYOua2g,San Francisco,CA,Desserts,37.785048,-122.432093,1,1673,4
+179,Quince,zFxD8QinHt69Bs7M2mgB-Q,San Francisco,CA,French,37.7975,-122.40336,4,1452,4
+180,DOSA on Valencia,yYhMl5jjJRU92BhAGZACfw,San Francisco,CA,Indian,37.75709219,-122.4210593,2,2306,4
+181,Pacific Catch,5xp-qHGhzEzXevsSzYrwkg,San Francisco,CA,Seafood,37.80057,-122.43652,2,1564,4
+182,The View Lounge,lOCewxz6QNegZbArImNBfw,San Francisco,CA,Lounges,37.78536627,-122.4043559,2,1692,4
+183,El Techo,HECB3khkUffaD2zWCngLuw,San Francisco,CA,Latin American,37.75663073,-122.4190983,2,1792,4
+184,Ebisu,D1K_lFglA5fOYquqltYcdg,San Francisco,CA,Sushi Bars,37.76445472,-122.466417,2,1763,4
+185,Exploratorium,sHLt1_UcZm5Wrdmip4eudA,San Francisco,CA,Venues & Event Spaces,37.800875,-122.398619,1,1018,4.5
+186,Zuni Café,oqsu3pKpgRMGHj9QItsx0A,San Francisco,CA,Italian,37.7734826,-122.4216396,3,2700,4
+187,Hillstone,_D1Ev_zTZs5ijHkleK6C2w,San Francisco,CA,American (New),37.8057126,-122.4052805,3,2154,4
+188,Tuba Authentic Turkish Restaurant,bH8FgQYhxkj5qQ4wL7vPFA,San Francisco,CA,Mediterranean,37.7548912,-122.4228895,2,994,4.5
+189,Acme Bread Company,I19ntZQrZxMn9gYOOK1rhg,San Francisco,CA,Bakeries,37.79575246,-122.3936471,1,838,4.5
+190,Blue Bottle Coffee,vJaF4HdnmSVF_V0BjeKjtg,San Francisco,CA,Coffee & Tea,37.79604481,-122.39381,1,1512,4
+191,Salt & Straw,_5Dzuo9r5vaXsqy8P9AlOQ,San Francisco,CA,Ice Cream & Frozen Yogurt,37.78993,-122.43432,2,915,4.5
+192,Pancho Villa Taqueria,UjjNgzBFAVXF3iVXPVjH_Q,San Francisco,CA,Mexican,37.7648138,-122.4212461,1,2535,4
+193,Pizzetta 211,QOpqNPKpClL48TVVrYobAw,San Francisco,CA,Pizza,37.783684,-122.482974,2,1243,4.5
+194,Frascati,xdAgbLBQcffIxI8mYgjT1Q,San Francisco,CA,Italian,37.79835892,-122.4191055,3,1168,4.5
+195,Blue Plate,rxY7canIJeXtICb6lprUcQ,San Francisco,CA,American (Traditional),37.74523,-122.42033,3,1409,4
+196,Roka Akor - San Francisco,qKVwVCJ_5D0iOxJYE9wSJw,San Francisco,CA,Steakhouses,37.79653914,-122.4038505,4,1235,4
+197,Hakkasan,dN_v0Lu6xhv0yJcx-M0fpg,San Francisco,CA,American (New),37.78771,-122.40385,3,1712,4
+198,Tadich Grill,WxxE5kE8omgQhJE8sWIvmA,San Francisco,CA,Seafood,37.79343156,-122.3994682,3,2369,4
+199,Il Casaro Pizzeria & Mozzarella Bar - North Beach Location,I8T8aoAsFQYwQiRvLBayFA,San Francisco,CA,Italian,37.79852,-122.40739,2,1087,4.5
+200,Tadu Ethiopian Kitchen,xkTx2lxZQptqxNeCBCaArA,San Francisco,CA,Ethiopian,37.7848298,-122.4142271,2,651,4.5
+201,Hogwash,t5OypGYSwYIXKjkEQx3BNw,San Francisco,CA,Gastropubs,37.7891754,-122.4099292,2,1027,4.5
+202,Leopold's,sQavxElZ71EGMrQ1zktn8Q,San Francisco,CA,German,37.79892,-122.42207,2,1036,4.5
+203,The Taco Shop At Underdog's,cx6y2D1Q77R6dEqMOvnL7g,San Francisco,CA,Sports Bars,37.76378,-122.47765,2,1813,4
+204,Thorough Bread & Pastry,MTIqLOBdISaon4G22qb5Lg,San Francisco,CA,Patisserie/Cake Shop,37.76651238,-122.4290349,1,835,4.5
+205,Rusty's Southern,wZv5s1J3xmUkO-x9b8_-yQ,San Francisco,CA,Southern,37.7844,-122.41855,2,956,4.5
+206,Akiko's Restaurant,IRD_9JUjR-06zztisuTdAA,San Francisco,CA,Sushi Bars,37.790582,-122.404653,3,1848,4
+207,Parada 22,TlBFKt2N2eSEBpN-UZmDBw,San Francisco,CA,Latin American,37.76929678,-122.4520651,2,1160,4
+208,Farm : Table,TcbKvh-e1lxywJuN6in5JQ,San Francisco,CA,Coffee & Tea,37.78768,-122.414339,2,1742,4
+209,Perbacco,ztL8KI0ed0snCiK88ZUfNw,San Francisco,CA,Italian,37.79345438,-122.3993366,3,1996,4
+210,Waterbar,7Q3QIZz5UX-JSTSKKkRqDg,San Francisco,CA,Seafood,37.7900429,-122.3886065,3,2972,3.5
+211,La Mediterranee,iZ5VBmyFAZyJCt88KLwhJw,San Francisco,CA,Middle Eastern,37.7900665,-122.4338783,2,1490,4
+212,Smuggler's Cove,15g05u3vgH1CZipI1eIeUA,San Francisco,CA,Venues & Event Spaces,37.77945,-122.42327,2,1717,4
+213,Humphry Slocombe Ice Cream,PpKob6r-Cjz4H8D1roK2lA,San Francisco,CA,Ice Cream & Frozen Yogurt,37.795692,-122.393693,1,1096,4.5
+214,XOX Truffles,qkHlhvv6DrCkvY54ogcPiA,San Francisco,CA,Chocolatiers & Shops,37.80175,-122.41206,1,622,4.5
+215,Roam Artisan Burgers,6wUNarxe7sJTriiqLjZHAA,San Francisco,CA,Burgers,37.79793151,-122.428534,2,1523,4
+216,Cuisine of Nepal,iUockw0CUssKZLyoGJYEXA,San Francisco,CA,Himalayan/Nepalese,37.74097,-122.42318,2,529,4.5
+217,Milkbomb Ice Cream,LFEBCjZ-M3XUFJDszYFX6A,San Francisco,CA,Ice Cream & Frozen Yogurt,37.76475,-122.40077,1,596,4.5
+218,Legion of Honor,J-FkG5x_2Odh61Wnep9cuQ,San Francisco,CA,Museums,37.784927,-122.500802,1,826,4.5
+219,Wonderful Dessert & Cafe,xji2vmCj8kqsbA_cvd5hvw,San Francisco,CA,Candy Stores,37.7633253,-122.479963,1,1248,4
+220,Art's Cafe,MXKWFQHoC0SXy9UI-Djn7g,San Francisco,CA,Diners,37.763926,-122.4657578,1,1089,4
+221,Koo,4GAsfSjaB1XewzS3TKOtTg,San Francisco,CA,Japanese,37.76435855,-122.4624383,3,1097,4
+222,Souvla,kFgjHGp-cTUK5uPaSJOORA,San Francisco,CA,Greek,37.77643,-122.425,2,1295,4
+223,BIX,PzPPcGVg5O4UuW5cTopJhA,San Francisco,CA,American (Traditional),37.79686,-122.40291,3,1781,4
+224,Golden Gate Fortune Cookies,7CR8EP4gV-oYXyNa2-PTcw,San Francisco,CA,Bakeries,37.79577,-122.40725,1,926,4.5
+225,Amélie,OCk8JFBaOw_p2EY6mi5iLQ,San Francisco,CA,Wine Bars,37.79312009,-122.4209065,2,1321,4
+226,Trestle,jcFf2ZnJYL0nWCdIpqiA-g,San Francisco,CA,American (New),37.796127,-122.404495,3,835,4.5
+227,The Alembic,f8fYPWuRB4o225YjPEjq8w,San Francisco,CA,Bars,37.769371,-122.451176,2,1669,4
+228,Dynamo Donut & Coffee,I0UVBT1-k0LqUICRLr9l5A,San Francisco,CA,Coffee & Tea,37.752971,-122.407676,1,1850,4
+229,Limón Rotisserie,chWLsfWUJ5k8-73t9FOM9A,San Francisco,CA,Peruvian,37.76441574,-122.4221344,2,2473,3.5
+230,Cafe Claude,gsf5yf5HS3h8Z8MHpJ4t3w,San Francisco,CA,French,37.79032095,-122.4045239,3,1980,4
+231,Taylor Street Coffee Shop,lvoKIKQ8zD4ZvcbUmImrQg,San Francisco,CA,Burgers,37.7856803,-122.4114826,2,1162,4
+232,Colibri Mexican Bistro,u30abI5AtOKAddJRxUfZTg,San Francisco,CA,Mexican,37.78716065,-122.4106367,2,2318,4
+233,Yummy Yummy,KCVZ0Z5GQgQxduizQ91O1Q,San Francisco,CA,Vietnamese,37.76368,-122.46879,2,1390,4
+234,Liguria Bakery,CfU_8BIc6SX7lhDYAB9Xkw,San Francisco,CA,Bakeries,37.80153,-122.40916,1,707,4.5
+235,Sushi Zone,M175LTlKPJjAWREIUPyMGg,San Francisco,CA,Sushi Bars,37.77116513,-122.4239152,2,1035,4
+236,Izakaya Sozai,pKP6ikrLyM5Gtua13kVoUw,San Francisco,CA,Ramen,37.763879,-122.47413,2,2048,4
+237,Lands End,fGLexj1k40gCUzfAwXF3Yg,San Francisco,CA,Parks,37.78650818,-122.5061411,1,386,5
+238,Park Tavern,4-pWX0F9mi_VlN1IAxweSQ,San Francisco,CA,American (New),37.80113,-122.409,3,1548,4
+239,5A5 Steak Lounge,Q8cYhJGa9pwlu63f-KMV-A,San Francisco,CA,Steakhouses,37.7969972,-122.4000609,3,2162,4
+240,Katana-Ya,F3bL-3Btko-JSupCC2pPAw,San Francisco,CA,Sushi Bars,37.78726,-122.41037,2,4111,3.5
+241,Mourad Restaurant,6Wzy5p_0lLajjMhDIs0i1g,San Francisco,CA,Moroccan,37.78661,-122.4,3,999,4.5
+242,Muracci's Japanese Curry & Grill,7qK2Gwu0afQMtYFSJvvCqQ,San Francisco,CA,Japanese Curry,37.791036,-122.404233,2,1695,4
+243,Hops & Hominy,AoxdFkE06fQs_ZP0S0VRPw,San Francisco,CA,Southern,37.789312,-122.405731,2,2073,4
+244,Kin Khao,kqk5BoCJU59MC9fH0IB4wQ,San Francisco,CA,Thai,37.78522788,-122.4093481,2,2006,4
+245,de Young,RJ3NiTTSl00iT-Hu0-2ktQ,San Francisco,CA,Art Museums,37.771468,-122.468681,1,1578,4
+246,Honey Honey Cafe and Crepery,W1DGoHrkx8qptuWCcWSPLA,San Francisco,CA,Breakfast & Brunch,37.787835,-122.41152,2,2475,4
+247,Ruth's Chris Steak House,Kxwc8PIKy2JsegNwgBjAtA,San Francisco,CA,Steakhouses,37.7905481,-122.4226117,3,2062,4
+248,Fresh Brew Coffee,U9HWtltvf_U2y1wYSOwFUA,San Francisco,CA,Coffee & Tea,37.79001,-122.41177,1,556,4.5
+249,Lapisara Eatery,0mNzmmh1mrdh5Cpg2QUBiw,San Francisco,CA,Breakfast & Brunch,37.7878344,-122.4131853,2,608,4.5
+250,Roy's Restaurant,iWUSAD2WALWNFF0pPiomHA,San Francisco,CA,Seafood,37.7881,-122.3991,3,2258,4
+251,Truly Mediterranean,0QydZwQebF1b36i9OwHppA,San Francisco,CA,Mediterranean,37.764755,-122.422263,1,1177,4
+252,Cockscomb,oaBpGm6woGN69J9iRqu0Fw,San Francisco,CA,Bars,37.77865,-122.39733,3,1199,4
+253,Stella Pastry & Cafe,Av-PbVkajf1XrgqIS8POSQ,San Francisco,CA,Bakeries,37.79918,-122.40828,1,1291,4
+254,Lime Tree Southeast Asian Kitchen,sp4Axlo-ddvYpl8xUeUsVw,San Francisco,CA,Singaporean,37.764337,-122.462736,2,1482,4
+255,San Francisco Botanical Garden,wHhA0cdo0Qzugga1LupN8A,San Francisco,CA,Botanical Gardens,37.767674,-122.469326,1,554,4.5
+256,Skool,ZN7x2duyVesVVzlhWJNamQ,San Francisco,CA,Seafood,37.7685097,-122.4021363,2,1718,4
+257,North India Restaurant,gR9DTbKCvezQlqvD7_FzPw,San Francisco,CA,Indian,37.78778912,-122.3993057,2,1582,4
+258,Hai Ky Noodles,wCf2GGyEOkaSFE0xCYpgOA,San Francisco,CA,Chinese,37.7840538,-122.4179535,1,917,4.5
+259,Saru Sushi Bar,6TL8udi-vy_5rH-wikMSoA,San Francisco,CA,Sushi Bars,37.751706,-122.4288283,3,818,4.5
+260,SusieCakes,MKjhQLLVP0udUB6P-rv_Aw,San Francisco,CA,Bakeries,37.80045,-122.4381,2,1122,4
+261,Bistro Central Parc,W97siDhQbWIVa0MEpcq9iA,San Francisco,CA,French,37.775023,-122.44427,3,924,4.5
+262,Betty Lou's Seafood & Grill,OH3GLEJvGhbER4d3xMuPIA,San Francisco,CA,Seafood,37.79827248,-122.4070575,2,692,4.5
+263,Rich Table,Xdx2_n3nk9Td_aSe7E5ARQ,San Francisco,CA,American (New),37.77485,-122.42284,3,1170,4
+264,Aha Fresh,3sGEIoyXkMmc1YX1TYkSMg,San Francisco,CA,Breakfast & Brunch,37.751351,-122.432183,2,982,4
+265,Brenda's Meat & Three,UbKrcsBaZoaBkBOajEX08g,San Francisco,CA,Soul Food,37.77814892,-122.4385513,2,1038,4
+266,Seward Street Slides,jsZQijuwRzy1oJN0jTmqaw,San Francisco,CA,Parks,37.75791894,-122.4398138,1,538,4.5
+267,Fino Ristorante & Bar,rj3zIk7t9ySGMxVGGTA8gg,San Francisco,CA,Italian,37.78798807,-122.4122871,3,1141,4
+268,Home,Bsz2u4raa8xNolhl3PDV2Q,San Francisco,CA,Coffee & Tea,37.782323,-122.480993,2,576,4.5
+269,Lazy Bear,uBaXDGwJPUkOSLWxS2vZ9Q,San Francisco,CA,American (New),37.76041,-122.41969,4,577,4.5
+270,Swensen's Ice Cream,cf6el4kGXe686x4Kb6F18Q,San Francisco,CA,Ice Cream & Frozen Yogurt,37.799191,-122.419276,1,1033,4.5
+271,Loving Cup,8LEnV8Z0-YKPWb1nLKgQHQ,San Francisco,CA,Desserts,37.798653,-122.422157,1,1081,4
+272,Topsy's Bar,TjKw7TV8XCWc-w-kjKWPyg,San Francisco,CA,Cocktail Bars,37.7905828,-122.4038175,2,659,4.5
+273,Off the Grid: Fort Mason Center,C7VHU3Cp6AprIKStbPvQXA,San Francisco,CA,Food Trucks,37.805503,-122.431801,2,1012,4
+274,Bobo's,yNU6sPRWzVl0ngCRqat1TQ,San Francisco,CA,Steakhouses,37.80140888,-122.4257441,3,2061,4
+275,Sushi Bistro,TmXkYM0N-FjrMasxj5uXsA,San Francisco,CA,Sushi Bars,37.77701,-122.4635,2,1520,4
+276,Zushi Puzzle,u2qFhVAiH3kQIGhEW6PmMA,San Francisco,CA,Sushi Bars,37.80052,-122.43308,3,1333,4
+277,Trattoria Contadina,6e7gMgVJRQ5rtkIbTF6TLQ,San Francisco,CA,Italian,37.80018,-122.41228,2,1335,4
+278,Baker Beach,fTlqRlDPtOMayvZM46LVlA,San Francisco,CA,Parks,37.79052988,-122.4834643,1,722,4.5
+279,Miette Patisserie,mUbk7FCM1R9gSko6EMdU2A,San Francisco,CA,Bakeries,37.79601,-122.393979,2,1548,4
+280,Japanese Tea Garden,JcVzpOTp7OH6l8AsM_wGdQ,San Francisco,CA,Tea Rooms,37.77008973,-122.4703147,1,1373,4
+281,Tataki,r2jiJk3yivcLkWSSYELGcA,San Francisco,CA,Sushi Bars,37.78783905,-122.4412277,2,1258,4
+282,Han Il Kwan,eBxkmr-hJ2KgpZQzEO3ArQ,San Francisco,CA,Korean,37.77675,-122.4783,2,1565,4
+283,The Sentinel,kEhq0qT_JFxgeh-pCS4lPA,San Francisco,CA,Sandwiches,37.78829778,-122.4013724,1,1291,4
+284,The Italian Homemade Company,FRpULkKmvD9caSKabQzq5w,San Francisco,CA,Italian,37.79742,-122.43097,2,861,4.5
+285,Yasukochi's Sweet Stop,EfkCyCaKoUFVdkRoi2prMw,San Francisco,CA,Bakeries,37.78673,-122.42978,2,564,4.5
+286,Starbelly,J7_-faNq_Ag9qTOlDn81Pw,San Francisco,CA,Comfort Food,37.764096,-122.432574,2,1789,4
+287,Broken Record,QCQ3WN7hd9xMPs2_ycHa_A,San Francisco,CA,Dive Bars,37.71426,-122.437,1,1236,4
+288,Boiling Hot Pot,Y43L1WlyrpDWVwAj6NF-VA,San Francisco,CA,Hot Pot,37.7806682,-122.4786992,2,831,4.5
+289,Pakwan Restaurant - 16th Street,zf62D_W7iGzgdV6U_CeApQ,San Francisco,CA,Indian,37.7649157,-122.4237774,2,1714,4
+290,Flour + Water,qs7FgJ-UXgpbAMass0Oojg,San Francisco,CA,Italian,37.75892,-122.41231,3,2248,3.5
+291,Sutro Baths,nS8Mlt5NRvjLiIHd2RBGDw,San Francisco,CA,Beaches,37.77998368,-122.5137377,1,491,4.5
+292,Old Skool Cafe,2oj_6uCp4DgVTJhYqEmBbA,San Francisco,CA,Soul Food,37.734266,-122.390515,2,545,4.5
+293,Nopalito,055dTcfz2AOAFPed_2KjEQ,San Francisco,CA,Mexican,37.7734353,-122.438993,2,1840,4
+294,Marugame Udon,q1Mv7oQSOorl4a9zbtl-rQ,San Francisco,CA,Japanese,37.72856,-122.47688,2,1515,4
+295,Salt & Straw,CB5FsH1m4D0R5wZ0JFmKzw,San Francisco,CA,Ice Cream & Frozen Yogurt,37.7766412,-122.4259532,2,476,4.5
+296,Hinodeya Ramen Bar,Fe-YjAdSRLqDC2H_pqPcSw,San Francisco,CA,Ramen,37.78615746,-122.4300571,2,965,4
+297,Super Duper Burgers,uK9gleO9ufjw53z-qekWaw,San Francisco,CA,Burgers,37.7846045,-122.4038825,2,1328,4
+298,Just For You Cafe,N6z0so39b9fzGi8UWzI1Ww,San Francisco,CA,American (Traditional),37.75795851,-122.388854,2,1398,4
+299,Asian Art Museum,s3kwbvB8qAzZUtV0rSlypg,San Francisco,CA,Art Museums,37.7796308,-122.4165973,1,721,4.5
+300,Crepevine Restaurant,527usXXrlHi46bs54IFRTQ,San Francisco,CA,Creperies,37.76435,-122.46467,2,1555,4
+301,KitTea Cat Cafe,D1GB7el1CaX-22CkX94zfw,San Francisco,CA,Themed Cafes,37.7739346,-122.4222081,2,703,4.5
+302,Polly Ann Ice Cream,2kigSyi7myx0-34YATi-Xw,San Francisco,CA,Ice Cream & Frozen Yogurt,37.753435,-122.497758,1,1233,4
+303,Papalote Mexican Grill,jwb3vTh8rn3OsN9wlI56-Q,San Francisco,CA,Mexican,37.75194,-122.42094,2,2178,3.5
+304,Dragon Beaux,Su1ay8vJyKsHZKQG_eluaA,San Francisco,CA,Seafood,37.7805,-122.4807,2,1465,4
+305,House Of Pancakes,DQy0uYB0kym-s3oZZRxs5Q,San Francisco,CA,Chinese,37.742904,-122.476349,1,928,4
+306,Pho Huynh Hiep 2 - Kevin's Noodle House,Bfc3RwM7UAEohk9e19Q1xw,San Francisco,CA,Vietnamese,37.763338,-122.477795,1,1610,4
+307,Boba Guys,18TtLS_JtiS2OH30FLqNrw,San Francisco,CA,Bubble Tea,37.75994,-122.42112,1,1431,4
+308,The Little Chihuahua,7rUZnmRVyCpq4TrB9Brsiw,San Francisco,CA,Mexican,37.7720399,-122.43688,2,1459,4
+309,Universal Cafe,DlLsw9bJMJ-YdnrUp2G7mw,San Francisco,CA,Breakfast & Brunch,37.76062,-122.41064,2,1339,4
+310,Basa Seafood Express,imHjAJ9uuUK_PNkzT9kCag,San Francisco,CA,Seafood,37.75276,-122.41338,1,632,4.5
+311,Cordon Bleu,Di4kb-1tnjP5OKFuV8qbUA,San Francisco,CA,Vietnamese,37.7907203,-122.4205111,1,1053,4
+312,Delancey Street Restaurant,SvpTxa_8_tclKB6Tk298dQ,San Francisco,CA,American (Traditional),37.78435697,-122.3884369,2,1562,4
+313,The Stinking Rose,ZiF9L8JML7kwfOi989OaTQ,San Francisco,CA,Italian,37.7982486,-122.4073904,2,3907,3.5
+314,Cinderella Bakery & Cafe,hpWcjUQ0dhXRN-2wUWQYCQ,San Francisco,CA,Bakeries,37.77745,-122.46374,2,933,4
+315,The Flying Falafel,y97u_oCqjAjstK4YOY9ygA,San Francisco,CA,Falafel,37.7812488,-122.411304,1,884,4.5
+316,Franchino,kgKMZc97EdDaq77dtTqqNQ,San Francisco,CA,Italian,37.79833,-122.40757,2,1096,4
+317,Local Edition,jp4X-7QjdffRBab9XMf2Bg,San Francisco,CA,Lounges,37.78759,-122.4031601,2,1588,4
+318,Gialina Pizzeria,fAaxYP_sc03MV57trhBNPA,San Francisco,CA,Pizza,37.73405,-122.43424,2,1095,4
+319,Fort Point,kiUnW44GC-nNaRXpAeZ6NQ,San Francisco,CA,Landmarks & Historical Buildings,37.810621,-122.477052,1,376,5
+320,Sushirrito,rMuLW1qVB-deU5NStYerWA,San Francisco,CA,Japanese,37.79022418,-122.4037662,2,1493,4
+321,Grandview Park,dvUv35RQlpjA4rHzqJ_MzQ,San Francisco,CA,Parks,37.75627,-122.47127,1,317,5
+322,Marnee Thai,JSWgCOJ3zuegIhkTAfW7yQ,San Francisco,CA,Thai,37.76513,-122.46671,2,1620,4
+323,Yamo,D1-_5ff4aic1-7rLqzUd4g,San Francisco,CA,Burmese,37.76194633,-122.4197646,1,1949,3.5
+324,Nopalito,bBa6-Hhe56m1RH-12IOXMw,San Francisco,CA,Mexican,37.76540958,-122.4662815,2,1294,4
+325,Old Jerusalem Restaurant,pzTBJAR0dr3xQ4tjF7ageg,San Francisco,CA,Middle Eastern,37.7495007,-122.4184218,2,1051,4
+326,Box Kitchen,GyBh5QsGham__kK7eJ2feQ,San Francisco,CA,Food Stands,37.78115108,-122.4063651,2,791,4.5
+327,Outerlands,aIgbg-WdNmgBb-V63RfRUg,San Francisco,CA,Breakfast & Brunch,37.76025391,-122.5050201,2,2234,3.5
+328,Ritual Coffee Roasters,VOoHZDC-dgDUzTSsmgESOQ,San Francisco,CA,Coffee & Tea,37.75642,-122.42137,2,1897,4
+329,Yank Sing,SAFRM460dH7LHqYVAdoWgA,San Francisco,CA,Dim Sum,37.79272241,-122.3931266,3,2531,3.5
+330,Baonecci Ristorante,gtIud2JPu_tW3LMldEOUaw,San Francisco,CA,Pizza,37.799824,-122.407833,2,954,4.5
+331,Amber India,dC_kA-R2qb-0iEmoI4VKPg,San Francisco,CA,Indian,37.78580903,-122.4045396,3,2053,4
+332,Dumpling Kitchen,BI40rGhpngLNPacrjWpseQ,San Francisco,CA,Chinese,37.7423,-122.48701,2,1453,4
+333,Chez Maman West,9hUYiiyPe0QOu8Oezq_yqQ,San Francisco,CA,French,37.776988,-122.423164,2,1097,4
+334,Crossroads Cafe,t_89aTecX2_eFBUto_dCPw,San Francisco,CA,Coffee & Tea,37.7831325,-122.3890356,1,970,4
+335,Stonemill Matcha,LV9GJW3NCHgMRbnWo_5xgw,San Francisco,CA,Cafes,37.76401,-122.4215,2,720,4
+336,Kabuto Restaurant,7iiWJyo_N5rGz4agqe9EbA,San Francisco,CA,Sushi Bars,37.78031,-122.47441,3,1014,4
+337,Super Duper Burgers,hXeusGZQvH5oMxaR6XgYwA,San Francisco,CA,Burgers,37.764028,-122.433706,1,1269,4
+338,Pier Market Seafood Restaurant,HaAb_L9zVNLjJwrBkSf_Vw,San Francisco,CA,Seafood,37.80993865,-122.4105504,2,1974,4
+339,Dinosaurs,yC5ATYRQah7MjeTiRsGcvA,San Francisco,CA,Vietnamese,37.76441547,-122.4318349,1,884,4
+340,Alimento,v5-upYI3belSfXOeT1dNWw,San Francisco,CA,Gelato,37.799643,-122.409622,1,675,4.5
+341,Black Sugar,F4YgPOvuCClXTwB9PJk8Qg,San Francisco,CA,Tea Rooms,37.78642,-122.41032,1,593,4.5
+342,Lyon Street Steps,5ZoeIusBHVOP1Fip5Hydtw,San Francisco,CA,Landmarks & Historical Buildings,37.79469,-122.44675,1,327,5
+343,Little Delhi,Qr0dBKxCtWWUr9bJ74aWQA,San Francisco,CA,Indian,37.78416,-122.40901,2,1898,4
+344,Delarosa,QQkroHtwS96-dzMpT4a-DA,San Francisco,CA,Italian,37.800287,-122.4391102,2,1476,4
+345,Piccolo Forno,o43B4DnnQbvkdDK6AVafQg,San Francisco,CA,Pizza,37.80136993,-122.411981,2,536,4.5
+346,Atelier Crenn,c3khi7kxBaA2ATUuMjtMZA,San Francisco,CA,French,37.79833156,-122.4358795,4,701,4.5
+347,Walzwerk,ISCijFt3uO4M7yzclSwEuw,San Francisco,CA,German,37.7672658,-122.4175768,2,977,4
+348,Oasis Grill,gBRjRvIfA4fIo6pNebTjuA,San Francisco,CA,Mediterranean,37.79444642,-122.3967365,2,1232,4
+349,Pork Store Cafe,eOCVoXsOEnbr9c89RD0UEQ,San Francisco,CA,Breakfast & Brunch,37.76997,-122.44623,2,1339,4
+350,Rickhouse,f9ikTGTJL5RgvVKbQLNh4w,San Francisco,CA,Cocktail Bars,37.79049683,-122.403595,2,1581,4
+351,Roam Artisan Burgers,4eaK2-Q0dEXWMr5SOoV_Sg,San Francisco,CA,Burgers,37.787682,-122.433853,2,1172,4
+352,Press Club,Fvn-UN7IQvxlfLBpJdbMUA,San Francisco,CA,Wine Bars,37.78595317,-122.4046469,3,1176,4
+353,Manna,tr15WgMHIC_W2gqBpuk3-A,San Francisco,CA,Korean,37.76384,-122.46708,2,1019,4
+354,The Richmond,1KbZaqEdZkn6LHlA55M64g,San Francisco,CA,Wine Bars,37.77702,-122.46534,3,666,4.5
+355,Toronado,hRx9n9PJ7FLmoi9GwoFg3g,San Francisco,CA,Dive Bars,37.77183,-122.43114,1,1772,4
+356,Cotogna,HVJdo4f_6MxkM_1aCAK3NA,San Francisco,CA,Italian,37.7975,-122.40336,3,1410,4
+357,Barbacco,Wd5ho0_FKk9n7uV8pSCYIg,San Francisco,CA,Italian,37.79359212,-122.3993386,2,1587,4
+358,The Rotunda,QhXJqmPoR6jyCf44ck7Sxg,San Francisco,CA,American (New),37.78741174,-122.4063565,3,1620,4
+359,Greens Restaurant,ssI9ivccrDBT-RH_52fPBQ,San Francisco,CA,Vegetarian,37.8053224,-122.432264,3,1994,4
+360,Little Skillet,SdI0uCelI4ihCwGyMLv03A,San Francisco,CA,Soul Food,37.778851,-122.393937,2,1969,3.5
+361,Montesacro Pinseria SF,ikkPHZqQQ2UU2hGFyBuffQ,San Francisco,CA,Pizza,37.7815976,-122.410121,2,647,4.5
+362,Pica Pica Arepa Kitchen,_Iupdt0IslH_jU8zkKcWLA,San Francisco,CA,Gluten-Free,37.766409,-122.421714,2,1471,4
+363,Gamine,RM1ioN-76NzXDbfv63GhTQ,San Francisco,CA,French,37.7968797,-122.4359489,2,881,4
+364,El Metate Restaurant,2y2lTn53XJCGFh8lkXJ8OA,San Francisco,CA,Mexican,37.75567453,-122.4096238,1,1095,4
+365,Butter,SEZpdigGSqVNWnyANNIMeA,San Francisco,CA,Dive Bars,37.771019,-122.413343,1,1120,4
+366,Zeitgeist,UXru0FThfONxJQ95oPnaBw,San Francisco,CA,Dive Bars,37.77003,-122.4221,1,2623,3.5
+367,The American Grilled Cheese Kitchen,gxb1-SxUSEIskQg-nNcO-A,San Francisco,CA,Breakfast & Brunch,37.782229,-122.392869,2,1492,4
+368,Eiji,#NAME?,San Francisco,CA,Sushi Bars,37.764058,-122.430685,2,1071,4
+369,Palmyra,ZD5-5Gu44WrcsYtw7qMgiw,San Francisco,CA,Mediterranean,37.771851,-122.433937,1,844,4
+370,Pizzeria Delfina - Pacific Heights,wPJjpOZ0mnsajJLBkWUnwA,San Francisco,CA,Pizza,37.789104,-122.434441,2,1460,4
+371,Hunan Home's Restaurant,cHoNUKltOAJWSmNfsZ1h-w,San Francisco,CA,Chinese,37.79640579,-122.4056549,2,2098,4
+372,Piccino,i2VhtC1JkV_sZOA4urd1ng,San Francisco,CA,Italian,37.75762,-122.38992,2,1379,4
+373,Picaro,KRcMsXmeILmC8OXmcXOQgA,San Francisco,CA,Spanish,37.76513,-122.42245,2,1532,4
+374,Alamo Square,HSLPjCmw6r_LrzmrNVScsw,San Francisco,CA,Parks,37.77565724,-122.432985,1,507,4.5
+375,Perilla,RNy3_hU1N2qyS5PVc9RaYQ,San Francisco,CA,Vietnamese,37.76415,-122.46711,2,1248,4
+376,Wooly Pig,Id2aVe9l5YQlHtlXnGye-Q,San Francisco,CA,Sandwiches,37.76066216,-122.3884211,1,645,4.5
+377,Patxi's Pizza,WLqqZYTeo6wFXuCFtlweqA,San Francisco,CA,Pizza,37.77649,-122.425,2,2229,3.5
+378,NightLife,B_PStt9QFGs4BrgNxegbjg,San Francisco,CA,Museums,37.76979881,-122.4667025,2,945,4
+379,Roma Antica,B09WOy0W83Od-Xw4xEXxog,San Francisco,CA,Italian,37.79989,-122.4408,2,517,4.5
+380,Prospect,0Sh-XNVgGDRwiN4K3UEQJA,San Francisco,CA,American (New),37.78995261,-122.390914,3,1543,4
+381,Conservatory of Flowers,TRN1vdp0-og9M-3AgKmZZg,San Francisco,CA,Botanical Gardens,37.77250417,-122.4587631,1,556,4.5
+382,Basil Thai Restaurant & Bar,lL-Zq1hlHreP7qAA2sVqNg,San Francisco,CA,Thai,37.7753334,-122.4091797,2,1481,4
+383,My Tofu House,KhG-jWIr7-TJj3isz3ZIFQ,San Francisco,CA,Korean,37.7806563,-122.4691286,2,1639,4
+384,The New Spot On Polk,7bO6OHn52SJP4Mi3U-XflQ,San Francisco,CA,Breakfast & Brunch,37.798839,-122.422409,2,580,4.5
+385,Fat Angel,W0mlelgnkSPU3ELhyzkXHA,San Francisco,CA,Bars,37.78338529,-122.4331856,2,815,4
+386,Mozzeria,chZfJOs022rr8DufI4r3Uw,San Francisco,CA,Pizza,37.76489,-122.42488,2,766,4.5
+387,Good Luck Dim Sum,o8mLw7SrcTPis4NcvLzsOw,San Francisco,CA,Dim Sum,37.78307724,-122.4672012,1,1556,4
+388,Mikkeller Bar,A4dzocYPoer0llJydoQU-g,San Francisco,CA,Gastropubs,37.783976,-122.408981,2,1203,4
+389,Wako Japanese Restaurant,bE_1J-17ut6t6bvNhkkxSw,San Francisco,CA,Japanese,37.78283,-122.46148,4,529,4.5
+390,Rye,GIm5jbvmymBNo_e7Y84efw,San Francisco,CA,Lounges,37.78677,-122.41461,2,1300,4
+391,Tín Vietnamese Cuisine,p1oiqn-SkMrQG0lT3V6jIA,San Francisco,CA,Vietnamese,37.780772,-122.40568,2,1235,4
+392,Beanstalk Cafe,O0iAR6OBHXqFtK4nKO9g2Q,San Francisco,CA,Coffee & Tea,37.79015176,-122.4092884,1,828,4
+393,Vive La Tarte,4qC4rdMhPBV-BDI-ET2ijg,San Francisco,CA,Bakeries,37.7769811,-122.4109073,2,528,4.5
+394,CoffeeShop,KRDQab-AjHP66pcbkbc5qQ,San Francisco,CA,Coffee & Tea,37.747,-122.41865,2,343,4.5
+395,The Hidden Vine,bJm7lxFjXPTg1yJ3WBikMg,San Francisco,CA,Wine Bars,37.79555,-122.40072,2,787,4.5
+396,SPQR,uEucSd4jwY_zb10AcEye_g,San Francisco,CA,Italian,37.78725,-122.43376,3,1933,3.5
+397,Crab House at Pier 39,kWrVV4mS-SLy-Ph_DeJSAg,San Francisco,CA,Seafood,37.80942689,-122.4103653,3,2177,3.5
+398,Hinata,yD9-WrXijc_grVmi_zkCfQ,San Francisco,CA,Sushi Bars,37.78324,-122.42048,4,459,4.5
+399,Gott's Roadside,qXUzHmPdbGEt5EKSdWqbmg,San Francisco,CA,Ice Cream & Frozen Yogurt,37.79617861,-122.3941098,2,2639,3.5
+400,"La Boulangerie de San Francisco, Pine",tQE4SPlX9ZlFSbF4JPU4pg,San Francisco,CA,Bakeries,37.78762,-122.43403,1,748,4.5
+401,Bouche,mfD5wlWS6tY92FJHDcBwJA,San Francisco,CA,French,37.79020106,-122.4073613,3,760,4.5
+402,Serpentine,68-n3xi30GwhEvkElVNgiw,San Francisco,CA,American (New),37.75810027,-122.3881888,2,1507,4
+403,Sanraku,cjfJOMF6hpE7bX0ESWdAEg,San Francisco,CA,Japanese,37.7889514,-122.4124289,2,1651,4
+404,Udupi Palace,8ZmEszI4ZMncK9kuJYQjuA,San Francisco,CA,Indian,37.75667,-122.42091,2,1341,4
+405,Mazarine Coffee,asOdajhfMCSx_x60j4D42w,San Francisco,CA,Coffee & Tea,37.78757998,-122.4040565,2,763,4
+406,Ananda Fuara,ZWvXWUhJUBph9Ip1a2j-xw,San Francisco,CA,Vegetarian,37.77798,-122.4162,2,1067,4
+407,a Mano,XhJ6ZYagcWNHpJ1H1KvNlQ,San Francisco,CA,Italian,37.77696388,-122.4238685,2,813,4
+408,Hopwater Distribution,mbmJRdYFNUKeV_toR0KfVA,San Francisco,CA,American (Traditional),37.78995385,-122.411339,2,697,4.5
+409,Thai Idea Vegetarian,f8kY-c4xNHanSwQuI3nYGg,San Francisco,CA,Thai,37.7834938,-122.4190575,2,719,4.5
+410,Carmel Pizza Company,IhVsaINdU_Syqp23JuKzrA,San Francisco,CA,Pizza,37.80759703,-122.4173284,2,787,4.5
+411,Cafe Bunn Mi,Ep3VtYXc-wvSAp8SaEGa_Q,San Francisco,CA,Vietnamese,37.78273,-122.46369,1,1192,4
+412,Joe's Ice Cream,#NAME?,San Francisco,CA,Ice Cream & Frozen Yogurt,37.78077,-122.47777,1,823,4
+413,San Francisco's Hometown Creamery,iTJ3jZ-dli9WLOrVsFXr6A,San Francisco,CA,Ice Cream & Frozen Yogurt,37.7643108,-122.4661588,1,725,4
+414,Bluestem Brasserie,dhTrfvdlpFE33USafJ3cjQ,San Francisco,CA,Brasseries,37.785985,-122.404921,3,1673,4
+415,Marnee Thai,pYk2UZ_AUGWO4s8YFepRHQ,San Francisco,CA,Thai,37.76311,-122.4818,2,1775,4
+416,Kingdom of Dumpling,r19XhpINtQxhMwB0eKnmjA,San Francisco,CA,Dim Sum,37.74246003,-122.4846341,1,2034,3.5
+417,Chloe's Cafe,uXfKnbkDgtIPKw48MeQdKA,San Francisco,CA,Breakfast & Brunch,37.74863512,-122.4269552,2,982,4
+418,Capo's by Tony Gemignani,OEBWAAJ3FmcseeP1oNwzBQ,San Francisco,CA,Italian,37.7985156,-122.4084149,2,780,4.5
+419,Cha-Ya,29lhGyTOtiWGkLCWDJZZFg,San Francisco,CA,Japanese,37.760753,-122.421787,2,1169,4
+420,Miyako Old Fashioned Ice Cream,L3_71hwGHkr38nZ2daksuA,San Francisco,CA,Ice Cream & Frozen Yogurt,37.78309914,-122.432462,1,327,4.5
+421,The Grove Yerba Buena,4_hIVof0Q8dfUBwlREOEGg,San Francisco,CA,Sandwiches,37.786555,-122.401971,2,1912,3.5
+422,Ozumo,PNxwbgtfdpldd3CyJFIw3w,San Francisco,CA,Sushi Bars,37.79266872,-122.3923726,3,2122,3.5
+423,In-N-Out Burger,_RysiB_bqTgCBmG8W96H4A,San Francisco,CA,Fast Food,37.80775,-122.41853,1,1800,4
+424,Original Joe's,GtKxIGU6LJu14UErdNulmQ,San Francisco,CA,Italian,37.80021,-122.40945,2,1373,4
+425,Burma Love,7tsN9N9mhfJRNTe37pLFMg,San Francisco,CA,Burmese,37.76961,-122.42205,2,1107,4
+426,Tselogs,#NAME?,San Francisco,CA,Filipino,37.78656,-122.41295,1,575,4.5
+427,The Pink Elephant Alibi,XjViuoOVtkQQtPfqdaIHVA,San Francisco,CA,American (New),37.78682,-122.40049,2,1176,4
+428,Beard Papa's,-6VcjD0CMrsxFr9g_y0QIA,San Francisco,CA,Bakeries,37.784534,-122.406556,1,1020,4
+429,Nob Hill Cafe,yNMCITEPGh6cgqd6VDfQOg,San Francisco,CA,Italian,37.793182,-122.412648,2,1306,4
+430,Arizmendi Bakery,_2_1FQO_DGzeCTky0x9DQA,San Francisco,CA,Bakeries,37.75255792,-122.4210748,1,601,4.5
+431,Sushi Time,OzFb5aZuA3RGV_YZlxorNg,San Francisco,CA,Japanese,37.76455,-122.43206,2,704,4
+432,Pläj Scandinavian Restaurant & Bar,feufnVt4k_t2eJakDU1bAw,San Francisco,CA,Scandinavian,37.7787285,-122.4222183,3,659,4
+433,Town Hall,Tyn-UqOTpVHtZAgrB0lWyQ,San Francisco,CA,American (New),37.7895383,-122.3949794,3,1929,3.5
+434,Coit Tower,efJYZuvYICyzJJYBO-sGvw,San Francisco,CA,Landmarks & Historical Buildings,37.80237947,-122.4058379,1,883,4
+435,Michael Mina,5I3fM8fRdkJdKL-_BJ1qvw,San Francisco,CA,Middle Eastern,37.7934609,-122.3996416,4,1198,4
+436,Saint Frank Coffee,AsmIi9jXkb9ACliVB4Fp9w,San Francisco,CA,Coffee & Tea,37.798473,-122.422026,1,656,4.5
+437,Twenty Five Lusk,zvIbFkcZwqhTuDF7t7eQsQ,San Francisco,CA,American (New),37.778506,-122.394342,3,1418,4
+438,Lombard Street,zTIN_rpW3koEcoEmGN3DwA,San Francisco,CA,Local Flavor,37.80209576,-122.4188353,1,753,4
+439,Myriad Gastropub,l7xUpaUBzsh32M7b8yWGfA,San Francisco,CA,Gastropubs,37.757248,-122.418733,2,583,4.5
+440,Omakase,WpcWACqlAodx5dbe5GJWZA,San Francisco,CA,Sushi Bars,37.77067191,-122.4028886,4,438,4.5
+441,Taqueria Guadalajara,1dwJK21zm7cuhUKdROWJXQ,San Francisco,CA,Mexican,37.72129074,-122.437459,1,927,4
+442,Farallon,4raSXRuvBH1CHawSsuJiBA,San Francisco,CA,Seafood,37.78832916,-122.4093117,3,1583,4
+443,Live Sushi Bar,j_YtZXamd5GHfL-BhfkiLQ,San Francisco,CA,Sushi Bars,37.764681,-122.4036308,2,1228,4
+444,Volcano,WnQoN1uV65vacUj0q1TgoQ,San Francisco,CA,Japanese Curry,37.78067,-122.47802,1,1114,4
+445,Urban Ritual,VQPtsRVNTFkFptcXDTtIyg,San Francisco,CA,Bubble Tea,37.77576,-122.42585,1,468,4.5
+446,St. Francis Fountain,Zx_VDLeaFdnMFkGyorDZtQ,San Francisco,CA,Breakfast & Brunch,37.7527199,-122.40834,2,1161,4
+447,Bandit,cwLN5xjMi6UJ14QmEtEs4A,San Francisco,CA,Burgers,37.7864,-122.41451,2,362,4.5
+448,15 Romolo,m0ip9nECwVVjfjulwrKisQ,San Francisco,CA,Tapas/Small Plates,37.7981914,-122.4063459,2,1056,4
+449,Home Plate,kesgk8dCRyg3qRDYpuAKGg,San Francisco,CA,Breakfast & Brunch,37.800044,-122.437191,2,1082,4
+450,Mr Pollo,s_ni_uFL3rczrNiGQmyXHw,San Francisco,CA,American (New),37.7518828,-122.4183969,2,587,4.5
+451,Hard Knox Cafe,NGIJa15WL41RKgIh9x6RAg,San Francisco,CA,Soul Food,37.78222,-122.48574,2,1668,3.5
+452,El Castillito,1ULAxKR5_7RWzQ4CRJD1hg,San Francisco,CA,Mexican,37.76887438,-122.4292374,2,835,4
+453,Ocean Beach,H8naPxTB9BUQJTRcQuoXtA,San Francisco,CA,Parks,37.77028487,-122.5109904,1,837,4
+454,Canela Bistro & Wine Bar,zK9-A4cIZwOUMpGBDz25DA,San Francisco,CA,Spanish,37.764878,-122.432438,2,620,4
+455,Plentea - San Francisco,vMiM0kaavveZZ61lBe-LJg,San Francisco,CA,Tea Rooms,37.79142644,-122.404249,1,1922,3.5
+456,Arinell Pizza,QjnmVuqVArA7d-syiUCiUw,San Francisco,CA,Pizza,37.76469072,-122.4217121,1,1145,4
+457,Golden Era Vegan Restaurant,ww-HKAff5xmQbiXgO-KcSQ,San Francisco,CA,Vegan,37.78147345,-122.4168358,2,607,4.5
+458,Nojo Ramen Tavern,1IqqA8pcuCIWJtuKfHwU8g,San Francisco,CA,Ramen,37.77669,-122.42151,2,773,4
+459,Pacific Catch,3bxO8T8U96uKu2numljjsw,San Francisco,CA,Seafood,37.76567,-122.46619,2,1751,3.5
+460,Pazzia Ristorante Italiano,0LVKwqqzwiUnGtKFo7f6AA,San Francisco,CA,Italian,37.78341516,-122.398017,2,961,4
+461,San Francisco Museum of Modern Art,d02DobgJ7kyspSSHz6NrZA,San Francisco,CA,Art Museums,37.785716,-122.40105,1,624,4
+462,House of Nanking,C0whbbQhUMBv8X-Mmtqrcg,San Francisco,CA,Chinese,37.79649,-122.405392,2,3341,3.5
+463,Breakfast at Tiffany's,ZdKUKq7A94x9cEobARf2cA,San Francisco,CA,Diners,37.73045383,-122.404732,2,853,4
+464,Bursa,OeTD5HlXMjrmztfu02niQQ,San Francisco,CA,Middle Eastern,37.74036,-122.46674,2,775,4
+465,Shalimar,6KhSJxwHTQqHiaT35TDkQQ,San Francisco,CA,Pakistani,37.78627228,-122.4129461,2,1412,4
+466,The Yellow Submarine,o0SCABG4LGBKmIjiIB6WIQ,San Francisco,CA,Sandwiches,37.76402,-122.46337,1,891,4
+467,Cafe de Casa,x29tzG5M7VbZhpG1jcREKQ,San Francisco,CA,Coffee & Tea,37.8061099,-122.41892,2,382,4.5
+468,Daeho Kalbijjim & Beef Soup,dY0Mc_PHH6nLENvWmVtwxQ,San Francisco,CA,Korean,37.78601,-122.42858,2,470,4.5
+469,Curry Leaf,c70nh-BV7Nn_rnNXDXnABg,San Francisco,CA,Indian,37.80308,-122.41452,2,609,4.5
+470,Firenze by Night Ristorante,GJ0eh6qBV0NjVwmPQUkHXQ,San Francisco,CA,Italian,37.79887,-122.4091,2,986,4
+471,La Palma Mexicatessen,bNvaWa9wSLHjlFlrD7i9Ow,San Francisco,CA,Mexican,37.75297,-122.40994,1,625,4.5
+472,Phat Philly,UU10C7_zKoZZzAvOvz96oQ,San Francisco,CA,Sandwiches,37.75224,-122.42037,2,1012,4
+473,New Eritrea Restaurant & Bar,u6AFSw9Hawsjhf7hmFdoSg,San Francisco,CA,Ethiopian,37.76384,-122.46764,2,724,4
+474,Haight Street Market,Yi37TP021npWZsOPeZ2Xqw,San Francisco,CA,Grocery,37.77021,-122.44758,2,462,4.5
+475,Lahore Karahi,5zKrxtjKK09F_Dwgs5Kxwg,San Francisco,CA,Indian,37.78568,-122.4149,1,1403,4
+476,Jane on Fillmore,Xc_ZRIqAbNfUb2m54xnRoA,San Francisco,CA,Coffee & Tea,37.78934,-122.43423,2,969,4
+477,Nihon Whisky Lounge,vOjAWfhzLaXHa1v5cGnuIQ,San Francisco,CA,Japanese,37.768697,-122.41529,3,1381,3.5
+478,Mona Lisa Restaurant,bC3FfFqfaQu7gZznjkmt9Q,San Francisco,CA,Italian,37.798371,-122.407778,2,1596,4
+479,Ace Wasabi  Rock-N-Roll Sushi,NMTWmJKWxJD1flwkn7JIPA,San Francisco,CA,Sushi Bars,37.80016,-122.43813,2,885,4
+480,Magnolia Haight,tdPIuXJrcjH17SQn-H_mZw,San Francisco,CA,Breweries,37.7703644,-122.4451952,2,1773,3.5
+481,Pier 39,B5e069dbuKZG9IJypIhkyg,San Francisco,CA,Local Flavor,37.8087272,-122.4097766,1,1319,4
+482,The Progress,CS0pUlk25RV2-vhKFFbxqA,San Francisco,CA,American (New),37.7836799,-122.43296,4,846,4
+483,Velvet Cantina,jHCtJJycHt5DLAlPjQ0PoA,San Francisco,CA,Mexican,37.753802,-122.419701,2,1225,4
+484,Beard Papa's,Nw8h8pc4TzHdVlPA3gsOlA,San Francisco,CA,Bakeries,37.78543,-122.40436,1,1027,4
+485,Destino,8Jos9nqlts6DX6o2zKDAzA,San Francisco,CA,Latin American,37.7712546,-122.4237757,2,1179,4
+486,Frena Bakery and Cafe,N-vfl3FXnj4M7N6jW-1EGA,San Francisco,CA,Bakeries,37.780321,-122.408274,2,382,4.5
+487,The Fly Trap,MYl6xxo93hNfy8bR0X9yPw,San Francisco,CA,Bars,37.78535,-122.397074,3,968,4
+488,Miette,JPOZ0Uv4UFAjewz9qvIHbg,San Francisco,CA,Candy Stores,37.77635322,-122.4246921,2,692,4
+489,House of Thai,vKBW6SWFrIYXW1kIOFY_Ng,San Francisco,CA,Thai,37.7862824,-122.4183383,2,1331,4
+490,Capannina,HWWXRD3KWJRB-WBuXX9RKQ,San Francisco,CA,Italian,37.7977488,-122.4291735,3,815,4
+491,The Baked Bear,W01ZzmeWz0vJip3TVDmdyA,San Francisco,CA,Ice Cream & Frozen Yogurt,37.8072919,-122.417122,1,397,4.5
+492,VeganBurg,wfa6U2LrTN_Qt9BurOOykw,San Francisco,CA,Vegan,37.77017,-122.44646,2,753,4
+493,Pink Onion,IxDRIBkKtP-f24sr5zHAhQ,San Francisco,CA,Pizza,37.76871,-122.41482,2,341,4.5
+494,Aslam's Rasoi,XANvY_2W7MR6YTyR8CGzWQ,San Francisco,CA,Indian,37.7563,-122.42088,2,921,4
+495,Teds Market & Deli,2b4YW6ZKXq45TfZA53_zXg,San Francisco,CA,Delis,37.77287,-122.41623,1,468,4.5
+496,Trick Dog,1CkTVogrU7pmy4pkEFIubw,San Francisco,CA,Cocktail Bars,37.75917279,-122.4112384,2,797,4
+497,Eats,21wF1dQFS2bEL56DuqxRsw,San Francisco,CA,American (Traditional),37.7832999,-122.45988,2,1120,4
+498,FK Frozen Custard Truck,zvqoeNxrfZKqbUFlNiKplg,San Francisco,CA,Ice Cream & Frozen Yogurt,37.771428,-122.43515,1,328,4.5
+499,Bernal Heights Park,OTVtCX59SVu4kurXP3PAbA,San Francisco,CA,Dog Parks,37.74326577,-122.4149036,1,297,4.5
+500,Grubbin',3yPTDS6aWaMi4tNHZcf5rw,San Francisco,CA,Sandwiches,37.7429221,-122.4812913,1,461,4.5
+501,The Mill,#NAME?,San Francisco,CA,Coffee & Tea,37.77648015,-122.43775,2,1108,4
+502,Blackbird,Cs5DX-6syMfiJ1rACSRDVQ,San Francisco,CA,Bars,37.76735528,-122.4294701,2,685,4
+503,Hong Kong Lounge,VYd8UzwlwmX8Db5umNHNig,San Francisco,CA,Dim Sum,37.780671,-122.476619,2,1586,3.5
+504,Marcella's Lasagneria,F7UZBVdp69mTI_1M7stq2Q,San Francisco,CA,Italian,37.7580376,-122.3890908,2,359,4.5
+505,IPOT,3oiMUFH3mqaCqCLJuknILQ,San Francisco,CA,Chinese,37.76387996,-122.4732102,2,954,4
+506,Freshroll Vietnamese Rolls & Bowls,l1oXDZh6vE-cYreeAcfRBw,San Francisco,CA,Vietnamese,37.78393513,-122.4033701,2,1175,4
+507,Lao Table,VdxJdMX53XZYNZvZlr96HA,San Francisco,CA,Laotian,37.78751373,-122.3987198,2,937,4
+508,Noe Valley Bakery,oHuPyoGY7nhCQeprHCv21g,San Francisco,CA,Bakeries,37.75121,-122.4334,2,723,4
+509,Chisme Cantina,7X76HyhNAUTcYuY6t6ionQ,San Francisco,CA,Tacos,37.78862,-122.41483,2,376,4.5
+510,"Hey, Cookie!",bnx58K-MQPOoyA_wWOvbzg,San Francisco,CA,Desserts,37.75743866,-122.4193726,1,191,5
+511,Kitchen Istanbul,Wcd6K6APT-yWVCSi4oq-kg,San Francisco,CA,Greek,37.782849,-122.46321,2,466,4.5
+512,Caffe Greco,uzqUJiCHUqV2c3PnvSsqeQ,San Francisco,CA,Coffee & Tea,37.798918,-122.4084483,1,1004,4
+513,De Afghanan Kabob House,MIJ2lGmKAHe41xRcefHzvg,San Francisco,CA,Afghan,37.78577,-122.420359,2,538,4.5
+514,Campton Place,iU-XQ4dhII3WF1UKR4XrNQ,San Francisco,CA,American (New),37.78910306,-122.4066977,4,728,4
+515,jū-ni,OcRSAkpOhnWHjV7X0FoM5Q,San Francisco,CA,Japanese,37.77653,-122.43883,4,294,4.5
+516,Cassava,muX0aRES6vsp5DEuJaW_uw,San Francisco,CA,American (New),37.77564316,-122.4964766,2,842,4
+517,Poc-Chuc,5_ZPjPKZhPYXwGNCaMpxFg,San Francisco,CA,Latin American,37.765643,-122.417139,2,526,4.5
+518,Domo,xeRy4mjZWczet5V9Jtmx1g,San Francisco,CA,Sushi Bars,37.77586,-122.42631,2,885,4
+519,Delarosa,vu6PlPyKptsT6oEq50qOzA,San Francisco,CA,Pizza,37.78561789,-122.4045166,2,1157,4
+520,West of Pecos,ReeiGTEamR1ScmzAdH7s4A,San Francisco,CA,American (Traditional),37.76402,-122.4221,2,969,4
+521,Rhea's Deli & Market,humRe1SGupNdDJUxEdDmMg,San Francisco,CA,Delis,37.759861,-122.4215622,1,601,4
+522,Sakesan Sushi & Bistro,LDqA7rQ3fCmPWFymhIXXcQ,San Francisco,CA,Japanese,37.7830954,-122.466049,2,1038,4
+523,Trattoria da Vittorio - San Francisco,FvPRM23d7NAOdyS_OX0MpQ,San Francisco,CA,Italian,37.73933,-122.46775,2,683,4
+524,Cafe du Soleil,IzRVZB6EuoizmnwAFy8siQ,San Francisco,CA,French,37.78326745,-122.397891,2,391,4.5
+525,Padrecito,2nXYpojLdnIWkFW-Xe7B2A,San Francisco,CA,Mexican,37.7656775,-122.4500746,2,893,4
+526,El Rio,hcGPjfWl8RnmxewFaGemdQ,San Francisco,CA,Music Venues,37.74681,-122.41946,1,783,4
+527,EPIC Steak,2DihFta_jZB8aAiL_zjp9A,San Francisco,CA,Steakhouses,37.79081791,-122.389449,3,2208,3.5
+528,Californios,9S6GK2In2b1tuJ7xoC84pA,San Francisco,CA,Mexican,37.75566688,-122.4169488,4,279,4.5
+529,San Jalisco,_mWCUrUZf_ytJj2N87On2Q,San Francisco,CA,Mexican,37.75865,-122.41668,2,761,4
+530,M.Y. China,TCUfp_AdAQv-g7aD6ktEEQ,San Francisco,CA,Chinese,37.784236,-122.406566,2,1616,3.5
+531,Good Luck Cafe and Deli,kK0s7FAovaLmVDM4D_NdSQ,San Francisco,CA,Delis,37.793838,-122.404846,1,403,4.5
+532,La Corneta Taqueria,EjFsWyScsqh-Fg2ozblYmw,San Francisco,CA,Mexican,37.734085,-122.434144,2,1085,4
+533,Vesuvio Cafe,ZKVAo-v0LgVFhKQOXytsQQ,San Francisco,CA,Lounges,37.79747486,-122.4061409,2,849,4
+534,Mi Lindo Perú,1DDbE3XJF6lFL_KpU6Pmww,San Francisco,CA,Peruvian,37.74509354,-122.420391,2,718,4
+535,Comstock Saloon,fL02NLRFLMQT7Pot44gxhA,San Francisco,CA,Lounges,37.79674195,-122.4050465,2,953,4
+536,Keeva Indian Kitchen,GIl4gBFUknk9HJD3wvQI1Q,San Francisco,CA,Indian,37.78287802,-122.4690229,2,465,4.5
+537,Pacific Cocktail Haven,b7jlvEKz4wHATdJNNZf9aw,San Francisco,CA,Cocktail Bars,37.78906867,-122.4097557,2,362,4.5
+538,Sixth Course,K0r1oltM3JbM14ApsTe_yA,San Francisco,CA,Desserts,37.7668797,-122.4186656,2,359,4.5
+539,Monsieur Benjamin,9e2UrZrwbWsTyN3hWyS6Ig,San Francisco,CA,French,37.77749,-122.42356,3,900,4
+540,The Cavalier,_RkG6ao09nTYczVfLG-Zrw,San Francisco,CA,American (New),37.78334565,-122.4068362,3,1004,4
+541,Cha Cha Cha,QH8WwAYdr3NrH2QwHiPjog,San Francisco,CA,Bars,37.75971006,-122.4189119,2,1933,3.5
+542,Sodini's Green Valley Restaurant,iZCSLA7clUGpUFzRnZtQkw,San Francisco,CA,Italian,37.79981,-122.40763,2,895,4
+543,Stacks,qHCqD2rIiIQ9BK8wfTjVvg,San Francisco,CA,American (Traditional),37.77651707,-122.4247906,2,1623,3.5
+544,Shabu Club,xErl0-LbQO9n-5e6ZQQ-Uw,San Francisco,CA,Japanese,37.78256914,-122.469567,2,733,4
+545,Mersea,xAALy_s3a1dT6K09vSrAGQ,San Francisco,CA,American (Traditional),37.82257193,-122.3758539,2,540,4.5
+546,Tonga Room & Hurricane Bar,458NXhlB0ZtEaJUPI3PPcA,San Francisco,CA,Asian Fusion,37.79242251,-122.4097159,3,2644,3.5
+547,Causwells,DL-2iaugPoULjvZ6pyNRAQ,San Francisco,CA,American (New),37.80013427,-122.4419839,2,714,4
+548,Pluto's,vogO7OMasID3sa8_k9RmpA,San Francisco,CA,Sandwiches,37.764082,-122.464775,2,1175,4

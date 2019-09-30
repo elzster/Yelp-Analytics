@@ -1,1001 +1,1001 @@
 ,Business,Business ID,City,State,Category,Latitude,Longitude,Price,Reviews,Rating
-0,Levain Bakery,H4jJ7XB3CetIr1pg56CczQ,New York,NY,Bakeries,40.77994046,-73.98028255,$$,7772,4.5
-1,The Halal Guys,xEnNFXtMLDF5kZDxfaCJgA,New York,NY,Food Stands,40.76175596,-73.97922993,$,9251,4
-2,Ippudo NY,44SY464xDHbvOcjDzRbKkQ,New York,NY,Ramen,40.73092,-73.99015,$$,9847,4
-3,The Metropolitan Museum of Art,jVncyqXwlx_D9f2xZn05tg,New York,NY,Art Museums,40.77925427,-73.96288417,0,2763,4.5
-4,Katz's Delicatessen,V7lXZKBDzScDeGB8JmnzSA,New York,NY,Delis,40.722237,-73.98743,$$,11703,4
-5,Central Park,xOw4aafJRji9XomGunlvcQ,New York,NY,Parks,40.78241874,-73.96560228,0,2360,5
-6,Bibble & Sip,WHRHK3S1mQc3PmhwsGRvbw,New York,NY,Coffee & Tea,40.76282,-73.98518,$,4591,4.5
-7,Los Tacos No.1,jnEv25Y2DosTq2sNnvmC9g,New York,NY,Tacos,40.7425547,-74.0060838,$,2816,4.5
-8,Best Bagel & Coffee,j1S3NUrkB3BVT49n_e76NQ,New York,NY,Bagels,40.7522683,-73.9910861,$,3071,4.5
-9,Burger & Lobster,UA2M9QFZghe-9th2KwLoWQ,New York,NY,Seafood,40.74007,-73.99344,$$,5273,4
-10,Gramercy Tavern,veq1Bl1DW3UWMekZJUsG1Q,New York,NY,American (New),40.738527,-73.988417,$$$$,2819,4.5
-11,The High Line,JION8hhg7q6zyayHYwhxIw,New York,NY,Parks,40.74798318,-74.00489061,0,2301,4.5
-12,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,$$$$,2458,4.5
-13,LoveMama,jjJc_CrkB2HodEinB6cWww,New York,NY,Thai,40.7303859,-73.9860613,$$,4569,4.5
-14,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,$$,2509,4.5
-15,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.74140002,-73.98815019,$$,5551,4
-16,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,$$,2883,4.5
-17,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.78665044,-73.97552848,$$,3891,4
-18,Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,New York,NY,Pizza,40.72290877,-73.99448633,$,3122,4.5
-19,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,$$$,2679,4.5
-20,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,$$,5347,4
-21,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,$$,3570,4
-22,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.71639449,-73.98860986,$$,3173,4.5
-23,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,$$$$,2864,4.5
-24,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,$,1467,4.5
-25,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.74227627,-74.0048001,$$$,3861,4
-26,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,$$,4849,4
-27,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195878,-73.98971666,$$,5374,4
-28,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,0,1370,4.5
-29,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,0,1362,4.5
-30,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.74169074,-73.98720749,$$$$,2089,4.5
-31,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,$$,2563,4.5
-32,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.76815289,-73.98276296,$$$$,1600,4.5
-33,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,$$,4313,4
-34,Up Thai,#NAME?,New York,NY,Thai,40.76982759,-73.95763309,$$,2122,4.5
-35,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.76677368,-73.967607,$$$$,1549,4.5
-36,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.75826627,-73.98654,$$,4368,4
-37,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,$,2757,4.5
-38,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.98828283,$$,2092,4.5
-39,Top of the Rock,36krOhexcsA8Uetoq52A7g,New York,NY,Landmarks & Historical Buildings,40.75933426,-73.97940159,0,1596,4.5
-40,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,$$,2874,4
-41,Bryant Park,MJJi_5tGkWYI1VReTjhCCA,New York,NY,Parks,40.75388429,-73.98365105,0,1114,4.5
-42,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215935,-73.9955956,$$,5964,4
-43,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.71466914,-73.99776022,$$,5941,4
-44,Izakaya MEW,klAhw3xLQi9GF1tf_HnS7w,New York,NY,Tapas Bars,40.75018531,-73.98632035,$$,2167,4
-45,Carmine's Italian Restaurant - Times Square,22nKUyCIbpnzR6R3_g1ptQ,New York,NY,Italian,40.75749558,-73.98668445,$$,3585,4
-46,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,$$$,2919,4
-47,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,$,2677,4
-48,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.72631391,-73.9864902,$$,1784,4.5
-49,Bengal Tiger Indian Food,x0k5kFArHLijdY8-NEQ7Xg,New York,NY,Indian,40.763167,-73.977131,$$,1723,4.5
-50,Ladurée Madison Ave,_DcfYjnGffQI3iP1Be0kdA,New York,NY,Macarons,40.77077023,-73.96637607,$$$,1858,4.5
-51,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,$$$$,2990,4
-52,Pure Thai Cookhouse,MhceeLrM2_3mcKw5EGLY6A,New York,NY,Thai,40.764291,-73.988159,$$,2456,4
-53,Jean-Georges,PBUIaPtgnhmdHE3KHglK-g,New York,NY,French,40.76911227,-73.98142907,$$$$,1857,4.5
-54,Ess-a-Bagel,c3eMI4_o4dPDDhPV_ibBYQ,New York,NY,Bakeries,40.75630056,-73.9703701,$,3400,4
-55,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,$$,2539,4
-56,Grace Street,MKYhiSeXjahxh9O4Gqnimw,New York,NY,Coffee & Tea,40.74785768,-73.98655906,$$,2297,4
-57,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.72970975,-73.98914922,$$,2063,4.5
-58,Keens Steakhouse,pQuZDnefX038xurT1BhDXA,New York,NY,Steakhouses,40.75071,-73.98652,$$$$,2454,4
-59,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,$$,1623,4.5
-60,Doughnut Plant,XskangHFq3JD9klJFuGH8w,New York,NY,Donuts,40.7444886,-73.9969095,$$,2455,4
-61,L'Artusi,rp8S7scxOkVVeG7dNneMGQ,New York,NY,Italian,40.733714,-74.005068,$$$,1751,4.5
-62,Wafels & Dinges,xJSH3EM1iZtOh4WZti4qjg,New York,NY,Belgian,40.73928452,-73.99893188,$,1532,4.5
-63,Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,New York,NY,Middle Eastern,40.7302874,-74.0004383,$,2344,4
-64,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,$$,2971,4
-65,Anytime,VvsZAnEwU4c8Xkyrzx05Nw,New York,NY,Korean,40.74779,-73.98674,$$,918,5
-66,Marea,H_KyiRhwho8rdlw_R93_0Q,New York,NY,Italian,40.76742137,-73.98105544,$$$$,1969,4
-67,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,$$,3121,4
-68,Bea,Rc1lxc5lSKJYd162JHNMfQ,New York,NY,American (New),40.7591968,-73.9923361,$$,2380,4
-69,Sushi Yasuda,7EaiwMVaNdQibSs0yYkE5Q,New York,NY,Japanese,40.75113,-73.97347,$$$,2075,4
-70,Dutch Freds,SaYTVG7wHCMDBofHCgXPaA,New York,NY,Cocktail Bars,40.76071,-73.98793,$$,1380,4.5
-71,Rubirosa,WG639VkTjmK5dzydd1BBJA,New York,NY,Italian,40.72275,-73.99622,$$,2038,4.5
-72,Eileen's Special Cheesecake,6G_NSMacAfdf-WYOpcQ4uw,New York,NY,Bakeries,40.7215432,-73.9972332,$,1563,4.5
-73,Artichoke Basille's Pizza,vfYhEpp0x-DrNjC6GSJjPQ,New York,NY,Pizza,40.73211246,-73.98390568,$,3882,4
-74,Beauty & Essex,pfmAcS-g6SiNG0KlLvrqnA,New York,NY,American (New),40.72037,-73.98677,$$$,3369,4
-75,Thursday Kitchen,fVbUVAiLiGgLA_nxBFxyww,New York,NY,Korean,40.7275,-73.9838,$$,1242,4.5
-76,Sakagura,7iY35991NhQ1AShJZCNZgA,New York,NY,Japanese,40.7516467,-73.97294893,$$$,1756,4
-77,Taim West Village,j0n_poMVZnODYOFviLbh0Q,New York,NY,Vegetarian,40.73600238,-74.00195884,$,1501,4.5
-78,Barn Joo 35,xZ96vaoL-cQjfotmUKtjJQ,New York,NY,Korean,40.74964,-73.98582,$$,1728,4.5
-79,American Museum of Natural History,O1gHEYYSCULCcfJD9sLJqw,New York,NY,Museums,40.78124013,-73.97405863,0,2021,4
-80,Top Thai Greenwich,wGFSTTB6b4MHJJUzBnVJeg,New York,NY,Thai,40.72977,-73.99939,$$,1239,4.5
-81,B Side Pizza & Wine Bar,c3D2ckzacnPtdGIM8tb-_w,New York,NY,Pizza,40.76394,-73.9883399,$$,1061,4.5
-82,NY Pizza Suprema,-9NO2IDCJMyNGZMAQ1-VQw,New York,NY,Pizza,40.75020599,-73.99532318,$,1898,4
-83,The Boil,tiSw-6DIm3-mMORyEIOVyg,New York,NY,Cajun/Creole,40.71974,-73.99339,$$,1840,4.5
-84,Tony's Di Napoli,5TX0X8w5ssIACU_pnBEq6g,New York,NY,Italian,40.75641,-73.98547,$$,1999,4
-85,Woorijip,ogCC-lJJYnwXDvKGmKZ6Sw,New York,NY,Korean,40.74747,-73.98648,$,2578,4
-86,Scarpetta,raqwXUBlnc0e8c7CYmxEJQ,New York,NY,Italian,40.744509,-73.9856,$$$,1851,4
-87,Saigon Shack,7Qvh0oFRsoqrO9qNlcMKXQ,New York,NY,Sandwiches,40.72969,-74.000629,$,2312,4
-88,Sugar Sweet Sunshine Bakery,qVSOes5JoWc5_umv4nd4Hg,New York,NY,Bakeries,40.719851,-73.987011,$,2032,4
-89,Gotham Bar and Grill,_gzXNKarTxagBp6_PkmQKw,New York,NY,American (New),40.734186,-73.993696,$$$$,1563,4.5
-90,Jane,uoT2_Wrt1noD6kZOID7tUg,New York,NY,Breakfast & Brunch,40.72732,-74.00026,$$,3098,4
-91,ilili,B55Ocx5RBWxo6AGSucYSIA,New York,NY,Mediterranean,40.74435,-73.98778,$$$,2326,4
-92,Trattoria Trecolori,DoSU8IPq-Py_YV3kYmXPfQ,New York,NY,Italian,40.75998,-73.98671,$$,2247,4
-93,Joe's Pizza,uc5qQMzs96rzjK27epDCug,New York,NY,Pizza,40.730655,-74.002189,$,2403,4
-94,Tanner Smiths,z5hRX3iJ5Ty_S38iG_WY3Q,New York,NY,Cocktail Bars,40.76442,-73.98169,$$,1598,4.5
-95,Schmackary's,jz_FnuRpCNzfwwHHQ6Nbeg,New York,NY,Desserts,40.76015388,-73.99094426,$,1909,4
-96,Soft Swerve,7-jMpWGUxPB8EEtmoqNdqg,New York,NY,Ice Cream & Frozen Yogurt,40.71822331,-73.99114899,$,1565,4.5
-97,Wah Fung No 1 Fast Food,X8ZS-dgiMIJvhwf9SaDnjw,New York,NY,Chinese,40.71735,-73.99457,$,1324,4.5
-98,Balthazar Restaurant,KgpOYAG-r_eDsQXFXt0nnQ,New York,NY,French,40.72273039,-73.99833078,$$$,2993,4
-99,The Smith,C-8mGN7lt5rIraO5n-15ug,New York,NY,American (New),40.755165,-73.967868,$$,2497,4
-100,The Cinnamon Snail,urSuhjbH6DK2nvP08IESwA,New York,NY,Vegan,40.7495842,-73.99167633,$,990,4.5
-101,The Meatball Shop,P4hm-IKNMbBbtfWSvPf25A,New York,NY,Italian,40.721651,-73.988746,$$,2727,4
-102,Raines Law Room,J4pAppaiXwCkbLOGc4wHww,New York,NY,Lounges,40.73869,-73.99462,$$$,1420,4.5
-103,Zen Ramen & Sushi,mESab-FqL5QqSVsnX72asQ,New York,NY,Sushi Bars,40.75185,-73.98892,$$,1344,4.5
-104,McSorleys Old Ale House,QArou0r7CmLNPWYRA9ecog,New York,NY,Dive Bars,40.72884,-73.98965,$,1730,4
-105,Jongro BBQ,FZpm4_fbd6P984foOUejWg,New York,NY,Korean,40.747514,-73.986884,$$,1782,4
-106,Sundaes and Cones,TPBTUvbBVUfJeEWWy1o1QQ,New York,NY,Ice Cream & Frozen Yogurt,40.730934,-73.989318,$,1464,4.5
-107,The Seafire Grill,ryvBsB9FrBBZDak87iGS1w,New York,NY,Seafood,40.75470121,-73.97225551,$$$,1189,4.5
-108,Sushi Yasaka,HZWHBfeuP4Fb6y8b8uqnbA,New York,NY,Japanese,40.779583,-73.983482,$$,1698,4
-109,Stumptown Coffee Roasters,sSQ3dtC8nbfeT6srFiiIlA,New York,NY,Coffee & Tea,40.74566634,-73.98809163,$$,1377,4.5
-110,La Sirène-Soho,FiRB9Ek3Xo9JHwXgBYITYg,New York,NY,French,40.72436422,-74.00570869,$$$,1583,4.5
-111,Shake Shack,bL6gcUWgFt7mOZYT_FaGSg,New York,NY,Burgers,40.75841213,-73.98918226,$$,3003,4
-112,Pio Pio 8,OwV-MtDBC2H08rVcBqP2mA,New York,NY,Latin American,40.76050629,-73.99456449,$$,2284,4
-113,Max Brenner - New York,vbvtWBbO3Q-Q15w7aHxgVg,New York,NY,Desserts,40.73426706,-73.99105492,$$,4567,3.5
-114,Calle Dao - Bryant Park,LQHegfNHe7ylY3bocrFlpg,New York,NY,Cuban,40.752155,-73.984223,$$,1641,4
-115,KazuNori  | The Original Hand Roll Bar,TBp9gdS6xEbSQqffVZ7iag,New York,NY,Sushi Bars,40.74519,-73.98824,$$,824,4.5
-116,Veniero's,VtJd1l64kqUUyWacwK0J2Q,New York,NY,Bakeries,40.72941,-73.98454,$$,1980,4
-117,Sushi Nakazawa,zGAQqDu0Ak2khVYs9WdQxw,New York,NY,Japanese,40.73174652,-74.00454938,$$$$,1324,4.5
-118,Quality Meats,kB-lmHs7yNwLIlQyp0kMmQ,New York,NY,Steakhouses,40.764958,-73.976206,$$$$,1920,4
-119,Momofuku Ssam Bar,1Ed-tb_0dBGrXfsYyehmvg,New York,NY,American (New),40.73169,-73.985846,$$$,2401,4
-120,Breakroom,MfbVI5reXLIIs8Cc2HwgQw,New York,NY,Burgers,40.71669072,-73.99994401,$$,1557,4.5
-121,Uva,OAqsZMbjv66nOMqlimnYuQ,New York,NY,Italian,40.7722,-73.95566,$$,2267,4
-122,Olio e Piú,16ZnHpuaaBt92XWeJHCC5A,New York,NY,Pizza,40.733826,-73.999852,$$,1952,4
-123,Minetta Tavern,PYcL2z9gHj6-ZTlViT9Nqw,New York,NY,French,40.7300048,-74.00060738,$$$,2141,4
-124,The NoMad Restaurant,1z5Nu66M6W8mk5Ap4osZwA,New York,NY,French,40.7449,-73.988482,$$$,1434,4
-125,Beyond Sushi,FoR70YoGSb4_QavCe1WZEw,New York,NY,Sushi Bars,40.7329,-73.98588,$$,911,4.5
-126,Bleecker Street Pizza,oJ_XSPZFpvIt6rvheSQl7A,New York,NY,Pizza,40.7320627,-74.00365523,$,2220,4
-127,Friedman's,cCesIqo-LQt0cRlZAnrAZQ,New York,NY,American (New),40.748297,-73.990649,$$,2273,4
-128,Coffee Project NY,pimuUR-TEHIjUla3S3jemQ,New York,NY,Coffee & Tea,40.72699,-73.98922,$$,647,4.5
-129,Milk & Cream Cereal Bar,cGx9CYLxw6fqUQU-MFup8A,New York,NY,Ice Cream & Frozen Yogurt,40.71958,-73.99654,$$,905,4.5
-130,Boucherie West Village,s3jou_L_LVYGkNHiuhjlew,New York,NY,French,40.733063,-74.0028772,$$$,1266,4.5
-131,Raku,FlZ1zdVEKWv7dwqm8Uw8-w,New York,NY,Japanese,40.72649881,-73.98665261,$$,962,4.5
-132,Dinosaur Bar-B-Que,XzUW9MvEGOFs9_aNj11j2Q,Harlem,NY,Barbeque,40.81809834,-73.96087293,$$,2959,4
-133,John's of Bleecker Street,LF1QAuvpfX7KGQlg2zMg6Q,New York,NY,Pizza,40.73158,-74.00332,$$,1909,4
-134,The MasalaWala,sCC7-hSdCkNPExejZT9BAQ,New York,NY,Indian,40.72191,-73.98666,$$,1416,4.5
-135,Shake Shack,wXpCNNTT2kqh-fTnSWXdEA,New York,NY,Burgers,40.78082071,-73.97655167,$$,2346,4
-136,Absolute Bagels,JV5oa5-KGdiWnqrKPoxSug,New York,NY,Bakeries,40.80251,-73.96745,$,1337,4.5
-137,Frisson Espresso,HjGjGy3JhhRFcR7MaQLrjA,New York,NY,Coffee & Tea,40.76081085,-73.98899841,$,667,4.5
-138,Cafe Mogador,W4hobe10Fy54MKqmLaObEg,New York,NY,Moroccan,40.72725877,-73.98450851,$$,1851,4
-139,The Lobster Place,zfiXI8AwYBRfWjPyv6oh3w,New York,NY,Seafood Markets,40.74274139,-74.00601181,$$,1284,4
-140,Luke's Lobster East Village,UXTTvSG3TVbSkbVGVtZ8dA,New York,NY,Seafood,40.72694016,-73.98526001,$$,1503,4
-141,Brooklyn Bagel & Coffee Company,pb_ryc8FYHpUPV56eV2Eyg,New York,NY,Bagels,40.746183,-73.997642,$,1356,4
-142,Cha-An,5QgBCrAbXbM1ORiqZDrBPQ,New York,NY,Japanese,40.72947,-73.98813,$$,1740,4
-143,Empire State Building,g2IUVjeIwx5x6x9u1cLS6w,New York,NY,Landmarks & Historical Buildings,40.7484,-73.9856644,0,1968,4
-144,Momofuku Noodle Bar,HfJhenvKDi-ds8SUJFwrLg,New York,NY,Ramen,40.72920638,-73.98448482,$$,4180,3.5
-145,Cheeky Sandwiches,gHdejB1Mx2P5UjAgZ6BT2w,New York,NY,Sandwiches,40.7158,-73.99169,$,1132,4.5
-146,Dough,ZMQzXIiqdBIuicFySTWGKg,New York,NY,Desserts,40.73931,-73.99243,$,1451,4
-147,Vanessa's Dumpling House,IhSVn0TaX8xXb3wcQ-fgcA,New York,NY,Chinese,40.71839,-73.9917399,$,2560,4
-148,Sushi by Bou Times Square,MmXZLVwWcYugi_TXSHmjeQ,New York,NY,Sushi Bars,40.75851,-73.98322,$$$,488,4.5
-149,The Modern,_LJFf9YqpYxvExTvVxb7Rw,New York,NY,American (New),40.76100609,-73.97677256,$$$$,966,4.5
-150,Xi'an Famous Foods,HScFap2SwbUlfC-QXVkxFA,New York,NY,Chinese,40.75606,-73.9808,$,1602,4
-151,Babbo,#NAME?,New York,NY,Italian,40.732283,-73.999284,$$$$,2367,4
-152,Veselka,CVxz9B5ncpMwVK1bk_c1YA,New York,NY,Diners,40.7289505,-73.98696899,$$,2481,4
-153,Momosan Ramen & Sake,oTkzgr7hzOAdlP99Auj3GQ,New York,NY,Ramen,40.74993,-73.97746,$$,1537,4
-154,Xi'an Famous Foods,Gd3_3mxOvj2xYiqysV8rbQ,New York,NY,Chinese,40.72782,-73.98551,$$,1576,4
-155,Cookshop,ssGhu4n3emZ9kEPVf371IQ,New York,NY,American (New),40.7454251,-74.0056084,$$,2046,4
-156,Amy Ruth's,tsiC3VpO-hZEb98Qk3p-DQ,New York,NY,Southern,40.80248,-73.95038,$$,2532,4
-157,Jajaja,XipQLDbyTl5tsLlyzAWzug,New York,NY,Mexican,40.71415303,-73.9904248,$$,796,4.5
-158,Banh Mi Saigon,MDMw0HFK3rgeGRl-FZC9Fg,New York,NY,Vietnamese,40.71936,-73.99667,$,1427,4
-159,Hatsuhana Sushi Restaurant,6lUsFj0KCao678o9L7QwUw,New York,NY,Japanese,40.75703,-73.97692,$$$,1268,4
-160,Pokeworks,_zGsfwGAY8ZTob_mIFAM-w,New York,NY,Sushi Bars,40.75159343,-73.98588181,$$,1729,4
-161,Gyu-Kaku Japanese BBQ,bB8dHfAEJrF5tNcHr0yJjA,New York,NY,Japanese,40.72822,-73.99142,$$$,1667,4
-162,Aquagrill,IUvJ8jmojYu1FsOQ0PfFcg,New York,NY,Seafood,40.72535456,-74.00370109,$$$,1337,4
-163,il laboratorio del gelato,HjZvV6WAdsusCRlY0iSxYg,New York,NY,Ice Cream & Frozen Yogurt,40.72223536,-73.98706327,$$,1290,4
-164,Her Name Is Han,qY1o1MhoRyN84RRhUJtvpQ,New York,NY,Korean,40.74626,-73.98473,$$,1114,4
-165,Shanghai 21,R26zweQ8-xoZS7iHkXQOvw,New York,NY,Shanghainese,40.7144199,-73.99889,$$,1591,4
-166,La Lanterna Di Vittorio,V-FCEicobl5Su-R7EVJQNA,New York,NY,Italian,40.73069,-74.00015,$$,1427,4
-167,Toloache 50,Wx6lMnEh7dCmX-9PQF1Ifw,New York,NY,Mexican,40.762325,-73.9855741,$$,1865,4
-168,Snowdays,7jXNphhpZZ2YE37E9jP60g,New York,NY,Shaved Ice,40.72903108,-73.98472846,$,1148,4
-169,Rockefeller Center,ZKDByTPdHjlZg0k5_ct4xA,New York,NY,Landmarks & Historical Buildings,40.75901516,-73.97913857,0,755,4.5
-170,BCD Tofu House,gXnC_aZR09BvqEQKGKFjBg,New York,NY,Korean,40.74750363,-73.98624472,$$,1935,4
-171,Sweet Chick,8F81LrdFm6P5kkFpsw0n0w,New York,NY,Southern,40.7217399,-73.98739,$$,1546,4
-172,Del Posto,N-rwVhnEtXg8yY_TlB_KZw,New York,NY,Italian,40.7434156,-74.00753301,$$$$,1400,4
-173,Go! Go! Curry!,eRtceh_W_yniAfCqJni5Bg,New York,NY,Japanese Curry,40.75463,-73.99115,$$,1431,4
-174,City Cakes,wQLNq8dQE4DxvUSQwzAagw,New York,NY,Desserts,40.74206,-73.99999,$$,633,4.5
-175,Los Mariscos,L3REPLCvQpMapYPd_fkS-A,New York,NY,Seafood,40.74207,-74.00565,$,533,4.5
-176,Vida Verde,Xjswj531-FkRZPpcccU6kQ,New York,NY,Cocktail Bars,40.7650089,-73.983215,$$,1025,4.5
-177,Becco,QObHX0yR6zd0WfksRDbJTA,New York,NY,Italian,40.76083,-73.98981,$$$,2784,3.5
-178,Buvette,xQ445GaWVN5Aa3sFX9OoIg,New York,NY,French,40.732704,-74.004317,$$,1673,4
-179,OBAO,NN3mOWF5e_pnR1ArqM2bHQ,New York,NY,Vietnamese,40.7606544,-73.991332,$$,2349,4
-180,Red Bamboo,9DceMTrjyVqBgQRqgR6GWw,New York,NY,Vegetarian,40.73131837,-74.00035465,$$,1678,4
-181,Ayza Wine & Chocolate Bar,srhEv1OqoK9W5JRdiMWDyw,New York,NY,Wine Bars,40.74717747,-73.98701131,$$,1598,4
-182,88 Lan Zhou Handmade Noodle,Lbs8QBRN1U7IYBo5Mcv-RQ,New York,NY,Chinese,40.7155,-73.99675,$,1750,4
-183,Bohemian Restaurant,8fr5FYU1ip0phERt1mrekg,New York,NY,Japanese,40.72639,-73.99236,$$$,738,4.5
-184,Mighty Quinn's Barbeque,LsITU8KVYMhV_fatv84wWA,New York,NY,Barbeque,40.727574,-73.988623,$$,1726,4
-185,Pylos,7xV4gzrgaOgQYtPC3FBZig,New York,NY,Greek,40.72608,-73.98415,$$$,1101,4.5
-186,99 Favor Taste,Xf6e3HaP0AgMBxY7dEDkOA,New York,NY,Chinese,40.7176199,-73.99249,$$,1726,4
-187,Ootoya Chelsea,OLSSJIp8pu5UlugTF7tuHA,New York,NY,Japanese,40.738767,-73.992778,$$,1349,4
-188,TONCHIN NEW YORK,OFfZUS-nu6NDnsWe1B2bUQ,New York,NY,Ramen,40.7502727,-73.9844951,$$,918,4.5
-189,Cask Bar & Kitchen,1LIptXhtDh58vAA-QPFL4w,New York,NY,Bars,40.745414,-73.979004,$$,1323,4
-190,Havana Central,al9HKZ3kCJipAJW4uxzj4A,New York,NY,Cuban,40.75831,-73.98416,$$,2176,4
-191,Luke's Lobster Upper East Side,yN5rHxaIZMk6KFrbDNgZgA,New York,NY,Seafood,40.77473085,-73.95454919,$$,1129,4
-192,Breads Bakery,mU23NlQfn1R9OhA6WMe_xg,New York,NY,Bakeries,40.73661,-73.99181,$$,943,4.5
-193,ChikaLicious Dessert Bar,mIhqKMgru4002wfrVW-Gfw,New York,NY,Desserts,40.729664,-73.98631817,$$,1307,4
-194,Little Collins,1aD88qNRb08LGBkl84GQTA,New York,NY,Coffee & Tea,40.759912,-73.96964,$$,786,4.5
-195,The Dead Rabbit,RemvTpxalDjSew5HwmNzUQ,New York,NY,Cocktail Bars,40.70329,-74.01102,$$,1495,4
-196,Big Gay Ice Cream Shop,qZyHpLB9QVTWbHReujNfcg,New York,NY,Ice Cream & Frozen Yogurt,40.7264,-73.98411,$,1976,4
-197,Turntable Chicken Jazz,JeCtYANe0eqW8xe1SN3lWg,New York,NY,Chicken Wings,40.74828,-73.98649,$$,1954,4
-198,Maharlika,1_S2RxVWOidWcgbU2tBQBQ,New York,NY,Filipino,40.72695,-73.98611,$$,1480,4
-199,La Contenta,6Ct7OeTRn4caY9g0swFBsw,New York,NY,Mexican,40.71873,-73.98691,$$,710,4.5
-200,Beyond Sushi,TcuWyuZAORVnQBPCMNbTgw,New York,NY,Sushi Bars,40.76331,-73.97717,$$,634,4.5
-201,Alta,XEugUtbw4rRmGr9S1XA-aQ,New York,NY,Tapas Bars,40.73451638,-73.99833696,$$$,1847,4
-202,Num Pang Kitchen,#NAME?,New York,NY,Cambodian,40.73396,-73.99312,$$,1399,4
-203,Yuca Bar,AgAkUVLN_axMY-bzbNCfCw,New York,NY,Latin American,40.7262,-73.9836,$$,1747,4
-204,Crif Dogs,2n01u4yKfIrWuOzRVvIZmw,New York,NY,Hot Dogs,40.727157,-73.983718,$,2076,4
-205,Candle 79,MidK0WWI0_1tZL8AuR7Jhw,New York,NY,Vegetarian,40.774627,-73.958697,$$,1304,4
-206,by CHLOE. West Village,GtfhGhWmr1kQ4EnFTlwg7w,New York,NY,Vegan,40.729219,-74.001021,$$,1621,4
-207,Ai Fiori,bEXTA_Gwo2oVg4gnFd9fNA,New York,NY,Italian,40.7500752,-73.9837835,$$$$,1217,4
-208,Tsurutontan Udon Noodle Brasserie,J9UA6rzI5WW_cDGjwDnF5g,New York,NY,Japanese,40.73678,-73.9910699,$$,1699,4
-209,The Little Owl,q1uIqB8PvyCCX8TajaRYBg,New York,NY,Breakfast & Brunch,40.73238083,-74.005301,$$$,1248,4
-210,Patzeria Family & Friends,A2DV-AQIXRYUMu5Ak5mjxg,New York,NY,Italian,40.7615,-73.98754,$$,1020,4.5
-211,Patzeria Perfect Pizza,DJSLGbSqCJ1W8ma3LFlMuw,New York,NY,Pizza,40.75946539,-73.98678571,$,1555,4
-212,Keste,d7Asc4q2ImoPlA_BhfroTQ,New York,NY,Pizza,40.73154,-74.00293,$$,1377,4
-213,Levain Bakery,QHYqNQhQ8NVK0RX68Y4PuQ,New York,NY,Bakeries,40.8049739,-73.9551513,$$,698,4.5
-214,Levain Bakery,TuRPkrvAut11wfz1N3Sm7Q,New York,NY,Bakeries,40.781532,-73.979286,$$,477,4.5
-215,Churrascaria Plataforma,VnjcxOUuZAeJMiDIU-7hUQ,New York,NY,Brazilian,40.76202,-73.98765,$$$$,1324,4
-216,Benjamin Steakhouse,sSSV7G16yUijp-Peq4fmsA,New York,NY,Steakhouses,40.7518,-73.97896,$$$$,1149,4
-217,Luke's Lobster FiDi,kxykwx5qTWBhlMh18MQ82Q,New York,NY,Seafood,40.7046213,-74.01077939,$$,1114,4.5
-218,Milk Bar East Village,RcqZmRj3mWiimohFnNA4Nw,New York,NY,Bakeries,40.73188939,-73.98573886,$$,3285,3.5
-219,Ice & Vice,HaRZCA7LK8BzG0buH2SaZA,New York,NY,Desserts,40.71428427,-73.98687378,$$,725,4.5
-220,Beard Papa's,JaFHhBaCNRJYaGW9zeFQCQ,New York,NY,Bakeries,40.7822263,-73.9811905,$,803,4.5
-221,THEP Thai Restaurant,O1fUmxt3kbV-rnyjBtzAfw,New York,NY,Thai,40.77078,-73.95727,$$,746,4.5
-222,DOMODOMO,BPZfuPvSxCfoppU4lPFm0Q,New York,NY,Japanese,40.72803,-74.00167,$$$,973,4.5
-223,Shu Jiao Fu Zhou Cuisine Restaurant,lynQoI3w_pzYfHGeuUU-Qg,New York,NY,Chinese,40.71842904,-73.9916929,$,767,4.5
-224,Pommes Frites,uBGjcW-GuYy_qSvMykuISA,New York,NY,Belgian,40.730022,-74.000152,$,841,4.5
-225,Lupa,yZJbealagfujEkgesAl2hA,New York,NY,Italian,40.7276,-74.000045,$$$,1483,4
-226,Root & Bone,ULt3kmA0_hbZ3j6cMORCaA,New York,NY,Southern,40.72272,-73.98334,$$,1546,4
-227,Jungsik,fVsH6QIJPzXpVbgmeiolsA,New York,NY,Korean,40.71859102,-74.00888443,$$$$,562,4.5
-228,Nyonya,M-odQWSEfsR2mVEw7nKG-g,New York,NY,Asian Fusion,40.7190148,-73.9968228,$$,2026,4
-229,Parker & Quinn,IOHaEgK1zDvUvB3SfKuGCw,New York,NY,American (New),40.75258622,-73.98507132,$$,1290,4
-230,Very Fresh Noodles,oe8GEFE4QLFAKt87y7zcgA,New York,NY,Taiwanese,40.7423387,-74.00625,$$,874,4.5
-231,Raclette,5m-TrbqMNnwJvOd7pAt6OA,New York,NY,Sandwiches,40.7289298,-73.980601,$$,1265,4
-232,Gallaghers Steakhouse,hk3ohp_A4L4UgWTexDxf_Q,New York,NY,Steakhouses,40.762876,-73.983837,$$$,1088,4
-233,Ipanema Restaurant,#NAME?,New York,NY,Brazilian,40.75707222,-73.98077955,$$,1299,4
-234,Blossom,Ohi-o00luDtU7TMpVtJHJw,New York,NY,Vegetarian,40.745513,-74.002365,$$$,1021,4
-235,Barn Joo,FizBsTIAJwNrImIG1mPDcg,New York,NY,Korean,40.73684,-73.99069,$$,1525,4
-236,Blue Hill,4Objcs7HXSGuzpb0SOa-Jw,New York,NY,American (New),40.73206403,-73.9996931,$$$$,983,4.5
-237,Kam Hing Coffee Shop,nOCjslrdcKBQQYgD5qUs9Q,New York,NY,Bakeries,40.7182481,-73.99900441,$,632,4.5
-238,Johny's Luncheonette,WKDdD8Z17-P1XhkyJtDEFA,New York,NY,Diners,40.7444458,-73.99307251,$,923,4.5
-239,Hangawi,xWUL-j6TQyKQHIfOtetu-Q,New York,NY,Vegetarian,40.746737,-73.984662,$$$,1121,4
-240,The Drunken Munkey - UES,9pMhRYYgV7E9L7pzECtJKA,New York,NY,Indian,40.78098,-73.94751,$$,953,4.5
-241,Cafe Katja,zo4mcEfVKaktdj_gnSFhGQ,New York,NY,German,40.7177673,-73.990589,$$,765,4.5
-242,Claw Daddy's,hfMtSdxRsC3JQP3yrm6nag,New York,NY,Cajun/Creole,40.722071,-73.98847,$$,1545,4
-243,Ruby's Cafe,hGo9KArKThuOKxNbwmNpoA,New York,NY,Burgers,40.7223288,-73.996326,$$,1121,4
-244,Cafeteria,UXVDyIzmO5kmJnlv-HDXLg,New York,NY,American (New),40.74056759,-73.99807479,$$,3242,3.5
-245,Pig and Khao,nxTEuWKzkK1tCF4LrhFSUQ,New York,NY,Filipino,40.71926,-73.98475,$$,1546,4
-246,The Spotted Pig,3LNcgFUGdwJil-KDQPZmdQ,New York,NY,Burgers,40.735611,-74.006673,$$$,2904,3.5
-247,Mermaid Oyster Bar,qByYLfBKtNUIAui0eu-fNQ,New York,NY,Seafood,40.7287899,-74.00165,$$,1060,4
-248,Yakitori Totto,YC-wGlO0oOkEIaCEDZv-ag,New York,NY,Japanese,40.765375,-73.983114,$$$,1275,4
-249,Blue Ribbon Brasserie - SoHo,txSykTj5nbwmpiVNoK_Dyg,New York,NY,American (Traditional),40.725456,-74.003027,$$$,914,4.5
-250,Takashi,6qzNc9Z9DHYYleKqrW_K3g,New York,NY,Japanese,40.7313524,-74.0065048,$$$,971,4
-251,Faicco's Italian Specialties,ADHX7nBixDPVlq3OXhny0g,New York,NY,Meat Shops,40.73113,-74.00306,$$,492,4.5
-252,Gaia Italian Café,jdNdy-MwBtnXoBGC_JVvwQ,New York,NY,Italian,40.721653,-73.985346,$,967,4.5
-253,Rudy's Bar & Grill,4nohlTsGHEDdpwYkRTt-fA,New York,NY,Dive Bars,40.76004,-73.99182,$,1072,4
-254,Mamoun's Falafel,3o0Jp9ttSpP1wu7Focs7xg,New York,NY,Middle Eastern,40.72888496,-73.98846335,$,1150,4
-255,Cuba Restaurant and Rum Bar,UKy0nNjMkOBEU3dOCH831w,New York,NY,Cuban,40.729084,-73.998832,$$,1511,4
-256,Victor's Cafe,StpOKezaW-AyN2xA1EJKvw,New York,NY,Cuban,40.7629499,-73.98403,$$$,1424,4
-257,Union Square Cafe,lXGCo-K7eftxRT_6E59-Iw,New York,NY,American (New),40.73775,-73.987874,$$$,1184,4
-258,Lillie's Victorian Establishment,oLA02lMIfgvbYquvXzkARw,New York,NY,Bars,40.7614625,-73.9860519,$$,1405,4
-259,Flex Mussels,#NAME?,New York,NY,Seafood,40.77637,-73.95646,$$,1012,4
-260,Sons of Thunder,lESxFswvOPUFUzj6HsTnqw,New York,NY,Hot Dogs,40.74786,-73.97589,$$,745,4.5
-261,Nai Tapas,iTj5T_jPYvznd1QTgs7NZw,New York,NY,Tapas Bars,40.7267949,-73.9892815,$$,883,4.5
-262,Please Don't Tell,aiRctIzCj9J3UqBHd-Z3HQ,New York,NY,Lounges,40.727098,-73.983763,$$$,1766,4
-263,Num Pang Kitchen,cxtg17yy1YFt8gHRckUQcw,New York,NY,Cambodian,40.75038312,-73.97610788,$$,1118,4
-264,Whiskey Tavern,c3Ww3pgeHjBi3ctkeUWrjQ,New York,NY,Whiskey Bars,40.71646,-73.99969,$$,766,4.5
-265,Minus10 Ice Cream,qfk_JyRqMmm6FDfoqN6GiA,New York,NY,Ice Cream & Frozen Yogurt,40.71407,-73.99857,$,1268,4
-266,Café Zaiya,bJgl6cDIBIMlgrntQbxt1g,New York,NY,Japanese,40.7523,-73.98043,$,1174,4
-267,Cocoron,JhJLPp6KuBcD3CHCkEKJ_A,New York,NY,Japanese,40.72031,-73.99305,$$,974,4
-268,Jack's Wife Freda,Me4TxTbPPQZQopW1wOGx5g,New York,NY,Breakfast & Brunch,40.72213,-73.99756,$$,1824,4
-269,My Pie Pizzeria Romana,oRdM7n-AfBPBGAlH4Q0Sag,New York,NY,Italian,40.7608512,-73.9694809,$,711,4.5
-270,Casellula,JL_p-OHtSEYVfoeLQQgqDA,New York,NY,Wine Bars,40.76499,-73.98835,$$,902,4
-271,The Mermaid Inn,4x_WyIOEdqxk01QH1HxYrw,New York,NY,Seafood,40.7269999,-73.98844,$$,1300,4
-272,Nish Nush,d8zSYpArh4oXpxeJWNA4Pg,New York,NY,Vegetarian,40.715688,-74.007695,$$,687,4.5
-273,Lady M Cake Boutique,JDBgpyY-7KdRcBlNifVJSw,New York,NY,Bakeries,40.775501,-73.962231,$$$,1050,4
-274,Culture Espresso,N4Pss0mR4ygDOoSRpM2FQA,New York,NY,Coffee & Tea,40.75219224,-73.98575631,$$,909,4
-275,Freemans,w4cFJhUpjGXqqWBd3BbY4w,New York,NY,Breakfast & Brunch,40.721988,-73.992466,$$,2016,4
-276,Minca,raelHbSJ_gTo701c-KyXWg,New York,NY,Ramen,40.72412,-73.98288,$$,1639,4
-277,The Flatiron Room,3Ic4C60oSH1cV2jknUXSjQ,New York,NY,Lounges,40.74452,-73.99049,$$$,762,4.5
-278,Russ & Daughters Cafe,0rQz8mkleT62eUkiAVs4UA,New York,NY,Bagels,40.71962532,-73.98957589,$$,929,4
-279,Malatesta Trattoria,IErfGS0DASSJfYU73m0Sqg,New York,NY,Italian,40.73285,-74.00847,$$,1214,4
-280,Burger Joint,XxLGYdB0s8IkZ9QZtGKBZA,New York,NY,American (Traditional),40.76426047,-73.97853336,$$,2281,3.5
-281,Don Antonio,FKzpfWUpyupl4q74Jt8fTA,New York,NY,Pizza,40.762711,-73.986708,$$,1382,4
-282,Print,XoDR_T-ZKYJtZgCocEDcyA,New York,NY,American (New),40.76452,-73.99586,$$$,885,4
-283,TAO Uptown,TU_BU9HLflYI2xlyqVQdRA,New York,NY,Asian Fusion,40.76269,-73.97147,$$$,2508,3.5
-284,Hillstone Restaurant,mHBhUxHgDGjsB1LJl4qW0w,New York,NY,Jazz & Blues,40.75824121,-73.96887678,$$$,1058,4
-285,Pisillo Italian Panini,8qSOz7oTPUUCafsMOBBNEQ,New York,NY,Italian,40.710558,-74.007594,$$,570,4.5
-286,Verlaine,XghOzJn16M-nvaKMOdC5og,New York,NY,Tapas/Small Plates,40.720079,-73.987785,$$,1402,4
-287,Tanoshi Sushi Sake Bar,wSGZA3DOFSUvALZRKCM_Sw,New York,NY,Sushi Bars,40.767568,-73.952815,$$$$,622,4.5
-288,Dim Sum Palace,bVkjBJlAIwKAj9Aw1KVWjA,New York,NY,Dim Sum,40.76015,-73.9893699,$$,1120,4
-289,Van Leeuwen Ice Cream,NyFXsvNhwCwkqVfmCU5LJw,New York,NY,Desserts,40.7277,-73.98768,$$,920,4
-290,Marc Forgione,DRitJoNGTkHXZvH_YpLIAw,New York,NY,American (New),40.71647,-74.0095599,$$$,904,4.5
-291,Gato,Ve9eysLcTjGLbKp7tjOd9w,New York,NY,Mediterranean,40.7255312,-73.9951947,$$$,1114,4
-292,Rizzo's Fine Pizza,nUpA3sY5b6dynC7aj0eV6A,New York,NY,Pizza,40.720852,-73.984456,$$,708,4.5
-293,5 Napkin Burger,x2ATnp8-hXFhr_XznPYPMw,New York,NY,Burgers,40.760198,-73.991093,$$,2015,3.5
-294,John's of Times Square,zOmgO8Di9Ui2bQHqSarUKg,New York,NY,Pizza,40.75823,-73.98836,$$,2085,3.5
-295,Kura,nEkVibaTuIFEcTNtltFgJg,New York,NY,Japanese,40.726709,-73.9835794,$$$$,456,4.5
-296,Alimama,oDRZt37ROqadlK3-VI0PfQ,New York,NY,Desserts,40.71586269,-73.99928509,$$,801,4.5
-297,Vezzo,J38XGzriEkMsDfCMt6et_g,New York,NY,Pizza,40.7445,-73.98139,$$,1253,4
-298,The Mermaid Inn,vQcK7BH6maW9dAZWJOuW3Q,New York,NY,Seafood,40.78873989,-73.97444916,$$,1053,4
-299,The Grey Dog,QpkKEFHK5dz8XT-osEXgJw,New York,NY,Breakfast & Brunch,40.740624,-74.000648,$$,1073,4
-300,Boqueria Spanish Tapas - Flatiron,qIOAlXCCYrwN0VxEEH-Tmw,New York,NY,Spanish,40.74029277,-73.99407098,$$$,1209,4
-301,Sweet Moment,UZViRVpxNZvOM5KarmbT1g,New York,NY,Coffee & Tea,40.71763,-73.99714,$$,751,4.5
-302,The Three Monkeys,IBgjj5VBu5JJvKgo9EzKrg,New York,NY,Sports Bars,40.76405,-73.98311,$$,1077,4
-303,Trademark Taste + Grind,unWoFZeSWa0DK1YMekO_Uw,New York,NY,Venues & Event Spaces,40.75032339,-73.98555663,$$,604,4.5
-304,Café China,xq0cX_DgxiJMXwhmEl9kUA,New York,NY,Szechuan,40.74992252,-73.98194641,$$,1549,4
-305,Craft,Rgm8BwcoqfIVSl2QSEOhbQ,New York,NY,American (New),40.73818,-73.98866,$$$$,994,4
-306,Lure Fishbar,aSFBv64GBpMOFPqIleeQFQ,New York,NY,Seafood,40.72461217,-73.99857471,$$$,1605,4
-307,Employees Only,SjG7CnTIuUBIo9T4BThkGQ,New York,NY,American (New),40.73343,-74.00617,$$$,1425,4
-308,Maison Pickle,XsElXaLxUPKquI78poB8yw,New York,NY,Cocktail Bars,40.7870044,-73.9780229,$$,838,4
-309,Joe's Pizza,KEEXuHCYhsQJ-zpJhu98bA,New York,NY,Pizza,40.75458413,-73.98700392,$,868,4
-310,Capizzi,06tnwnEQM2j9A6dC3HC_TQ,New York,NY,Pizza,40.75744,-73.99357,$$,780,4.5
-311,Fish,RLJ5BUm89VySJWHHvmSzEQ,New York,NY,Seafood,40.731734,-74.003463,$$,1424,4
-312,Nobu Fifty Seven,SxKvgnkMMZdhBJcxxKQnww,New York,NY,Sushi Bars,40.76362108,-73.97650486,$$$$,1150,4
-313,Fogo de Chao Brazilian Steakhouse,7B2XMvV5uGuKyl19-HTSvg,New York,NY,Brazilian,40.76112157,-73.97797849,$$$,1122,4
-314,Eclair Bakery,bvc5P9vmRiNhyVWjd5bVcg,New York,NY,Bakeries,40.756722,-73.966611,$$,533,4.5
-315,The Ginger Man,f7i6LxdwbDXExDn_58tXaA,New York,NY,Bars,40.749459,-73.982743,$$,1336,4
-316,Gyu-Kaku Japanese BBQ,dtk1Cstz5MHr-B1AOM_nXA,New York,NY,Japanese,40.75537,-73.97054,$$$,1149,4
-317,Five Senses,_saXnBy0Wq2Gb3YusWZhqw,New York,NY,Korean,40.74757316,-73.98631226,$$,1334,4
-318,Gyu-Kaku Japanese BBQ,ONQRhDuWv0e9R5xOiI7YAA,New York,NY,Japanese,40.75908,-73.98989,$$,1171,4
-319,MUD,S-WdvEU1X7J33whXWk1zmw,New York,NY,Coffee & Tea,40.72905,-73.98668,$$,1144,4
-320,Tasty Hand-Pulled Noodles,97q5nUQTuBo_h00XCxna2A,New York,NY,Chinese,40.7142,-73.99787,$,1555,4
-321,Bosie,9HkUue6kUfTIQUlLynWLMQ,New York,NY,Coffee & Tea,40.7277403,-73.9995539,$$,912,4
-322,La Pulperia Hell's Kitchen,WqjqHMozyW42XLTtLnKGag,New York,NY,Latin American,40.76090378,-73.99052035,$$$,747,4.5
-323,Judge Roy Bean Public House,veku2cg2qaV-7MxwhOMBmg,New York,NY,Pubs,40.76291581,-73.97612481,$$,700,4.5
-324,Locanda Verde,pk89jzL1RsE9U0thf_z6tw,New York,NY,Italian,40.71986013,-74.01003907,$$$,1576,4
-325,Rustic Table,jh42MR1OQFAFMhe_pQEzmw,New York,NY,Mediterranean,40.759624,-73.9958265,$$,790,4
-326,Amy's Bread,n-hBKsnFFUpe-y00EZrOqg,New York,NY,Bakeries,40.76121,-73.99024,$,1102,4
-327,Chobani SoHo,z9sRnN1gPyxz9SJ52XDWoQ,New York,NY,Coffee & Tea,40.72568955,-74.00105238,$,648,4.5
-328,Amorino Gelato,szW5qGJZEmjEf_70tu5XUA,New York,NY,Gelato,40.73287818,-73.99388264,$$,883,4
-329,Washington Square Park,bJQZKARP-Xn2AEqNNMe9OA,New York,NY,Parks,40.73078734,-73.99759769,0,550,4.5
-330,CajunSea & Oyster Bar,v0DwpyNrKeS2ZhfMjVu8lg,New York,NY,Cajun/Creole,40.7483352,-73.9867701,$$,1184,4
-331,Shake Shack,hJ1xHZbD7IRlVFNfoe5HGA,New York,NY,Burgers,40.778888,-73.955004,$$,1356,4
-332,Coppelia,vgg1dvDP-9tFWSacN4q0nA,New York,NY,Cuban,40.73897,-73.99995,$$,1291,4
-333,Red Rooster Harlem,fxGpXRxFUDzlU3Cyszu4uQ,New York,NY,American (Traditional),40.80815,-73.94488,$$$,3116,3.5
-334,Luzzos La Pizza Napoletana,eVk4F9ixl89zyUHJ1G2Aiw,New York,NY,Italian,40.730616,-73.9834846,$$,1025,4
-335,Amorino Gelato,WLDxwPbjOlSkqRW9bS-Frg,New York,NY,Gelato,40.7595642,-73.9884984,$$,689,4.5
-336,PizzArte,xsQTIeq-WLkp4ParkTQpMQ,New York,NY,Pizza,40.76293351,-73.97766687,$$,1043,4
-337,Heidi's House By The Side Of The Road,26E3j9l0XW_onVIUP-ThCw,New York,NY,Wine Bars,40.772189,-73.955029,$$,588,4.5
-338,Le Parisien,csVEpHy5KJoFvM1qp5XwLQ,New York,NY,French,40.74540793,-73.97914783,$$,927,4
-339,Vitae,Ucxhqn56VtC-eYjdNsg7Og,New York,NY,American (New),40.7555884,-73.9785483,$$$,762,4
-340,La Maison du Macaron,x2OI4M2QJOo3Ymf8YHBhdw,New York,NY,Macarons,40.74318,-73.99419,$$,876,4
-341,Petee's Pie Company,PWsU_ORsfcjeeUqocm9vQg,New York,NY,Bakeries,40.71921585,-73.99128225,$,696,4.5
-342,Room Service,dtnmxLqBnNAfdCN8fYVeLw,New York,NY,Thai,40.76176,-73.9898,$$,1801,3.5
-343,Bobwhite Counter,nD7Hcq5aaCASbWzc0-Sg3A,New York,NY,Southern,40.72362,-73.97893,$$,750,4.5
-344,Bar Pa Tea,V49pn2KD8848gpSRMqLIww,New York,NY,Bubble Tea,40.72136,-73.99675,$,751,4
-345,Aunt Jake's,I2lgw_7DUnwD92ND4PN-Ow,New York,NY,Italian,40.7190315,-73.9977161,$$,1349,4
-346,Frying Pan,bEloKDe-QVkwakAwmFKbbA,New York,NY,Bars,40.7521174,-74.00900245,$$,1495,4
-347,Frick Collection,E672oSwgE6Vm4izZlpA6lQ,New York,NY,Art Museums,40.77094,-73.96717,0,489,4.5
-348,Red Poke,SdESb_kSAV6b0WD813J4WQ,New York,NY,Poke,40.7588993,-73.991915,$$,518,4.5
-349,Magnolia Bakery Rockefeller Center,iks1xNyp-uZnaeunOM2UPg,New York,NY,Desserts,40.75926519,-73.98056455,$$,2385,3.5
-350,BaoHaus,B3i4zs5wquFu1UZyzYJ-bQ,New York,NY,Chinese,40.73246909,-73.9857136,$$,1918,3.5
-351,Taboonette,owYYuyLvlsdjLz68c3SSfg,New York,NY,Mediterranean,40.7347009,-73.9927323,$$,823,4
-352,Penelope,NwrqmFGO-utVOG-eeDDuXg,New York,NY,American (Traditional),40.74371,-73.98152,$$,2088,3.5
-353,PMF Pardon My French,TGP5gbAgml0IDRLGCpFnCw,New York,NY,French,40.72473,-73.98115,$$,934,4
-354,Hillstone Restaurant,01isnBO1rFO2LTOeNfYl9w,New York,NY,American (New),40.7427534,-73.9847308,$$$,916,4
-355,Ocean Prime,3Gz07E5YJjDTJPSuzsAStQ,New York,NY,Seafood,40.76173,-73.98063,$$$,531,4.5
-356,Harney & Sons SoHo,OiqGAhC5EQXb1CaNxxvfBQ,New York,NY,Coffee & Tea,40.72143983,-73.99940086,$$,709,4.5
-357,Flex Mussels,rHmeJVffuj96M7jbB-wWgw,New York,NY,Seafood,40.737437,-73.999661,$$,886,4
-358,2nd Ave Deli,xiwnLiNhSlEN4CDcurqsLQ,New York,NY,Delis,40.74519,-73.97918,$$,1166,4
-359,Adrienne's Pizzabar,yH6t1JWcwkdWG4CS5KPvow,New York,NY,Pizza,40.7043362,-74.0101733,$$,1613,4
-360,Chef's Table at Brooklyn Fare,diCW3Pj1PTVRSyol_d7cZw,New York,NY,Japanese,40.75619308,-73.99660909,$$$$,496,4.5
-361,Maialino,yi6jIxzHo-nbAOG4KWuqcw,New York,NY,Italian,40.738437,-73.985686,$$$,1350,4
-362,Despaña,cUyfnb3E7HvzNfbTgTjl_Q,New York,NY,Specialty Food,40.7210686,-73.9979083,$$,560,4.5
-363,Pearl Oyster Bar,6dSiCqC9x51PZRMOvdQTpA,New York,NY,Seafood,40.7314099,-74.00197,$$$,820,4
-364,Blue Ribbon Sushi,QR1YIRzFjd2bi5iBzT9zXg,New York,NY,Sushi Bars,40.72612,-74.0025299,$$$,1077,4
-365,The Smith,k5NAz3-goMXKoUqPfOZ1Hw,New York,NY,American (New),40.7310675,-73.9886217,$$,1907,3.5
-366,Carroll Place,WHQpLvxkCK_BMtF8pIShnQ,New York,NY,Italian,40.7287,-73.99971,$$,1007,4
-367,Times Square,_g9P_uVoomq0MDa5z3PrIg,New York,NY,Landmarks & Historical Buildings,40.7587305,-73.98517288,0,1441,3.5
-368,Westville Chelsea,MctQwL9Mp5X7DJk13VoERg,New York,NY,American (New),40.74175,-74.00007,$$,1086,4
-369,Ootoya Times Square,wjIyCBEpCG_HRp8veiI0YQ,New York,NY,Japanese,40.75487,-73.98599,$$,873,4
-370,Ñaño Ecuadorian Kitchen,9YXvNE2jpEhA4k6M8WDH7A,New York,NY,Latin American,40.7631,-73.99335,$$,532,4.5
-371,The Smith,JYNBy2r3LVhJbLHE1bASfg,New York,NY,American (New),40.77162013,-73.9818378,$$,1579,4
-372,Katsu-Hama,#NAME?,New York,NY,Japanese,40.75638,-73.97759,$$,1228,4
-373,Park Avenue Autumn/Winter/Spring/Summer,2mzyXxnstSPcpDS3u5g_7w,New York,NY,American (New),40.74197106,-73.98521058,$$$,894,4
-374,Lilly's Craft and Kitchen,JXcYD52B4190gIh6_RSXCg,New York,NY,Bars,40.76138,-73.99071,$$,889,4.5
-375,Zest Sushi,ZfuZ2byArGq-5j8zX8Afeg,New York,NY,Sushi Bars,40.71783447,-73.98995972,$$,794,4
-376,BarBacon Hell's Kitchen,3omBIylGFJugwLgNgUgOXw,New York,NY,Gastropubs,40.766253,-73.986674,$$,1164,4
-377,Wondee Siam,rKeLuHDI3PQZsPSVCEMHtw,New York,NY,Thai,40.76495,-73.98747,$$,967,4
-378,K Rico Steakhouse,sGqKDtizXj3tg9jnAc9FeQ,New York,NY,Bars,40.76438,-73.9880699,$$$,559,4.5
-379,Death & Co,H1QphdrrsaB472y9HXi2Ow,New York,NY,Lounges,40.72589,-73.9847,$$$,1484,4
-380,Nougatine at Jean-Georges,xEDD2ScBU3jHhWxlMC7dkQ,New York,NY,French,40.76891,-73.98176,$$$,1106,4
-381,Stuffed Ice Cream,0kH1mGuqIb5rOrvCKGsWtA,New York,NY,Ice Cream & Frozen Yogurt,40.72805,-73.98538,$,642,4.5
-382,Quality Italian,dc3hkLkAqCSxDWQzrx-g9A,New York,NY,Italian,40.76440445,-73.97678051,$$$,1019,4
-383,Burger & Lobster,YtXl15Nv7TZvV3yIqbZc8A,New York,NY,Seafood,40.75596,-73.98532,$$,872,4
-384,Sprinkles Cupcakes,SQ7VgqfjItZyoD5tvMeWuA,New York,NY,Bakeries,40.763251,-73.967564,$$,962,4
-385,Brindle Room,sVG1whNWHhlbjP6p027YcA,New York,NY,American (New),40.72829,-73.98271,$$,1000,4
-386,Kang Ho Dong Baekjeong,x9ADy3a--S_6Oqn_1KLipA,New York,NY,Korean,40.74717358,-73.98521442,$$$,1180,4
-387,The Kati Roll Company,BPyt7S9TdcR1u571iacg7g,New York,NY,Indian,40.75269,-73.98466,$,1490,4
-388,BoCaphe,C2o3Iw-DXjoUJFgQIbiqkQ,New York,NY,Vietnamese,40.722046,-73.997557,$$,1289,4
-389,Nino's 46,vjubSxmdG_HoBBgd39geBw,New York,NY,Italian,40.7569159,-73.980516,$$,1114,4
-390,Morgenstern's Finest Ice Cream,1lNt64-Qu4tTwr3JdF-7Iw,New York,NY,Ice Cream & Frozen Yogurt,40.72158723,-73.99310925,$$,1462,4
-391,Il Corallo Trattoria,J0OeDwmh5JBhid0A5GvltA,New York,NY,Italian,40.7262073,-74.0018919,$$,921,4
-392,Gelso & Grand,MphfKkYFEe0BDQ6hZ0A5fA,New York,NY,Italian,40.71940895,-73.99737779,$$,834,4
-393,Bouchon Bakery & Cafe,S3Fw7s_GA94lJLbLFrqZrw,New York,NY,Bakeries,40.768538,-73.982923,$$,1348,4
-394,Westville East,3idAtiEXe_XfTcPoZC_DcQ,New York,NY,American (Traditional),40.72847,-73.98213,$$,1022,4
-395,Seasoned Vegan,IJg3TdXz8IzKTfcspmr8MQ,New York,NY,Vegan,40.800664,-73.952757,$$,1086,4
-396,Shanghai Dumpling,x_t-FtDa5HVgc-wecp0HBg,New York,NY,Shanghainese,40.71726,-73.99721,$,2109,3.5
-397,Soba-ya,i8ejDDR4COtukAAA1Ls5fw,New York,NY,Japanese,40.72964859,-73.98788452,$$,1438,4
-398,Pepe Rosso Social,04exhf1PZ79_Km9vHAzvfA,New York,NY,Italian,40.72007,-73.99618,$$,809,4
-399,Blue Dog Cookhouse & Bar,I6optu9x0JAf8oT5lqJ8qw,New York,NY,Cocktail Bars,40.76244,-73.98674,$$,1201,4
-400,Indian Accent,1_pK5aQ47atF50oAKHADhA,New York,NY,Indian,40.76433446,-73.97873129,$$$$,529,4.5
-401,Upland,xkvv0n7jbl4Ra3Vm_jfxaA,New York,NY,American (New),40.7418912,-73.9846396,$$$,942,4
-402,Aux Merveilleux De Fred,iTcxncdrcQRK1tdcbFIqGQ,New York,NY,Desserts,40.738362,-74.004134,$$,325,4.5
-403,Urbanspace Vanderbilt,QAGFu7pqCAZUJkYkUB5pjg,New York,NY,Food Court,40.754623,-73.976605,$$,629,4
-404,Fresco Gelateria,M1OgZWqdol6fY5hfNa9oSw,New York,NY,Gelato,40.72881821,-73.98725189,$,468,4.5
-405,Blend on the Water,Hh9glEE_xDYT_pPUsRPXlA,Long Island City,NY,Latin American,40.74795208,-73.95708224,$$,2981,4
-406,Song E Napule,15k7iqFbhf4h8L01yggLqg,New York,NY,Pizza,40.72813,-74.00188,$$,426,4.5
-407,The Press Lounge,nCH7SR7qXu0asO1GU3iqHw,New York,NY,Lounges,40.76452,-73.99586,$$$,1022,4
-408,Sergimmo Salumeria,9iC39Z1YjZKbrrCANgzBXg,New York,NY,Italian,40.754296,-73.995498,$$,661,4
-409,Housing Works Bookstore Café,O4UeWRZLKuS3GRC4ELJRog,New York,NY,Bookstores,40.72454,-73.9965931,$,568,4.5
-410,Serendipity 3,_tHF8-3rbyMesgdkQzB2yQ,New York,NY,Desserts,40.761851,-73.9649001,$$,4073,3
-411,Murray's Cheese Bar,wrvIZaT5rTmk0YpIvQbvHw,New York,NY,American (New),40.7312,-74.00322,$$,751,4
-412,Vietnaam,Wbmqg0TkOVkzNh3HrJ9DIQ,New York,NY,Vietnamese,40.7791481,-73.95041656,$$,747,4
-413,Pegu Club,B2S5HWRfxe9G-BhKJix9Yg,New York,NY,Lounges,40.726579,-73.999861,$$$,988,4
-414,Boba Guys,9_PfzNxJP2iqqJs8hDubgw,New York,NY,Coffee & Tea,40.720657,-73.984542,$,651,4
-415,Basta Pasta,5Akss-swwfyoSVeIsDBbvw,New York,NY,Italian,40.73881,-73.99407,$$,1385,4
-416,Xe May Sandwich Shop,8M_0cxAChoXl7Ls9YkWJlg,New York,NY,Sandwiches,40.7272,-73.98493,$,610,4.5
-417,Butter Lane,qMr-lz0G0vyz2r4mJJQxmA,New York,NY,Bakeries,40.72649449,-73.9841491,$,1207,4
-418,Taverna Kyclades - East Village,apykLG7DTZ-7xnOcZGDZZA,New York,NY,Greek,40.73107825,-73.9825163,$$,794,4
-419,Non Solo Piada,#NAME?,New York,NY,Italian,40.75414,-73.99245,$$,319,4.5
-420,Ray's Candy Store,WEC8O6GskyWJVpri_gW3QQ,New York,NY,Desserts,40.72627762,-73.98357075,$,371,4.5
-421,Hill Country Barbecue Market,NlsxuhV6CUONOyI7xk7-mw,New York,NY,Barbeque,40.74428,-73.99041,$$,2124,3.5
-422,The Smith,Xd_l7jtUAZZAAvK8-mI2Jw,New York,NY,American (New),40.74424,-73.98878,$$,884,4
-423,Boucherie Union Square,8XHbZIKDQbXhyKIGiukVeQ,New York,NY,Steakhouses,40.73715,-73.98789,$$$,602,4.5
-424,Ricardo Steak House,CfWe636m2CAUg4FAdl_zVQ,New York,NY,Steakhouses,40.79345204,-73.94047568,$$$,1005,4
-425,Little Branch,a8CdwY4uFIP4nXkl4V5EEg,New York,NY,Lounges,40.73013,-74.005046,$$$,1034,4
-426,Takahachi Bakery,GlPJPpKvPR4d8dmcSEYpdA,New York,NY,Bakeries,40.71393,-74.00822,$$,871,4
-427,Tompkins Square Bagels - Avenue A,oi39VAwo4-KGm_gSkWPCsQ,New York,NY,Bagels,40.72823,-73.9823,$,1057,4
-428,Aquavit,f7apP8A_0_KqcGQTK4V2TQ,New York,NY,Scandinavian,40.76079,-73.97221,$$$$,718,4
-429,Alice's Tea Cup Chapter II,JCrKKepUUkRIIPD2UD1i0g,New York,NY,Tea Rooms,40.76518,-73.96576,$$,1386,3.5
-430,Cafe D'Alsace,kmcgUxWhwlbmC-FAMTEF2g,New York,NY,French,40.77916,-73.95104,$$,1168,4
-431,Han Dynasty,wfhMIiMh2A2psCGONOVSlg,New York,NY,Szechuan,40.732072,-73.988074,$$,1185,4
-432,Boqueria,AIKjw2QLvVNdha3TciJYzg,New York,NY,Spanish,40.724912,-74.0021299,$$,955,4
-433,Crispo,yFtOtTd7ncSjFF3QavQ5cA,New York,NY,Italian,40.7392469,-74.0016882,$$,936,4
-434,Beyond Sushi,KxyH5zvTyXawl17lHjA4SQ,New York,NY,Vegan,40.75247,-73.98845,$$,437,4.5
-435,Mastro's Steakhouse,iAoHFfB_T8U31PhIzD-o_g,New York,NY,Steakhouses,40.7610374,-73.9802619,$$$$,626,4
-436,Osteria Morini Manhattan,KCBfW6sWl9Gx-LvMff08jg,New York,NY,Italian,40.72191799,-73.99764721,$$$,1108,4
-437,Terri,p3E_1wktqB-Z4qtqqO9F-A,New York,NY,Sandwiches,40.74252,-73.9923,$$,843,4
-438,Briciola,MOwB9YYd-Ko6nVgSB-ltQw,New York,NY,Italian,40.7637997,-73.98809195,$$,794,4
-439,Royal Grill Halal Food,UtknyDJ_DPut-FKRqs0wpQ,New York,NY,Halal,40.75614,-73.98316,$,308,5
-440,Sarge's Delicatessen & Diner,jNRT5vY1Hvp5WDTaHy4Mhw,New York,NY,Delis,40.74732795,-73.97720179,$$,1068,4
-441,Margon,4CObV3XU8VQ6nXeVS4vO0A,New York,NY,Cuban,40.75787,-73.98398,$$,717,4
-442,S'MAC,bRPq-Nmct5bOuOtsu8fC7Q,New York,NY,American (Traditional),40.730212,-73.983724,$$,2151,3.5
-443,The Jeffrey Craft Beer & Bites,2_oy2iBeT0Rg-oz4f0GF1A,New York,NY,Bars,40.7611,-73.963,$$,652,4
-444,Jun-Men Ramen Bar,xrnk8mgoV7up6fauVmugpw,New York,NY,Ramen,40.748209,-74.00047,$$,584,4
-445,Estiatorio Milos,mhhTORjUdXj-UIDjyGmhBg,New York,NY,Seafood,40.76368,-73.97922,$$$$,863,4
-446,Cull & Pistol Oyster Bar,#NAME?,New York,NY,Seafood,40.74265894,-74.00592854,$$,612,4
-447,Peacefood Cafe,zBf-m72ATTPTey-_9vu3Yw,New York,NY,Vegan,40.785326,-73.97713,$$,1235,4
-448,Taco Mahal,SP4bvMvxel_UPdof_er3HA,New York,NY,Indian,40.732337,-74.003303,$$,502,4.5
-449,Ramen-Ya,9jRwUN3z7k0seLOzWERVeg,New York,NY,Ramen,40.732536,-74.001681,$$,939,4
-450,EN Japanese Brasserie,P_UREWCQxEYVbBa-KW_Wew,New York,NY,Japanese,40.7306,-74.00698,$$$,1225,4
-451,Blue Smoke,MIuFXBFthAWeEMxyP_lm9A,New York,NY,Southern,40.74228,-73.98375,$$,1720,3.5
-452,The Boil,0087AC_NnFRtC0c9FsB9pw,New York,NY,Cajun/Creole,40.73026447,-73.99437881,$$,735,4
-453,The Capital Grille,Maks_EfVcTOe20TnGQy_MQ,New York,NY,Steakhouses,40.76073909,-73.98137809,$$$,733,4
-454,Basso56,ugIv_ylUdqRIlx6AD8lTJA,New York,NY,Italian,40.7655,-73.98267,$$$,598,4.5
-455,Le Botaniste,#NAME?,New York,NY,Wine Bars,40.76499863,-73.96598303,$$,386,4.5
-456,Westville West,55spA8dSOvKRme3ix-k7gg,New York,NY,American (Traditional),40.7340046,-74.0041863,$$,920,4
-457,Blind Tiger Ale House,PMp7WlHIXQUnej-Ds1jRfw,New York,NY,American (Traditional),40.731926,-74.003223,$$,877,4
-458,Rex,lwfrB59lvpkCBw2FZD3X6w,New York,NY,Coffee & Tea,40.768877,-73.98857882,$,509,4.5
-459,Uncle Boons,m6bu1AGIIIM9GNn9_cjsmg,New York,NY,Thai,40.72113286,-73.99432863,$$$,896,4
-460,Besfren,j5sBqXdeDsvkK-Ryh7w2VQ,New York,NY,Coffee & Tea,40.746963,-73.98533,$$,726,4
-461,Porto Rico Importing Company,hyQ-1CEn9dHZfdP0PSaMTg,New York,NY,Coffee & Tea,40.729492,-74.001621,$,441,4.5
-462,Danji,FeSynfcDT4qB2kDixHUQCA,New York,NY,Korean,40.764,-73.98686,$$,983,4
-463,Yakitori Taisho,Ad3dUoLatOdNtB4LxfmmWg,New York,NY,Japanese,40.729535,-73.9892642,$$,1562,3.5
-464,Joe's Pizza,0UdC0VYX6aAvLiOcpR4MVQ,New York,NY,Pizza,40.73331,-73.98763,$,826,4
-465,Bondst,m6sYBuozGY1JhnHlBf1Bzg,New York,NY,Japanese,40.726934,-73.994404,$$$,948,4
-466,Cho Dang Gol Korean Restaurant,lSQAmoQtmciUld36ogOoOw,New York,NY,Korean,40.75023651,-73.98619843,$$,1028,4
-467,The NoMad Bar,NMDrXW5_qnme1hcJrXNP9Q,New York,NY,Cocktail Bars,40.74493654,-73.98851976,$$$,462,4.5
-468,La Esquina,boRM4i0UQswxQIp6CA9y_A,New York,NY,Latin American,40.721372,-73.997529,$$,2005,3.5
-469,Salinas,XAHfErhn_JujythNCmGl1w,New York,NY,Spanish,40.7436999,-74.00314,$$$$,905,4
-470,Crave Fishbar,dYm7DXMy1r8kCmKiz1MO8w,New York,NY,Seafood,40.755136,-73.968683,$$$,698,4
-471,La Colombe Coffee,-8nEZ20KDfr4PPH47MrAOA,New York,NY,Coffee & Tea,40.72396,-73.99643,$$,660,4
-472,Hourglass Tavern,#NAME?,New York,NY,American (Traditional),40.760952,-73.9903269,$$,738,4
-473,The Capital Grille,kctef59qqlzJNqAc1ZGEvg,New York,NY,Steakhouses,40.75114,-73.97491,$$$,788,4
-474,Dons Bogam BBQ & Wine Bar,xe9qWNyYmsRvNGRPgW-ZcA,New York,NY,Korean,40.74678,-73.98437,$$$,977,4
-475,Hold Fast Kitchen and Spirits,VLGmFHE4s0Sfu0piMVQa1Q,New York,NY,Cocktail Bars,40.76064,-73.99023,$$,235,5
-476,Loi Estiatorio,H87m0azdhuw5uo6Y166uUg,New York,NY,Greek,40.765385,-73.978002,$$$,336,4.5
-477,Gabriel Kreuther,pDwhlX9jNBGnjvyGR9jYWQ,New York,NY,Lounges,40.754546,-73.982556,$$$$,394,4.5
-478,Market Table,0BzxIsoRuFvxbMPl-iH70A,New York,NY,American (New),40.72976593,-74.00376653,$$$,784,4
-479,The Wild Son,N5UY113nNpeKdLPv0cbMjQ,New York,NY,American (New),40.74073,-74.00836,$$,441,4.5
-480,Flip Sigi,8WnHtvMdPWE66eSkUdbLhQ,New York,NY,Filipino,40.73405,-74.00642,$$,661,4
-481,Trattoria Dell'Arte,LXdblKc5g1Dp17xiV-Am1w,New York,NY,Italian,40.76529565,-73.98046282,$$$,967,4
-482,Georgetown Cupcake,XxDsM2Q_tD8iP6T58785uw,New York,NY,Bakeries,40.72382442,-73.99945246,$$,870,4
-483,La Pulperia UES,q2D80--iDkSwf_OKsS-jdA,New York,NY,Latin American,40.7766202,-73.9523275,$$,716,4
-484,SUGARFISH by sushi nozawa,0ePn6TQSJQky4ueKeGQvpQ,New York,NY,Sushi Bars,40.73901,-73.98882,$$$,756,4
-485,Lido,J9xVQScnr0lYWl61_mLXMA,New York,NY,Italian,40.80497978,-73.954826,$$,942,4
-486,Boka,GDWVTV11eq92ElXD9mstBw,New York,NY,Korean,40.729519,-73.989104,$$,1489,3.5
-487,Dear Irving,#NAME?,New York,NY,Venues & Event Spaces,40.7360569,-73.9872401,$$$,625,4
-488,One World Trade Center,ZJC4YEatJ1CK-m37rl7-MQ,New York,NY,Landmarks & Historical Buildings,40.712746,-74.01338,0,479,4.5
-489,Supper,Vs8kQ4R381y27AH018gLpg,New York,NY,Italian,40.7229,-73.98527,$$,1255,4
-490,Pisticci,wZkZmjZEJDraLJgAalnHvA,New York,NY,Italian,40.8141624,-73.960288,$$,817,4
-491,Benemon,axqp3pGJXnTLgq2QrPyDyQ,New York,NY,Japanese,40.72551,-73.98838,$$,516,4.5
-492,Robert,h8XLhVVPoYPYodZqQOjRMw,New York,NY,American (New),40.767394,-73.982036,$$$,896,4
-493,Perry St,2VpurA2lb-q90nmALklNcA,New York,NY,American (New),40.73442,-74.00971,$$$,927,4
-494,Citizens of Chelsea,FaR-Kv-0ZzgcqFW1sCnacw,New York,NY,Coffee & Tea,40.748123,-74.000569,$$,633,4
-495,Boqueria Spanish Tapas - Upper East Side,5S8ZK9XLdl4l645twbNYZQ,New York,NY,Tapas/Small Plates,40.771522,-73.956073,$$$,699,4
-496,The Donut Pub,BJL3JbPPX97a58GTURvTxA,New York,NY,Bakeries,40.738867,-73.999811,$,862,4
-497,Dhaba Indian Cuisine,NgD-6ogFGc_c4z5_Ur4k2g,New York,NY,Indian,40.742364,-73.982813,$$,1463,3.5
-498,Calle Dao - Chelsea,pBNMZp_tKCAfRNx7-ybcHQ,New York,NY,Cuban,40.7476515,-74.0037312,$$,498,4.5
-499,Cornerstone Cafe,efYELOeAJ-CjKpzayEfblg,New York,NY,Italian,40.72206183,-73.98324957,$$,1089,4
-500,Agora Turkish Restaurant,7gZGVdqMch7ls0IGO3DijQ,New York,NY,Turkish,40.77492,-73.95412,$$,514,4.5
-501,nonono,qm1J_dPA5IHij1oAnoZwHw,New York,NY,Tapas/Small Plates,40.74545,-73.98499,$$,514,4.5
-502,Supermoon Bakehouse,b5x-Fw7I7Y88TdFIzvbsnw,New York,NY,Bakeries,40.71991,-73.9872,$$,640,4
-503,Gray's Papaya,477o_-7VmcnTokazWtEa0A,New York,NY,Hot Dogs,40.77837831,-73.98155817,$,1345,3.5
-504,Van Leeuwen Ice Cream,zda6zyX1g8vvzNiHDutzNg,New York,NY,Ice Cream & Frozen Yogurt,40.73442081,-74.00127228,$$,464,4.5
-505,Hometown Hotpot & BBQ,zEIt0xaPM9DIS-pc118O6A,New York,NY,Hot Pot,40.71931,-73.9968899,$$,1139,4
-506,Marta,rZ9OFoSqy8u4WECfh--ylg,New York,NY,Pizza,40.74452128,-73.98458285,$$$,848,4
-507,Asuka Sushi,fePu8xy0ir_ikZcS_vVSBA,New York,NY,Japanese,40.74529,-73.99888,$$,901,4
-508,Totto Ramen - Midtown East,RjeW_l8OF99rn5df5-Rj4g,New York,NY,Ramen,40.75621848,-73.96797229,$$,1089,4
-509,Jeepney,-b3J-5K_beWyGxQ1Id7KQg,New York,NY,Filipino,40.730294,-73.9835395,$$,1052,4
-510,District Tap House,Z65cd3Z7JvwK8TnSVg-cfA,New York,NY,Sports Bars,40.75409,-73.99039,$$,801,4
-511,Mysttik Masaala,S6r0P0PItA9EYHV1nCiQgg,New York,NY,Food Trucks,40.75932,-73.97209,$,358,4.5
-512,Uncle Gussy's,VGTrGSH38A4n-v5nFe4skA,New York,NY,Food Trucks,40.75768133,-73.97329537,$,447,4.5
-513,Manousheh,VSPkVw9gSQx-5v4A6aC_YA,New York,NY,Lebanese,40.7293499,-74.00134,$,402,4.5
-514,Carmine's Italian Restaurant - Upper West Side,mTWlEiCUEBlxBAkIikkB1A,New York,NY,Italian,40.791077,-73.973763,$$,1286,4
-515,The Grey Dog - Union Square,VCqNjupCWZ5INzOcyBMJSg,New York,NY,Coffee & Tea,40.733828,-73.993052,$$,1013,4
-516,Mikey Likes It Ice Cream,3kipPn-7euDo-9JIqK5hlA,New York,NY,Ice Cream & Frozen Yogurt,40.729385,-73.981359,$,487,4.5
-517,Peng's Noodle Folk,0vg2Z-HPwkyVVX613j2ysg,New York,NY,Chinese,40.77726,-73.94932,$$,407,4.5
-518,NY Dosas,x3NeZ4xToUxVKDoZ32D5tg,New York,NY,Indian,40.73083861,-73.9986378,$,420,4.5
-519,Apothèke,P3NfoMjBy_o2BTNNZ-5okg,New York,NY,Lounges,40.71434,-73.99822,$$$,1428,4
-520,Fish Cheeks,WJS06XxRdc6DD1s4LWE9HA,New York,NY,Seafood,40.7258,-73.9927,$$,474,4.5
-521,Riverpark,OqNmzS2N2I750zYgUC6IgA,New York,NY,American (New),40.73937342,-73.97348434,$$$,787,4
-522,Cafe Boulud,TQEajJ-kahYPOToGZIyyaA,New York,NY,French,40.77444,-73.96396,$$$$,706,4
-523,Strip House Downtown,DijUyfUGs6WoN4dp0_OANQ,New York,NY,Steakhouses,40.73445,-73.99337,$$$$,960,4
-524,Cupcake Market,yr-X-bhRgh5XMolmM2WAiw,New York,NY,Cupcakes,40.72716141,-73.98670959,$$,295,4.5
-525,Nerai,E9NMNWvV70HV5gB369N0EA,New York,NY,Greek,40.7602,-73.97308,$$$,443,4.5
-526,Blank Slate Coffee + Kitchen,Ry04HQ6kNsF1RYTjINDaYw,New York,NY,Coffee & Tea,40.7453293,-73.9845257,$$,589,4
-527,Sunny and Annie's,pWywDImlX0n_XKPNg0Bizg,New York,NY,Sandwiches,40.724653,-73.981702,$,467,4.5
-528,Tavola,V3USzFEGhuoXez4G2Rk11A,New York,NY,Italian,40.755403,-73.994516,$$,890,4
-529,The Wayland,j8cKSxr6aQ8qTx23FLyyiA,New York,NY,Cocktail Bars,40.7251,-73.9778,$$,489,4.5
-530,Totto Ramen Hell's Kitchen,DPDznXYX5DBLBASKfxQ-DQ,New York,NY,Ramen,40.765055,-73.991001,$$,1033,4
-531,Grom,8nL3qtKZLyNf6nSyKqcO0g,New York,NY,Ice Cream & Frozen Yogurt,40.73052718,-74.00240421,$$,887,4
-532,Take31,IjQ2yGUKkvP0JIldT9vRFQ,New York,NY,Korean,40.7463,-73.984809,$$,558,4
-533,Hakata Tonton,KfaG5PoTEPpbODHBta9irw,New York,NY,Japanese,40.733234,-74.003326,$$,986,4
-534,Franchia Vegan Cafe,LjBKkUSpMwrpo99hXgtHYw,New York,NY,Korean,40.74747121,-73.98124234,$$,882,4
-535,La Colombe Coffee,YhOmfXTPu_QRNT3azAu6wA,New York,NY,Coffee & Tea,40.728221,-73.993165,$$,562,4
-536,230 Fifth Rooftop Bar,V6xlMNLFTsxB4W0VVcRK_Q,New York,NY,Cocktail Bars,40.7440395,-73.9881258,$$,3486,3
-537,Wolfgang's Steakhouse,ikb5lhHmb2xndNZM-jr_Mw,New York,NY,Steakhouses,40.74668187,-73.98205715,$$$$,931,4
-538,Dos Toros Taqueria,U9BX6bMvXHk8umBYnS3Dog,New York,NY,Mexican,40.73368155,-73.98970494,$,1310,4
-539,Oiji,FsuJ7VC5vxX3wcLhFrb97Q,New York,NY,Korean,40.72727,-73.98585,$$$,481,4.5
-540,Coney Shack,ISxL2HWJNCazHAdy5oblJA,New York,NY,Food Trucks,40.756127,-73.986265,$,287,4.5
-541,Hide-Chan Ramen,qiw9Kgsu5YVGrQL_OeDmcQ,New York,NY,Ramen,40.75613,-73.9682,$$,1316,3.5
-542,Somtum Der,qrydcGQpeDP_1oFvx3qOeg,New York,NY,Thai,40.7252152,-73.98427417,$$,692,4
-543,Tomoe Sushi,hh0ae47ojPqq3USCRLmAjg,New York,NY,Sushi Bars,40.7277,-74.0001599,$$$,913,4
-544,Piacere,Z67mgMkN3RfdPEX5mXsyYA,New York,NY,Pizza,40.7196979,-73.9951175,$$,663,4
-545,Da Andrea,hdiuRS9sVZSMReZm4oV5SA,New York,NY,Tuscan,40.736218,-73.99597,$$,723,4
-546,Mamasita Bar & Grill,xemN4tP9RlK5c-yUT-M71Q,New York,NY,Mexican,40.76733,-73.98945,$$,976,4
-547,Corner Bistro,8XLhXJcJ2XbQ8dTBY9YyQg,New York,NY,Burgers,40.738037,-74.003684,$$,1497,3.5
-548,Barrio Chino,RzKR9QcYP03EQ_8DxTxowg,New York,NY,Mexican,40.718022,-73.990026,$$,1094,4
-549,Palma,6Z5OWpaeGGazJHR4LfThsw,New York,NY,Italian,40.73115,-74.00233,$$$,689,4
-550,Radiance Tea House and Books,neQM053ovAOrf1sVSAPI9w,New York,NY,Asian Fusion,40.7639799,-73.98065,$$,836,4
-551,Times Square Diner,W0k5HHTa7IJsR51Nf7fOmA,New York,NY,American (Traditional),40.76140369,-73.98696853,$$,862,4
-552,Davey's Ice Cream,GB8yF6r-isDXjV3NR35xZw,New York,NY,Ice Cream & Frozen Yogurt,40.7279493,-73.9852999,$,507,4.5
-553,Kyo Ya,ytABgZNWnFXQUjOYjh460A,New York,NY,Japanese,40.7267,-73.98534,$$$$,450,4.5
-554,Kashkaval Garden,TAANt0fPbfHqVP5LyMBioA,New York,NY,Mediterranean,40.766758,-73.986144,$$,549,4
-555,Emporio,LTi4_wcCVmqQeJ_jgTEbOQ,New York,NY,Italian,40.7226371,-73.9951331,$$,759,4
-556,The Candle Cafe,x5HLJVEOYF-cCmGEZFu9yA,New York,NY,Vegan,40.771434,-73.959146,$$,895,4
-557,Fishmarket Restaurant,LpVbI-E9C-CSp7WhU5h2Iw,New York,NY,Seafood,40.70717,-74.00192,$$,535,4.5
-558,by CHLOE. Flatiron,CEEUDBFxvUPKGlA65qJ8JQ,New York,NY,Salad,40.74197,-73.99292,$$,740,4
-559,One If By Land Two If By Sea,B_HFzZkFsZgmzcea6R4exw,New York,NY,American (New),40.732498,-74.002595,$$$$,1372,3.5
-560,Bite,PpxJsItHTF6sDAK6XnDJ9w,New York,NY,Sandwiches,40.733163,-73.986158,$,608,4
-561,SakaMai,wcwftlB-61XG4ymGTR61aw,New York,NY,Japanese,40.72095367,-73.98814072,$$$,627,4
-562,4 Charles Prime Rib,ZOa13veZkzGjA-x3kMfOmA,New York,NY,Steakhouses,40.73513,-74.00065,$$$,225,5
-563,Carbone,7_hGsGEkHrjgAiYVjrCFnw,New York,NY,Italian,40.728,-74.0001497,$$$$,916,4
-564,Spice Symphony,Va_mnsEvBghHXvc7uZIWJQ,New York,NY,Indian,40.744722,-73.981202,$$,577,4
-565,Grounded,ZnJZ8F17rLIZ3JbJQ2admw,New York,NY,Coffee & Tea,40.73806,-74.0034,$,716,4
-566,&pizza,t0Bel7xLMUt5g8qIpBylZg,New York,NY,Pizza,40.745294,-73.9880992,$$,391,4.5
-567,Saigon Vietnamese Sandwich Deli,ocXYGC2oiGDJSzA7qu4SGw,New York,NY,Sandwiches,40.7199582,-73.9958631,$,604,4
-568,The Meatball Shop,AHVlPpOkiEl9maijGhar-Q,New York,NY,Italian,40.736125,-74.000607,$$,863,4
-569,Cote,28CNHYULci66pJAz-0_pOg,New York,NY,Korean,40.741192,-73.991314,$$$,757,4
-570,Noodle Village,bnDfFdiCcPzhuNWUJORvLQ,New York,NY,Chinese,40.714167,-73.998803,$,1025,4
-571,VIV,z1OgXX3L9Ipl2mu-Hf4ADw,New York,NY,Thai,40.76277,-73.98969,$$,770,4
-572,The City Bakery,2rnd1ezRyn3bmUF4VJK27Q,New York,NY,Bakeries,40.73885,-73.99241,$$,1577,3.5
-573,Nom Wah Tea Parlor,_usWsAYSKKV2q8xw-3ajrA,New York,NY,Dim Sum,40.71449052,-73.99815386,$$,1918,3.5
-574,Taureau,50fWXrNECQQYght4ZWeBXQ,New York,NY,Fondue,40.72452,-74.00569,$$$,569,4.5
-575,Pippali,HEs6llkn3wIP1ATXeIZQew,New York,NY,Indian,40.74233,-73.98331,$$,719,4
-576,Ise Restaurant,pNe8ZCkGTe4cXfKdOF7kYQ,New York,NY,Japanese,40.7291024,-73.9900618,$$,405,4.5
-577,Earl's Beer & Cheese,DpZBA0-f7Um9lvnp1zZM2A,New York,NY,Bars,40.78729,-73.95152,$$,580,4
-578,Cascalote Latin Bistro,BxnrBKdLwdaEXyq97uxgKg,New York,NY,Latin American,40.79271,-73.94069,$$,333,4.5
-579,Samba Kitchen,aJqjC4uAo6vhOpsVNCiMDA,New York,NY,Brazilian,40.76095,-73.99115,$$,420,4.5
-580,Topaz Noodle Bar,43r4ynjeIZeQI1w7SWARuQ,New York,NY,Thai,40.76444244,-73.97897339,$$,606,4
-581,La Parisienne,xTnivXEdEtXrnhp-z4JGvg,New York,NY,French,40.70961,-74.0093799,$$,387,4.5
-582,Allora Ristorante,z7H9ApIGopnDnQaglnPTzg,New York,NY,Italian,40.75433,-73.97277,$$$,477,4.5
-583,Giorgio's of Gramercy,5ZEFbq_AQV5VQFG2JKYzlA,New York,NY,Italian,40.73942099,-73.98854256,$$$,730,4
-584,Grom,U8juBUAqYYSIMEeGEpHjYg,New York,NY,Ice Cream & Frozen Yogurt,40.76720671,-73.98128523,$$,588,4
-585,Saiguette,sKIYGvENchifk1YwFe77pA,New York,NY,Vietnamese,40.79902,-73.96281,$$,586,4.5
-586,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,$$$$,5532,4
-587,Divya's Kitchen,NKI1VvfXYluRjnq4S6yEuw,New York,NY,Vegan,40.72378,-73.98849,$$,325,4.5
-588,San Marzano Pasta Fresca,k5fd-RSdG4IuXnnGSQ5oOw,New York,NY,Italian,40.727989,-73.98845,$$,1095,4
-589,Ed's Lobster Bar,Z2sNzskjS8Ck0plppRBJIg,New York,NY,Seafood,40.722079,-73.997529,$$$,934,4
-590,Udon West Midtown,ev6e12vhY_0y4qE1cRhv0A,New York,NY,Japanese,40.75354469,-73.97357245,$$,988,4
-591,Sotto 13,yc4vsT-Q4Ej1_9hr94DxkQ,New York,NY,Italian,40.7372,-73.99919,$$,852,4
-592,Sushi By M,MGRo61aHFUeRlWhSbTv2NA,New York,NY,Sushi Bars,40.72666,-73.99027,$$$,296,4.5
-593,Virgil's Real BBQ - Times Square,U0deo-JRQmHrru0uSf6QWA,New York,NY,Barbeque,40.75685,-73.9851,$$,1544,3.5
-594,Kenka,9xRIcn0jTyvWNH9aBO3oAA,New York,NY,Sushi Bars,40.72913,-73.988465,$$,1514,3.5
-595,Peacefood Cafe Downtown,MAwtBgCmrY-i_jbmXlDMkw,New York,NY,Vegan,40.73326709,-73.99297513,$$,714,4
-596,Galata Mediterranean Cuisine,1u_vkRFPuT8Aeh7Zk3bKyw,New York,NY,Turkish,40.74531,-73.97753,$$,327,4.5
-597,Essex,hRZyaQ80R9s9ztEBDJqiuw,New York,NY,Bars,40.71969755,-73.98739822,$$$,1938,3.5
-598,Abiko Curry,itH4GH2Mw2D5n5kkQAtMog,New York,NY,Japanese Curry,40.74742597,-73.98621794,$$,688,4
-599,Sukhumvit 51,KHdYPT0jUnUGdHGaY73mxg,New York,NY,Thai,40.75591398,-73.96938679,$$,706,4
-600,Billy's Bakery,F7UeBLZHOtyxz2rTNnmt3Q,New York,NY,Bakeries,40.745323,-74.001861,$$,1206,3.5
-601,Black Tap - Midtown,yZs_A8r0qDz7Z5bR0C-aiQ,New York,NY,Burgers,40.76347,-73.97978,$$,1061,4
-602,Raku,qEe7nIhPfEL6L0-VYhWRrA,New York,NY,Japanese,40.72728,-74.00252,$$,302,4.5
-603,Tia Pol,fUxRTikmfHnURZ26lD2y4Q,New York,NY,Tapas Bars,40.7473,-74.00481,$$,683,4
-604,The Penrose,mWS4umRg2AyykyAClMrIRw,New York,NY,Gastropubs,40.77553341,-73.95324875,$$,1121,4
-605,The Plaza Food Hall,6VLeSnx90q9Xgd6aHUO_JQ,New York,NY,Food Court,40.764223,-73.974561,$$,629,4
-606,Pocket Bar NYC,mvAjuaS1Jp6dsN4a-i_Fyw,New York,NY,Wine Bars,40.7633645,-73.9922985,$$,280,4.5
-607,The Original Buddha Bodai 佛菩提 Kosher Vegetarian Restaurant,tguMh2GgOcU9fu6WN3dqpw,New York,NY,Chinese,40.7138543,-73.9989484,$$,946,4
-608,Waldy's Wood Fired Pizza & Penne,na-2_gQCY7ccS2ZkLJDumQ,New York,NY,Pizza,40.7457666,-73.99064025,$,797,4
-609,Stax Ice Cream,#NAME?,New York,NY,Ice Cream & Frozen Yogurt,40.7177,-73.99272,$,386,4.5
-610,Qi,JzD9nfJWHwnG-2Wk87muHg,New York,NY,Thai,40.762,-73.98961,$$,1203,3.5
-611,Aburiya Kinnosuke,_FhKGcCbiYgtkXcCiwTAiA,New York,NY,Tapas/Small Plates,40.752583,-73.972274,$$$,719,4
-612,McNally Jackson,b92EVHuzG-7uv37fQU9jew,New York,NY,Bookstores,40.72339,-73.99598,$$,429,4.5
-613,Cafe Hanamizuki,S-619sO8qSxQcis0DBHvNw,New York,NY,Cafes,40.7474471,-73.9915989,$$,510,4
-614,Egg Shop,GlTdgd8780RNXLvz8bTmFg,New York,NY,Breakfast & Brunch,40.72045747,-73.99525107,$$,1065,4
-615,Bird & Branch,IkyRp47Jpbk_AQ35qlr-eg,New York,NY,Coffee & Tea,40.7603099,-73.99087,$$,212,4.5
-616,Bistango,cnMNL1O_dVtCdTyQwwOwOQ,New York,NY,Italian,40.7425771,-73.9800892,$$,684,4
-617,Mughlai Grill,_7BGw3YFNOTzP1Www3zB7g,New York,NY,Indian,40.7210905,-73.9840446,$$,310,4.5
-618,CONES - Artisanal Ice Cream,Hlj1BRYzB2xJxl8_UEnrDw,New York,NY,Ice Cream & Frozen Yogurt,40.7315227,-74.0032698,$$,574,4
-619,Junoon,DZE4ThXa7d0kSXnR3Hb-kg,New York,NY,Indian,40.743193,-73.990838,$$$,1413,3.5
-620,Casa Mono,8PhwiTru5teSaZ8C6hrIww,New York,NY,Spanish,40.73592814,-73.9871551,$$$,1192,3.5
-621,Extra Virgin,KpBfFpjzsGvvqAzCasVW0g,New York,NY,Seafood,40.73539625,-74.00318882,$$,1226,3.5
-622,Black Iron Burger,fgtw4swOHXEFwZpBCG05rQ,New York,NY,Burgers,40.75427,-73.99031,$$,895,4
-623,Giano Restaurant,dh5r9-SbN8xJ76XvnayWLQ,New York,NY,Italian,40.72622566,-73.9840574,$$,562,4.5
-624,Madison Square Park,R3ci6iQRLIIK0Eq1-cY_pw,New York,NY,Parks,40.74221336,-73.98797365,0,370,4.5
-625,Fig & Olive - Meatpacking,jt_mFVGnAcPx27vIz4o29A,New York,NY,Mediterranean,40.74062848,-74.00685944,$$$,1336,3.5
-626,Shake Shack,ySbVtwa_PHQIlnKVMNSNeQ,New York,NY,Burgers,40.715283,-74.014799,$$,922,4
-627,NORMA'S,tD1pDzU-x8gGodC4nGnY9g,New York,NY,Breakfast & Brunch,40.76412771,-73.97837952,$$$,1684,3.5
-628,Joseph Leonard,Ps0cOZevNA1M9M5_z7W3oQ,New York,NY,American (New),40.73360217,-74.00167541,$$,648,4
-629,Socarrat Paella Bar - Chelsea,DiHm4iIAQhqMKfjsrBPvZw,New York,NY,Spanish,40.7427204,-73.9995147,$$$,1120,4
-630,Tommy Bahama Restaurant | Bar | Store - New York,YHGGyH4hn_5UyV1rWgA5hg,New York,NY,American (New),40.75538822,-73.97920021,$$$,573,4
-631,Poco - NYC,3LRZQolTdyps07RSoaIXpA,New York,NY,Tapas Bars,40.7225107,-73.9829025,$$,1513,3.5
-632,Soba Totto,Ms1p17KsYteDlkvHnllC2g,New York,NY,Japanese,40.75122,-73.97317,$$,876,4
-633,Ess-A-Bagel,SCornvTSCMQ2SvWGq8Z_Mw,New York,NY,Bagels,40.73420196,-73.98018548,$,835,4
-634,Simple NYC,AjlmpAQV8W4--y0EksO-9g,New York,NY,Poke,40.71821,-73.99223,$$,325,4.5
-635,Mom's Kitchen & Bar,xMUZfoyzyJoTfZxrEZus4Q,New York,NY,Comfort Food,40.76247,-73.9901,$$,603,4
-636,Curry-Ya,pqebqpVTT8bR_s9iEu8dOA,New York,NY,Japanese,40.72922,-73.98604,$$,707,4
-637,Favela Cubana,hJrZIHNRVUuC_PXAORxj9g,New York,NY,Cuban,40.72847021,-73.99798393,$$,952,4
-638,Ground Central,ntkrxOSYT5VtTL4Z5jmmeA,New York,NY,Coffee & Tea,40.757575,-73.970321,$,622,4
-639,Injera,5QI6QXNJThnqWQFO7y0VOw,New York,NY,Ethiopian,40.7370922,-74.0051453,$$,563,4
-640,JeJu Noodle Bar,xtxcAUvrD4dWHJd0cwvW1A,New York,NY,Korean,40.73304,-74.00734,$$,444,4.5
-641,Luke's Lobster Upper West Side,ahWC_GUPWPMyYiSKsgBPiA,New York,NY,Seafood,40.78424,-73.977868,$$,674,4
-642,Big Wong,L37A2JWXfwR_PgKColA8xA,New York,NY,Chinese,40.71624,-73.99842,$,1384,3.5
-643,Ferrara Bakery & Cafe,lDW4DlTZYcSP9T1yQY5HKg,New York,NY,Bakeries,40.719079,-73.997086,$$,1505,3.5
-644,Tuome,R7EGjHWw0tNheY6-ahH8fQ,New York,NY,American (New),40.72412483,-73.98289063,$$$,463,4.5
-645,dell'anima,pxtno4adrYTjyQsxngTj9A,New York,NY,Italian,40.76234,-73.99695,$$$,626,4
-646,Aureole,UBCNhz-TSvBP3zo5PjFWrQ,New York,NY,American (New),40.75558701,-73.98525316,$$$$,875,4
-647,Otto Enoteca Pizzeria,kqewBLuQDB3euc-s_mRf4A,New York,NY,Italian,40.73206054,-73.99619791,$$,2095,3.5
-648,The Bar Room,844H9r0tRQZmxiEtjeTW0A,New York,NY,Lounges,40.76103093,-73.97655937,$$$,483,4
-649,The Greek,6gDUVNZo0E9lxO2DkAhHOQ,New York,NY,Greek,40.7237145,-74.0096166,$$$,476,4.5
-650,Sons of Essex,oopgHvduXbtgwNRmybEhgQ,New York,NY,American (New),40.720315,-73.987774,$$,1195,4
-651,Xian Famous Foods,kwqOmEwWJ0D9PyCdFGE3-g,New York,NY,Chinese,40.747844,-73.983901,$$,707,4
-652,Sake Bar Decibel,i9W3EVA6FjB6lWWSEmhndA,New York,NY,Bars,40.729299,-73.9878008,$$,955,4
-653,Parisi Bakery,6q6WWGaO75PQkpWOQ2zzHQ,New York,NY,Bakeries,40.7211836,-73.9954365,$,397,4.5
-654,Land,83BXSwE0166sObnXLUE4bQ,New York,NY,Thai,40.78497,-73.9772182,$$,1031,4
-655,Rahi,CO3lm5309asRY7XG5eXNgg,New York,NY,Indian,40.7360271,-74.0005436,$$$,398,4.5
-656,Alice's Tea Cup,kaSd6qzlsxn__ILDtGf3iA,New York,NY,Breakfast & Brunch,40.77802,-73.9787,$$,1102,3.5
-657,Kopitiam,r2JVKalbucGf2nryywuL2w,New York,NY,Malaysian,40.71387,-73.99091,$,534,4
-658,Seven Grams Caffe,HgfzssjwDEWtdcaxSJqfqg,New York,NY,Coffee & Tea,40.74560631,-73.99427754,$$,409,4.5
-659,Sofia Wine Bar,3qIISjUYn1tbqHXi7nCLXg,New York,NY,Italian,40.75502,-73.96913,$$,631,4
-660,The Burrito Box,v4_89HfTm05NFTuukjsl_g,New York,NY,Mexican,40.76831,-73.98565,$,849,4
-661,Empire Cake,ltReUN5LQiaFVNdpNBes3Q,New York,NY,Bakeries,40.74078,-74.00155,$$,576,4
-662,Pio Pio 7,BZcG-xN3DCxlfhckBZYeuw,New York,NY,Latin American,40.74525,-73.97768,$$,805,4
-663,Jack's Wife Freda,HrdIdeDZBTUdyEdSTPG1zg,New York,NY,Mediterranean,40.729826,-74.003516,$$,818,4
-664,Whistle & Fizz,OPiO2ZuK4M2f55qmuNfWUQ,New York,NY,Cafes,40.73071002,-73.99436257,$,143,5
-665,The Meatball Shop,F2YbqhVr6hBsFrDCyr6M_w,New York,NY,Italian,40.7459138,-74.0015369,$$,855,4
-666,Cafe Himalaya,noBCTbD1Ylf5QR7PXy-rkA,New York,NY,Himalayan/Nepalese,40.7232289,-73.98794412,$,606,4
-667,Greecologies,t2iNgfFikLQJynJSURth0A,New York,NY,Juice Bars & Smoothies,40.720387,-73.996581,$$,405,4.5
-668,Hummus Kitchen,7CM15wd5d8WC_pHR674YXA,New York,NY,Mediterranean,40.77636504,-73.95296934,$$,775,4
-669,Menkui-Tei,MvmuCDXPliFUYJ7B7Y02AA,New York,NY,Ramen,40.76326,-73.97706,$$,1040,3.5
-670,Sarabeth's,#NAME?,New York,NY,Breakfast & Brunch,40.76516037,-73.97551997,$$,1774,3.5
-671,Ample Hills Creamery,Oa5jGPt5eIwz-qBeFxwsMA,New York,NY,Desserts,40.76239719,-73.99700232,$$,341,4.5
-672,Galli,twHJyFgUSd7wzioKQjE7Jw,New York,NY,Italian,40.72161,-74.00127,$$,884,4
-673,Tenement Museum,bUpeNcz4-SWnhIKqSKTVMQ,New York,NY,Museums,40.71883,-73.98998,0,645,4
-674,The Jolly Goat Coffee Bar,QH9vS9_Q5um3b8sZntZiyw,New York,NY,Coffee & Tea,40.76330106,-73.99419283,$,328,4.5
-675,Jing Fong Restaurant,FH978pIP1TLRuPAH-MbWIQ,New York,NY,Dim Sum,40.71595524,-73.99718311,$$,2271,3.5
-676,The Winslow,3NbhYebjZPjLTWZZyRuhsw,New York,NY,Pubs,40.73277664,-73.98521423,$$,505,4.5
-677,Spice Symphony,A-ert0jDRBfku9ogyW_mEg,New York,NY,Chinese,40.75589371,-73.97153473,$$,421,4.5
-678,Joey Bats Café,uYMimeHJ5XBGkyTrg8GXhw,New York,NY,Desserts,40.72006,-73.99037,$,211,5
-679,Barney Greengrass,XKWvRI7WI4LotDLUboUUGA,New York,NY,Specialty Food,40.78793083,-73.97450547,$$,717,4
-680,SalaThai Restaurant,VoAuIReq_cPUrFwxbWqG_Q,New York,NY,Thai,40.7801199,-73.98032,$$,263,4.5
-681,Hi-Collar,7rxg-tWPc1jK7Cikn5R86g,New York,NY,Japanese,40.72930773,-73.9859368,$$,550,4
-682,Otto's Tacos,Ko95LRE9AAvb2Lk9Iwh2-Q,New York,NY,Tacos,40.72912895,-73.9875403,$,742,4
-683,Ravagh Persian Grill,ExvoimQ4LzY3UWtZ6m6Lgw,New York,NY,Middle Eastern,40.74564,-73.9855,$$,744,4
-684,Rasa,EbX_9tqAJs4gW51gZpOB7g,New York,NY,Malaysian,40.7327654,-73.9975674,$$,668,4
-685,Da Gennaro,JyXn_GCGM2DsNYIzgzQrDw,New York,NY,Italian,40.71832,-73.99794,$$,895,4
-686,The Breslin Bar & Dining Room,GxqEVZUgz8xophUos_V3eQ,New York,NY,Gastropubs,40.7457012,-73.9878543,$$$,1559,3.5
-687,Jin Ramen - West Harlem,Pfjb9Rn5Th7R-pLXVARwlA,New York,NY,Ramen,40.8154774,-73.9587672,$$,1024,4
-688,Bouchon Bakery,zwFS-FcGe062to_rWWkLCw,New York,NY,Bakeries,40.75822323,-73.97881059,$$,765,4
-689,The Doughnut Project,c6UUcUTbwbk0kOpF6jVOJQ,New York,NY,Donuts,40.731151,-74.003547,$,434,4
-690,Sullivan Street Bakery,4GBqDgTYsV7owGzNMyAFKA,New York,NY,Bakeries,40.76366,-73.994716,$$,483,4
-691,Sushi Of Gari,bHGETjP_InKy0sIVHFgHyw,New York,NY,Sushi Bars,40.77137,-73.95275,$$$$,610,4
-692,Nishida Sho-ten,9bAyxRD6RsGEUQw424ovQA,New York,NY,Ramen,40.753969,-73.968722,$$,721,4
-693,Ruth's Chris Steak House,ulKoAGcGOdsXgr0o_l6avA,New York,NY,Steakhouses,40.761438,-73.982329,$$$,900,4
-694,Pocha 32,KaBw8UEm8uZTV6YLsshYrQ,New York,NY,Bars,40.74752457,-73.98626268,$$,1440,3.5
-695,Pause Cafe,sR60I9PI_63noBQcGoIrbw,New York,NY,Moroccan,40.72123,-73.98408,$,374,4.5
-696,Jin Ramen,EvAJBgBdgOt1jx1EufRN7w,New York,NY,Ramen,40.78534,-73.97695,$$,840,4
-697,Benson's NYC,x7hsZRd_MyrUgAW91FM9qA,New York,NY,American (New),40.7218302,-73.9866963,$$,368,4.5
-698,Madame Vo,m2Zsy2UAkcDf0cRzk2Yoqw,New York,NY,Vietnamese,40.72925,-73.98612,$$,723,4
-699,Dirt Candy,j0Q-yyxS2WiL3foCJEV4eg,New York,NY,Vegetarian,40.7179075,-73.9907183,$$$,622,4
-700,MO Gelato,CArqlSrLiPsvneS18xpwqQ,New York,NY,Gelato,40.72061799,-73.99673,$,342,4.5
-701,Ramen Misoya,b7Eg41LKjL2BtOXEqVCoeQ,New York,NY,Ramen,40.7285309,-73.988121,$$,889,4
-702,ABC Cocina,9z2lUyfzZV8b2rkkiwSM4g,New York,NY,Tapas/Small Plates,40.73796998,-73.9892807,$$$,875,4
-703,Sylvia's Restaurant,RI-tVET-wKFeRNKm4cg0wQ,New York,NY,Southern,40.808609,-73.944404,$$,1769,3.5
-704,Lil' Frankie's,TWH4MjLtN1fKlF-7n6YXHg,New York,NY,Pizza,40.723625,-73.988555,$$,1043,4
-705,Momofuku Ko,GticI2JB8Iw2ktRfLv6aRQ,New York,NY,American (New),40.724776,-73.991682,$$$$,289,4.5
-706,Stone Bridge Pizza & Salad,UB1mGugr1pvgUUP1eTNXrg,New York,NY,Pizza,40.75225,-73.98061,$$,252,4.5
-707,Tartine,0Q13lJ3OHXOuBVpN6jeTjw,New York,NY,French,40.7362899,-74.00344,$$,965,4
-708,Balade - Your Way,51YLgpfHKfXxOkDFe9sT-w,New York,NY,Lebanese,40.75242996,-73.98872375,$$,341,4.5
-709,Beyoglu,N9OihQ22xLyfeDRSZoDCVQ,New York,NY,Turkish,40.7754199,-73.9562399,$$,1117,4
-710,Barbounia,1SaKutXcH38X0KvayyDHUA,New York,NY,Greek,40.7382,-73.98804,$$$,1214,3.5
-711,Taboon,XK8DnTYgZGoZKuihH4_cpg,New York,NY,Middle Eastern,40.76610522,-73.99098937,$$$,632,4
-712,Lady M Cake Boutique,L1eRvGuRW8gL_auRr8_Xog,New York,NY,Desserts,40.752722,-73.9836459,$$,1154,3.5
-713,Cheese Grille,8EBOj5bMglNI-jRIQvf6wg,New York,NY,American (Traditional),40.7219115,-73.9886709,$$,546,4
-714,Cha Cha Matcha,8zIXMsbcDS7kqH8N-09zLg,New York,NY,Coffee & Tea,40.720066,-73.996261,$$,867,4
-715,Stick With Me,uEYHwZmVy6EciszazojznA,New York,NY,Chocolatiers & Shops,40.72139,-73.99545,$$$,247,4.5
-716,Xi'an Famous Foods,fPW_GBZsnBNsIzK62sCHBg,New York,NY,Chinese,40.715082,-73.997342,$,968,4
-717,Baker & Co,h9rymMeMUMOxQ9d93U0YDg,New York,NY,Italian,40.7313423,-74.0028996,$$,604,4
-718,Eggloo,V75gQDPzAwaqLmjSn-t9DQ,New York,NY,Desserts,40.71554973,-73.99939246,$,882,4
-719,Atoboy,RYoc4EBUNOtgbg7c32OG9A,New York,NY,Korean,40.74364,-73.98456,$$$,321,4.5
-720,Ten Degrees Bar,#NAME?,New York,NY,Gastropubs,40.72692,-73.98342,$$,820,4
-721,LuAnne's Wild Ginger All-Asian Vegan,BEuZGvNlbM4tXq7YICyM6w,New York,NY,Asian Fusion,40.7204631,-73.9964956,$$,637,4
-722,Avra Estiatorio,F89nDDlYZ7wbRe8EpLCqBw,New York,NY,Seafood,40.75513,-73.97245,$$$,838,4
-723,Dafni Greek Taverna,trEnFaHqRkJqtjRvzx7PsQ,New York,NY,Greek,40.75788,-73.99092,$$,929,4
-724,Piccola Cucina Osteria,qBGKigOGn_flCx1apxPzlA,New York,NY,Italian,40.72506,-74.00322,$$,476,4.5
-725,Zutto Japanese American Pub,abNHO9-xlCsv31gghCUuxw,New York,NY,Sushi Bars,40.71847,-74.00903,$$,864,4
-726,District Social,eTR6nfHvQzvKX7Dcd6JrfA,New York,NY,Bars,40.75369,-73.99136,$$,638,4
-727,Pasticceria Rocco,JWLRT0dkdaC7AHtYapWbGw,New York,NY,Bakeries,40.73083,-74.00265,$$,996,4
-728,Manhatta,ypqK8DWM8Bcs43YveSJnNw,New York,NY,American (New),40.70797,-74.0088899,$$$$,370,4.5
-729,The Cellar,SF2G4QfcSV03sMCSsv5s2g,New York,NY,Wine Bars,40.73889,-73.9897,$$,654,4
-730,Wo Hop,zubN8Ve-RyoljRZV4NRxEQ,New York,NY,Chinese,40.7142239,-73.99886917,$$,1379,3.5
-731,Boulud Sud,RqCMsa0IuHWhML0BEjW8_w,New York,NY,Mediterranean,40.77186142,-73.98162561,$$$,718,4
-732,Lolo's Seafood Shack,XOnspIaW6mYVmrvgqOaYSQ,New York,NY,Seafood,40.80486,-73.95567,$$,670,4
-733,Blue Ribbon Sushi Bar & Grill - New York,CqQ2Og9kf-LhlUWtODalCQ,New York,NY,Sushi Bars,40.7674948,-73.98319789,$$$,736,4
-734,The Campbell,oAFaJmLbqnpgIqHP2YAywg,New York,NY,Cocktail Bars,40.752758,-73.977914,$$$,873,4
-735,Tamarind,kS2CP48K66yL2TwIhUqy_A,New York,NY,Indian,40.71909,-74.00892,$$$,875,4
-736,Pure Ktchn,q7U2GCMWIZxIqWeMDml0LQ,New York,NY,Salad,40.76053,-73.98992,$$,266,4.5
-737,9/11 Tribute Museum,F0EUMg7UwxLCQ0GFpX0dyg,New York,NY,Museums,40.71143975,-74.01252046,0,278,4.5
-738,TAO Downtown,pBIvJHn65iqlUh1L2tN-qg,New York,NY,Lounges,40.7426141,-74.0042051,$$$,1330,3.5
-739,B Squared,geNwD4ySIwA732eK2CvDZw,New York,NY,Italian,40.7615509,-73.9906616,$$,402,4.5
-740,Cocoron,nrxSzq-VxLqD7aFkE4SH3Q,New York,NY,Japanese,40.7207236,-73.9953191,$$,617,4
-741,15 East Restaurant,GBWMJJ4_rDWqiXJ7AvHAOg,New York,NY,Japanese,40.7363799,-73.99213,$$$$,625,4
-742,Rosa Mexicano,dYWjNK07igws9jFNgQmhng,New York,NY,Mexican,40.7382,-73.99083,$$,1463,3.5
-743,Lady M Cake Boutique,MlsidvbvzPNmxTo7n83uiA,New York,NY,Desserts,40.764427,-73.974562,$$,491,4
-744,Mughlai Indian Cuisine,izRJeBfDQYJmd6ibIQ6Mfg,New York,NY,Indian,40.78002,-73.94978,$$,434,4.5
-745,The Rag Trader & Bo Peep Cocktail and Highball Store,qCf1QN11Qdncpqb7PhuyVw,New York,NY,Bars,40.75059,-73.98628,$$,366,4.5
-746,The Flying Cock,IGZkGbwE36iE1yaDW5NNKA,New York,NY,Pubs,40.745296,-73.978073,$$,496,4
-747,The Musket Room,vscYK65F_MUH8WqACKSdog,New York,NY,American (New),40.72392,-73.99378,$$$,428,4.5
-748,Ikinari Steak East Village,kr_Wu5m0P-AEghraNqXeTA,New York,NY,Steakhouses,40.73088,-73.98968,$$,746,4
-749,Tim Ho Wan,SyvC0s3y0ZrtnLbwnvw7tw,New York,NY,Dim Sum,40.73168,-73.99007,$$,1592,3.5
-750,Tofu Tofu,vWoT1h8E2eWvIdJqpuxfdg,New York,NY,Korean,40.71762995,-73.99543013,$$,293,4.5
-751,Wok Wok,0GftSP2dRwEzujkv2VKIgA,New York,NY,Chinese,40.71406,-73.99883,$$,869,4
-752,Angelo's Coal Oven Pizzeria,tRIHhPKryUZ56SfIz6mLiA,New York,NY,Pizza,40.76492,-73.97794,$$,824,4
-753,Ellen's Stardust Diner,K144ThGmoIjX6Wh5-_Rn4Q,New York,NY,Diners,40.76184008,-73.98355023,$$,1766,3.5
-754,Daily Provisions,t4M1VX4n34eEgUWMJ7cgKw,New York,NY,Cafes,40.73768,-73.9876685,$$,352,4.5
-755,H&H Bagels,bb4TLfMexv3XPy864A09ug,New York,NY,Bagels,40.77444,-73.95447,$,748,4
-756,Ofrenda,9_CEU7Wmvmwlyvqr-PJD6w,New York,NY,Mexican,40.73391,-74.00242,$$,947,4
-757,Little Pie Company,VzHdgvEv9bx9RVrNbhsmQw,New York,NY,Bakeries,40.75949,-73.99332,$$,672,4
-758,Izakaya NoMad,8NVN6Nldm7AGoGaABBZMRw,New York,NY,Gastropubs,40.74409,-73.98945,$$,652,4
-759,Klong,nFszVPUX4tj-oarjfBO0nw,New York,NY,Thai,40.729507,-73.989181,$$,1065,3.5
-760,Patrizia's Pizza and Pasta,kIm0oeOaVfC9-2flLPVklA,New York,NY,Italian,40.7398415,-73.9792862,$$,544,4
-761,Motorino,S8OKQ5S40oZ1Rr5RbC0jdg,New York,NY,Pizza,40.73039,-73.98381,$$,1075,3.5
-762,International Wings Factory,r-izNItUH4ugnFodUOZX2A,New York,NY,Chicken Wings,40.78018345,-73.94675427,$$,417,4.5
-763,Ladurée SoHo,TmEPtynTP1qoTqwUbGKyGw,New York,NY,Tea Rooms,40.7243939,-74.00248851,$$$,1432,3.5
-764,Thai Market,p2zm0HnXZkI2yCAuYLb45g,New York,NY,Thai,40.80132,-73.96529,$$,981,4
-765,Xi'an Famous Foods,BPErPpKSNluwcjbKRgze3w,New York,NY,Chinese,40.77197,-73.95452,$,487,4
-766,Hanoi House,bZQryeTD6hIsT6lSUxzSSw,New York,NY,Vietnamese,40.72698,-73.98357,$$,449,4
-767,Don Angie,h37t9rA06Sr4EetJjKrfzw,New York,NY,Italian,40.73778,-74.00197,$$$,268,4.5
-768,Hummus Place,TxHx1fb8O_MsfQB_ODdTQg,New York,NY,Vegetarian,40.780044,-73.98027,$$,599,4
-769,Catch NYC,7VqMGK9uwi0vKqOjdKyIUA,New York,NY,Asian Fusion,40.740234,-74.006342,$$$,2195,3.5
-770,Benito One,DI_FoHY84hfzTWwlzF76aw,New York,NY,Italian,40.72001885,-73.99694122,$$,684,4
-771,Zibetto Espresso Bar,dXK2R-3ECPqXVgjvGlV8Cw,New York,NY,Coffee & Tea,40.76392328,-73.97760435,$,412,4
-772,Bolivian Llama Party,yrXECkTezsI0Twgalc7M-A,New York,NY,Food Stands,40.694983,-73.991036,$,324,4.5
-773,Tomi Jazz,l_RAv09V67j-Hm9dyZxWhw,New York,NY,Japanese,40.75725,-73.96774,$$,413,4
-774,Luke's Lobster Plaza Food Hall,tZmzqKgIUNhyhKNVXCpALA,New York,NY,Seafood,40.76465054,-73.97435612,$$,438,4
-775,Amor y Amargo,6qnWAPjJ7UER4QLCtotyBw,New York,NY,Cocktail Bars,40.72572,-73.98428,$$,449,4
-776,Quantum Leap,xscOfj1dMkEKvhrRruLpIg,New York,NY,Vegetarian,40.72916,-73.99874,$$,659,4
-777,Big Gay Ice Cream Shop,3xwMgziTShBW4qR6sXke9A,New York,NY,Desserts,40.73327067,-74.003248,$,1146,3.5
-778,Rocco Steakhouse,REDWyPG0UJc5u8iU8mP6Hw,New York,NY,American (Traditional),40.7438607,-73.9861214,$$$,319,4.5
-779,Boba Guys,_fP2QicVgPLZyL8s6M84Ig,New York,NY,Bubble Tea,40.71897,-74.00102,$,405,4.5
-780,99 Favor Taste,3Rah-cvFk79duFQ83voQ5A,New York,NY,Hot Pot,40.728833,-73.988094,$$,547,4
-781,Natsumi,oyyubJoK0VZ2V3a5sVJULg,New York,NY,Sushi Bars,40.76174,-73.98503,$$$,830,4
-782,Mei Li Wah Bakery,MauzeeZM7S-wUk_G98Ybrg,New York,NY,Bakeries,40.7155758,-73.9979585,$,968,4
-783,Superiority Burger,tf3RVircY9-8adku41N6VQ,New York,NY,Burgers,40.72739,-73.98355,$,574,4
-784,Marseille,NMVRHrkdp68twl4CWo1I5A,New York,NY,French,40.759806,-73.991378,$$$,863,4
-785,Hakkasan,rEbwps11tIERRkwQrIXQog,New York,NY,Chinese,40.758619,-73.989961,$$$$,885,3.5
-786,Gotan - Midtown,8O3tKwRgrNcXyvf_S8M2yQ,New York,NY,Cafes,40.7563301,-73.9803317,$$,434,4
-787,Almond,6ujYWjs1FTksvuVxuzjUYA,New York,NY,American (New),40.74008179,-73.98875427,$$,1009,3.5
-788,Hummus Kitchen,Ti-957LNURM0Gy2CXIbQOw,New York,NY,Middle Eastern,40.76427,-73.98797,$$,759,4
-789,Patsy's Italian Restaurant,goqTQ4tOD-asC_ZJBW9l7w,New York,NY,Italian,40.76553,-73.98274,$$$,859,4
-790,Taste of Persia,YMtQ5NZY3WUn3tetby6Uog,New York,NY,Persian/Iranian,40.73891,-73.99298,$$,311,4.5
-791,Juice Vitality,ytYVlCkrzcAxxUcbT4NTgA,New York,NY,Juice Bars & Smoothies,40.72966,-73.9834,$,160,5
-792,Great NY Noodle Town,d_TC6Om2EBTzHVm_lCgNtg,New York,NY,Cantonese,40.71503638,-73.99711724,$,1261,3.5
-793,Paul's Da Burger Joint,yk8j4W34Cy4K6uy9Btkf9Q,New York,NY,Burgers,40.72860718,-73.98806,$$,949,4
-794,The Marshal,u-MUL83NUy2gsbV80WZnAA,New York,NY,Breakfast & Brunch,40.76122,-73.99396,$$$,711,4
-795,Perk Kafe,xHBpwGzxxbC3vTahHWdABg,New York,NY,Coffee & Tea,40.74776474,-73.97704077,$,374,4.5
-796,ROYCE' Madison,2V_KAoQjjnmbnLJwMNEnLg,New York,NY,Chocolatiers & Shops,40.75948,-73.97422,$$$,218,4.5
-797,Russian Vodka Room,wJ9VnRlrJJP5QnVohBDjoA,New York,NY,Lounges,40.76349,-73.9848,$$,534,4
-798,Vandal,6GwOwhHPW8YCSfaOtM-55Q,New York,NY,American (New),40.72104,-73.99326,$$$,1376,3.5
-799,Lillie's Victorian Establishment,2RbBg1CIxBZAc2MQPdxkcA,New York,NY,Bars,40.737661,-73.991113,$$,1039,3.5
-800,Fonda East Village,0AWdTQZ97G4rutU0z9Di6g,New York,NY,Mexican,40.722852,-73.98286,$$,744,4
-801,The Loeb Boathouse,tGsfb07uPQk6QloAB-XC2w,New York,NY,Boating,40.77543723,-73.96878704,$$$,1231,3.5
-802,Prune,4LV-7hGnfimAhoAuYhgvEg,New York,NY,American (New),40.723909,-73.989379,$$$,1035,3.5
-803,MáLà Project,Kqb7MjTPNkjPMoFRd-rWpw,New York,NY,Chinese,40.72713,-73.98542,$$,586,4
-804,Mari Vanna,btLgjl8CEgW2wvB0ZI-Aqg,New York,NY,Russian,40.73878,-73.98858,$$$,630,4
-805,Kiki's,_4Grm99JEHnDWskCHAJfUg,New York,NY,Greek,40.71449719,-73.99185539,$$,568,4
-806,Fig & Olive - Fifth Ave,FON3TceJNsTC0I0mzBwOKg,New York,NY,Mediterranean,40.7594109,-73.97554874,$$$,1133,3.5
-807,Posto,X8Hl9OezX-Yr9Jir3fsF7g,New York,NY,Pizza,40.73483,-73.98282,$$,588,4
-808,Spicy Village,8ig0yf0003DAp4YOGTlbVg,New York,NY,Chinese,40.71695,-73.99327,$,625,4
-809,Hot N Juicy Crawfish,NGcz0alNBJVnirAL-r8K9g,New York,NY,Cajun/Creole,40.73950993,-74.00160065,$$,451,4.5
-810,Senza Gluten,LnMRZhKtOrW1eL04FiPYTg,New York,NY,Italian,40.72909111,-74.00036992,$$,539,4
-811,Distilled,0EtZ1xhnXWp4-ysNVwItYA,New York,NY,American (New),40.7189994,-74.0062975,$$,761,4
-812,B&H Dairy,koh-4_SAbshwZ8EBRmXcmg,New York,NY,Vegetarian,40.7284584,-73.9881668,$,458,4.5
-813,Haswell Green's,f4QBa0khsF9Ut99Tc9IMIA,New York,NY,Cocktail Bars,40.76301,-73.98416,$$,229,4.5
-814,BLVD Bistro,Z-hDHjP4Eza6BA4G97tzVA,New York,NY,American (Traditional),40.8043626,-73.9557515,$$,755,4
-815,ICHIRAN Midtown,l7G5tDA96xbA_bx1ZgkOeg,New York,NY,Ramen,40.74839,-73.99062,$$,625,4
-816,Bareburger,6qcydPo5eTSB4XHyyZDvkA,New York,NY,Burgers,40.760559,-73.990356,$$,872,4
-817,Decoy,l44CFBTejwL0ElKmkH7xQQ,New York,NY,Chinese,40.734196,-74.006519,$$$,408,4
-818,The Casbah - Halal Cart,tNTXNCUta735nGb0nfSrKQ,New York,NY,Halal,40.77373719,-73.98171365,$,250,4.5
-819,Nippori,8iSU_z2JkjjUEjm-Ur470w,New York,NY,Tapas/Small Plates,40.7628542,-73.984939,$$,798,4
-820,Saxon + Parole,7y7E2wavr-HBwEmq2snMLw,New York,NY,American (New),40.72521,-73.99247,$$$,754,4
-821,Osamil,X8yEmEDD9ZTkHoIRFqzcRw,New York,NY,Korean,40.74697,-73.9864,$$,379,4
-822,Shalel Kitchen,Bt6RoIcazXayp1a8lMSvzA,New York,NY,Lounges,40.7760977,-73.9793291,$$,597,4
-823,Tacombi - Nolita,d7YbQzGlmawMGAzUHzZvuw,New York,NY,Mexican,40.7240304,-73.9939028,$$,1081,3.5
-824,Loring Place,AKHA6ZU8uM3vmLwH2hqH_A,New York,NY,American (New),40.73299,-73.99754,$$$,370,4.5
-825,La Masseria,faukkggAc_tuJ4THYlf4fg,New York,NY,Italian,40.76086863,-73.9863488,$$$,576,4
-826,Pepolino Restaurant,MeUq9lombxM9alxs64tejQ,New York,NY,Tuscan,40.72077,-74.00489,$$$,534,4
-827,L'ADRESSE,scjoZtbTQHi35xhAlUm2iQ,New York,NY,American (New),40.75403,-73.98539,$$,522,4
-828,Delmonico's,7NqFIuXuRwm6WuuseLxAVw,New York,NY,Steakhouses,40.70507,-74.01019,$$$$,1010,4
-829,Black Tap - Soho,D2qV8sDdHEFlHbVz7VSHRQ,New York,NY,American (Traditional),40.723807,-74.004351,$$,1106,3.5
-830,I CE NY,fxN2HYA1uyrdkXR9XX-Uwg,New York,NY,Desserts,40.7296252,-74.00094963,$,584,4
-831,Hole in the Wall,rQpO1Eie_zmeAOQ9s-T0sQ,New York,NY,Breakfast & Brunch,40.70837,-74.00563,$$,488,4
-832,Souvlaki GR,gG0pitVnSaUMGbEL3boF0g,New York,NY,Greek,40.72122,-73.98711,$$,861,4
-833,The Bao,SNhDVaf_n7VDZcfry8mYdA,New York,NY,Chinese,40.72939,-73.9889199,$$,1044,3.5
-834,Keki Modern Cakes,pHfsXEPHkGXkmGo-PbwB6w,New York,NY,Bakeries,40.71656,-73.99822,$$,523,4
-835,POST,ihplCj2HKWR7z-bBKf8Nzw,New York,NY,Breakfast & Brunch,40.72298,-73.98302,$$,234,4.5
-836,Khe-Yo,BKMCAYb9EAivUm3p-vrC9w,New York,NY,Laotian,40.716906,-74.008587,$$,701,4
-837,City Sandwich,TPmyEYOmvpOvihbQk-wJwA,New York,NY,Sandwiches,40.7606559,-73.9912021,$$,493,4
-838,Paris Baguette,SLrIiJMqIOdN5KNYpinINQ,New York,NY,Bakeries,40.74738,-73.98627,$$,687,4
-839,Aldea,A6SR9hesSJn96ps99GsZow,New York,NY,Portuguese,40.738754,-73.993867,$$$,602,4
-840,Excellent Dumpling House,7ZQSMqWzvXMSetXnii2fBg,New York,NY,Dim Sum,40.74404944,-73.99502819,$$,553,4
-841,Poketeria,hXqf7aEgI4feEzHDpNXHLQ,New York,NY,Poke,40.7496948,-73.9831894,$$,297,4.5
-842,Lions & Tigers & Squares Detroit Pizza,i9UMc9gLeORtCLd-OoGgYg,New York,NY,Pizza,40.74506,-73.99834,$,367,4.5
-843,Banter,Zc7Jbuwe3XO-EaVXIh_TYQ,New York,NY,Breakfast & Brunch,40.72787,-74.0010999,$$,380,4.5
-844,Chennai Garden by Tiffin Wallah,ZrdTKStTAo2pchslOev1KQ,New York,NY,Indian,40.74298,-73.98274,$$,758,4
-845,Gantry Plaza State Park,vnU9DTqqjQ5W8v_fq21O6A,Long Island City,NY,Parks,40.74489501,-73.95830356,0,325,5
-846,Real Kung Fu Little Steamed Buns Ramen,uaFHoq-a5XqxF-bsOK9_Qg,New York,NY,Chinese,40.76162866,-73.98681816,$$,960,3.5
-847,Covina,M2wnfA4K3DVwuAv0DCPTdQ,New York,NY,Mediterranean,40.7423054,-73.9832149,$$$,325,4.5
-848,Il Mulino New York - Downtown,DtnlLLvcqeEUIyZTypHnzw,New York,NY,Italian,40.729807,-73.999159,$$$$,535,4
-849,Sigiri,NzU2hb0z0jGEOOv0-zTLEQ,New York,NY,Sri Lankan,40.726261,-73.986686,$$,590,4
-850,Dian Kitchen,2UxAkvKkkWNwqZi9H0OzWw,New York,NY,Chinese,40.72772,-73.98321,$$,179,5
-851,Ninja New York,P8YbK6_2TnXHojrs0ycisg,New York,NY,Japanese,40.71673,-74.0093,$$$,1682,3.5
-852,Emily - West Village,m86CNmYThtzzWB3nPnrhbg,New York,NY,Pizza,40.72933007,-74.00384001,$$,539,4
-853,Punjabi Grocery & Deli,PdzL9svqapSqH4o8bF86Pw,New York,NY,Indian,40.72272254,-73.98662246,$,383,4.5
-854,Sam's Fried Ice Cream,KxK58KNpMw9A-gnysr6I5w,New York,NY,Ice Cream & Frozen Yogurt,40.71582461,-73.99149401,$,281,4.5
-855,Momoya,NRJq2BNcbjqAyxUB_bw7gw,New York,NY,Sushi Bars,40.74262552,-73.99664819,$$,603,4
-856,T-Swirl Crêpe,r4D_1Jzw1Bl-iUYbEGwT_A,New York,NY,Desserts,40.7325935,-73.9851807,$,296,4.5
-857,Rafele Ristorante,PajKY49h4SpvSr-TW3lwCQ,New York,NY,Italian,40.73094712,-74.00411718,$$$,458,4
-858,Food Gallery 32,ya8HC5_97zGt3wNPWNNENA,New York,NY,Food Court,40.74761,-73.98631,$,799,4
-859,The Hummus & Pita,dzI6MzwKbrhJN5dEeUbX0w,New York,NY,Mediterranean,40.73928,-73.99605,$$,622,4
-860,Saluggi's,kVrTff8uDMSBAaceBwQ7dg,New York,NY,Pizza,40.720104,-74.003578,$$,548,4
-861,La Grenouille,KIIYvTOc0Uv90aUHEGvoSg,New York,NY,French,40.75972,-73.97555,$$$$,420,4
-862,Saltwater Coffee,SZXOfQbLyF3C5GwYBj6VvA,New York,NY,Coffee & Tea,40.7304578,-73.9839175,$$,191,4.5
-863,Spaghetti Incident,XHhRAKq6DArQXYhkgvwaow,New York,NY,Italian,40.72231534,-73.98994543,$$,557,4
-864,Keybar,iIixO6VbKitogJGBRIalYA,New York,NY,Lounges,40.7299112,-73.981883,$,586,4
-865,Baar Baar,jYhbUh1TV7SCfPxjIhVpcg,New York,NY,Gastropubs,40.72443789,-73.9915524,$$$,577,4
-866,Matcha n' More,VSSsrO8JVn7fwbfqnw9fyQ,New York,NY,Coffee & Tea,40.71801,-73.99727,$$,314,4.5
-867,Las Ramblas,WFOaud0jlpXQ9aEecipUqg,New York,NY,Tapas/Small Plates,40.731958,-74.0015486,$$,703,4
-868,Park Avenue Tavern,LHxZgTddXIp_S1sL3nNG9w,New York,NY,American (Traditional),40.75031,-73.9783999,$$,722,4
-869,Arturo's,BgGz5IdV53bGb4o7opR5zg,New York,NY,Pizza,40.72735633,-74.00049448,$$,656,4
-870,Smith & Wollensky,L3L6xDdrS8c67BLZROg79A,New York,NY,Steakhouses,40.75523748,-73.97094725,$$$$,1383,3.5
-871,Mezetto,B8uEWQoTILlTNajCmJVOcQ,New York,NY,Mediterranean,40.72288638,-73.98893626,$$,577,4
-872,Wowfulls,htXRzg3a3jMQt3mg_zM-yQ,New York,NY,Desserts,40.721047,-73.983519,$,320,4.5
-873,Sala One Nine,OUzTKc5YcCPOPG5e8Di67g,New York,NY,Tapas Bars,40.7398849,-73.9931044,$$,791,4
-874,Green Symphony,8AM1gGIk6KVb27Q9TYwD9Q,New York,NY,Vegetarian,40.7575266,-73.9880669,$,463,4
-875,Miss KOREA BBQ,eIPiRkf6KCo9A9Ok-Nr_ow,New York,NY,Korean,40.747452,-73.986336,$$,1636,3.5
-876,Stumptown Coffee Roasters,IKB1DhFCLFY98mTt_l6u2A,New York,NY,Coffee & Tea,40.73281939,-73.997962,$$,419,4
-877,Osteria Cotta,Q1_UvNyONsaVS_VC1mD9Dw,New York,NY,Italian,40.78554,-73.97263,$$,819,4
-878,Super Taste,bT4CDzyhV-frXV6ijvXnvw,New York,NY,Chinese,40.71513,-73.99341,$,535,4
-879,MarieBelle,FeVmZXCk9y7Gff48e79AVA,New York,NY,Chocolatiers & Shops,40.72321077,-74.00245063,$$$,484,4
-880,Orwasher's,aSDGr4NIfm1C6IspWSNaQw,New York,NY,Bakeries,40.772197,-73.955062,$$,373,4.5
-881,Rosa Mexicano,DFRpXRHjOHBxYHiuvwaEQQ,New York,NY,Mexican,40.77118,-73.98311,$$,1157,3.5
-882,Soju Haus,wfGFM8zvdw9Zs-jxsTdjww,New York,NY,Korean,40.7468603,-73.9851724,$$,525,4
-883,NORMA Gastronomia Siciliana,vVVmHacu2YAxKfpIjhfd1g,New York,NY,Italian,40.743553,-73.980026,$$,316,4.5
-884,Third Rail Coffee,rd0VGG_d_qNp_aBW_HJM4w,New York,NY,Coffee & Tea,40.72994,-73.99959,$,461,4
-885,Remi Flower & Coffee,U3Ueh2bHtp3DLjrdc5w5fQ,New York,NY,Coffee & Tea,40.753781,-73.9689989,$$,220,4.5
-886,Chick-fil-A,k7n_31GE1Yq1KD77_DO1Tw,New York,NY,Fast Food,40.751764,-73.9860817,$,575,4
-887,Avant Garden,jvPYm9rYK-5ddnjU30Oz4Q,New York,NY,American (New),40.7261499,-73.98402,$$$,300,4.5
-888,Dudley's,L7_MTRZyYp_i-cnH2CU4zQ,New York,NY,Cafes,40.71798,-73.99042,$$,662,4
-889,Yonah Schimmel's Knish Bakery,amoGEhgkE4xcNXwYqWeoaw,New York,NY,Kosher,40.7231,-73.99015,$,608,4
-890,Jacques Torres Chocolate,sTruePBzPT4yg086E13BNA,New York,NY,Chocolatiers & Shops,40.72767,-74.00708,$$,431,4
-891,Ivan Ramen,wqYHhMnpdfUVGL5JI3Wi_A,New York,NY,Ramen,40.72058,-73.98454,$$,1214,3.5
-892,Ruffian,fFkqEyupjc5x2iJQIPcpLw,New York,NY,Wine Bars,40.7264,-73.98411,$$,192,4.5
-893,Buenos Aires,ZgIfySJ3cnB1svoyJAiCzg,New York,NY,Argentine,40.72531509,-73.98303986,$$$,519,4
-894,Melt Shop,0Bm2vjJW5Fw7_Maer6kDUw,New York,NY,Sandwiches,40.760711,-73.9823111,$$,575,4
-895,The Cinnamon Snail,SRlMTom32vVRkyvISUnnFQ,New York,NY,Vegan,40.75032054,-73.99196867,$$,481,4
-896,Rockwood Music Hall,RtN5ETLqYiMqhr71fu6cpg,New York,NY,Music Venues,40.722332,-73.988571,$$,410,4.5
-897,Emack & Bolio's,wUp0XV7RPDcMvgfxpvrgfw,New York,NY,Ice Cream & Frozen Yogurt,40.77382,-73.95139,$$,434,4
-898,Union Square,S12Cjy-gIHB-Vlx0EjOzVw,New York,NY,Parks,40.73525877,-73.9907527,0,410,4
-899,Melba's,4rWJGwb3rjDoZHA0AECa5A,New York,NY,Southern,40.80314688,-73.95650692,$$,993,4
-900,Pizza By Certé,gL4V5DN3yH45hbXqvy8-9g,New York,NY,Pizza,40.76037261,-73.97011854,$,412,4
-901,Beer Culture,f5csvsEkOEdBWLeBOdZcLg,New York,NY,Beer Bar,40.75960047,-73.98971468,$$,346,4.5
-902,Rosie's,9aJ1MVTthZw3QjqoG7mPjg,New York,NY,Mexican,40.72492,-73.99079,$$,669,4
-903,Masseria Dei Vini,zg9Jrtx9rqTXeaqufSOxHQ,New York,NY,Wine Bars,40.7684,-73.98558,$$$,428,4
-904,99 Cent Fresh Pizza,MwcRbM6lS6_8N67LmyBELA,New York,NY,Pizza,40.76458,-73.98247,$,479,4
-905,Popbar,2lvzbwis0mfYjfhD0UBbHQ,New York,NY,Ice Cream & Frozen Yogurt,40.73059,-74.00202,$,733,4
-906,Wine:30,hDgpiXE5_d4Is1sJ5kUBQg,New York,NY,Wine Bars,40.7448157,-73.9837861,$$,730,4
-907,Kahve,rA4CDLdNtwnszjGT_KWzPQ,New York,NY,Cafes,40.76483,-73.98774,$,544,4
-908,Mémé Mediterranean,enT7NJ7tLMvUMCWQcsUonw,New York,NY,Mediterranean,40.736412,-74.00616,$$,575,4
-909,Antica Ristorante,0Tvwk0hvgaY0QVIsZGTZKQ,New York,NY,Italian,40.70393551,-74.01217318,$$$,482,4.5
-910,Double Zero,EBK0OkVMBg_n_KxAU_4DZg,New York,NY,Pizza,40.7261288,-73.9896645,$$,442,4.5
-911,Boulton & Watt,Cz6It2NB_QBXCjnlsWGZSA,New York,NY,American (New),40.7224963,-73.986439,$$,668,4
-912,OatMeals,1Mqydw0kcU_dgRgsWpo_7g,New York,NY,Bakeries,40.730389,-74.000533,$,387,4.5
-913,Angkor Cambodian Bistro,CaizM2WaGPX5eRLDOJaqIw,New York,NY,Cambodian,40.76226,-73.95914,$$,262,4.5
-914,Cock & Bull,OxqUWRZFUOz3r6_4bh4mfg,New York,NY,British,40.75609088,-73.98048584,$$,525,4
-915,Magnolia Bakery West Village,85x3dZCMBj4rJ2LAdW-wFg,New York,NY,Bakeries,40.73589,-74.00498,$$,2322,3
-916,Teppen Ramen,icpLRhJ1jpBX1zBGkt7Xqg,New York,NY,Ramen,40.75929,-73.96879,$$,348,4.5
-917,Heidelberg Restaurant,PJeuLlvja4ZKv_tHq_pE1A,New York,NY,German,40.77742,-73.95172,$$,667,4
-918,Feast,#NAME?,New York,NY,American (New),40.7325189,-73.9881274,$$$,462,4
-919,Mission Ceviche,fKmvZZDSyBE5cfHwybPc_g,New York,NY,Seafood,40.74108,-74.004628,$$,210,4.5
-920,El Centro,sTu5z5HUcIYykg97HHj8xA,New York,NY,Mexican,40.76602,-73.98688,$$,832,4
-921,Le Coucou,obFs12x7mgYPGxgalBd22w,New York,NY,French,40.71909,-74.00013,$$$$,512,4
-922,Bathtub Gin,89XYJZSPKt-dqjE1zyTIzQ,New York,NY,Speakeasies,40.74367236,-74.00333762,$$,940,3.5
-923,Mercato,Ve6GVzzJpR5QIIPdcn6ViQ,New York,NY,Italian,40.75619,-73.9937,$$,837,4
-924,New Wonjo Restaurant,VbUy299ch56p4GYZTNDbvA,New York,NY,Korean,40.74788,-73.98665,$$,1287,3.5
-925,Dominique Ansel Kitchen,G6zVjf98xwxYqi_DhnihYQ,New York,NY,Bakeries,40.73479843,-74.00189209,$$,535,4
-926,Little Beet Table,S4Euw4DYSqeU4KcteFXqHg,New York,NY,American (New),40.74116,-73.98545,$$,513,4
-927,Intrepid Sea Air & Space Museum,XJYyDr_2cPl-SGhSANHH7A,New York,NY,Museums,40.764525,-73.999613,0,472,4
-928,Mango Mango Dessert - New York,YFwncruQm44GTqn2jZ9BwQ,New York,NY,Desserts,40.71528,-73.99811,$,634,4
-929,Pado,BOz0qTUMtAfljd3Vn1rerQ,New York,NY,Japanese,40.7314,-73.98589,$$,220,4.5
-930,The Capital Grille,ud4-0gH8YlAExTBJoADPtw,New York,NY,Seafood,40.7078814,-74.01020267,$$$,568,4
-931,The Morgan Library & Museum,Uplh1HiI1wOc6p8DR7O3QA,New York,NY,Libraries,40.749242,-73.981397,0,276,4.5
-932,Orchard Grocer,YnDs59_dEQ61TdCD4fdyEw,New York,NY,Delis,40.717731,-73.990165,$$,179,4.5
-933,Ariana Afghan Kebab Restaurant,IFZ3_d01uflGixWrrD8_gg,New York,NY,Afghan,40.76515,-73.98813,$$,472,4
-934,Noreetuh,rCpO-kMHljieU0geK0RJQw,New York,NY,American (New),40.727275,-73.985221,$$$,413,4
-935,Riko Peruvian Cuisine,ySIIdmS4oh-QL2dny7GscA,New York,NY,Peruvian,40.750076,-73.995422,$$,665,4
-936,Forlini's Restaurant,bdKc4CSJPv-XLgxVwrtPrg,New York,NY,Italian,40.71695,-73.99957,$$,412,4.5
-937,Cafe Noi,Kq6WMwG2kYrYpFF62TiY3A,New York,NY,Coffee & Tea,40.77168,-73.95649,$$,388,4
-938,The Skylark,JZ06I46tmJlvYA_NZ7zyxw,New York,NY,Cocktail Bars,40.754295,-73.989,$$$,525,4
-939,Hao Noodle and Tea By Madam Zhu's Kitchen,scTDvJ2M2jDbb1ntVeIyxA,New York,NY,Chinese,40.73348632,-73.9998929,$$,665,4
-940,Xi'an Famous Foods,tsHdT1GDibhYYA0JA7Z9tg,New York,NY,Noodles,40.7620999,-73.97732,$$,444,4
-941,Agave,QwL5LS436Xjo9MHFi2rc-g,New York,NY,Mexican,40.734767,-74.002415,$$,1262,3.5
-942,Casa Enrique,dgaNriM1VdI2nGochhHE_g,Long Island City,NY,Mexican,40.74340434,-73.95435037,$$,1124,4
-943,Mille-Feuille Bakery,cO9E0n9ulzJ6eZ4TKrFx1A,New York,NY,Bakeries,40.72933,-73.99808,$$,463,4
-944,Tony's Di Napoli,l7OsDvMOO3ji3fg0nT0QzA,New York,NY,Italian,40.76435,-73.96408,$$,637,4
-945,Mei Jin Ramen,W5RSIwNKBa7k0jeAs5KDYg,New York,NY,Ramen,40.775028,-73.953491,$$,603,4
-946,J.G. Melon,77EedCTJY1biWIYSzAulCQ,New York,NY,American (Traditional),40.77105,-73.95931,$$,1222,3.5
-947,Wolfnights,jpw7iGUzsj_AECKt351X8w,New York,NY,American (New),40.7198896,-73.9885666,$$,515,4
-948,Birch Coffee,qF-tPT7PkyNKbs2Js6EdNg,New York,NY,Coffee & Tea,40.74367789,-73.98641447,$$,350,4.5
-949,Pierre Loti Midtown,26M6nFVuA4bvhU0TBZOuLg,New York,NY,Wine Bars,40.75587175,-73.96735506,$$,308,4.5
-950,Bowery Ballroom,No5Z9wDq4E2TcYbgtr1AiA,New York,NY,Music Venues,40.72036,-73.99338,$$,376,4.5
-951,Guantanamera,HApdNNztx8Q7VF_9vkoAUA,New York,NY,Cuban,40.76589196,-73.98374754,$$,882,3.5
-952,Jadis,iQB37FNqD_G5_QMrp9ovnw,New York,NY,French,40.72102347,-73.99100541,$$,487,4
-953,Réunion,_8Oq6MmhqLgzQDVYXWLxuA,New York,NY,Cocktail Bars,40.75964944,-73.99130828,$$,678,4
-954,DiSO's Italian Sandwich Society,XTSScqbNujYlE7c_nHmS1g,New York,NY,Food Trucks,40.75273233,-73.97050906,$$,246,4.5
-955,The Picnic Basket,qYqe-kArMUebiEvxUPUlVg,New York,NY,Cafes,40.7516246,-73.9858858,$$,414,4
-956,Adel's Famous Halal Food,L6DAp6L1ZJKeeDN2PwoOLQ,New York,NY,Middle Eastern,40.76394,-73.99193,$,227,4.5
-957,Vatan Indian Vegetarian,3uEkZEAp7biQEtt0S7W1Vg,New York,NY,Indian,40.74236,-73.9803699,$$$,612,4
-958,BXL Zoute,8cT6XDwI9KiCaoVohlx42Q,New York,NY,Belgian,40.74174,-73.992627,$$,395,4
-959,Congee Village,rYw5rQbWRX9buZHZbxqWdA,New York,NY,Cantonese,40.7187,-73.99031,$$,1537,3.5
-960,Shorty's,N4q6Y9cpvUbJ3O5rydrSbQ,New York,NY,Bars,40.758103,-73.992529,$$,676,4
-961,Tavern29,NTwOc9yQ1xl5deeVzZqxfw,New York,NY,Pubs,40.74431,-73.98394,$$,888,4
-962,Reichenbach Hall,BxNs9d8rEW3Tls-nVdmIgA,New York,NY,Bars,40.7508,-73.98401,$$,720,4
-963,Yoon Haeundae Galbi,EKkHfSYTm266-ZBve3SdgA,New York,NY,Korean,40.74997,-73.98442,$$$,330,4.5
-964,La Shuk,87WfLan3_7K_OYPYd5zUIA,New York,NY,Moroccan,40.78863,-73.94875,$$,354,4.5
-965,DORADO Tacos & Quesadillas,SCQvI5pAJmD-OMm37kkS6Q,New York,NY,Mexican,40.73396,-73.99312,$,608,4
-966,Hu Kitchen,NH-5cniqVsAZQPOxhZ8IgQ,New York,NY,Breakfast & Brunch,40.735823,-73.994185,$$,927,3.5
-967,Round K,kuKSvCZDFrgOrY-dcrOefg,New York,NY,Coffee & Tea,40.718906,-73.990966,$$,354,4.5
-968,Rubin Museum of Art,1FgUXp_ZwBbdoeiIgGw_0w,New York,NY,Art Museums,40.74013,-73.99772,0,255,4.5
-969,Gotham West Market,bBDzXNM7Y7_8WE2Sm6R_ig,New York,NY,Food Court,40.7624395,-73.9971462,$$,544,4
-970,Attaboy,H7S7-vF2z_HfaLo6BGPetw,New York,NY,Cocktail Bars,40.7188874,-73.9913351,$$,513,4
-971,Teado Tea Shop,AYjVpQ5jYz5gJJqXh_B_CA,New York,NY,Coffee & Tea,40.7172143,-73.9949616,$,335,4.5
-972,Harry's,pNYcGGAj4AYaExlmrEmfUw,New York,NY,Steakhouses,40.70451,-74.0098299,$$$,664,4
-973,DTUT,doBm7WkYKNG-KRExevrRtA,New York,NY,Bars,40.78085422,-73.94934118,$,481,4
-974,Chola,QqrEF8_ZQCGi63cL10J5oA,New York,NY,Indian,40.76026,-73.96576,$$,580,4
-975,Golden Unicorn,6zM0c7vvoddgza_qvKkATw,New York,NY,Dim Sum,40.71367705,-73.99716336,$$,1724,3.5
-976,Kaoru,diz6_4TVSP6EdWEZCZ0Acg,New York,NY,Japanese,40.75202,-73.96977,$$,301,4.5
-977,Zengo,2IHGMQVQ7zmb89WyiiH1AQ,New York,NY,Latin American,40.74975739,-73.97545661,$$$,992,3.5
-978,The Original Soupman,HuSaFUqMDLbovpU-XbR9UA,New York,NY,Soup,40.76536117,-73.98343927,$,462,4
-979,Chow House,0dDCDQz7DrKkSvu9h2hcQw,New York,NY,Chinese,40.72915,-74.00072,$$,318,4.5
-980,Chloe's Soft Serve Fruit Co,QirEbcHa6wXkkVnDpO5cqQ,New York,NY,Ice Cream & Frozen Yogurt,40.73733,-73.99058,$$,504,4
-981,Duane Park,VuR3lhMA80aH42jrBM_C8A,New York,NY,Supper Clubs,40.7249172,-73.9925423,$$$$,440,4
-982,Pi Bakerie and Eaterie,s_YuHngBngWwzpcKNIM71A,New York,NY,Bakeries,40.72361,-74.00329,$$,254,4.5
-983,Benjamin Prime,zR92VSkXj1rt5KTJ15bkAw,New York,NY,Steakhouses,40.7514936,-73.97984968,$$$$,252,4.5
-984,Burke & Wills,mWQiNb6IUGqIRLzR3rE-Fg,New York,NY,Australian,40.7833619,-73.979579,$$$,404,4
-985,Tina's Cuban Cuisine,efxcTuq9Web2AWehfmYMQw,New York,NY,Cuban,40.76306,-73.9757,$$,583,4
-986,P.J. Clarke's,54SrQVVhGcvfuIkFabQ8KQ,New York,NY,American (Traditional),40.7589148,-73.9680336,$$,876,3.5
-987,Friedman's,zUv1BNm_a9-3DkxrCG3tng,New York,NY,Breakfast & Brunch,40.755311,-73.998389,$$,547,4
-988,Au Za'atar,0FaLilJs2VN83hOEBcBnPg,New York,NY,Wine Bars,40.728901,-73.981185,$$,752,4
-989,212 Steakhouse,uTXRhiUm5yXLLjC1oGy7ig,New York,NY,Steakhouses,40.75634,-73.966489,$$$,633,4
-990,Tableside Italian Cook Shoppe,Pu09oBx1ekEZiFt90PsSIw,New York,NY,Italian,40.7266287,-73.9863384,$$$,231,4.5
-991,Casa Adela,RThvexVhZQ8KA6JAr0UkCQ,New York,NY,Latin American,40.72264,-73.97973,$$,447,4
-992,Guggenheim Museum,jv0Gu4wXNuyaoJMBOXqfVQ,New York,NY,Museums,40.78301,-73.95912,0,982,3.5
-993,The Kati Roll Company,kB3QyyhHFVyhGgp35Rnuew,New York,NY,Indian,40.729634,-74.000964,$,860,4
-994,Naruto Ramen,2f0EWTvp3YDtGNKEEXKKhA,New York,NY,Ramen,40.78117,-73.9525,$$,893,3.5
-995,Nix,DodCeSN_hkXCJDoJ0uVxKg,New York,NY,American (New),40.73323,-73.99359,$$,511,4
-996,Tonkatsu Matsunoya,KJTTqIxuB0BEsYxLaYyAZw,New York,NY,Japanese,40.7533493,-73.97415924,$$,360,4
-997,Vic's,xbrQ2dHuQoFJmNxAuOky4A,New York,NY,American (New),40.72693,-73.99319,$$,430,4
-998,Cup & Cup,h881bFbXCIZdI99-mPOoyA,New York,NY,Coffee & Tea,40.746245,-73.984846,$,335,4
-999,deep indian kitchen - indikitch,sCHiXF4mZcsiY8_cBHNiqw,New York,NY,Indian,40.7422142,-73.99044037,$$,697,4
+0,Levain Bakery,H4jJ7XB3CetIr1pg56CczQ,New York,NY,Bakeries,40.77994046,-73.98028255,2,7772,4.5
+1,The Halal Guys,xEnNFXtMLDF5kZDxfaCJgA,New York,NY,Food Stands,40.76175596,-73.97922993,1,9251,4
+2,Ippudo NY,44SY464xDHbvOcjDzRbKkQ,New York,NY,Ramen,40.73092,-73.99015,2,9847,4
+3,The Metropolitan Museum of Art,jVncyqXwlx_D9f2xZn05tg,New York,NY,Art Museums,40.77925427,-73.96288417,1,2763,4.5
+4,Katz's Delicatessen,V7lXZKBDzScDeGB8JmnzSA,New York,NY,Delis,40.722237,-73.98743,2,11703,4
+5,Central Park,xOw4aafJRji9XomGunlvcQ,New York,NY,Parks,40.78241874,-73.96560228,1,2360,5
+6,Bibble & Sip,WHRHK3S1mQc3PmhwsGRvbw,New York,NY,Coffee & Tea,40.76282,-73.98518,1,4591,4.5
+7,Los Tacos No.1,jnEv25Y2DosTq2sNnvmC9g,New York,NY,Tacos,40.7425547,-74.0060838,1,2816,4.5
+8,Best Bagel & Coffee,j1S3NUrkB3BVT49n_e76NQ,New York,NY,Bagels,40.7522683,-73.9910861,1,3071,4.5
+9,Burger & Lobster,UA2M9QFZghe-9th2KwLoWQ,New York,NY,Seafood,40.74007,-73.99344,2,5273,4
+10,Gramercy Tavern,veq1Bl1DW3UWMekZJUsG1Q,New York,NY,American (New),40.738527,-73.988417,4,2819,4.5
+11,The High Line,JION8hhg7q6zyayHYwhxIw,New York,NY,Parks,40.74798318,-74.00489061,1,2301,4.5
+12,Le Bernardin,vRrVSB-LegwUwIxpkeRVtQ,New York,NY,French,40.761557,-73.981763,4,2458,4.5
+13,LoveMama,jjJc_CrkB2HodEinB6cWww,New York,NY,Thai,40.7303859,-73.9860613,2,4569,4.5
+14,Two Little Red Hens,UGECJrPSWy0n7PXykBBWAQ,New York,NY,Bakeries,40.777528,-73.9517869,2,2509,4.5
+15,Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,New York,NY,Burgers,40.74140002,-73.98815019,2,5551,4
+16,Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,New York,NY,Thai,40.73902,-73.99065,2,2883,4.5
+17,Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,New York,NY,Comfort Food,40.78665044,-73.97552848,2,3891,4
+18,Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,New York,NY,Pizza,40.72290877,-73.99448633,1,3122,4.5
+19,Club A Steakhouse,A_YpTLbAlEqeLVSs9bxbEA,New York,NY,Steakhouses,40.76006,-73.96557,3,2679,4.5
+20,Totto Ramen,QbAfrOxbuYKU248SDXHZEQ,New York,NY,Ramen,40.76444,-73.98759,2,5347,4
+21,Ippudo Westside,TN4RnyqHMSupRFot4Q-_EA,New York,NY,Ramen,40.76344,-73.98661,2,3570,4
+22,Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,New York,NY,Donuts,40.71639449,-73.98860986,2,3173,4.5
+23,Del Frisco's Double Eagle Steakhouse,b8a-8u_A51v2IzyjLVsx6w,New York,NY,Steakhouses,40.759412,-73.982221,4,2864,4.5
+24,Los Tacos No.1,SULHf6nGQ8sK0UpG1XU30w,New York,NY,Tacos,40.7575067,-73.9877717,1,1467,4.5
+25,Buddakan,nI1UYDCYUTt23TpGxqnLKg,New York,NY,Chinese,40.74227627,-74.0048001,3,3861,4
+26,Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,New York,NY,Bakeries,40.721128,-73.983933,2,4849,4
+27,Eataly NYC Flatiron,a0IET3_yCFcO36OqGSsisg,New York,NY,Italian,40.74195878,-73.98971666,2,5374,4
+28,National September 11 Memorial Museum,kViIWJFfAfWPpJOwAXBKGA,New York,NY,Museums,40.71144,-74.01301,1,1370,4.5
+29,Grand Central Terminal,8HkB3JfIj7_g-MN5ujoRig,New York,NY,Landmarks & Historical Buildings,40.752793,-73.977165,1,1362,4.5
+30,Eleven Madison Park,nRO136GRieGtxz18uD61DA,New York,NY,American (New),40.74169074,-73.98720749,4,2089,4.5
+31,Amélie,ETgJqJHV7BW6pIr9Ox74sA,New York,NY,French,40.7327,-73.99766,2,2563,4.5
+32,Per Se,1DfbZ0VsSCg9g1KILmnvzQ,New York,NY,French,40.76815289,-73.98276296,4,1600,4.5
+33,Dominique Ansel Bakery,ga6sRtE0l85iftw_5-W84Q,New York,NY,Bakeries,40.72522,-74.00291,2,4313,4
+34,Up Thai,#NAME?,New York,NY,Thai,40.76982759,-73.95763309,2,2122,4.5
+35,Daniel,DZaN3bNWfwcm__sNw5bvDg,New York,NY,French,40.76677368,-73.967607,4,1549,4.5
+36,Junior's Restaurant & Bakery - 45th St.,U5hCNNyJmb7f3dmC1HTzSQ,New York,NY,Bakeries,40.75826627,-73.98654,2,4368,4
+37,Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,New York,NY,Ice Cream & Frozen Yogurt,40.71789,-73.9988,1,2757,4.5
+38,Russ & Daughters,VrCCr45dhN-RRM107iptdg,New York,NY,Bagels,40.722589,-73.98828283,2,2092,4.5
+39,Top of the Rock,36krOhexcsA8Uetoq52A7g,New York,NY,Landmarks & Historical Buildings,40.75933426,-73.97940159,1,1596,4.5
+40,Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,New York,NY,Desserts,40.72939,-73.98892,2,2874,4
+41,Bryant Park,MJJi_5tGkWYI1VReTjhCCA,New York,NY,Parks,40.75388429,-73.98365105,1,1114,4.5
+42,Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,New York,NY,Pizza,40.7215935,-73.9955956,2,5964,4
+43,Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,New York,NY,Shanghainese,40.71466914,-73.99776022,2,5941,4
+44,Izakaya MEW,klAhw3xLQi9GF1tf_HnS7w,New York,NY,Tapas Bars,40.75018531,-73.98632035,2,2167,4
+45,Carmine's Italian Restaurant - Times Square,22nKUyCIbpnzR6R3_g1ptQ,New York,NY,Italian,40.75749558,-73.98668445,2,3585,4
+46,ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,New York,NY,American (New),40.738085,-73.989472,3,2919,4
+47,Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,New York,NY,Ice Cream & Frozen Yogurt,40.715452,-73.99818,1,2677,4
+48,Upstate,ehUuSk5gPTCQmwS_ubgKRA,New York,NY,Seafood,40.72631391,-73.9864902,2,1784,4.5
+49,Bengal Tiger Indian Food,x0k5kFArHLijdY8-NEQ7Xg,New York,NY,Indian,40.763167,-73.977131,2,1723,4.5
+50,Ladurée Madison Ave,_DcfYjnGffQI3iP1Be0kdA,New York,NY,Macarons,40.77077023,-73.96637607,3,1858,4.5
+51,Morimoto,t1w4qyqyfEdTPhoy-5t3FA,New York,NY,Japanese,40.74332,-74.00713,4,2990,4
+52,Pure Thai Cookhouse,MhceeLrM2_3mcKw5EGLY6A,New York,NY,Thai,40.764291,-73.988159,2,2456,4
+53,Jean-Georges,PBUIaPtgnhmdHE3KHglK-g,New York,NY,French,40.76911227,-73.98142907,4,1857,4.5
+54,Ess-a-Bagel,c3eMI4_o4dPDDhPV_ibBYQ,New York,NY,Bakeries,40.75630056,-73.9703701,1,3400,4
+55,Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,New York,NY,Venezuelan,40.7269655,-73.9854223,2,2539,4
+56,Grace Street,MKYhiSeXjahxh9O4Gqnimw,New York,NY,Coffee & Tea,40.74785768,-73.98655906,2,2297,4
+57,Angel's Share,ZD22cMZvSmfNsXS9vKizGA,New York,NY,Cocktail Bars,40.72970975,-73.98914922,2,2063,4.5
+58,Keens Steakhouse,pQuZDnefX038xurT1BhDXA,New York,NY,Steakhouses,40.75071,-73.98652,4,2454,4
+59,Molly's Cupcakes,Hs1TH_4FpyzbX6_J5r1XXg,New York,NY,Bakeries,40.73014,-74.00248,2,1623,4.5
+60,Doughnut Plant,XskangHFq3JD9klJFuGH8w,New York,NY,Donuts,40.7444886,-73.9969095,2,2455,4
+61,L'Artusi,rp8S7scxOkVVeG7dNneMGQ,New York,NY,Italian,40.733714,-74.005068,3,1751,4.5
+62,Wafels & Dinges,xJSH3EM1iZtOh4WZti4qjg,New York,NY,Belgian,40.73928452,-73.99893188,1,1532,4.5
+63,Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,New York,NY,Middle Eastern,40.7302874,-74.0004383,1,2344,4
+64,Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,New York,NY,Desserts,40.721845,-73.995802,2,2971,4
+65,Anytime,VvsZAnEwU4c8Xkyrzx05Nw,New York,NY,Korean,40.74779,-73.98674,2,918,5
+66,Marea,H_KyiRhwho8rdlw_R93_0Q,New York,NY,Italian,40.76742137,-73.98105544,4,1969,4
+67,Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,New York,NY,Cuban,40.722998,-73.994171,2,3121,4
+68,Bea,Rc1lxc5lSKJYd162JHNMfQ,New York,NY,American (New),40.7591968,-73.9923361,2,2380,4
+69,Sushi Yasuda,7EaiwMVaNdQibSs0yYkE5Q,New York,NY,Japanese,40.75113,-73.97347,3,2075,4
+70,Dutch Freds,SaYTVG7wHCMDBofHCgXPaA,New York,NY,Cocktail Bars,40.76071,-73.98793,2,1380,4.5
+71,Rubirosa,WG639VkTjmK5dzydd1BBJA,New York,NY,Italian,40.72275,-73.99622,2,2038,4.5
+72,Eileen's Special Cheesecake,6G_NSMacAfdf-WYOpcQ4uw,New York,NY,Bakeries,40.7215432,-73.9972332,1,1563,4.5
+73,Artichoke Basille's Pizza,vfYhEpp0x-DrNjC6GSJjPQ,New York,NY,Pizza,40.73211246,-73.98390568,1,3882,4
+74,Beauty & Essex,pfmAcS-g6SiNG0KlLvrqnA,New York,NY,American (New),40.72037,-73.98677,3,3369,4
+75,Thursday Kitchen,fVbUVAiLiGgLA_nxBFxyww,New York,NY,Korean,40.7275,-73.9838,2,1242,4.5
+76,Sakagura,7iY35991NhQ1AShJZCNZgA,New York,NY,Japanese,40.7516467,-73.97294893,3,1756,4
+77,Taim West Village,j0n_poMVZnODYOFviLbh0Q,New York,NY,Vegetarian,40.73600238,-74.00195884,1,1501,4.5
+78,Barn Joo 35,xZ96vaoL-cQjfotmUKtjJQ,New York,NY,Korean,40.74964,-73.98582,2,1728,4.5
+79,American Museum of Natural History,O1gHEYYSCULCcfJD9sLJqw,New York,NY,Museums,40.78124013,-73.97405863,1,2021,4
+80,Top Thai Greenwich,wGFSTTB6b4MHJJUzBnVJeg,New York,NY,Thai,40.72977,-73.99939,2,1239,4.5
+81,B Side Pizza & Wine Bar,c3D2ckzacnPtdGIM8tb-_w,New York,NY,Pizza,40.76394,-73.9883399,2,1061,4.5
+82,NY Pizza Suprema,-9NO2IDCJMyNGZMAQ1-VQw,New York,NY,Pizza,40.75020599,-73.99532318,1,1898,4
+83,The Boil,tiSw-6DIm3-mMORyEIOVyg,New York,NY,Cajun/Creole,40.71974,-73.99339,2,1840,4.5
+84,Tony's Di Napoli,5TX0X8w5ssIACU_pnBEq6g,New York,NY,Italian,40.75641,-73.98547,2,1999,4
+85,Woorijip,ogCC-lJJYnwXDvKGmKZ6Sw,New York,NY,Korean,40.74747,-73.98648,1,2578,4
+86,Scarpetta,raqwXUBlnc0e8c7CYmxEJQ,New York,NY,Italian,40.744509,-73.9856,3,1851,4
+87,Saigon Shack,7Qvh0oFRsoqrO9qNlcMKXQ,New York,NY,Sandwiches,40.72969,-74.000629,1,2312,4
+88,Sugar Sweet Sunshine Bakery,qVSOes5JoWc5_umv4nd4Hg,New York,NY,Bakeries,40.719851,-73.987011,1,2032,4
+89,Gotham Bar and Grill,_gzXNKarTxagBp6_PkmQKw,New York,NY,American (New),40.734186,-73.993696,4,1563,4.5
+90,Jane,uoT2_Wrt1noD6kZOID7tUg,New York,NY,Breakfast & Brunch,40.72732,-74.00026,2,3098,4
+91,ilili,B55Ocx5RBWxo6AGSucYSIA,New York,NY,Mediterranean,40.74435,-73.98778,3,2326,4
+92,Trattoria Trecolori,DoSU8IPq-Py_YV3kYmXPfQ,New York,NY,Italian,40.75998,-73.98671,2,2247,4
+93,Joe's Pizza,uc5qQMzs96rzjK27epDCug,New York,NY,Pizza,40.730655,-74.002189,1,2403,4
+94,Tanner Smiths,z5hRX3iJ5Ty_S38iG_WY3Q,New York,NY,Cocktail Bars,40.76442,-73.98169,2,1598,4.5
+95,Schmackary's,jz_FnuRpCNzfwwHHQ6Nbeg,New York,NY,Desserts,40.76015388,-73.99094426,1,1909,4
+96,Soft Swerve,7-jMpWGUxPB8EEtmoqNdqg,New York,NY,Ice Cream & Frozen Yogurt,40.71822331,-73.99114899,1,1565,4.5
+97,Wah Fung No 1 Fast Food,X8ZS-dgiMIJvhwf9SaDnjw,New York,NY,Chinese,40.71735,-73.99457,1,1324,4.5
+98,Balthazar Restaurant,KgpOYAG-r_eDsQXFXt0nnQ,New York,NY,French,40.72273039,-73.99833078,3,2993,4
+99,The Smith,C-8mGN7lt5rIraO5n-15ug,New York,NY,American (New),40.755165,-73.967868,2,2497,4
+100,The Cinnamon Snail,urSuhjbH6DK2nvP08IESwA,New York,NY,Vegan,40.7495842,-73.99167633,1,990,4.5
+101,The Meatball Shop,P4hm-IKNMbBbtfWSvPf25A,New York,NY,Italian,40.721651,-73.988746,2,2727,4
+102,Raines Law Room,J4pAppaiXwCkbLOGc4wHww,New York,NY,Lounges,40.73869,-73.99462,3,1420,4.5
+103,Zen Ramen & Sushi,mESab-FqL5QqSVsnX72asQ,New York,NY,Sushi Bars,40.75185,-73.98892,2,1344,4.5
+104,McSorleys Old Ale House,QArou0r7CmLNPWYRA9ecog,New York,NY,Dive Bars,40.72884,-73.98965,1,1730,4
+105,Jongro BBQ,FZpm4_fbd6P984foOUejWg,New York,NY,Korean,40.747514,-73.986884,2,1782,4
+106,Sundaes and Cones,TPBTUvbBVUfJeEWWy1o1QQ,New York,NY,Ice Cream & Frozen Yogurt,40.730934,-73.989318,1,1464,4.5
+107,The Seafire Grill,ryvBsB9FrBBZDak87iGS1w,New York,NY,Seafood,40.75470121,-73.97225551,3,1189,4.5
+108,Sushi Yasaka,HZWHBfeuP4Fb6y8b8uqnbA,New York,NY,Japanese,40.779583,-73.983482,2,1698,4
+109,Stumptown Coffee Roasters,sSQ3dtC8nbfeT6srFiiIlA,New York,NY,Coffee & Tea,40.74566634,-73.98809163,2,1377,4.5
+110,La Sirène-Soho,FiRB9Ek3Xo9JHwXgBYITYg,New York,NY,French,40.72436422,-74.00570869,3,1583,4.5
+111,Shake Shack,bL6gcUWgFt7mOZYT_FaGSg,New York,NY,Burgers,40.75841213,-73.98918226,2,3003,4
+112,Pio Pio 8,OwV-MtDBC2H08rVcBqP2mA,New York,NY,Latin American,40.76050629,-73.99456449,2,2284,4
+113,Max Brenner - New York,vbvtWBbO3Q-Q15w7aHxgVg,New York,NY,Desserts,40.73426706,-73.99105492,2,4567,3.5
+114,Calle Dao - Bryant Park,LQHegfNHe7ylY3bocrFlpg,New York,NY,Cuban,40.752155,-73.984223,2,1641,4
+115,KazuNori  | The Original Hand Roll Bar,TBp9gdS6xEbSQqffVZ7iag,New York,NY,Sushi Bars,40.74519,-73.98824,2,824,4.5
+116,Veniero's,VtJd1l64kqUUyWacwK0J2Q,New York,NY,Bakeries,40.72941,-73.98454,2,1980,4
+117,Sushi Nakazawa,zGAQqDu0Ak2khVYs9WdQxw,New York,NY,Japanese,40.73174652,-74.00454938,4,1324,4.5
+118,Quality Meats,kB-lmHs7yNwLIlQyp0kMmQ,New York,NY,Steakhouses,40.764958,-73.976206,4,1920,4
+119,Momofuku Ssam Bar,1Ed-tb_0dBGrXfsYyehmvg,New York,NY,American (New),40.73169,-73.985846,3,2401,4
+120,Breakroom,MfbVI5reXLIIs8Cc2HwgQw,New York,NY,Burgers,40.71669072,-73.99994401,2,1557,4.5
+121,Uva,OAqsZMbjv66nOMqlimnYuQ,New York,NY,Italian,40.7722,-73.95566,2,2267,4
+122,Olio e Piú,16ZnHpuaaBt92XWeJHCC5A,New York,NY,Pizza,40.733826,-73.999852,2,1952,4
+123,Minetta Tavern,PYcL2z9gHj6-ZTlViT9Nqw,New York,NY,French,40.7300048,-74.00060738,3,2141,4
+124,The NoMad Restaurant,1z5Nu66M6W8mk5Ap4osZwA,New York,NY,French,40.7449,-73.988482,3,1434,4
+125,Beyond Sushi,FoR70YoGSb4_QavCe1WZEw,New York,NY,Sushi Bars,40.7329,-73.98588,2,911,4.5
+126,Bleecker Street Pizza,oJ_XSPZFpvIt6rvheSQl7A,New York,NY,Pizza,40.7320627,-74.00365523,1,2220,4
+127,Friedman's,cCesIqo-LQt0cRlZAnrAZQ,New York,NY,American (New),40.748297,-73.990649,2,2273,4
+128,Coffee Project NY,pimuUR-TEHIjUla3S3jemQ,New York,NY,Coffee & Tea,40.72699,-73.98922,2,647,4.5
+129,Milk & Cream Cereal Bar,cGx9CYLxw6fqUQU-MFup8A,New York,NY,Ice Cream & Frozen Yogurt,40.71958,-73.99654,2,905,4.5
+130,Boucherie West Village,s3jou_L_LVYGkNHiuhjlew,New York,NY,French,40.733063,-74.0028772,3,1266,4.5
+131,Raku,FlZ1zdVEKWv7dwqm8Uw8-w,New York,NY,Japanese,40.72649881,-73.98665261,2,962,4.5
+132,Dinosaur Bar-B-Que,XzUW9MvEGOFs9_aNj11j2Q,Harlem,NY,Barbeque,40.81809834,-73.96087293,2,2959,4
+133,John's of Bleecker Street,LF1QAuvpfX7KGQlg2zMg6Q,New York,NY,Pizza,40.73158,-74.00332,2,1909,4
+134,The MasalaWala,sCC7-hSdCkNPExejZT9BAQ,New York,NY,Indian,40.72191,-73.98666,2,1416,4.5
+135,Shake Shack,wXpCNNTT2kqh-fTnSWXdEA,New York,NY,Burgers,40.78082071,-73.97655167,2,2346,4
+136,Absolute Bagels,JV5oa5-KGdiWnqrKPoxSug,New York,NY,Bakeries,40.80251,-73.96745,1,1337,4.5
+137,Frisson Espresso,HjGjGy3JhhRFcR7MaQLrjA,New York,NY,Coffee & Tea,40.76081085,-73.98899841,1,667,4.5
+138,Cafe Mogador,W4hobe10Fy54MKqmLaObEg,New York,NY,Moroccan,40.72725877,-73.98450851,2,1851,4
+139,The Lobster Place,zfiXI8AwYBRfWjPyv6oh3w,New York,NY,Seafood Markets,40.74274139,-74.00601181,2,1284,4
+140,Luke's Lobster East Village,UXTTvSG3TVbSkbVGVtZ8dA,New York,NY,Seafood,40.72694016,-73.98526001,2,1503,4
+141,Brooklyn Bagel & Coffee Company,pb_ryc8FYHpUPV56eV2Eyg,New York,NY,Bagels,40.746183,-73.997642,1,1356,4
+142,Cha-An,5QgBCrAbXbM1ORiqZDrBPQ,New York,NY,Japanese,40.72947,-73.98813,2,1740,4
+143,Empire State Building,g2IUVjeIwx5x6x9u1cLS6w,New York,NY,Landmarks & Historical Buildings,40.7484,-73.9856644,1,1968,4
+144,Momofuku Noodle Bar,HfJhenvKDi-ds8SUJFwrLg,New York,NY,Ramen,40.72920638,-73.98448482,2,4180,3.5
+145,Cheeky Sandwiches,gHdejB1Mx2P5UjAgZ6BT2w,New York,NY,Sandwiches,40.7158,-73.99169,1,1132,4.5
+146,Dough,ZMQzXIiqdBIuicFySTWGKg,New York,NY,Desserts,40.73931,-73.99243,1,1451,4
+147,Vanessa's Dumpling House,IhSVn0TaX8xXb3wcQ-fgcA,New York,NY,Chinese,40.71839,-73.9917399,1,2560,4
+148,Sushi by Bou Times Square,MmXZLVwWcYugi_TXSHmjeQ,New York,NY,Sushi Bars,40.75851,-73.98322,3,488,4.5
+149,The Modern,_LJFf9YqpYxvExTvVxb7Rw,New York,NY,American (New),40.76100609,-73.97677256,4,966,4.5
+150,Xi'an Famous Foods,HScFap2SwbUlfC-QXVkxFA,New York,NY,Chinese,40.75606,-73.9808,1,1602,4
+151,Babbo,#NAME?,New York,NY,Italian,40.732283,-73.999284,4,2367,4
+152,Veselka,CVxz9B5ncpMwVK1bk_c1YA,New York,NY,Diners,40.7289505,-73.98696899,2,2481,4
+153,Momosan Ramen & Sake,oTkzgr7hzOAdlP99Auj3GQ,New York,NY,Ramen,40.74993,-73.97746,2,1537,4
+154,Xi'an Famous Foods,Gd3_3mxOvj2xYiqysV8rbQ,New York,NY,Chinese,40.72782,-73.98551,2,1576,4
+155,Cookshop,ssGhu4n3emZ9kEPVf371IQ,New York,NY,American (New),40.7454251,-74.0056084,2,2046,4
+156,Amy Ruth's,tsiC3VpO-hZEb98Qk3p-DQ,New York,NY,Southern,40.80248,-73.95038,2,2532,4
+157,Jajaja,XipQLDbyTl5tsLlyzAWzug,New York,NY,Mexican,40.71415303,-73.9904248,2,796,4.5
+158,Banh Mi Saigon,MDMw0HFK3rgeGRl-FZC9Fg,New York,NY,Vietnamese,40.71936,-73.99667,1,1427,4
+159,Hatsuhana Sushi Restaurant,6lUsFj0KCao678o9L7QwUw,New York,NY,Japanese,40.75703,-73.97692,3,1268,4
+160,Pokeworks,_zGsfwGAY8ZTob_mIFAM-w,New York,NY,Sushi Bars,40.75159343,-73.98588181,2,1729,4
+161,Gyu-Kaku Japanese BBQ,bB8dHfAEJrF5tNcHr0yJjA,New York,NY,Japanese,40.72822,-73.99142,3,1667,4
+162,Aquagrill,IUvJ8jmojYu1FsOQ0PfFcg,New York,NY,Seafood,40.72535456,-74.00370109,3,1337,4
+163,il laboratorio del gelato,HjZvV6WAdsusCRlY0iSxYg,New York,NY,Ice Cream & Frozen Yogurt,40.72223536,-73.98706327,2,1290,4
+164,Her Name Is Han,qY1o1MhoRyN84RRhUJtvpQ,New York,NY,Korean,40.74626,-73.98473,2,1114,4
+165,Shanghai 21,R26zweQ8-xoZS7iHkXQOvw,New York,NY,Shanghainese,40.7144199,-73.99889,2,1591,4
+166,La Lanterna Di Vittorio,V-FCEicobl5Su-R7EVJQNA,New York,NY,Italian,40.73069,-74.00015,2,1427,4
+167,Toloache 50,Wx6lMnEh7dCmX-9PQF1Ifw,New York,NY,Mexican,40.762325,-73.9855741,2,1865,4
+168,Snowdays,7jXNphhpZZ2YE37E9jP60g,New York,NY,Shaved Ice,40.72903108,-73.98472846,1,1148,4
+169,Rockefeller Center,ZKDByTPdHjlZg0k5_ct4xA,New York,NY,Landmarks & Historical Buildings,40.75901516,-73.97913857,1,755,4.5
+170,BCD Tofu House,gXnC_aZR09BvqEQKGKFjBg,New York,NY,Korean,40.74750363,-73.98624472,2,1935,4
+171,Sweet Chick,8F81LrdFm6P5kkFpsw0n0w,New York,NY,Southern,40.7217399,-73.98739,2,1546,4
+172,Del Posto,N-rwVhnEtXg8yY_TlB_KZw,New York,NY,Italian,40.7434156,-74.00753301,4,1400,4
+173,Go! Go! Curry!,eRtceh_W_yniAfCqJni5Bg,New York,NY,Japanese Curry,40.75463,-73.99115,2,1431,4
+174,City Cakes,wQLNq8dQE4DxvUSQwzAagw,New York,NY,Desserts,40.74206,-73.99999,2,633,4.5
+175,Los Mariscos,L3REPLCvQpMapYPd_fkS-A,New York,NY,Seafood,40.74207,-74.00565,1,533,4.5
+176,Vida Verde,Xjswj531-FkRZPpcccU6kQ,New York,NY,Cocktail Bars,40.7650089,-73.983215,2,1025,4.5
+177,Becco,QObHX0yR6zd0WfksRDbJTA,New York,NY,Italian,40.76083,-73.98981,3,2784,3.5
+178,Buvette,xQ445GaWVN5Aa3sFX9OoIg,New York,NY,French,40.732704,-74.004317,2,1673,4
+179,OBAO,NN3mOWF5e_pnR1ArqM2bHQ,New York,NY,Vietnamese,40.7606544,-73.991332,2,2349,4
+180,Red Bamboo,9DceMTrjyVqBgQRqgR6GWw,New York,NY,Vegetarian,40.73131837,-74.00035465,2,1678,4
+181,Ayza Wine & Chocolate Bar,srhEv1OqoK9W5JRdiMWDyw,New York,NY,Wine Bars,40.74717747,-73.98701131,2,1598,4
+182,88 Lan Zhou Handmade Noodle,Lbs8QBRN1U7IYBo5Mcv-RQ,New York,NY,Chinese,40.7155,-73.99675,1,1750,4
+183,Bohemian Restaurant,8fr5FYU1ip0phERt1mrekg,New York,NY,Japanese,40.72639,-73.99236,3,738,4.5
+184,Mighty Quinn's Barbeque,LsITU8KVYMhV_fatv84wWA,New York,NY,Barbeque,40.727574,-73.988623,2,1726,4
+185,Pylos,7xV4gzrgaOgQYtPC3FBZig,New York,NY,Greek,40.72608,-73.98415,3,1101,4.5
+186,99 Favor Taste,Xf6e3HaP0AgMBxY7dEDkOA,New York,NY,Chinese,40.7176199,-73.99249,2,1726,4
+187,Ootoya Chelsea,OLSSJIp8pu5UlugTF7tuHA,New York,NY,Japanese,40.738767,-73.992778,2,1349,4
+188,TONCHIN NEW YORK,OFfZUS-nu6NDnsWe1B2bUQ,New York,NY,Ramen,40.7502727,-73.9844951,2,918,4.5
+189,Cask Bar & Kitchen,1LIptXhtDh58vAA-QPFL4w,New York,NY,Bars,40.745414,-73.979004,2,1323,4
+190,Havana Central,al9HKZ3kCJipAJW4uxzj4A,New York,NY,Cuban,40.75831,-73.98416,2,2176,4
+191,Luke's Lobster Upper East Side,yN5rHxaIZMk6KFrbDNgZgA,New York,NY,Seafood,40.77473085,-73.95454919,2,1129,4
+192,Breads Bakery,mU23NlQfn1R9OhA6WMe_xg,New York,NY,Bakeries,40.73661,-73.99181,2,943,4.5
+193,ChikaLicious Dessert Bar,mIhqKMgru4002wfrVW-Gfw,New York,NY,Desserts,40.729664,-73.98631817,2,1307,4
+194,Little Collins,1aD88qNRb08LGBkl84GQTA,New York,NY,Coffee & Tea,40.759912,-73.96964,2,786,4.5
+195,The Dead Rabbit,RemvTpxalDjSew5HwmNzUQ,New York,NY,Cocktail Bars,40.70329,-74.01102,2,1495,4
+196,Big Gay Ice Cream Shop,qZyHpLB9QVTWbHReujNfcg,New York,NY,Ice Cream & Frozen Yogurt,40.7264,-73.98411,1,1976,4
+197,Turntable Chicken Jazz,JeCtYANe0eqW8xe1SN3lWg,New York,NY,Chicken Wings,40.74828,-73.98649,2,1954,4
+198,Maharlika,1_S2RxVWOidWcgbU2tBQBQ,New York,NY,Filipino,40.72695,-73.98611,2,1480,4
+199,La Contenta,6Ct7OeTRn4caY9g0swFBsw,New York,NY,Mexican,40.71873,-73.98691,2,710,4.5
+200,Beyond Sushi,TcuWyuZAORVnQBPCMNbTgw,New York,NY,Sushi Bars,40.76331,-73.97717,2,634,4.5
+201,Alta,XEugUtbw4rRmGr9S1XA-aQ,New York,NY,Tapas Bars,40.73451638,-73.99833696,3,1847,4
+202,Num Pang Kitchen,#NAME?,New York,NY,Cambodian,40.73396,-73.99312,2,1399,4
+203,Yuca Bar,AgAkUVLN_axMY-bzbNCfCw,New York,NY,Latin American,40.7262,-73.9836,2,1747,4
+204,Crif Dogs,2n01u4yKfIrWuOzRVvIZmw,New York,NY,Hot Dogs,40.727157,-73.983718,1,2076,4
+205,Candle 79,MidK0WWI0_1tZL8AuR7Jhw,New York,NY,Vegetarian,40.774627,-73.958697,2,1304,4
+206,by CHLOE. West Village,GtfhGhWmr1kQ4EnFTlwg7w,New York,NY,Vegan,40.729219,-74.001021,2,1621,4
+207,Ai Fiori,bEXTA_Gwo2oVg4gnFd9fNA,New York,NY,Italian,40.7500752,-73.9837835,4,1217,4
+208,Tsurutontan Udon Noodle Brasserie,J9UA6rzI5WW_cDGjwDnF5g,New York,NY,Japanese,40.73678,-73.9910699,2,1699,4
+209,The Little Owl,q1uIqB8PvyCCX8TajaRYBg,New York,NY,Breakfast & Brunch,40.73238083,-74.005301,3,1248,4
+210,Patzeria Family & Friends,A2DV-AQIXRYUMu5Ak5mjxg,New York,NY,Italian,40.7615,-73.98754,2,1020,4.5
+211,Patzeria Perfect Pizza,DJSLGbSqCJ1W8ma3LFlMuw,New York,NY,Pizza,40.75946539,-73.98678571,1,1555,4
+212,Keste,d7Asc4q2ImoPlA_BhfroTQ,New York,NY,Pizza,40.73154,-74.00293,2,1377,4
+213,Levain Bakery,QHYqNQhQ8NVK0RX68Y4PuQ,New York,NY,Bakeries,40.8049739,-73.9551513,2,698,4.5
+214,Levain Bakery,TuRPkrvAut11wfz1N3Sm7Q,New York,NY,Bakeries,40.781532,-73.979286,2,477,4.5
+215,Churrascaria Plataforma,VnjcxOUuZAeJMiDIU-7hUQ,New York,NY,Brazilian,40.76202,-73.98765,4,1324,4
+216,Benjamin Steakhouse,sSSV7G16yUijp-Peq4fmsA,New York,NY,Steakhouses,40.7518,-73.97896,4,1149,4
+217,Luke's Lobster FiDi,kxykwx5qTWBhlMh18MQ82Q,New York,NY,Seafood,40.7046213,-74.01077939,2,1114,4.5
+218,Milk Bar East Village,RcqZmRj3mWiimohFnNA4Nw,New York,NY,Bakeries,40.73188939,-73.98573886,2,3285,3.5
+219,Ice & Vice,HaRZCA7LK8BzG0buH2SaZA,New York,NY,Desserts,40.71428427,-73.98687378,2,725,4.5
+220,Beard Papa's,JaFHhBaCNRJYaGW9zeFQCQ,New York,NY,Bakeries,40.7822263,-73.9811905,1,803,4.5
+221,THEP Thai Restaurant,O1fUmxt3kbV-rnyjBtzAfw,New York,NY,Thai,40.77078,-73.95727,2,746,4.5
+222,DOMODOMO,BPZfuPvSxCfoppU4lPFm0Q,New York,NY,Japanese,40.72803,-74.00167,3,973,4.5
+223,Shu Jiao Fu Zhou Cuisine Restaurant,lynQoI3w_pzYfHGeuUU-Qg,New York,NY,Chinese,40.71842904,-73.9916929,1,767,4.5
+224,Pommes Frites,uBGjcW-GuYy_qSvMykuISA,New York,NY,Belgian,40.730022,-74.000152,1,841,4.5
+225,Lupa,yZJbealagfujEkgesAl2hA,New York,NY,Italian,40.7276,-74.000045,3,1483,4
+226,Root & Bone,ULt3kmA0_hbZ3j6cMORCaA,New York,NY,Southern,40.72272,-73.98334,2,1546,4
+227,Jungsik,fVsH6QIJPzXpVbgmeiolsA,New York,NY,Korean,40.71859102,-74.00888443,4,562,4.5
+228,Nyonya,M-odQWSEfsR2mVEw7nKG-g,New York,NY,Asian Fusion,40.7190148,-73.9968228,2,2026,4
+229,Parker & Quinn,IOHaEgK1zDvUvB3SfKuGCw,New York,NY,American (New),40.75258622,-73.98507132,2,1290,4
+230,Very Fresh Noodles,oe8GEFE4QLFAKt87y7zcgA,New York,NY,Taiwanese,40.7423387,-74.00625,2,874,4.5
+231,Raclette,5m-TrbqMNnwJvOd7pAt6OA,New York,NY,Sandwiches,40.7289298,-73.980601,2,1265,4
+232,Gallaghers Steakhouse,hk3ohp_A4L4UgWTexDxf_Q,New York,NY,Steakhouses,40.762876,-73.983837,3,1088,4
+233,Ipanema Restaurant,#NAME?,New York,NY,Brazilian,40.75707222,-73.98077955,2,1299,4
+234,Blossom,Ohi-o00luDtU7TMpVtJHJw,New York,NY,Vegetarian,40.745513,-74.002365,3,1021,4
+235,Barn Joo,FizBsTIAJwNrImIG1mPDcg,New York,NY,Korean,40.73684,-73.99069,2,1525,4
+236,Blue Hill,4Objcs7HXSGuzpb0SOa-Jw,New York,NY,American (New),40.73206403,-73.9996931,4,983,4.5
+237,Kam Hing Coffee Shop,nOCjslrdcKBQQYgD5qUs9Q,New York,NY,Bakeries,40.7182481,-73.99900441,1,632,4.5
+238,Johny's Luncheonette,WKDdD8Z17-P1XhkyJtDEFA,New York,NY,Diners,40.7444458,-73.99307251,1,923,4.5
+239,Hangawi,xWUL-j6TQyKQHIfOtetu-Q,New York,NY,Vegetarian,40.746737,-73.984662,3,1121,4
+240,The Drunken Munkey - UES,9pMhRYYgV7E9L7pzECtJKA,New York,NY,Indian,40.78098,-73.94751,2,953,4.5
+241,Cafe Katja,zo4mcEfVKaktdj_gnSFhGQ,New York,NY,German,40.7177673,-73.990589,2,765,4.5
+242,Claw Daddy's,hfMtSdxRsC3JQP3yrm6nag,New York,NY,Cajun/Creole,40.722071,-73.98847,2,1545,4
+243,Ruby's Cafe,hGo9KArKThuOKxNbwmNpoA,New York,NY,Burgers,40.7223288,-73.996326,2,1121,4
+244,Cafeteria,UXVDyIzmO5kmJnlv-HDXLg,New York,NY,American (New),40.74056759,-73.99807479,2,3242,3.5
+245,Pig and Khao,nxTEuWKzkK1tCF4LrhFSUQ,New York,NY,Filipino,40.71926,-73.98475,2,1546,4
+246,The Spotted Pig,3LNcgFUGdwJil-KDQPZmdQ,New York,NY,Burgers,40.735611,-74.006673,3,2904,3.5
+247,Mermaid Oyster Bar,qByYLfBKtNUIAui0eu-fNQ,New York,NY,Seafood,40.7287899,-74.00165,2,1060,4
+248,Yakitori Totto,YC-wGlO0oOkEIaCEDZv-ag,New York,NY,Japanese,40.765375,-73.983114,3,1275,4
+249,Blue Ribbon Brasserie - SoHo,txSykTj5nbwmpiVNoK_Dyg,New York,NY,American (Traditional),40.725456,-74.003027,3,914,4.5
+250,Takashi,6qzNc9Z9DHYYleKqrW_K3g,New York,NY,Japanese,40.7313524,-74.0065048,3,971,4
+251,Faicco's Italian Specialties,ADHX7nBixDPVlq3OXhny0g,New York,NY,Meat Shops,40.73113,-74.00306,2,492,4.5
+252,Gaia Italian Café,jdNdy-MwBtnXoBGC_JVvwQ,New York,NY,Italian,40.721653,-73.985346,1,967,4.5
+253,Rudy's Bar & Grill,4nohlTsGHEDdpwYkRTt-fA,New York,NY,Dive Bars,40.76004,-73.99182,1,1072,4
+254,Mamoun's Falafel,3o0Jp9ttSpP1wu7Focs7xg,New York,NY,Middle Eastern,40.72888496,-73.98846335,1,1150,4
+255,Cuba Restaurant and Rum Bar,UKy0nNjMkOBEU3dOCH831w,New York,NY,Cuban,40.729084,-73.998832,2,1511,4
+256,Victor's Cafe,StpOKezaW-AyN2xA1EJKvw,New York,NY,Cuban,40.7629499,-73.98403,3,1424,4
+257,Union Square Cafe,lXGCo-K7eftxRT_6E59-Iw,New York,NY,American (New),40.73775,-73.987874,3,1184,4
+258,Lillie's Victorian Establishment,oLA02lMIfgvbYquvXzkARw,New York,NY,Bars,40.7614625,-73.9860519,2,1405,4
+259,Flex Mussels,#NAME?,New York,NY,Seafood,40.77637,-73.95646,2,1012,4
+260,Sons of Thunder,lESxFswvOPUFUzj6HsTnqw,New York,NY,Hot Dogs,40.74786,-73.97589,2,745,4.5
+261,Nai Tapas,iTj5T_jPYvznd1QTgs7NZw,New York,NY,Tapas Bars,40.7267949,-73.9892815,2,883,4.5
+262,Please Don't Tell,aiRctIzCj9J3UqBHd-Z3HQ,New York,NY,Lounges,40.727098,-73.983763,3,1766,4
+263,Num Pang Kitchen,cxtg17yy1YFt8gHRckUQcw,New York,NY,Cambodian,40.75038312,-73.97610788,2,1118,4
+264,Whiskey Tavern,c3Ww3pgeHjBi3ctkeUWrjQ,New York,NY,Whiskey Bars,40.71646,-73.99969,2,766,4.5
+265,Minus10 Ice Cream,qfk_JyRqMmm6FDfoqN6GiA,New York,NY,Ice Cream & Frozen Yogurt,40.71407,-73.99857,1,1268,4
+266,Café Zaiya,bJgl6cDIBIMlgrntQbxt1g,New York,NY,Japanese,40.7523,-73.98043,1,1174,4
+267,Cocoron,JhJLPp6KuBcD3CHCkEKJ_A,New York,NY,Japanese,40.72031,-73.99305,2,974,4
+268,Jack's Wife Freda,Me4TxTbPPQZQopW1wOGx5g,New York,NY,Breakfast & Brunch,40.72213,-73.99756,2,1824,4
+269,My Pie Pizzeria Romana,oRdM7n-AfBPBGAlH4Q0Sag,New York,NY,Italian,40.7608512,-73.9694809,1,711,4.5
+270,Casellula,JL_p-OHtSEYVfoeLQQgqDA,New York,NY,Wine Bars,40.76499,-73.98835,2,902,4
+271,The Mermaid Inn,4x_WyIOEdqxk01QH1HxYrw,New York,NY,Seafood,40.7269999,-73.98844,2,1300,4
+272,Nish Nush,d8zSYpArh4oXpxeJWNA4Pg,New York,NY,Vegetarian,40.715688,-74.007695,2,687,4.5
+273,Lady M Cake Boutique,JDBgpyY-7KdRcBlNifVJSw,New York,NY,Bakeries,40.775501,-73.962231,3,1050,4
+274,Culture Espresso,N4Pss0mR4ygDOoSRpM2FQA,New York,NY,Coffee & Tea,40.75219224,-73.98575631,2,909,4
+275,Freemans,w4cFJhUpjGXqqWBd3BbY4w,New York,NY,Breakfast & Brunch,40.721988,-73.992466,2,2016,4
+276,Minca,raelHbSJ_gTo701c-KyXWg,New York,NY,Ramen,40.72412,-73.98288,2,1639,4
+277,The Flatiron Room,3Ic4C60oSH1cV2jknUXSjQ,New York,NY,Lounges,40.74452,-73.99049,3,762,4.5
+278,Russ & Daughters Cafe,0rQz8mkleT62eUkiAVs4UA,New York,NY,Bagels,40.71962532,-73.98957589,2,929,4
+279,Malatesta Trattoria,IErfGS0DASSJfYU73m0Sqg,New York,NY,Italian,40.73285,-74.00847,2,1214,4
+280,Burger Joint,XxLGYdB0s8IkZ9QZtGKBZA,New York,NY,American (Traditional),40.76426047,-73.97853336,2,2281,3.5
+281,Don Antonio,FKzpfWUpyupl4q74Jt8fTA,New York,NY,Pizza,40.762711,-73.986708,2,1382,4
+282,Print,XoDR_T-ZKYJtZgCocEDcyA,New York,NY,American (New),40.76452,-73.99586,3,885,4
+283,TAO Uptown,TU_BU9HLflYI2xlyqVQdRA,New York,NY,Asian Fusion,40.76269,-73.97147,3,2508,3.5
+284,Hillstone Restaurant,mHBhUxHgDGjsB1LJl4qW0w,New York,NY,Jazz & Blues,40.75824121,-73.96887678,3,1058,4
+285,Pisillo Italian Panini,8qSOz7oTPUUCafsMOBBNEQ,New York,NY,Italian,40.710558,-74.007594,2,570,4.5
+286,Verlaine,XghOzJn16M-nvaKMOdC5og,New York,NY,Tapas/Small Plates,40.720079,-73.987785,2,1402,4
+287,Tanoshi Sushi Sake Bar,wSGZA3DOFSUvALZRKCM_Sw,New York,NY,Sushi Bars,40.767568,-73.952815,4,622,4.5
+288,Dim Sum Palace,bVkjBJlAIwKAj9Aw1KVWjA,New York,NY,Dim Sum,40.76015,-73.9893699,2,1120,4
+289,Van Leeuwen Ice Cream,NyFXsvNhwCwkqVfmCU5LJw,New York,NY,Desserts,40.7277,-73.98768,2,920,4
+290,Marc Forgione,DRitJoNGTkHXZvH_YpLIAw,New York,NY,American (New),40.71647,-74.0095599,3,904,4.5
+291,Gato,Ve9eysLcTjGLbKp7tjOd9w,New York,NY,Mediterranean,40.7255312,-73.9951947,3,1114,4
+292,Rizzo's Fine Pizza,nUpA3sY5b6dynC7aj0eV6A,New York,NY,Pizza,40.720852,-73.984456,2,708,4.5
+293,5 Napkin Burger,x2ATnp8-hXFhr_XznPYPMw,New York,NY,Burgers,40.760198,-73.991093,2,2015,3.5
+294,John's of Times Square,zOmgO8Di9Ui2bQHqSarUKg,New York,NY,Pizza,40.75823,-73.98836,2,2085,3.5
+295,Kura,nEkVibaTuIFEcTNtltFgJg,New York,NY,Japanese,40.726709,-73.9835794,4,456,4.5
+296,Alimama,oDRZt37ROqadlK3-VI0PfQ,New York,NY,Desserts,40.71586269,-73.99928509,2,801,4.5
+297,Vezzo,J38XGzriEkMsDfCMt6et_g,New York,NY,Pizza,40.7445,-73.98139,2,1253,4
+298,The Mermaid Inn,vQcK7BH6maW9dAZWJOuW3Q,New York,NY,Seafood,40.78873989,-73.97444916,2,1053,4
+299,The Grey Dog,QpkKEFHK5dz8XT-osEXgJw,New York,NY,Breakfast & Brunch,40.740624,-74.000648,2,1073,4
+300,Boqueria Spanish Tapas - Flatiron,qIOAlXCCYrwN0VxEEH-Tmw,New York,NY,Spanish,40.74029277,-73.99407098,3,1209,4
+301,Sweet Moment,UZViRVpxNZvOM5KarmbT1g,New York,NY,Coffee & Tea,40.71763,-73.99714,2,751,4.5
+302,The Three Monkeys,IBgjj5VBu5JJvKgo9EzKrg,New York,NY,Sports Bars,40.76405,-73.98311,2,1077,4
+303,Trademark Taste + Grind,unWoFZeSWa0DK1YMekO_Uw,New York,NY,Venues & Event Spaces,40.75032339,-73.98555663,2,604,4.5
+304,Café China,xq0cX_DgxiJMXwhmEl9kUA,New York,NY,Szechuan,40.74992252,-73.98194641,2,1549,4
+305,Craft,Rgm8BwcoqfIVSl2QSEOhbQ,New York,NY,American (New),40.73818,-73.98866,4,994,4
+306,Lure Fishbar,aSFBv64GBpMOFPqIleeQFQ,New York,NY,Seafood,40.72461217,-73.99857471,3,1605,4
+307,Employees Only,SjG7CnTIuUBIo9T4BThkGQ,New York,NY,American (New),40.73343,-74.00617,3,1425,4
+308,Maison Pickle,XsElXaLxUPKquI78poB8yw,New York,NY,Cocktail Bars,40.7870044,-73.9780229,2,838,4
+309,Joe's Pizza,KEEXuHCYhsQJ-zpJhu98bA,New York,NY,Pizza,40.75458413,-73.98700392,1,868,4
+310,Capizzi,06tnwnEQM2j9A6dC3HC_TQ,New York,NY,Pizza,40.75744,-73.99357,2,780,4.5
+311,Fish,RLJ5BUm89VySJWHHvmSzEQ,New York,NY,Seafood,40.731734,-74.003463,2,1424,4
+312,Nobu Fifty Seven,SxKvgnkMMZdhBJcxxKQnww,New York,NY,Sushi Bars,40.76362108,-73.97650486,4,1150,4
+313,Fogo de Chao Brazilian Steakhouse,7B2XMvV5uGuKyl19-HTSvg,New York,NY,Brazilian,40.76112157,-73.97797849,3,1122,4
+314,Eclair Bakery,bvc5P9vmRiNhyVWjd5bVcg,New York,NY,Bakeries,40.756722,-73.966611,2,533,4.5
+315,The Ginger Man,f7i6LxdwbDXExDn_58tXaA,New York,NY,Bars,40.749459,-73.982743,2,1336,4
+316,Gyu-Kaku Japanese BBQ,dtk1Cstz5MHr-B1AOM_nXA,New York,NY,Japanese,40.75537,-73.97054,3,1149,4
+317,Five Senses,_saXnBy0Wq2Gb3YusWZhqw,New York,NY,Korean,40.74757316,-73.98631226,2,1334,4
+318,Gyu-Kaku Japanese BBQ,ONQRhDuWv0e9R5xOiI7YAA,New York,NY,Japanese,40.75908,-73.98989,2,1171,4
+319,MUD,S-WdvEU1X7J33whXWk1zmw,New York,NY,Coffee & Tea,40.72905,-73.98668,2,1144,4
+320,Tasty Hand-Pulled Noodles,97q5nUQTuBo_h00XCxna2A,New York,NY,Chinese,40.7142,-73.99787,1,1555,4
+321,Bosie,9HkUue6kUfTIQUlLynWLMQ,New York,NY,Coffee & Tea,40.7277403,-73.9995539,2,912,4
+322,La Pulperia Hell's Kitchen,WqjqHMozyW42XLTtLnKGag,New York,NY,Latin American,40.76090378,-73.99052035,3,747,4.5
+323,Judge Roy Bean Public House,veku2cg2qaV-7MxwhOMBmg,New York,NY,Pubs,40.76291581,-73.97612481,2,700,4.5
+324,Locanda Verde,pk89jzL1RsE9U0thf_z6tw,New York,NY,Italian,40.71986013,-74.01003907,3,1576,4
+325,Rustic Table,jh42MR1OQFAFMhe_pQEzmw,New York,NY,Mediterranean,40.759624,-73.9958265,2,790,4
+326,Amy's Bread,n-hBKsnFFUpe-y00EZrOqg,New York,NY,Bakeries,40.76121,-73.99024,1,1102,4
+327,Chobani SoHo,z9sRnN1gPyxz9SJ52XDWoQ,New York,NY,Coffee & Tea,40.72568955,-74.00105238,1,648,4.5
+328,Amorino Gelato,szW5qGJZEmjEf_70tu5XUA,New York,NY,Gelato,40.73287818,-73.99388264,2,883,4
+329,Washington Square Park,bJQZKARP-Xn2AEqNNMe9OA,New York,NY,Parks,40.73078734,-73.99759769,1,550,4.5
+330,CajunSea & Oyster Bar,v0DwpyNrKeS2ZhfMjVu8lg,New York,NY,Cajun/Creole,40.7483352,-73.9867701,2,1184,4
+331,Shake Shack,hJ1xHZbD7IRlVFNfoe5HGA,New York,NY,Burgers,40.778888,-73.955004,2,1356,4
+332,Coppelia,vgg1dvDP-9tFWSacN4q0nA,New York,NY,Cuban,40.73897,-73.99995,2,1291,4
+333,Red Rooster Harlem,fxGpXRxFUDzlU3Cyszu4uQ,New York,NY,American (Traditional),40.80815,-73.94488,3,3116,3.5
+334,Luzzos La Pizza Napoletana,eVk4F9ixl89zyUHJ1G2Aiw,New York,NY,Italian,40.730616,-73.9834846,2,1025,4
+335,Amorino Gelato,WLDxwPbjOlSkqRW9bS-Frg,New York,NY,Gelato,40.7595642,-73.9884984,2,689,4.5
+336,PizzArte,xsQTIeq-WLkp4ParkTQpMQ,New York,NY,Pizza,40.76293351,-73.97766687,2,1043,4
+337,Heidi's House By The Side Of The Road,26E3j9l0XW_onVIUP-ThCw,New York,NY,Wine Bars,40.772189,-73.955029,2,588,4.5
+338,Le Parisien,csVEpHy5KJoFvM1qp5XwLQ,New York,NY,French,40.74540793,-73.97914783,2,927,4
+339,Vitae,Ucxhqn56VtC-eYjdNsg7Og,New York,NY,American (New),40.7555884,-73.9785483,3,762,4
+340,La Maison du Macaron,x2OI4M2QJOo3Ymf8YHBhdw,New York,NY,Macarons,40.74318,-73.99419,2,876,4
+341,Petee's Pie Company,PWsU_ORsfcjeeUqocm9vQg,New York,NY,Bakeries,40.71921585,-73.99128225,1,696,4.5
+342,Room Service,dtnmxLqBnNAfdCN8fYVeLw,New York,NY,Thai,40.76176,-73.9898,2,1801,3.5
+343,Bobwhite Counter,nD7Hcq5aaCASbWzc0-Sg3A,New York,NY,Southern,40.72362,-73.97893,2,750,4.5
+344,Bar Pa Tea,V49pn2KD8848gpSRMqLIww,New York,NY,Bubble Tea,40.72136,-73.99675,1,751,4
+345,Aunt Jake's,I2lgw_7DUnwD92ND4PN-Ow,New York,NY,Italian,40.7190315,-73.9977161,2,1349,4
+346,Frying Pan,bEloKDe-QVkwakAwmFKbbA,New York,NY,Bars,40.7521174,-74.00900245,2,1495,4
+347,Frick Collection,E672oSwgE6Vm4izZlpA6lQ,New York,NY,Art Museums,40.77094,-73.96717,1,489,4.5
+348,Red Poke,SdESb_kSAV6b0WD813J4WQ,New York,NY,Poke,40.7588993,-73.991915,2,518,4.5
+349,Magnolia Bakery Rockefeller Center,iks1xNyp-uZnaeunOM2UPg,New York,NY,Desserts,40.75926519,-73.98056455,2,2385,3.5
+350,BaoHaus,B3i4zs5wquFu1UZyzYJ-bQ,New York,NY,Chinese,40.73246909,-73.9857136,2,1918,3.5
+351,Taboonette,owYYuyLvlsdjLz68c3SSfg,New York,NY,Mediterranean,40.7347009,-73.9927323,2,823,4
+352,Penelope,NwrqmFGO-utVOG-eeDDuXg,New York,NY,American (Traditional),40.74371,-73.98152,2,2088,3.5
+353,PMF Pardon My French,TGP5gbAgml0IDRLGCpFnCw,New York,NY,French,40.72473,-73.98115,2,934,4
+354,Hillstone Restaurant,01isnBO1rFO2LTOeNfYl9w,New York,NY,American (New),40.7427534,-73.9847308,3,916,4
+355,Ocean Prime,3Gz07E5YJjDTJPSuzsAStQ,New York,NY,Seafood,40.76173,-73.98063,3,531,4.5
+356,Harney & Sons SoHo,OiqGAhC5EQXb1CaNxxvfBQ,New York,NY,Coffee & Tea,40.72143983,-73.99940086,2,709,4.5
+357,Flex Mussels,rHmeJVffuj96M7jbB-wWgw,New York,NY,Seafood,40.737437,-73.999661,2,886,4
+358,2nd Ave Deli,xiwnLiNhSlEN4CDcurqsLQ,New York,NY,Delis,40.74519,-73.97918,2,1166,4
+359,Adrienne's Pizzabar,yH6t1JWcwkdWG4CS5KPvow,New York,NY,Pizza,40.7043362,-74.0101733,2,1613,4
+360,Chef's Table at Brooklyn Fare,diCW3Pj1PTVRSyol_d7cZw,New York,NY,Japanese,40.75619308,-73.99660909,4,496,4.5
+361,Maialino,yi6jIxzHo-nbAOG4KWuqcw,New York,NY,Italian,40.738437,-73.985686,3,1350,4
+362,Despaña,cUyfnb3E7HvzNfbTgTjl_Q,New York,NY,Specialty Food,40.7210686,-73.9979083,2,560,4.5
+363,Pearl Oyster Bar,6dSiCqC9x51PZRMOvdQTpA,New York,NY,Seafood,40.7314099,-74.00197,3,820,4
+364,Blue Ribbon Sushi,QR1YIRzFjd2bi5iBzT9zXg,New York,NY,Sushi Bars,40.72612,-74.0025299,3,1077,4
+365,The Smith,k5NAz3-goMXKoUqPfOZ1Hw,New York,NY,American (New),40.7310675,-73.9886217,2,1907,3.5
+366,Carroll Place,WHQpLvxkCK_BMtF8pIShnQ,New York,NY,Italian,40.7287,-73.99971,2,1007,4
+367,Times Square,_g9P_uVoomq0MDa5z3PrIg,New York,NY,Landmarks & Historical Buildings,40.7587305,-73.98517288,1,1441,3.5
+368,Westville Chelsea,MctQwL9Mp5X7DJk13VoERg,New York,NY,American (New),40.74175,-74.00007,2,1086,4
+369,Ootoya Times Square,wjIyCBEpCG_HRp8veiI0YQ,New York,NY,Japanese,40.75487,-73.98599,2,873,4
+370,Ñaño Ecuadorian Kitchen,9YXvNE2jpEhA4k6M8WDH7A,New York,NY,Latin American,40.7631,-73.99335,2,532,4.5
+371,The Smith,JYNBy2r3LVhJbLHE1bASfg,New York,NY,American (New),40.77162013,-73.9818378,2,1579,4
+372,Katsu-Hama,#NAME?,New York,NY,Japanese,40.75638,-73.97759,2,1228,4
+373,Park Avenue Autumn/Winter/Spring/Summer,2mzyXxnstSPcpDS3u5g_7w,New York,NY,American (New),40.74197106,-73.98521058,3,894,4
+374,Lilly's Craft and Kitchen,JXcYD52B4190gIh6_RSXCg,New York,NY,Bars,40.76138,-73.99071,2,889,4.5
+375,Zest Sushi,ZfuZ2byArGq-5j8zX8Afeg,New York,NY,Sushi Bars,40.71783447,-73.98995972,2,794,4
+376,BarBacon Hell's Kitchen,3omBIylGFJugwLgNgUgOXw,New York,NY,Gastropubs,40.766253,-73.986674,2,1164,4
+377,Wondee Siam,rKeLuHDI3PQZsPSVCEMHtw,New York,NY,Thai,40.76495,-73.98747,2,967,4
+378,K Rico Steakhouse,sGqKDtizXj3tg9jnAc9FeQ,New York,NY,Bars,40.76438,-73.9880699,3,559,4.5
+379,Death & Co,H1QphdrrsaB472y9HXi2Ow,New York,NY,Lounges,40.72589,-73.9847,3,1484,4
+380,Nougatine at Jean-Georges,xEDD2ScBU3jHhWxlMC7dkQ,New York,NY,French,40.76891,-73.98176,3,1106,4
+381,Stuffed Ice Cream,0kH1mGuqIb5rOrvCKGsWtA,New York,NY,Ice Cream & Frozen Yogurt,40.72805,-73.98538,1,642,4.5
+382,Quality Italian,dc3hkLkAqCSxDWQzrx-g9A,New York,NY,Italian,40.76440445,-73.97678051,3,1019,4
+383,Burger & Lobster,YtXl15Nv7TZvV3yIqbZc8A,New York,NY,Seafood,40.75596,-73.98532,2,872,4
+384,Sprinkles Cupcakes,SQ7VgqfjItZyoD5tvMeWuA,New York,NY,Bakeries,40.763251,-73.967564,2,962,4
+385,Brindle Room,sVG1whNWHhlbjP6p027YcA,New York,NY,American (New),40.72829,-73.98271,2,1000,4
+386,Kang Ho Dong Baekjeong,x9ADy3a--S_6Oqn_1KLipA,New York,NY,Korean,40.74717358,-73.98521442,3,1180,4
+387,The Kati Roll Company,BPyt7S9TdcR1u571iacg7g,New York,NY,Indian,40.75269,-73.98466,1,1490,4
+388,BoCaphe,C2o3Iw-DXjoUJFgQIbiqkQ,New York,NY,Vietnamese,40.722046,-73.997557,2,1289,4
+389,Nino's 46,vjubSxmdG_HoBBgd39geBw,New York,NY,Italian,40.7569159,-73.980516,2,1114,4
+390,Morgenstern's Finest Ice Cream,1lNt64-Qu4tTwr3JdF-7Iw,New York,NY,Ice Cream & Frozen Yogurt,40.72158723,-73.99310925,2,1462,4
+391,Il Corallo Trattoria,J0OeDwmh5JBhid0A5GvltA,New York,NY,Italian,40.7262073,-74.0018919,2,921,4
+392,Gelso & Grand,MphfKkYFEe0BDQ6hZ0A5fA,New York,NY,Italian,40.71940895,-73.99737779,2,834,4
+393,Bouchon Bakery & Cafe,S3Fw7s_GA94lJLbLFrqZrw,New York,NY,Bakeries,40.768538,-73.982923,2,1348,4
+394,Westville East,3idAtiEXe_XfTcPoZC_DcQ,New York,NY,American (Traditional),40.72847,-73.98213,2,1022,4
+395,Seasoned Vegan,IJg3TdXz8IzKTfcspmr8MQ,New York,NY,Vegan,40.800664,-73.952757,2,1086,4
+396,Shanghai Dumpling,x_t-FtDa5HVgc-wecp0HBg,New York,NY,Shanghainese,40.71726,-73.99721,1,2109,3.5
+397,Soba-ya,i8ejDDR4COtukAAA1Ls5fw,New York,NY,Japanese,40.72964859,-73.98788452,2,1438,4
+398,Pepe Rosso Social,04exhf1PZ79_Km9vHAzvfA,New York,NY,Italian,40.72007,-73.99618,2,809,4
+399,Blue Dog Cookhouse & Bar,I6optu9x0JAf8oT5lqJ8qw,New York,NY,Cocktail Bars,40.76244,-73.98674,2,1201,4
+400,Indian Accent,1_pK5aQ47atF50oAKHADhA,New York,NY,Indian,40.76433446,-73.97873129,4,529,4.5
+401,Upland,xkvv0n7jbl4Ra3Vm_jfxaA,New York,NY,American (New),40.7418912,-73.9846396,3,942,4
+402,Aux Merveilleux De Fred,iTcxncdrcQRK1tdcbFIqGQ,New York,NY,Desserts,40.738362,-74.004134,2,325,4.5
+403,Urbanspace Vanderbilt,QAGFu7pqCAZUJkYkUB5pjg,New York,NY,Food Court,40.754623,-73.976605,2,629,4
+404,Fresco Gelateria,M1OgZWqdol6fY5hfNa9oSw,New York,NY,Gelato,40.72881821,-73.98725189,1,468,4.5
+405,Blend on the Water,Hh9glEE_xDYT_pPUsRPXlA,Long Island City,NY,Latin American,40.74795208,-73.95708224,2,2981,4
+406,Song E Napule,15k7iqFbhf4h8L01yggLqg,New York,NY,Pizza,40.72813,-74.00188,2,426,4.5
+407,The Press Lounge,nCH7SR7qXu0asO1GU3iqHw,New York,NY,Lounges,40.76452,-73.99586,3,1022,4
+408,Sergimmo Salumeria,9iC39Z1YjZKbrrCANgzBXg,New York,NY,Italian,40.754296,-73.995498,2,661,4
+409,Housing Works Bookstore Café,O4UeWRZLKuS3GRC4ELJRog,New York,NY,Bookstores,40.72454,-73.9965931,1,568,4.5
+410,Serendipity 3,_tHF8-3rbyMesgdkQzB2yQ,New York,NY,Desserts,40.761851,-73.9649001,2,4073,3
+411,Murray's Cheese Bar,wrvIZaT5rTmk0YpIvQbvHw,New York,NY,American (New),40.7312,-74.00322,2,751,4
+412,Vietnaam,Wbmqg0TkOVkzNh3HrJ9DIQ,New York,NY,Vietnamese,40.7791481,-73.95041656,2,747,4
+413,Pegu Club,B2S5HWRfxe9G-BhKJix9Yg,New York,NY,Lounges,40.726579,-73.999861,3,988,4
+414,Boba Guys,9_PfzNxJP2iqqJs8hDubgw,New York,NY,Coffee & Tea,40.720657,-73.984542,1,651,4
+415,Basta Pasta,5Akss-swwfyoSVeIsDBbvw,New York,NY,Italian,40.73881,-73.99407,2,1385,4
+416,Xe May Sandwich Shop,8M_0cxAChoXl7Ls9YkWJlg,New York,NY,Sandwiches,40.7272,-73.98493,1,610,4.5
+417,Butter Lane,qMr-lz0G0vyz2r4mJJQxmA,New York,NY,Bakeries,40.72649449,-73.9841491,1,1207,4
+418,Taverna Kyclades - East Village,apykLG7DTZ-7xnOcZGDZZA,New York,NY,Greek,40.73107825,-73.9825163,2,794,4
+419,Non Solo Piada,#NAME?,New York,NY,Italian,40.75414,-73.99245,2,319,4.5
+420,Ray's Candy Store,WEC8O6GskyWJVpri_gW3QQ,New York,NY,Desserts,40.72627762,-73.98357075,1,371,4.5
+421,Hill Country Barbecue Market,NlsxuhV6CUONOyI7xk7-mw,New York,NY,Barbeque,40.74428,-73.99041,2,2124,3.5
+422,The Smith,Xd_l7jtUAZZAAvK8-mI2Jw,New York,NY,American (New),40.74424,-73.98878,2,884,4
+423,Boucherie Union Square,8XHbZIKDQbXhyKIGiukVeQ,New York,NY,Steakhouses,40.73715,-73.98789,3,602,4.5
+424,Ricardo Steak House,CfWe636m2CAUg4FAdl_zVQ,New York,NY,Steakhouses,40.79345204,-73.94047568,3,1005,4
+425,Little Branch,a8CdwY4uFIP4nXkl4V5EEg,New York,NY,Lounges,40.73013,-74.005046,3,1034,4
+426,Takahachi Bakery,GlPJPpKvPR4d8dmcSEYpdA,New York,NY,Bakeries,40.71393,-74.00822,2,871,4
+427,Tompkins Square Bagels - Avenue A,oi39VAwo4-KGm_gSkWPCsQ,New York,NY,Bagels,40.72823,-73.9823,1,1057,4
+428,Aquavit,f7apP8A_0_KqcGQTK4V2TQ,New York,NY,Scandinavian,40.76079,-73.97221,4,718,4
+429,Alice's Tea Cup Chapter II,JCrKKepUUkRIIPD2UD1i0g,New York,NY,Tea Rooms,40.76518,-73.96576,2,1386,3.5
+430,Cafe D'Alsace,kmcgUxWhwlbmC-FAMTEF2g,New York,NY,French,40.77916,-73.95104,2,1168,4
+431,Han Dynasty,wfhMIiMh2A2psCGONOVSlg,New York,NY,Szechuan,40.732072,-73.988074,2,1185,4
+432,Boqueria,AIKjw2QLvVNdha3TciJYzg,New York,NY,Spanish,40.724912,-74.0021299,2,955,4
+433,Crispo,yFtOtTd7ncSjFF3QavQ5cA,New York,NY,Italian,40.7392469,-74.0016882,2,936,4
+434,Beyond Sushi,KxyH5zvTyXawl17lHjA4SQ,New York,NY,Vegan,40.75247,-73.98845,2,437,4.5
+435,Mastro's Steakhouse,iAoHFfB_T8U31PhIzD-o_g,New York,NY,Steakhouses,40.7610374,-73.9802619,4,626,4
+436,Osteria Morini Manhattan,KCBfW6sWl9Gx-LvMff08jg,New York,NY,Italian,40.72191799,-73.99764721,3,1108,4
+437,Terri,p3E_1wktqB-Z4qtqqO9F-A,New York,NY,Sandwiches,40.74252,-73.9923,2,843,4
+438,Briciola,MOwB9YYd-Ko6nVgSB-ltQw,New York,NY,Italian,40.7637997,-73.98809195,2,794,4
+439,Royal Grill Halal Food,UtknyDJ_DPut-FKRqs0wpQ,New York,NY,Halal,40.75614,-73.98316,1,308,5
+440,Sarge's Delicatessen & Diner,jNRT5vY1Hvp5WDTaHy4Mhw,New York,NY,Delis,40.74732795,-73.97720179,2,1068,4
+441,Margon,4CObV3XU8VQ6nXeVS4vO0A,New York,NY,Cuban,40.75787,-73.98398,2,717,4
+442,S'MAC,bRPq-Nmct5bOuOtsu8fC7Q,New York,NY,American (Traditional),40.730212,-73.983724,2,2151,3.5
+443,The Jeffrey Craft Beer & Bites,2_oy2iBeT0Rg-oz4f0GF1A,New York,NY,Bars,40.7611,-73.963,2,652,4
+444,Jun-Men Ramen Bar,xrnk8mgoV7up6fauVmugpw,New York,NY,Ramen,40.748209,-74.00047,2,584,4
+445,Estiatorio Milos,mhhTORjUdXj-UIDjyGmhBg,New York,NY,Seafood,40.76368,-73.97922,4,863,4
+446,Cull & Pistol Oyster Bar,#NAME?,New York,NY,Seafood,40.74265894,-74.00592854,2,612,4
+447,Peacefood Cafe,zBf-m72ATTPTey-_9vu3Yw,New York,NY,Vegan,40.785326,-73.97713,2,1235,4
+448,Taco Mahal,SP4bvMvxel_UPdof_er3HA,New York,NY,Indian,40.732337,-74.003303,2,502,4.5
+449,Ramen-Ya,9jRwUN3z7k0seLOzWERVeg,New York,NY,Ramen,40.732536,-74.001681,2,939,4
+450,EN Japanese Brasserie,P_UREWCQxEYVbBa-KW_Wew,New York,NY,Japanese,40.7306,-74.00698,3,1225,4
+451,Blue Smoke,MIuFXBFthAWeEMxyP_lm9A,New York,NY,Southern,40.74228,-73.98375,2,1720,3.5
+452,The Boil,0087AC_NnFRtC0c9FsB9pw,New York,NY,Cajun/Creole,40.73026447,-73.99437881,2,735,4
+453,The Capital Grille,Maks_EfVcTOe20TnGQy_MQ,New York,NY,Steakhouses,40.76073909,-73.98137809,3,733,4
+454,Basso56,ugIv_ylUdqRIlx6AD8lTJA,New York,NY,Italian,40.7655,-73.98267,3,598,4.5
+455,Le Botaniste,#NAME?,New York,NY,Wine Bars,40.76499863,-73.96598303,2,386,4.5
+456,Westville West,55spA8dSOvKRme3ix-k7gg,New York,NY,American (Traditional),40.7340046,-74.0041863,2,920,4
+457,Blind Tiger Ale House,PMp7WlHIXQUnej-Ds1jRfw,New York,NY,American (Traditional),40.731926,-74.003223,2,877,4
+458,Rex,lwfrB59lvpkCBw2FZD3X6w,New York,NY,Coffee & Tea,40.768877,-73.98857882,1,509,4.5
+459,Uncle Boons,m6bu1AGIIIM9GNn9_cjsmg,New York,NY,Thai,40.72113286,-73.99432863,3,896,4
+460,Besfren,j5sBqXdeDsvkK-Ryh7w2VQ,New York,NY,Coffee & Tea,40.746963,-73.98533,2,726,4
+461,Porto Rico Importing Company,hyQ-1CEn9dHZfdP0PSaMTg,New York,NY,Coffee & Tea,40.729492,-74.001621,1,441,4.5
+462,Danji,FeSynfcDT4qB2kDixHUQCA,New York,NY,Korean,40.764,-73.98686,2,983,4
+463,Yakitori Taisho,Ad3dUoLatOdNtB4LxfmmWg,New York,NY,Japanese,40.729535,-73.9892642,2,1562,3.5
+464,Joe's Pizza,0UdC0VYX6aAvLiOcpR4MVQ,New York,NY,Pizza,40.73331,-73.98763,1,826,4
+465,Bondst,m6sYBuozGY1JhnHlBf1Bzg,New York,NY,Japanese,40.726934,-73.994404,3,948,4
+466,Cho Dang Gol Korean Restaurant,lSQAmoQtmciUld36ogOoOw,New York,NY,Korean,40.75023651,-73.98619843,2,1028,4
+467,The NoMad Bar,NMDrXW5_qnme1hcJrXNP9Q,New York,NY,Cocktail Bars,40.74493654,-73.98851976,3,462,4.5
+468,La Esquina,boRM4i0UQswxQIp6CA9y_A,New York,NY,Latin American,40.721372,-73.997529,2,2005,3.5
+469,Salinas,XAHfErhn_JujythNCmGl1w,New York,NY,Spanish,40.7436999,-74.00314,4,905,4
+470,Crave Fishbar,dYm7DXMy1r8kCmKiz1MO8w,New York,NY,Seafood,40.755136,-73.968683,3,698,4
+471,La Colombe Coffee,-8nEZ20KDfr4PPH47MrAOA,New York,NY,Coffee & Tea,40.72396,-73.99643,2,660,4
+472,Hourglass Tavern,#NAME?,New York,NY,American (Traditional),40.760952,-73.9903269,2,738,4
+473,The Capital Grille,kctef59qqlzJNqAc1ZGEvg,New York,NY,Steakhouses,40.75114,-73.97491,3,788,4
+474,Dons Bogam BBQ & Wine Bar,xe9qWNyYmsRvNGRPgW-ZcA,New York,NY,Korean,40.74678,-73.98437,3,977,4
+475,Hold Fast Kitchen and Spirits,VLGmFHE4s0Sfu0piMVQa1Q,New York,NY,Cocktail Bars,40.76064,-73.99023,2,235,5
+476,Loi Estiatorio,H87m0azdhuw5uo6Y166uUg,New York,NY,Greek,40.765385,-73.978002,3,336,4.5
+477,Gabriel Kreuther,pDwhlX9jNBGnjvyGR9jYWQ,New York,NY,Lounges,40.754546,-73.982556,4,394,4.5
+478,Market Table,0BzxIsoRuFvxbMPl-iH70A,New York,NY,American (New),40.72976593,-74.00376653,3,784,4
+479,The Wild Son,N5UY113nNpeKdLPv0cbMjQ,New York,NY,American (New),40.74073,-74.00836,2,441,4.5
+480,Flip Sigi,8WnHtvMdPWE66eSkUdbLhQ,New York,NY,Filipino,40.73405,-74.00642,2,661,4
+481,Trattoria Dell'Arte,LXdblKc5g1Dp17xiV-Am1w,New York,NY,Italian,40.76529565,-73.98046282,3,967,4
+482,Georgetown Cupcake,XxDsM2Q_tD8iP6T58785uw,New York,NY,Bakeries,40.72382442,-73.99945246,2,870,4
+483,La Pulperia UES,q2D80--iDkSwf_OKsS-jdA,New York,NY,Latin American,40.7766202,-73.9523275,2,716,4
+484,SUGARFISH by sushi nozawa,0ePn6TQSJQky4ueKeGQvpQ,New York,NY,Sushi Bars,40.73901,-73.98882,3,756,4
+485,Lido,J9xVQScnr0lYWl61_mLXMA,New York,NY,Italian,40.80497978,-73.954826,2,942,4
+486,Boka,GDWVTV11eq92ElXD9mstBw,New York,NY,Korean,40.729519,-73.989104,2,1489,3.5
+487,Dear Irving,#NAME?,New York,NY,Venues & Event Spaces,40.7360569,-73.9872401,3,625,4
+488,One World Trade Center,ZJC4YEatJ1CK-m37rl7-MQ,New York,NY,Landmarks & Historical Buildings,40.712746,-74.01338,1,479,4.5
+489,Supper,Vs8kQ4R381y27AH018gLpg,New York,NY,Italian,40.7229,-73.98527,2,1255,4
+490,Pisticci,wZkZmjZEJDraLJgAalnHvA,New York,NY,Italian,40.8141624,-73.960288,2,817,4
+491,Benemon,axqp3pGJXnTLgq2QrPyDyQ,New York,NY,Japanese,40.72551,-73.98838,2,516,4.5
+492,Robert,h8XLhVVPoYPYodZqQOjRMw,New York,NY,American (New),40.767394,-73.982036,3,896,4
+493,Perry St,2VpurA2lb-q90nmALklNcA,New York,NY,American (New),40.73442,-74.00971,3,927,4
+494,Citizens of Chelsea,FaR-Kv-0ZzgcqFW1sCnacw,New York,NY,Coffee & Tea,40.748123,-74.000569,2,633,4
+495,Boqueria Spanish Tapas - Upper East Side,5S8ZK9XLdl4l645twbNYZQ,New York,NY,Tapas/Small Plates,40.771522,-73.956073,3,699,4
+496,The Donut Pub,BJL3JbPPX97a58GTURvTxA,New York,NY,Bakeries,40.738867,-73.999811,1,862,4
+497,Dhaba Indian Cuisine,NgD-6ogFGc_c4z5_Ur4k2g,New York,NY,Indian,40.742364,-73.982813,2,1463,3.5
+498,Calle Dao - Chelsea,pBNMZp_tKCAfRNx7-ybcHQ,New York,NY,Cuban,40.7476515,-74.0037312,2,498,4.5
+499,Cornerstone Cafe,efYELOeAJ-CjKpzayEfblg,New York,NY,Italian,40.72206183,-73.98324957,2,1089,4
+500,Agora Turkish Restaurant,7gZGVdqMch7ls0IGO3DijQ,New York,NY,Turkish,40.77492,-73.95412,2,514,4.5
+501,nonono,qm1J_dPA5IHij1oAnoZwHw,New York,NY,Tapas/Small Plates,40.74545,-73.98499,2,514,4.5
+502,Supermoon Bakehouse,b5x-Fw7I7Y88TdFIzvbsnw,New York,NY,Bakeries,40.71991,-73.9872,2,640,4
+503,Gray's Papaya,477o_-7VmcnTokazWtEa0A,New York,NY,Hot Dogs,40.77837831,-73.98155817,1,1345,3.5
+504,Van Leeuwen Ice Cream,zda6zyX1g8vvzNiHDutzNg,New York,NY,Ice Cream & Frozen Yogurt,40.73442081,-74.00127228,2,464,4.5
+505,Hometown Hotpot & BBQ,zEIt0xaPM9DIS-pc118O6A,New York,NY,Hot Pot,40.71931,-73.9968899,2,1139,4
+506,Marta,rZ9OFoSqy8u4WECfh--ylg,New York,NY,Pizza,40.74452128,-73.98458285,3,848,4
+507,Asuka Sushi,fePu8xy0ir_ikZcS_vVSBA,New York,NY,Japanese,40.74529,-73.99888,2,901,4
+508,Totto Ramen - Midtown East,RjeW_l8OF99rn5df5-Rj4g,New York,NY,Ramen,40.75621848,-73.96797229,2,1089,4
+509,Jeepney,-b3J-5K_beWyGxQ1Id7KQg,New York,NY,Filipino,40.730294,-73.9835395,2,1052,4
+510,District Tap House,Z65cd3Z7JvwK8TnSVg-cfA,New York,NY,Sports Bars,40.75409,-73.99039,2,801,4
+511,Mysttik Masaala,S6r0P0PItA9EYHV1nCiQgg,New York,NY,Food Trucks,40.75932,-73.97209,1,358,4.5
+512,Uncle Gussy's,VGTrGSH38A4n-v5nFe4skA,New York,NY,Food Trucks,40.75768133,-73.97329537,1,447,4.5
+513,Manousheh,VSPkVw9gSQx-5v4A6aC_YA,New York,NY,Lebanese,40.7293499,-74.00134,1,402,4.5
+514,Carmine's Italian Restaurant - Upper West Side,mTWlEiCUEBlxBAkIikkB1A,New York,NY,Italian,40.791077,-73.973763,2,1286,4
+515,The Grey Dog - Union Square,VCqNjupCWZ5INzOcyBMJSg,New York,NY,Coffee & Tea,40.733828,-73.993052,2,1013,4
+516,Mikey Likes It Ice Cream,3kipPn-7euDo-9JIqK5hlA,New York,NY,Ice Cream & Frozen Yogurt,40.729385,-73.981359,1,487,4.5
+517,Peng's Noodle Folk,0vg2Z-HPwkyVVX613j2ysg,New York,NY,Chinese,40.77726,-73.94932,2,407,4.5
+518,NY Dosas,x3NeZ4xToUxVKDoZ32D5tg,New York,NY,Indian,40.73083861,-73.9986378,1,420,4.5
+519,Apothèke,P3NfoMjBy_o2BTNNZ-5okg,New York,NY,Lounges,40.71434,-73.99822,3,1428,4
+520,Fish Cheeks,WJS06XxRdc6DD1s4LWE9HA,New York,NY,Seafood,40.7258,-73.9927,2,474,4.5
+521,Riverpark,OqNmzS2N2I750zYgUC6IgA,New York,NY,American (New),40.73937342,-73.97348434,3,787,4
+522,Cafe Boulud,TQEajJ-kahYPOToGZIyyaA,New York,NY,French,40.77444,-73.96396,4,706,4
+523,Strip House Downtown,DijUyfUGs6WoN4dp0_OANQ,New York,NY,Steakhouses,40.73445,-73.99337,4,960,4
+524,Cupcake Market,yr-X-bhRgh5XMolmM2WAiw,New York,NY,Cupcakes,40.72716141,-73.98670959,2,295,4.5
+525,Nerai,E9NMNWvV70HV5gB369N0EA,New York,NY,Greek,40.7602,-73.97308,3,443,4.5
+526,Blank Slate Coffee + Kitchen,Ry04HQ6kNsF1RYTjINDaYw,New York,NY,Coffee & Tea,40.7453293,-73.9845257,2,589,4
+527,Sunny and Annie's,pWywDImlX0n_XKPNg0Bizg,New York,NY,Sandwiches,40.724653,-73.981702,1,467,4.5
+528,Tavola,V3USzFEGhuoXez4G2Rk11A,New York,NY,Italian,40.755403,-73.994516,2,890,4
+529,The Wayland,j8cKSxr6aQ8qTx23FLyyiA,New York,NY,Cocktail Bars,40.7251,-73.9778,2,489,4.5
+530,Totto Ramen Hell's Kitchen,DPDznXYX5DBLBASKfxQ-DQ,New York,NY,Ramen,40.765055,-73.991001,2,1033,4
+531,Grom,8nL3qtKZLyNf6nSyKqcO0g,New York,NY,Ice Cream & Frozen Yogurt,40.73052718,-74.00240421,2,887,4
+532,Take31,IjQ2yGUKkvP0JIldT9vRFQ,New York,NY,Korean,40.7463,-73.984809,2,558,4
+533,Hakata Tonton,KfaG5PoTEPpbODHBta9irw,New York,NY,Japanese,40.733234,-74.003326,2,986,4
+534,Franchia Vegan Cafe,LjBKkUSpMwrpo99hXgtHYw,New York,NY,Korean,40.74747121,-73.98124234,2,882,4
+535,La Colombe Coffee,YhOmfXTPu_QRNT3azAu6wA,New York,NY,Coffee & Tea,40.728221,-73.993165,2,562,4
+536,230 Fifth Rooftop Bar,V6xlMNLFTsxB4W0VVcRK_Q,New York,NY,Cocktail Bars,40.7440395,-73.9881258,2,3486,3
+537,Wolfgang's Steakhouse,ikb5lhHmb2xndNZM-jr_Mw,New York,NY,Steakhouses,40.74668187,-73.98205715,4,931,4
+538,Dos Toros Taqueria,U9BX6bMvXHk8umBYnS3Dog,New York,NY,Mexican,40.73368155,-73.98970494,1,1310,4
+539,Oiji,FsuJ7VC5vxX3wcLhFrb97Q,New York,NY,Korean,40.72727,-73.98585,3,481,4.5
+540,Coney Shack,ISxL2HWJNCazHAdy5oblJA,New York,NY,Food Trucks,40.756127,-73.986265,1,287,4.5
+541,Hide-Chan Ramen,qiw9Kgsu5YVGrQL_OeDmcQ,New York,NY,Ramen,40.75613,-73.9682,2,1316,3.5
+542,Somtum Der,qrydcGQpeDP_1oFvx3qOeg,New York,NY,Thai,40.7252152,-73.98427417,2,692,4
+543,Tomoe Sushi,hh0ae47ojPqq3USCRLmAjg,New York,NY,Sushi Bars,40.7277,-74.0001599,3,913,4
+544,Piacere,Z67mgMkN3RfdPEX5mXsyYA,New York,NY,Pizza,40.7196979,-73.9951175,2,663,4
+545,Da Andrea,hdiuRS9sVZSMReZm4oV5SA,New York,NY,Tuscan,40.736218,-73.99597,2,723,4
+546,Mamasita Bar & Grill,xemN4tP9RlK5c-yUT-M71Q,New York,NY,Mexican,40.76733,-73.98945,2,976,4
+547,Corner Bistro,8XLhXJcJ2XbQ8dTBY9YyQg,New York,NY,Burgers,40.738037,-74.003684,2,1497,3.5
+548,Barrio Chino,RzKR9QcYP03EQ_8DxTxowg,New York,NY,Mexican,40.718022,-73.990026,2,1094,4
+549,Palma,6Z5OWpaeGGazJHR4LfThsw,New York,NY,Italian,40.73115,-74.00233,3,689,4
+550,Radiance Tea House and Books,neQM053ovAOrf1sVSAPI9w,New York,NY,Asian Fusion,40.7639799,-73.98065,2,836,4
+551,Times Square Diner,W0k5HHTa7IJsR51Nf7fOmA,New York,NY,American (Traditional),40.76140369,-73.98696853,2,862,4
+552,Davey's Ice Cream,GB8yF6r-isDXjV3NR35xZw,New York,NY,Ice Cream & Frozen Yogurt,40.7279493,-73.9852999,1,507,4.5
+553,Kyo Ya,ytABgZNWnFXQUjOYjh460A,New York,NY,Japanese,40.7267,-73.98534,4,450,4.5
+554,Kashkaval Garden,TAANt0fPbfHqVP5LyMBioA,New York,NY,Mediterranean,40.766758,-73.986144,2,549,4
+555,Emporio,LTi4_wcCVmqQeJ_jgTEbOQ,New York,NY,Italian,40.7226371,-73.9951331,2,759,4
+556,The Candle Cafe,x5HLJVEOYF-cCmGEZFu9yA,New York,NY,Vegan,40.771434,-73.959146,2,895,4
+557,Fishmarket Restaurant,LpVbI-E9C-CSp7WhU5h2Iw,New York,NY,Seafood,40.70717,-74.00192,2,535,4.5
+558,by CHLOE. Flatiron,CEEUDBFxvUPKGlA65qJ8JQ,New York,NY,Salad,40.74197,-73.99292,2,740,4
+559,One If By Land Two If By Sea,B_HFzZkFsZgmzcea6R4exw,New York,NY,American (New),40.732498,-74.002595,4,1372,3.5
+560,Bite,PpxJsItHTF6sDAK6XnDJ9w,New York,NY,Sandwiches,40.733163,-73.986158,1,608,4
+561,SakaMai,wcwftlB-61XG4ymGTR61aw,New York,NY,Japanese,40.72095367,-73.98814072,3,627,4
+562,4 Charles Prime Rib,ZOa13veZkzGjA-x3kMfOmA,New York,NY,Steakhouses,40.73513,-74.00065,3,225,5
+563,Carbone,7_hGsGEkHrjgAiYVjrCFnw,New York,NY,Italian,40.728,-74.0001497,4,916,4
+564,Spice Symphony,Va_mnsEvBghHXvc7uZIWJQ,New York,NY,Indian,40.744722,-73.981202,2,577,4
+565,Grounded,ZnJZ8F17rLIZ3JbJQ2admw,New York,NY,Coffee & Tea,40.73806,-74.0034,1,716,4
+566,&pizza,t0Bel7xLMUt5g8qIpBylZg,New York,NY,Pizza,40.745294,-73.9880992,2,391,4.5
+567,Saigon Vietnamese Sandwich Deli,ocXYGC2oiGDJSzA7qu4SGw,New York,NY,Sandwiches,40.7199582,-73.9958631,1,604,4
+568,The Meatball Shop,AHVlPpOkiEl9maijGhar-Q,New York,NY,Italian,40.736125,-74.000607,2,863,4
+569,Cote,28CNHYULci66pJAz-0_pOg,New York,NY,Korean,40.741192,-73.991314,3,757,4
+570,Noodle Village,bnDfFdiCcPzhuNWUJORvLQ,New York,NY,Chinese,40.714167,-73.998803,1,1025,4
+571,VIV,z1OgXX3L9Ipl2mu-Hf4ADw,New York,NY,Thai,40.76277,-73.98969,2,770,4
+572,The City Bakery,2rnd1ezRyn3bmUF4VJK27Q,New York,NY,Bakeries,40.73885,-73.99241,2,1577,3.5
+573,Nom Wah Tea Parlor,_usWsAYSKKV2q8xw-3ajrA,New York,NY,Dim Sum,40.71449052,-73.99815386,2,1918,3.5
+574,Taureau,50fWXrNECQQYght4ZWeBXQ,New York,NY,Fondue,40.72452,-74.00569,3,569,4.5
+575,Pippali,HEs6llkn3wIP1ATXeIZQew,New York,NY,Indian,40.74233,-73.98331,2,719,4
+576,Ise Restaurant,pNe8ZCkGTe4cXfKdOF7kYQ,New York,NY,Japanese,40.7291024,-73.9900618,2,405,4.5
+577,Earl's Beer & Cheese,DpZBA0-f7Um9lvnp1zZM2A,New York,NY,Bars,40.78729,-73.95152,2,580,4
+578,Cascalote Latin Bistro,BxnrBKdLwdaEXyq97uxgKg,New York,NY,Latin American,40.79271,-73.94069,2,333,4.5
+579,Samba Kitchen,aJqjC4uAo6vhOpsVNCiMDA,New York,NY,Brazilian,40.76095,-73.99115,2,420,4.5
+580,Topaz Noodle Bar,43r4ynjeIZeQI1w7SWARuQ,New York,NY,Thai,40.76444244,-73.97897339,2,606,4
+581,La Parisienne,xTnivXEdEtXrnhp-z4JGvg,New York,NY,French,40.70961,-74.0093799,2,387,4.5
+582,Allora Ristorante,z7H9ApIGopnDnQaglnPTzg,New York,NY,Italian,40.75433,-73.97277,3,477,4.5
+583,Giorgio's of Gramercy,5ZEFbq_AQV5VQFG2JKYzlA,New York,NY,Italian,40.73942099,-73.98854256,3,730,4
+584,Grom,U8juBUAqYYSIMEeGEpHjYg,New York,NY,Ice Cream & Frozen Yogurt,40.76720671,-73.98128523,2,588,4
+585,Saiguette,sKIYGvENchifk1YwFe77pA,New York,NY,Vietnamese,40.79902,-73.96281,2,586,4.5
+586,Peter Luger,4yPqqJDJOQX69gC66YUDkA,Brooklyn,NY,Steakhouses,40.709945,-73.962478,4,5532,4
+587,Divya's Kitchen,NKI1VvfXYluRjnq4S6yEuw,New York,NY,Vegan,40.72378,-73.98849,2,325,4.5
+588,San Marzano Pasta Fresca,k5fd-RSdG4IuXnnGSQ5oOw,New York,NY,Italian,40.727989,-73.98845,2,1095,4
+589,Ed's Lobster Bar,Z2sNzskjS8Ck0plppRBJIg,New York,NY,Seafood,40.722079,-73.997529,3,934,4
+590,Udon West Midtown,ev6e12vhY_0y4qE1cRhv0A,New York,NY,Japanese,40.75354469,-73.97357245,2,988,4
+591,Sotto 13,yc4vsT-Q4Ej1_9hr94DxkQ,New York,NY,Italian,40.7372,-73.99919,2,852,4
+592,Sushi By M,MGRo61aHFUeRlWhSbTv2NA,New York,NY,Sushi Bars,40.72666,-73.99027,3,296,4.5
+593,Virgil's Real BBQ - Times Square,U0deo-JRQmHrru0uSf6QWA,New York,NY,Barbeque,40.75685,-73.9851,2,1544,3.5
+594,Kenka,9xRIcn0jTyvWNH9aBO3oAA,New York,NY,Sushi Bars,40.72913,-73.988465,2,1514,3.5
+595,Peacefood Cafe Downtown,MAwtBgCmrY-i_jbmXlDMkw,New York,NY,Vegan,40.73326709,-73.99297513,2,714,4
+596,Galata Mediterranean Cuisine,1u_vkRFPuT8Aeh7Zk3bKyw,New York,NY,Turkish,40.74531,-73.97753,2,327,4.5
+597,Essex,hRZyaQ80R9s9ztEBDJqiuw,New York,NY,Bars,40.71969755,-73.98739822,3,1938,3.5
+598,Abiko Curry,itH4GH2Mw2D5n5kkQAtMog,New York,NY,Japanese Curry,40.74742597,-73.98621794,2,688,4
+599,Sukhumvit 51,KHdYPT0jUnUGdHGaY73mxg,New York,NY,Thai,40.75591398,-73.96938679,2,706,4
+600,Billy's Bakery,F7UeBLZHOtyxz2rTNnmt3Q,New York,NY,Bakeries,40.745323,-74.001861,2,1206,3.5
+601,Black Tap - Midtown,yZs_A8r0qDz7Z5bR0C-aiQ,New York,NY,Burgers,40.76347,-73.97978,2,1061,4
+602,Raku,qEe7nIhPfEL6L0-VYhWRrA,New York,NY,Japanese,40.72728,-74.00252,2,302,4.5
+603,Tia Pol,fUxRTikmfHnURZ26lD2y4Q,New York,NY,Tapas Bars,40.7473,-74.00481,2,683,4
+604,The Penrose,mWS4umRg2AyykyAClMrIRw,New York,NY,Gastropubs,40.77553341,-73.95324875,2,1121,4
+605,The Plaza Food Hall,6VLeSnx90q9Xgd6aHUO_JQ,New York,NY,Food Court,40.764223,-73.974561,2,629,4
+606,Pocket Bar NYC,mvAjuaS1Jp6dsN4a-i_Fyw,New York,NY,Wine Bars,40.7633645,-73.9922985,2,280,4.5
+607,The Original Buddha Bodai 佛菩提 Kosher Vegetarian Restaurant,tguMh2GgOcU9fu6WN3dqpw,New York,NY,Chinese,40.7138543,-73.9989484,2,946,4
+608,Waldy's Wood Fired Pizza & Penne,na-2_gQCY7ccS2ZkLJDumQ,New York,NY,Pizza,40.7457666,-73.99064025,1,797,4
+609,Stax Ice Cream,#NAME?,New York,NY,Ice Cream & Frozen Yogurt,40.7177,-73.99272,1,386,4.5
+610,Qi,JzD9nfJWHwnG-2Wk87muHg,New York,NY,Thai,40.762,-73.98961,2,1203,3.5
+611,Aburiya Kinnosuke,_FhKGcCbiYgtkXcCiwTAiA,New York,NY,Tapas/Small Plates,40.752583,-73.972274,3,719,4
+612,McNally Jackson,b92EVHuzG-7uv37fQU9jew,New York,NY,Bookstores,40.72339,-73.99598,2,429,4.5
+613,Cafe Hanamizuki,S-619sO8qSxQcis0DBHvNw,New York,NY,Cafes,40.7474471,-73.9915989,2,510,4
+614,Egg Shop,GlTdgd8780RNXLvz8bTmFg,New York,NY,Breakfast & Brunch,40.72045747,-73.99525107,2,1065,4
+615,Bird & Branch,IkyRp47Jpbk_AQ35qlr-eg,New York,NY,Coffee & Tea,40.7603099,-73.99087,2,212,4.5
+616,Bistango,cnMNL1O_dVtCdTyQwwOwOQ,New York,NY,Italian,40.7425771,-73.9800892,2,684,4
+617,Mughlai Grill,_7BGw3YFNOTzP1Www3zB7g,New York,NY,Indian,40.7210905,-73.9840446,2,310,4.5
+618,CONES - Artisanal Ice Cream,Hlj1BRYzB2xJxl8_UEnrDw,New York,NY,Ice Cream & Frozen Yogurt,40.7315227,-74.0032698,2,574,4
+619,Junoon,DZE4ThXa7d0kSXnR3Hb-kg,New York,NY,Indian,40.743193,-73.990838,3,1413,3.5
+620,Casa Mono,8PhwiTru5teSaZ8C6hrIww,New York,NY,Spanish,40.73592814,-73.9871551,3,1192,3.5
+621,Extra Virgin,KpBfFpjzsGvvqAzCasVW0g,New York,NY,Seafood,40.73539625,-74.00318882,2,1226,3.5
+622,Black Iron Burger,fgtw4swOHXEFwZpBCG05rQ,New York,NY,Burgers,40.75427,-73.99031,2,895,4
+623,Giano Restaurant,dh5r9-SbN8xJ76XvnayWLQ,New York,NY,Italian,40.72622566,-73.9840574,2,562,4.5
+624,Madison Square Park,R3ci6iQRLIIK0Eq1-cY_pw,New York,NY,Parks,40.74221336,-73.98797365,1,370,4.5
+625,Fig & Olive - Meatpacking,jt_mFVGnAcPx27vIz4o29A,New York,NY,Mediterranean,40.74062848,-74.00685944,3,1336,3.5
+626,Shake Shack,ySbVtwa_PHQIlnKVMNSNeQ,New York,NY,Burgers,40.715283,-74.014799,2,922,4
+627,NORMA'S,tD1pDzU-x8gGodC4nGnY9g,New York,NY,Breakfast & Brunch,40.76412771,-73.97837952,3,1684,3.5
+628,Joseph Leonard,Ps0cOZevNA1M9M5_z7W3oQ,New York,NY,American (New),40.73360217,-74.00167541,2,648,4
+629,Socarrat Paella Bar - Chelsea,DiHm4iIAQhqMKfjsrBPvZw,New York,NY,Spanish,40.7427204,-73.9995147,3,1120,4
+630,Tommy Bahama Restaurant | Bar | Store - New York,YHGGyH4hn_5UyV1rWgA5hg,New York,NY,American (New),40.75538822,-73.97920021,3,573,4
+631,Poco - NYC,3LRZQolTdyps07RSoaIXpA,New York,NY,Tapas Bars,40.7225107,-73.9829025,2,1513,3.5
+632,Soba Totto,Ms1p17KsYteDlkvHnllC2g,New York,NY,Japanese,40.75122,-73.97317,2,876,4
+633,Ess-A-Bagel,SCornvTSCMQ2SvWGq8Z_Mw,New York,NY,Bagels,40.73420196,-73.98018548,1,835,4
+634,Simple NYC,AjlmpAQV8W4--y0EksO-9g,New York,NY,Poke,40.71821,-73.99223,2,325,4.5
+635,Mom's Kitchen & Bar,xMUZfoyzyJoTfZxrEZus4Q,New York,NY,Comfort Food,40.76247,-73.9901,2,603,4
+636,Curry-Ya,pqebqpVTT8bR_s9iEu8dOA,New York,NY,Japanese,40.72922,-73.98604,2,707,4
+637,Favela Cubana,hJrZIHNRVUuC_PXAORxj9g,New York,NY,Cuban,40.72847021,-73.99798393,2,952,4
+638,Ground Central,ntkrxOSYT5VtTL4Z5jmmeA,New York,NY,Coffee & Tea,40.757575,-73.970321,1,622,4
+639,Injera,5QI6QXNJThnqWQFO7y0VOw,New York,NY,Ethiopian,40.7370922,-74.0051453,2,563,4
+640,JeJu Noodle Bar,xtxcAUvrD4dWHJd0cwvW1A,New York,NY,Korean,40.73304,-74.00734,2,444,4.5
+641,Luke's Lobster Upper West Side,ahWC_GUPWPMyYiSKsgBPiA,New York,NY,Seafood,40.78424,-73.977868,2,674,4
+642,Big Wong,L37A2JWXfwR_PgKColA8xA,New York,NY,Chinese,40.71624,-73.99842,1,1384,3.5
+643,Ferrara Bakery & Cafe,lDW4DlTZYcSP9T1yQY5HKg,New York,NY,Bakeries,40.719079,-73.997086,2,1505,3.5
+644,Tuome,R7EGjHWw0tNheY6-ahH8fQ,New York,NY,American (New),40.72412483,-73.98289063,3,463,4.5
+645,dell'anima,pxtno4adrYTjyQsxngTj9A,New York,NY,Italian,40.76234,-73.99695,3,626,4
+646,Aureole,UBCNhz-TSvBP3zo5PjFWrQ,New York,NY,American (New),40.75558701,-73.98525316,4,875,4
+647,Otto Enoteca Pizzeria,kqewBLuQDB3euc-s_mRf4A,New York,NY,Italian,40.73206054,-73.99619791,2,2095,3.5
+648,The Bar Room,844H9r0tRQZmxiEtjeTW0A,New York,NY,Lounges,40.76103093,-73.97655937,3,483,4
+649,The Greek,6gDUVNZo0E9lxO2DkAhHOQ,New York,NY,Greek,40.7237145,-74.0096166,3,476,4.5
+650,Sons of Essex,oopgHvduXbtgwNRmybEhgQ,New York,NY,American (New),40.720315,-73.987774,2,1195,4
+651,Xian Famous Foods,kwqOmEwWJ0D9PyCdFGE3-g,New York,NY,Chinese,40.747844,-73.983901,2,707,4
+652,Sake Bar Decibel,i9W3EVA6FjB6lWWSEmhndA,New York,NY,Bars,40.729299,-73.9878008,2,955,4
+653,Parisi Bakery,6q6WWGaO75PQkpWOQ2zzHQ,New York,NY,Bakeries,40.7211836,-73.9954365,1,397,4.5
+654,Land,83BXSwE0166sObnXLUE4bQ,New York,NY,Thai,40.78497,-73.9772182,2,1031,4
+655,Rahi,CO3lm5309asRY7XG5eXNgg,New York,NY,Indian,40.7360271,-74.0005436,3,398,4.5
+656,Alice's Tea Cup,kaSd6qzlsxn__ILDtGf3iA,New York,NY,Breakfast & Brunch,40.77802,-73.9787,2,1102,3.5
+657,Kopitiam,r2JVKalbucGf2nryywuL2w,New York,NY,Malaysian,40.71387,-73.99091,1,534,4
+658,Seven Grams Caffe,HgfzssjwDEWtdcaxSJqfqg,New York,NY,Coffee & Tea,40.74560631,-73.99427754,2,409,4.5
+659,Sofia Wine Bar,3qIISjUYn1tbqHXi7nCLXg,New York,NY,Italian,40.75502,-73.96913,2,631,4
+660,The Burrito Box,v4_89HfTm05NFTuukjsl_g,New York,NY,Mexican,40.76831,-73.98565,1,849,4
+661,Empire Cake,ltReUN5LQiaFVNdpNBes3Q,New York,NY,Bakeries,40.74078,-74.00155,2,576,4
+662,Pio Pio 7,BZcG-xN3DCxlfhckBZYeuw,New York,NY,Latin American,40.74525,-73.97768,2,805,4
+663,Jack's Wife Freda,HrdIdeDZBTUdyEdSTPG1zg,New York,NY,Mediterranean,40.729826,-74.003516,2,818,4
+664,Whistle & Fizz,OPiO2ZuK4M2f55qmuNfWUQ,New York,NY,Cafes,40.73071002,-73.99436257,1,143,5
+665,The Meatball Shop,F2YbqhVr6hBsFrDCyr6M_w,New York,NY,Italian,40.7459138,-74.0015369,2,855,4
+666,Cafe Himalaya,noBCTbD1Ylf5QR7PXy-rkA,New York,NY,Himalayan/Nepalese,40.7232289,-73.98794412,1,606,4
+667,Greecologies,t2iNgfFikLQJynJSURth0A,New York,NY,Juice Bars & Smoothies,40.720387,-73.996581,2,405,4.5
+668,Hummus Kitchen,7CM15wd5d8WC_pHR674YXA,New York,NY,Mediterranean,40.77636504,-73.95296934,2,775,4
+669,Menkui-Tei,MvmuCDXPliFUYJ7B7Y02AA,New York,NY,Ramen,40.76326,-73.97706,2,1040,3.5
+670,Sarabeth's,#NAME?,New York,NY,Breakfast & Brunch,40.76516037,-73.97551997,2,1774,3.5
+671,Ample Hills Creamery,Oa5jGPt5eIwz-qBeFxwsMA,New York,NY,Desserts,40.76239719,-73.99700232,2,341,4.5
+672,Galli,twHJyFgUSd7wzioKQjE7Jw,New York,NY,Italian,40.72161,-74.00127,2,884,4
+673,Tenement Museum,bUpeNcz4-SWnhIKqSKTVMQ,New York,NY,Museums,40.71883,-73.98998,1,645,4
+674,The Jolly Goat Coffee Bar,QH9vS9_Q5um3b8sZntZiyw,New York,NY,Coffee & Tea,40.76330106,-73.99419283,1,328,4.5
+675,Jing Fong Restaurant,FH978pIP1TLRuPAH-MbWIQ,New York,NY,Dim Sum,40.71595524,-73.99718311,2,2271,3.5
+676,The Winslow,3NbhYebjZPjLTWZZyRuhsw,New York,NY,Pubs,40.73277664,-73.98521423,2,505,4.5
+677,Spice Symphony,A-ert0jDRBfku9ogyW_mEg,New York,NY,Chinese,40.75589371,-73.97153473,2,421,4.5
+678,Joey Bats Café,uYMimeHJ5XBGkyTrg8GXhw,New York,NY,Desserts,40.72006,-73.99037,1,211,5
+679,Barney Greengrass,XKWvRI7WI4LotDLUboUUGA,New York,NY,Specialty Food,40.78793083,-73.97450547,2,717,4
+680,SalaThai Restaurant,VoAuIReq_cPUrFwxbWqG_Q,New York,NY,Thai,40.7801199,-73.98032,2,263,4.5
+681,Hi-Collar,7rxg-tWPc1jK7Cikn5R86g,New York,NY,Japanese,40.72930773,-73.9859368,2,550,4
+682,Otto's Tacos,Ko95LRE9AAvb2Lk9Iwh2-Q,New York,NY,Tacos,40.72912895,-73.9875403,1,742,4
+683,Ravagh Persian Grill,ExvoimQ4LzY3UWtZ6m6Lgw,New York,NY,Middle Eastern,40.74564,-73.9855,2,744,4
+684,Rasa,EbX_9tqAJs4gW51gZpOB7g,New York,NY,Malaysian,40.7327654,-73.9975674,2,668,4
+685,Da Gennaro,JyXn_GCGM2DsNYIzgzQrDw,New York,NY,Italian,40.71832,-73.99794,2,895,4
+686,The Breslin Bar & Dining Room,GxqEVZUgz8xophUos_V3eQ,New York,NY,Gastropubs,40.7457012,-73.9878543,3,1559,3.5
+687,Jin Ramen - West Harlem,Pfjb9Rn5Th7R-pLXVARwlA,New York,NY,Ramen,40.8154774,-73.9587672,2,1024,4
+688,Bouchon Bakery,zwFS-FcGe062to_rWWkLCw,New York,NY,Bakeries,40.75822323,-73.97881059,2,765,4
+689,The Doughnut Project,c6UUcUTbwbk0kOpF6jVOJQ,New York,NY,Donuts,40.731151,-74.003547,1,434,4
+690,Sullivan Street Bakery,4GBqDgTYsV7owGzNMyAFKA,New York,NY,Bakeries,40.76366,-73.994716,2,483,4
+691,Sushi Of Gari,bHGETjP_InKy0sIVHFgHyw,New York,NY,Sushi Bars,40.77137,-73.95275,4,610,4
+692,Nishida Sho-ten,9bAyxRD6RsGEUQw424ovQA,New York,NY,Ramen,40.753969,-73.968722,2,721,4
+693,Ruth's Chris Steak House,ulKoAGcGOdsXgr0o_l6avA,New York,NY,Steakhouses,40.761438,-73.982329,3,900,4
+694,Pocha 32,KaBw8UEm8uZTV6YLsshYrQ,New York,NY,Bars,40.74752457,-73.98626268,2,1440,3.5
+695,Pause Cafe,sR60I9PI_63noBQcGoIrbw,New York,NY,Moroccan,40.72123,-73.98408,1,374,4.5
+696,Jin Ramen,EvAJBgBdgOt1jx1EufRN7w,New York,NY,Ramen,40.78534,-73.97695,2,840,4
+697,Benson's NYC,x7hsZRd_MyrUgAW91FM9qA,New York,NY,American (New),40.7218302,-73.9866963,2,368,4.5
+698,Madame Vo,m2Zsy2UAkcDf0cRzk2Yoqw,New York,NY,Vietnamese,40.72925,-73.98612,2,723,4
+699,Dirt Candy,j0Q-yyxS2WiL3foCJEV4eg,New York,NY,Vegetarian,40.7179075,-73.9907183,3,622,4
+700,MO Gelato,CArqlSrLiPsvneS18xpwqQ,New York,NY,Gelato,40.72061799,-73.99673,1,342,4.5
+701,Ramen Misoya,b7Eg41LKjL2BtOXEqVCoeQ,New York,NY,Ramen,40.7285309,-73.988121,2,889,4
+702,ABC Cocina,9z2lUyfzZV8b2rkkiwSM4g,New York,NY,Tapas/Small Plates,40.73796998,-73.9892807,3,875,4
+703,Sylvia's Restaurant,RI-tVET-wKFeRNKm4cg0wQ,New York,NY,Southern,40.808609,-73.944404,2,1769,3.5
+704,Lil' Frankie's,TWH4MjLtN1fKlF-7n6YXHg,New York,NY,Pizza,40.723625,-73.988555,2,1043,4
+705,Momofuku Ko,GticI2JB8Iw2ktRfLv6aRQ,New York,NY,American (New),40.724776,-73.991682,4,289,4.5
+706,Stone Bridge Pizza & Salad,UB1mGugr1pvgUUP1eTNXrg,New York,NY,Pizza,40.75225,-73.98061,2,252,4.5
+707,Tartine,0Q13lJ3OHXOuBVpN6jeTjw,New York,NY,French,40.7362899,-74.00344,2,965,4
+708,Balade - Your Way,51YLgpfHKfXxOkDFe9sT-w,New York,NY,Lebanese,40.75242996,-73.98872375,2,341,4.5
+709,Beyoglu,N9OihQ22xLyfeDRSZoDCVQ,New York,NY,Turkish,40.7754199,-73.9562399,2,1117,4
+710,Barbounia,1SaKutXcH38X0KvayyDHUA,New York,NY,Greek,40.7382,-73.98804,3,1214,3.5
+711,Taboon,XK8DnTYgZGoZKuihH4_cpg,New York,NY,Middle Eastern,40.76610522,-73.99098937,3,632,4
+712,Lady M Cake Boutique,L1eRvGuRW8gL_auRr8_Xog,New York,NY,Desserts,40.752722,-73.9836459,2,1154,3.5
+713,Cheese Grille,8EBOj5bMglNI-jRIQvf6wg,New York,NY,American (Traditional),40.7219115,-73.9886709,2,546,4
+714,Cha Cha Matcha,8zIXMsbcDS7kqH8N-09zLg,New York,NY,Coffee & Tea,40.720066,-73.996261,2,867,4
+715,Stick With Me,uEYHwZmVy6EciszazojznA,New York,NY,Chocolatiers & Shops,40.72139,-73.99545,3,247,4.5
+716,Xi'an Famous Foods,fPW_GBZsnBNsIzK62sCHBg,New York,NY,Chinese,40.715082,-73.997342,1,968,4
+717,Baker & Co,h9rymMeMUMOxQ9d93U0YDg,New York,NY,Italian,40.7313423,-74.0028996,2,604,4
+718,Eggloo,V75gQDPzAwaqLmjSn-t9DQ,New York,NY,Desserts,40.71554973,-73.99939246,1,882,4
+719,Atoboy,RYoc4EBUNOtgbg7c32OG9A,New York,NY,Korean,40.74364,-73.98456,3,321,4.5
+720,Ten Degrees Bar,#NAME?,New York,NY,Gastropubs,40.72692,-73.98342,2,820,4
+721,LuAnne's Wild Ginger All-Asian Vegan,BEuZGvNlbM4tXq7YICyM6w,New York,NY,Asian Fusion,40.7204631,-73.9964956,2,637,4
+722,Avra Estiatorio,F89nDDlYZ7wbRe8EpLCqBw,New York,NY,Seafood,40.75513,-73.97245,3,838,4
+723,Dafni Greek Taverna,trEnFaHqRkJqtjRvzx7PsQ,New York,NY,Greek,40.75788,-73.99092,2,929,4
+724,Piccola Cucina Osteria,qBGKigOGn_flCx1apxPzlA,New York,NY,Italian,40.72506,-74.00322,2,476,4.5
+725,Zutto Japanese American Pub,abNHO9-xlCsv31gghCUuxw,New York,NY,Sushi Bars,40.71847,-74.00903,2,864,4
+726,District Social,eTR6nfHvQzvKX7Dcd6JrfA,New York,NY,Bars,40.75369,-73.99136,2,638,4
+727,Pasticceria Rocco,JWLRT0dkdaC7AHtYapWbGw,New York,NY,Bakeries,40.73083,-74.00265,2,996,4
+728,Manhatta,ypqK8DWM8Bcs43YveSJnNw,New York,NY,American (New),40.70797,-74.0088899,4,370,4.5
+729,The Cellar,SF2G4QfcSV03sMCSsv5s2g,New York,NY,Wine Bars,40.73889,-73.9897,2,654,4
+730,Wo Hop,zubN8Ve-RyoljRZV4NRxEQ,New York,NY,Chinese,40.7142239,-73.99886917,2,1379,3.5
+731,Boulud Sud,RqCMsa0IuHWhML0BEjW8_w,New York,NY,Mediterranean,40.77186142,-73.98162561,3,718,4
+732,Lolo's Seafood Shack,XOnspIaW6mYVmrvgqOaYSQ,New York,NY,Seafood,40.80486,-73.95567,2,670,4
+733,Blue Ribbon Sushi Bar & Grill - New York,CqQ2Og9kf-LhlUWtODalCQ,New York,NY,Sushi Bars,40.7674948,-73.98319789,3,736,4
+734,The Campbell,oAFaJmLbqnpgIqHP2YAywg,New York,NY,Cocktail Bars,40.752758,-73.977914,3,873,4
+735,Tamarind,kS2CP48K66yL2TwIhUqy_A,New York,NY,Indian,40.71909,-74.00892,3,875,4
+736,Pure Ktchn,q7U2GCMWIZxIqWeMDml0LQ,New York,NY,Salad,40.76053,-73.98992,2,266,4.5
+737,9/11 Tribute Museum,F0EUMg7UwxLCQ0GFpX0dyg,New York,NY,Museums,40.71143975,-74.01252046,1,278,4.5
+738,TAO Downtown,pBIvJHn65iqlUh1L2tN-qg,New York,NY,Lounges,40.7426141,-74.0042051,3,1330,3.5
+739,B Squared,geNwD4ySIwA732eK2CvDZw,New York,NY,Italian,40.7615509,-73.9906616,2,402,4.5
+740,Cocoron,nrxSzq-VxLqD7aFkE4SH3Q,New York,NY,Japanese,40.7207236,-73.9953191,2,617,4
+741,15 East Restaurant,GBWMJJ4_rDWqiXJ7AvHAOg,New York,NY,Japanese,40.7363799,-73.99213,4,625,4
+742,Rosa Mexicano,dYWjNK07igws9jFNgQmhng,New York,NY,Mexican,40.7382,-73.99083,2,1463,3.5
+743,Lady M Cake Boutique,MlsidvbvzPNmxTo7n83uiA,New York,NY,Desserts,40.764427,-73.974562,2,491,4
+744,Mughlai Indian Cuisine,izRJeBfDQYJmd6ibIQ6Mfg,New York,NY,Indian,40.78002,-73.94978,2,434,4.5
+745,The Rag Trader & Bo Peep Cocktail and Highball Store,qCf1QN11Qdncpqb7PhuyVw,New York,NY,Bars,40.75059,-73.98628,2,366,4.5
+746,The Flying Cock,IGZkGbwE36iE1yaDW5NNKA,New York,NY,Pubs,40.745296,-73.978073,2,496,4
+747,The Musket Room,vscYK65F_MUH8WqACKSdog,New York,NY,American (New),40.72392,-73.99378,3,428,4.5
+748,Ikinari Steak East Village,kr_Wu5m0P-AEghraNqXeTA,New York,NY,Steakhouses,40.73088,-73.98968,2,746,4
+749,Tim Ho Wan,SyvC0s3y0ZrtnLbwnvw7tw,New York,NY,Dim Sum,40.73168,-73.99007,2,1592,3.5
+750,Tofu Tofu,vWoT1h8E2eWvIdJqpuxfdg,New York,NY,Korean,40.71762995,-73.99543013,2,293,4.5
+751,Wok Wok,0GftSP2dRwEzujkv2VKIgA,New York,NY,Chinese,40.71406,-73.99883,2,869,4
+752,Angelo's Coal Oven Pizzeria,tRIHhPKryUZ56SfIz6mLiA,New York,NY,Pizza,40.76492,-73.97794,2,824,4
+753,Ellen's Stardust Diner,K144ThGmoIjX6Wh5-_Rn4Q,New York,NY,Diners,40.76184008,-73.98355023,2,1766,3.5
+754,Daily Provisions,t4M1VX4n34eEgUWMJ7cgKw,New York,NY,Cafes,40.73768,-73.9876685,2,352,4.5
+755,H&H Bagels,bb4TLfMexv3XPy864A09ug,New York,NY,Bagels,40.77444,-73.95447,1,748,4
+756,Ofrenda,9_CEU7Wmvmwlyvqr-PJD6w,New York,NY,Mexican,40.73391,-74.00242,2,947,4
+757,Little Pie Company,VzHdgvEv9bx9RVrNbhsmQw,New York,NY,Bakeries,40.75949,-73.99332,2,672,4
+758,Izakaya NoMad,8NVN6Nldm7AGoGaABBZMRw,New York,NY,Gastropubs,40.74409,-73.98945,2,652,4
+759,Klong,nFszVPUX4tj-oarjfBO0nw,New York,NY,Thai,40.729507,-73.989181,2,1065,3.5
+760,Patrizia's Pizza and Pasta,kIm0oeOaVfC9-2flLPVklA,New York,NY,Italian,40.7398415,-73.9792862,2,544,4
+761,Motorino,S8OKQ5S40oZ1Rr5RbC0jdg,New York,NY,Pizza,40.73039,-73.98381,2,1075,3.5
+762,International Wings Factory,r-izNItUH4ugnFodUOZX2A,New York,NY,Chicken Wings,40.78018345,-73.94675427,2,417,4.5
+763,Ladurée SoHo,TmEPtynTP1qoTqwUbGKyGw,New York,NY,Tea Rooms,40.7243939,-74.00248851,3,1432,3.5
+764,Thai Market,p2zm0HnXZkI2yCAuYLb45g,New York,NY,Thai,40.80132,-73.96529,2,981,4
+765,Xi'an Famous Foods,BPErPpKSNluwcjbKRgze3w,New York,NY,Chinese,40.77197,-73.95452,1,487,4
+766,Hanoi House,bZQryeTD6hIsT6lSUxzSSw,New York,NY,Vietnamese,40.72698,-73.98357,2,449,4
+767,Don Angie,h37t9rA06Sr4EetJjKrfzw,New York,NY,Italian,40.73778,-74.00197,3,268,4.5
+768,Hummus Place,TxHx1fb8O_MsfQB_ODdTQg,New York,NY,Vegetarian,40.780044,-73.98027,2,599,4
+769,Catch NYC,7VqMGK9uwi0vKqOjdKyIUA,New York,NY,Asian Fusion,40.740234,-74.006342,3,2195,3.5
+770,Benito One,DI_FoHY84hfzTWwlzF76aw,New York,NY,Italian,40.72001885,-73.99694122,2,684,4
+771,Zibetto Espresso Bar,dXK2R-3ECPqXVgjvGlV8Cw,New York,NY,Coffee & Tea,40.76392328,-73.97760435,1,412,4
+772,Bolivian Llama Party,yrXECkTezsI0Twgalc7M-A,New York,NY,Food Stands,40.694983,-73.991036,1,324,4.5
+773,Tomi Jazz,l_RAv09V67j-Hm9dyZxWhw,New York,NY,Japanese,40.75725,-73.96774,2,413,4
+774,Luke's Lobster Plaza Food Hall,tZmzqKgIUNhyhKNVXCpALA,New York,NY,Seafood,40.76465054,-73.97435612,2,438,4
+775,Amor y Amargo,6qnWAPjJ7UER4QLCtotyBw,New York,NY,Cocktail Bars,40.72572,-73.98428,2,449,4
+776,Quantum Leap,xscOfj1dMkEKvhrRruLpIg,New York,NY,Vegetarian,40.72916,-73.99874,2,659,4
+777,Big Gay Ice Cream Shop,3xwMgziTShBW4qR6sXke9A,New York,NY,Desserts,40.73327067,-74.003248,1,1146,3.5
+778,Rocco Steakhouse,REDWyPG0UJc5u8iU8mP6Hw,New York,NY,American (Traditional),40.7438607,-73.9861214,3,319,4.5
+779,Boba Guys,_fP2QicVgPLZyL8s6M84Ig,New York,NY,Bubble Tea,40.71897,-74.00102,1,405,4.5
+780,99 Favor Taste,3Rah-cvFk79duFQ83voQ5A,New York,NY,Hot Pot,40.728833,-73.988094,2,547,4
+781,Natsumi,oyyubJoK0VZ2V3a5sVJULg,New York,NY,Sushi Bars,40.76174,-73.98503,3,830,4
+782,Mei Li Wah Bakery,MauzeeZM7S-wUk_G98Ybrg,New York,NY,Bakeries,40.7155758,-73.9979585,1,968,4
+783,Superiority Burger,tf3RVircY9-8adku41N6VQ,New York,NY,Burgers,40.72739,-73.98355,1,574,4
+784,Marseille,NMVRHrkdp68twl4CWo1I5A,New York,NY,French,40.759806,-73.991378,3,863,4
+785,Hakkasan,rEbwps11tIERRkwQrIXQog,New York,NY,Chinese,40.758619,-73.989961,4,885,3.5
+786,Gotan - Midtown,8O3tKwRgrNcXyvf_S8M2yQ,New York,NY,Cafes,40.7563301,-73.9803317,2,434,4
+787,Almond,6ujYWjs1FTksvuVxuzjUYA,New York,NY,American (New),40.74008179,-73.98875427,2,1009,3.5
+788,Hummus Kitchen,Ti-957LNURM0Gy2CXIbQOw,New York,NY,Middle Eastern,40.76427,-73.98797,2,759,4
+789,Patsy's Italian Restaurant,goqTQ4tOD-asC_ZJBW9l7w,New York,NY,Italian,40.76553,-73.98274,3,859,4
+790,Taste of Persia,YMtQ5NZY3WUn3tetby6Uog,New York,NY,Persian/Iranian,40.73891,-73.99298,2,311,4.5
+791,Juice Vitality,ytYVlCkrzcAxxUcbT4NTgA,New York,NY,Juice Bars & Smoothies,40.72966,-73.9834,1,160,5
+792,Great NY Noodle Town,d_TC6Om2EBTzHVm_lCgNtg,New York,NY,Cantonese,40.71503638,-73.99711724,1,1261,3.5
+793,Paul's Da Burger Joint,yk8j4W34Cy4K6uy9Btkf9Q,New York,NY,Burgers,40.72860718,-73.98806,2,949,4
+794,The Marshal,u-MUL83NUy2gsbV80WZnAA,New York,NY,Breakfast & Brunch,40.76122,-73.99396,3,711,4
+795,Perk Kafe,xHBpwGzxxbC3vTahHWdABg,New York,NY,Coffee & Tea,40.74776474,-73.97704077,1,374,4.5
+796,ROYCE' Madison,2V_KAoQjjnmbnLJwMNEnLg,New York,NY,Chocolatiers & Shops,40.75948,-73.97422,3,218,4.5
+797,Russian Vodka Room,wJ9VnRlrJJP5QnVohBDjoA,New York,NY,Lounges,40.76349,-73.9848,2,534,4
+798,Vandal,6GwOwhHPW8YCSfaOtM-55Q,New York,NY,American (New),40.72104,-73.99326,3,1376,3.5
+799,Lillie's Victorian Establishment,2RbBg1CIxBZAc2MQPdxkcA,New York,NY,Bars,40.737661,-73.991113,2,1039,3.5
+800,Fonda East Village,0AWdTQZ97G4rutU0z9Di6g,New York,NY,Mexican,40.722852,-73.98286,2,744,4
+801,The Loeb Boathouse,tGsfb07uPQk6QloAB-XC2w,New York,NY,Boating,40.77543723,-73.96878704,3,1231,3.5
+802,Prune,4LV-7hGnfimAhoAuYhgvEg,New York,NY,American (New),40.723909,-73.989379,3,1035,3.5
+803,MáLà Project,Kqb7MjTPNkjPMoFRd-rWpw,New York,NY,Chinese,40.72713,-73.98542,2,586,4
+804,Mari Vanna,btLgjl8CEgW2wvB0ZI-Aqg,New York,NY,Russian,40.73878,-73.98858,3,630,4
+805,Kiki's,_4Grm99JEHnDWskCHAJfUg,New York,NY,Greek,40.71449719,-73.99185539,2,568,4
+806,Fig & Olive - Fifth Ave,FON3TceJNsTC0I0mzBwOKg,New York,NY,Mediterranean,40.7594109,-73.97554874,3,1133,3.5
+807,Posto,X8Hl9OezX-Yr9Jir3fsF7g,New York,NY,Pizza,40.73483,-73.98282,2,588,4
+808,Spicy Village,8ig0yf0003DAp4YOGTlbVg,New York,NY,Chinese,40.71695,-73.99327,1,625,4
+809,Hot N Juicy Crawfish,NGcz0alNBJVnirAL-r8K9g,New York,NY,Cajun/Creole,40.73950993,-74.00160065,2,451,4.5
+810,Senza Gluten,LnMRZhKtOrW1eL04FiPYTg,New York,NY,Italian,40.72909111,-74.00036992,2,539,4
+811,Distilled,0EtZ1xhnXWp4-ysNVwItYA,New York,NY,American (New),40.7189994,-74.0062975,2,761,4
+812,B&H Dairy,koh-4_SAbshwZ8EBRmXcmg,New York,NY,Vegetarian,40.7284584,-73.9881668,1,458,4.5
+813,Haswell Green's,f4QBa0khsF9Ut99Tc9IMIA,New York,NY,Cocktail Bars,40.76301,-73.98416,2,229,4.5
+814,BLVD Bistro,Z-hDHjP4Eza6BA4G97tzVA,New York,NY,American (Traditional),40.8043626,-73.9557515,2,755,4
+815,ICHIRAN Midtown,l7G5tDA96xbA_bx1ZgkOeg,New York,NY,Ramen,40.74839,-73.99062,2,625,4
+816,Bareburger,6qcydPo5eTSB4XHyyZDvkA,New York,NY,Burgers,40.760559,-73.990356,2,872,4
+817,Decoy,l44CFBTejwL0ElKmkH7xQQ,New York,NY,Chinese,40.734196,-74.006519,3,408,4
+818,The Casbah - Halal Cart,tNTXNCUta735nGb0nfSrKQ,New York,NY,Halal,40.77373719,-73.98171365,1,250,4.5
+819,Nippori,8iSU_z2JkjjUEjm-Ur470w,New York,NY,Tapas/Small Plates,40.7628542,-73.984939,2,798,4
+820,Saxon + Parole,7y7E2wavr-HBwEmq2snMLw,New York,NY,American (New),40.72521,-73.99247,3,754,4
+821,Osamil,X8yEmEDD9ZTkHoIRFqzcRw,New York,NY,Korean,40.74697,-73.9864,2,379,4
+822,Shalel Kitchen,Bt6RoIcazXayp1a8lMSvzA,New York,NY,Lounges,40.7760977,-73.9793291,2,597,4
+823,Tacombi - Nolita,d7YbQzGlmawMGAzUHzZvuw,New York,NY,Mexican,40.7240304,-73.9939028,2,1081,3.5
+824,Loring Place,AKHA6ZU8uM3vmLwH2hqH_A,New York,NY,American (New),40.73299,-73.99754,3,370,4.5
+825,La Masseria,faukkggAc_tuJ4THYlf4fg,New York,NY,Italian,40.76086863,-73.9863488,3,576,4
+826,Pepolino Restaurant,MeUq9lombxM9alxs64tejQ,New York,NY,Tuscan,40.72077,-74.00489,3,534,4
+827,L'ADRESSE,scjoZtbTQHi35xhAlUm2iQ,New York,NY,American (New),40.75403,-73.98539,2,522,4
+828,Delmonico's,7NqFIuXuRwm6WuuseLxAVw,New York,NY,Steakhouses,40.70507,-74.01019,4,1010,4
+829,Black Tap - Soho,D2qV8sDdHEFlHbVz7VSHRQ,New York,NY,American (Traditional),40.723807,-74.004351,2,1106,3.5
+830,I CE NY,fxN2HYA1uyrdkXR9XX-Uwg,New York,NY,Desserts,40.7296252,-74.00094963,1,584,4
+831,Hole in the Wall,rQpO1Eie_zmeAOQ9s-T0sQ,New York,NY,Breakfast & Brunch,40.70837,-74.00563,2,488,4
+832,Souvlaki GR,gG0pitVnSaUMGbEL3boF0g,New York,NY,Greek,40.72122,-73.98711,2,861,4
+833,The Bao,SNhDVaf_n7VDZcfry8mYdA,New York,NY,Chinese,40.72939,-73.9889199,2,1044,3.5
+834,Keki Modern Cakes,pHfsXEPHkGXkmGo-PbwB6w,New York,NY,Bakeries,40.71656,-73.99822,2,523,4
+835,POST,ihplCj2HKWR7z-bBKf8Nzw,New York,NY,Breakfast & Brunch,40.72298,-73.98302,2,234,4.5
+836,Khe-Yo,BKMCAYb9EAivUm3p-vrC9w,New York,NY,Laotian,40.716906,-74.008587,2,701,4
+837,City Sandwich,TPmyEYOmvpOvihbQk-wJwA,New York,NY,Sandwiches,40.7606559,-73.9912021,2,493,4
+838,Paris Baguette,SLrIiJMqIOdN5KNYpinINQ,New York,NY,Bakeries,40.74738,-73.98627,2,687,4
+839,Aldea,A6SR9hesSJn96ps99GsZow,New York,NY,Portuguese,40.738754,-73.993867,3,602,4
+840,Excellent Dumpling House,7ZQSMqWzvXMSetXnii2fBg,New York,NY,Dim Sum,40.74404944,-73.99502819,2,553,4
+841,Poketeria,hXqf7aEgI4feEzHDpNXHLQ,New York,NY,Poke,40.7496948,-73.9831894,2,297,4.5
+842,Lions & Tigers & Squares Detroit Pizza,i9UMc9gLeORtCLd-OoGgYg,New York,NY,Pizza,40.74506,-73.99834,1,367,4.5
+843,Banter,Zc7Jbuwe3XO-EaVXIh_TYQ,New York,NY,Breakfast & Brunch,40.72787,-74.0010999,2,380,4.5
+844,Chennai Garden by Tiffin Wallah,ZrdTKStTAo2pchslOev1KQ,New York,NY,Indian,40.74298,-73.98274,2,758,4
+845,Gantry Plaza State Park,vnU9DTqqjQ5W8v_fq21O6A,Long Island City,NY,Parks,40.74489501,-73.95830356,1,325,5
+846,Real Kung Fu Little Steamed Buns Ramen,uaFHoq-a5XqxF-bsOK9_Qg,New York,NY,Chinese,40.76162866,-73.98681816,2,960,3.5
+847,Covina,M2wnfA4K3DVwuAv0DCPTdQ,New York,NY,Mediterranean,40.7423054,-73.9832149,3,325,4.5
+848,Il Mulino New York - Downtown,DtnlLLvcqeEUIyZTypHnzw,New York,NY,Italian,40.729807,-73.999159,4,535,4
+849,Sigiri,NzU2hb0z0jGEOOv0-zTLEQ,New York,NY,Sri Lankan,40.726261,-73.986686,2,590,4
+850,Dian Kitchen,2UxAkvKkkWNwqZi9H0OzWw,New York,NY,Chinese,40.72772,-73.98321,2,179,5
+851,Ninja New York,P8YbK6_2TnXHojrs0ycisg,New York,NY,Japanese,40.71673,-74.0093,3,1682,3.5
+852,Emily - West Village,m86CNmYThtzzWB3nPnrhbg,New York,NY,Pizza,40.72933007,-74.00384001,2,539,4
+853,Punjabi Grocery & Deli,PdzL9svqapSqH4o8bF86Pw,New York,NY,Indian,40.72272254,-73.98662246,1,383,4.5
+854,Sam's Fried Ice Cream,KxK58KNpMw9A-gnysr6I5w,New York,NY,Ice Cream & Frozen Yogurt,40.71582461,-73.99149401,1,281,4.5
+855,Momoya,NRJq2BNcbjqAyxUB_bw7gw,New York,NY,Sushi Bars,40.74262552,-73.99664819,2,603,4
+856,T-Swirl Crêpe,r4D_1Jzw1Bl-iUYbEGwT_A,New York,NY,Desserts,40.7325935,-73.9851807,1,296,4.5
+857,Rafele Ristorante,PajKY49h4SpvSr-TW3lwCQ,New York,NY,Italian,40.73094712,-74.00411718,3,458,4
+858,Food Gallery 32,ya8HC5_97zGt3wNPWNNENA,New York,NY,Food Court,40.74761,-73.98631,1,799,4
+859,The Hummus & Pita,dzI6MzwKbrhJN5dEeUbX0w,New York,NY,Mediterranean,40.73928,-73.99605,2,622,4
+860,Saluggi's,kVrTff8uDMSBAaceBwQ7dg,New York,NY,Pizza,40.720104,-74.003578,2,548,4
+861,La Grenouille,KIIYvTOc0Uv90aUHEGvoSg,New York,NY,French,40.75972,-73.97555,4,420,4
+862,Saltwater Coffee,SZXOfQbLyF3C5GwYBj6VvA,New York,NY,Coffee & Tea,40.7304578,-73.9839175,2,191,4.5
+863,Spaghetti Incident,XHhRAKq6DArQXYhkgvwaow,New York,NY,Italian,40.72231534,-73.98994543,2,557,4
+864,Keybar,iIixO6VbKitogJGBRIalYA,New York,NY,Lounges,40.7299112,-73.981883,1,586,4
+865,Baar Baar,jYhbUh1TV7SCfPxjIhVpcg,New York,NY,Gastropubs,40.72443789,-73.9915524,3,577,4
+866,Matcha n' More,VSSsrO8JVn7fwbfqnw9fyQ,New York,NY,Coffee & Tea,40.71801,-73.99727,2,314,4.5
+867,Las Ramblas,WFOaud0jlpXQ9aEecipUqg,New York,NY,Tapas/Small Plates,40.731958,-74.0015486,2,703,4
+868,Park Avenue Tavern,LHxZgTddXIp_S1sL3nNG9w,New York,NY,American (Traditional),40.75031,-73.9783999,2,722,4
+869,Arturo's,BgGz5IdV53bGb4o7opR5zg,New York,NY,Pizza,40.72735633,-74.00049448,2,656,4
+870,Smith & Wollensky,L3L6xDdrS8c67BLZROg79A,New York,NY,Steakhouses,40.75523748,-73.97094725,4,1383,3.5
+871,Mezetto,B8uEWQoTILlTNajCmJVOcQ,New York,NY,Mediterranean,40.72288638,-73.98893626,2,577,4
+872,Wowfulls,htXRzg3a3jMQt3mg_zM-yQ,New York,NY,Desserts,40.721047,-73.983519,1,320,4.5
+873,Sala One Nine,OUzTKc5YcCPOPG5e8Di67g,New York,NY,Tapas Bars,40.7398849,-73.9931044,2,791,4
+874,Green Symphony,8AM1gGIk6KVb27Q9TYwD9Q,New York,NY,Vegetarian,40.7575266,-73.9880669,1,463,4
+875,Miss KOREA BBQ,eIPiRkf6KCo9A9Ok-Nr_ow,New York,NY,Korean,40.747452,-73.986336,2,1636,3.5
+876,Stumptown Coffee Roasters,IKB1DhFCLFY98mTt_l6u2A,New York,NY,Coffee & Tea,40.73281939,-73.997962,2,419,4
+877,Osteria Cotta,Q1_UvNyONsaVS_VC1mD9Dw,New York,NY,Italian,40.78554,-73.97263,2,819,4
+878,Super Taste,bT4CDzyhV-frXV6ijvXnvw,New York,NY,Chinese,40.71513,-73.99341,1,535,4
+879,MarieBelle,FeVmZXCk9y7Gff48e79AVA,New York,NY,Chocolatiers & Shops,40.72321077,-74.00245063,3,484,4
+880,Orwasher's,aSDGr4NIfm1C6IspWSNaQw,New York,NY,Bakeries,40.772197,-73.955062,2,373,4.5
+881,Rosa Mexicano,DFRpXRHjOHBxYHiuvwaEQQ,New York,NY,Mexican,40.77118,-73.98311,2,1157,3.5
+882,Soju Haus,wfGFM8zvdw9Zs-jxsTdjww,New York,NY,Korean,40.7468603,-73.9851724,2,525,4
+883,NORMA Gastronomia Siciliana,vVVmHacu2YAxKfpIjhfd1g,New York,NY,Italian,40.743553,-73.980026,2,316,4.5
+884,Third Rail Coffee,rd0VGG_d_qNp_aBW_HJM4w,New York,NY,Coffee & Tea,40.72994,-73.99959,1,461,4
+885,Remi Flower & Coffee,U3Ueh2bHtp3DLjrdc5w5fQ,New York,NY,Coffee & Tea,40.753781,-73.9689989,2,220,4.5
+886,Chick-fil-A,k7n_31GE1Yq1KD77_DO1Tw,New York,NY,Fast Food,40.751764,-73.9860817,1,575,4
+887,Avant Garden,jvPYm9rYK-5ddnjU30Oz4Q,New York,NY,American (New),40.7261499,-73.98402,3,300,4.5
+888,Dudley's,L7_MTRZyYp_i-cnH2CU4zQ,New York,NY,Cafes,40.71798,-73.99042,2,662,4
+889,Yonah Schimmel's Knish Bakery,amoGEhgkE4xcNXwYqWeoaw,New York,NY,Kosher,40.7231,-73.99015,1,608,4
+890,Jacques Torres Chocolate,sTruePBzPT4yg086E13BNA,New York,NY,Chocolatiers & Shops,40.72767,-74.00708,2,431,4
+891,Ivan Ramen,wqYHhMnpdfUVGL5JI3Wi_A,New York,NY,Ramen,40.72058,-73.98454,2,1214,3.5
+892,Ruffian,fFkqEyupjc5x2iJQIPcpLw,New York,NY,Wine Bars,40.7264,-73.98411,2,192,4.5
+893,Buenos Aires,ZgIfySJ3cnB1svoyJAiCzg,New York,NY,Argentine,40.72531509,-73.98303986,3,519,4
+894,Melt Shop,0Bm2vjJW5Fw7_Maer6kDUw,New York,NY,Sandwiches,40.760711,-73.9823111,2,575,4
+895,The Cinnamon Snail,SRlMTom32vVRkyvISUnnFQ,New York,NY,Vegan,40.75032054,-73.99196867,2,481,4
+896,Rockwood Music Hall,RtN5ETLqYiMqhr71fu6cpg,New York,NY,Music Venues,40.722332,-73.988571,2,410,4.5
+897,Emack & Bolio's,wUp0XV7RPDcMvgfxpvrgfw,New York,NY,Ice Cream & Frozen Yogurt,40.77382,-73.95139,2,434,4
+898,Union Square,S12Cjy-gIHB-Vlx0EjOzVw,New York,NY,Parks,40.73525877,-73.9907527,1,410,4
+899,Melba's,4rWJGwb3rjDoZHA0AECa5A,New York,NY,Southern,40.80314688,-73.95650692,2,993,4
+900,Pizza By Certé,gL4V5DN3yH45hbXqvy8-9g,New York,NY,Pizza,40.76037261,-73.97011854,1,412,4
+901,Beer Culture,f5csvsEkOEdBWLeBOdZcLg,New York,NY,Beer Bar,40.75960047,-73.98971468,2,346,4.5
+902,Rosie's,9aJ1MVTthZw3QjqoG7mPjg,New York,NY,Mexican,40.72492,-73.99079,2,669,4
+903,Masseria Dei Vini,zg9Jrtx9rqTXeaqufSOxHQ,New York,NY,Wine Bars,40.7684,-73.98558,3,428,4
+904,99 Cent Fresh Pizza,MwcRbM6lS6_8N67LmyBELA,New York,NY,Pizza,40.76458,-73.98247,1,479,4
+905,Popbar,2lvzbwis0mfYjfhD0UBbHQ,New York,NY,Ice Cream & Frozen Yogurt,40.73059,-74.00202,1,733,4
+906,Wine:30,hDgpiXE5_d4Is1sJ5kUBQg,New York,NY,Wine Bars,40.7448157,-73.9837861,2,730,4
+907,Kahve,rA4CDLdNtwnszjGT_KWzPQ,New York,NY,Cafes,40.76483,-73.98774,1,544,4
+908,Mémé Mediterranean,enT7NJ7tLMvUMCWQcsUonw,New York,NY,Mediterranean,40.736412,-74.00616,2,575,4
+909,Antica Ristorante,0Tvwk0hvgaY0QVIsZGTZKQ,New York,NY,Italian,40.70393551,-74.01217318,3,482,4.5
+910,Double Zero,EBK0OkVMBg_n_KxAU_4DZg,New York,NY,Pizza,40.7261288,-73.9896645,2,442,4.5
+911,Boulton & Watt,Cz6It2NB_QBXCjnlsWGZSA,New York,NY,American (New),40.7224963,-73.986439,2,668,4
+912,OatMeals,1Mqydw0kcU_dgRgsWpo_7g,New York,NY,Bakeries,40.730389,-74.000533,1,387,4.5
+913,Angkor Cambodian Bistro,CaizM2WaGPX5eRLDOJaqIw,New York,NY,Cambodian,40.76226,-73.95914,2,262,4.5
+914,Cock & Bull,OxqUWRZFUOz3r6_4bh4mfg,New York,NY,British,40.75609088,-73.98048584,2,525,4
+915,Magnolia Bakery West Village,85x3dZCMBj4rJ2LAdW-wFg,New York,NY,Bakeries,40.73589,-74.00498,2,2322,3
+916,Teppen Ramen,icpLRhJ1jpBX1zBGkt7Xqg,New York,NY,Ramen,40.75929,-73.96879,2,348,4.5
+917,Heidelberg Restaurant,PJeuLlvja4ZKv_tHq_pE1A,New York,NY,German,40.77742,-73.95172,2,667,4
+918,Feast,#NAME?,New York,NY,American (New),40.7325189,-73.9881274,3,462,4
+919,Mission Ceviche,fKmvZZDSyBE5cfHwybPc_g,New York,NY,Seafood,40.74108,-74.004628,2,210,4.5
+920,El Centro,sTu5z5HUcIYykg97HHj8xA,New York,NY,Mexican,40.76602,-73.98688,2,832,4
+921,Le Coucou,obFs12x7mgYPGxgalBd22w,New York,NY,French,40.71909,-74.00013,4,512,4
+922,Bathtub Gin,89XYJZSPKt-dqjE1zyTIzQ,New York,NY,Speakeasies,40.74367236,-74.00333762,2,940,3.5
+923,Mercato,Ve6GVzzJpR5QIIPdcn6ViQ,New York,NY,Italian,40.75619,-73.9937,2,837,4
+924,New Wonjo Restaurant,VbUy299ch56p4GYZTNDbvA,New York,NY,Korean,40.74788,-73.98665,2,1287,3.5
+925,Dominique Ansel Kitchen,G6zVjf98xwxYqi_DhnihYQ,New York,NY,Bakeries,40.73479843,-74.00189209,2,535,4
+926,Little Beet Table,S4Euw4DYSqeU4KcteFXqHg,New York,NY,American (New),40.74116,-73.98545,2,513,4
+927,Intrepid Sea Air & Space Museum,XJYyDr_2cPl-SGhSANHH7A,New York,NY,Museums,40.764525,-73.999613,1,472,4
+928,Mango Mango Dessert - New York,YFwncruQm44GTqn2jZ9BwQ,New York,NY,Desserts,40.71528,-73.99811,1,634,4
+929,Pado,BOz0qTUMtAfljd3Vn1rerQ,New York,NY,Japanese,40.7314,-73.98589,2,220,4.5
+930,The Capital Grille,ud4-0gH8YlAExTBJoADPtw,New York,NY,Seafood,40.7078814,-74.01020267,3,568,4
+931,The Morgan Library & Museum,Uplh1HiI1wOc6p8DR7O3QA,New York,NY,Libraries,40.749242,-73.981397,1,276,4.5
+932,Orchard Grocer,YnDs59_dEQ61TdCD4fdyEw,New York,NY,Delis,40.717731,-73.990165,2,179,4.5
+933,Ariana Afghan Kebab Restaurant,IFZ3_d01uflGixWrrD8_gg,New York,NY,Afghan,40.76515,-73.98813,2,472,4
+934,Noreetuh,rCpO-kMHljieU0geK0RJQw,New York,NY,American (New),40.727275,-73.985221,3,413,4
+935,Riko Peruvian Cuisine,ySIIdmS4oh-QL2dny7GscA,New York,NY,Peruvian,40.750076,-73.995422,2,665,4
+936,Forlini's Restaurant,bdKc4CSJPv-XLgxVwrtPrg,New York,NY,Italian,40.71695,-73.99957,2,412,4.5
+937,Cafe Noi,Kq6WMwG2kYrYpFF62TiY3A,New York,NY,Coffee & Tea,40.77168,-73.95649,2,388,4
+938,The Skylark,JZ06I46tmJlvYA_NZ7zyxw,New York,NY,Cocktail Bars,40.754295,-73.989,3,525,4
+939,Hao Noodle and Tea By Madam Zhu's Kitchen,scTDvJ2M2jDbb1ntVeIyxA,New York,NY,Chinese,40.73348632,-73.9998929,2,665,4
+940,Xi'an Famous Foods,tsHdT1GDibhYYA0JA7Z9tg,New York,NY,Noodles,40.7620999,-73.97732,2,444,4
+941,Agave,QwL5LS436Xjo9MHFi2rc-g,New York,NY,Mexican,40.734767,-74.002415,2,1262,3.5
+942,Casa Enrique,dgaNriM1VdI2nGochhHE_g,Long Island City,NY,Mexican,40.74340434,-73.95435037,2,1124,4
+943,Mille-Feuille Bakery,cO9E0n9ulzJ6eZ4TKrFx1A,New York,NY,Bakeries,40.72933,-73.99808,2,463,4
+944,Tony's Di Napoli,l7OsDvMOO3ji3fg0nT0QzA,New York,NY,Italian,40.76435,-73.96408,2,637,4
+945,Mei Jin Ramen,W5RSIwNKBa7k0jeAs5KDYg,New York,NY,Ramen,40.775028,-73.953491,2,603,4
+946,J.G. Melon,77EedCTJY1biWIYSzAulCQ,New York,NY,American (Traditional),40.77105,-73.95931,2,1222,3.5
+947,Wolfnights,jpw7iGUzsj_AECKt351X8w,New York,NY,American (New),40.7198896,-73.9885666,2,515,4
+948,Birch Coffee,qF-tPT7PkyNKbs2Js6EdNg,New York,NY,Coffee & Tea,40.74367789,-73.98641447,2,350,4.5
+949,Pierre Loti Midtown,26M6nFVuA4bvhU0TBZOuLg,New York,NY,Wine Bars,40.75587175,-73.96735506,2,308,4.5
+950,Bowery Ballroom,No5Z9wDq4E2TcYbgtr1AiA,New York,NY,Music Venues,40.72036,-73.99338,2,376,4.5
+951,Guantanamera,HApdNNztx8Q7VF_9vkoAUA,New York,NY,Cuban,40.76589196,-73.98374754,2,882,3.5
+952,Jadis,iQB37FNqD_G5_QMrp9ovnw,New York,NY,French,40.72102347,-73.99100541,2,487,4
+953,Réunion,_8Oq6MmhqLgzQDVYXWLxuA,New York,NY,Cocktail Bars,40.75964944,-73.99130828,2,678,4
+954,DiSO's Italian Sandwich Society,XTSScqbNujYlE7c_nHmS1g,New York,NY,Food Trucks,40.75273233,-73.97050906,2,246,4.5
+955,The Picnic Basket,qYqe-kArMUebiEvxUPUlVg,New York,NY,Cafes,40.7516246,-73.9858858,2,414,4
+956,Adel's Famous Halal Food,L6DAp6L1ZJKeeDN2PwoOLQ,New York,NY,Middle Eastern,40.76394,-73.99193,1,227,4.5
+957,Vatan Indian Vegetarian,3uEkZEAp7biQEtt0S7W1Vg,New York,NY,Indian,40.74236,-73.9803699,3,612,4
+958,BXL Zoute,8cT6XDwI9KiCaoVohlx42Q,New York,NY,Belgian,40.74174,-73.992627,2,395,4
+959,Congee Village,rYw5rQbWRX9buZHZbxqWdA,New York,NY,Cantonese,40.7187,-73.99031,2,1537,3.5
+960,Shorty's,N4q6Y9cpvUbJ3O5rydrSbQ,New York,NY,Bars,40.758103,-73.992529,2,676,4
+961,Tavern29,NTwOc9yQ1xl5deeVzZqxfw,New York,NY,Pubs,40.74431,-73.98394,2,888,4
+962,Reichenbach Hall,BxNs9d8rEW3Tls-nVdmIgA,New York,NY,Bars,40.7508,-73.98401,2,720,4
+963,Yoon Haeundae Galbi,EKkHfSYTm266-ZBve3SdgA,New York,NY,Korean,40.74997,-73.98442,3,330,4.5
+964,La Shuk,87WfLan3_7K_OYPYd5zUIA,New York,NY,Moroccan,40.78863,-73.94875,2,354,4.5
+965,DORADO Tacos & Quesadillas,SCQvI5pAJmD-OMm37kkS6Q,New York,NY,Mexican,40.73396,-73.99312,1,608,4
+966,Hu Kitchen,NH-5cniqVsAZQPOxhZ8IgQ,New York,NY,Breakfast & Brunch,40.735823,-73.994185,2,927,3.5
+967,Round K,kuKSvCZDFrgOrY-dcrOefg,New York,NY,Coffee & Tea,40.718906,-73.990966,2,354,4.5
+968,Rubin Museum of Art,1FgUXp_ZwBbdoeiIgGw_0w,New York,NY,Art Museums,40.74013,-73.99772,1,255,4.5
+969,Gotham West Market,bBDzXNM7Y7_8WE2Sm6R_ig,New York,NY,Food Court,40.7624395,-73.9971462,2,544,4
+970,Attaboy,H7S7-vF2z_HfaLo6BGPetw,New York,NY,Cocktail Bars,40.7188874,-73.9913351,2,513,4
+971,Teado Tea Shop,AYjVpQ5jYz5gJJqXh_B_CA,New York,NY,Coffee & Tea,40.7172143,-73.9949616,1,335,4.5
+972,Harry's,pNYcGGAj4AYaExlmrEmfUw,New York,NY,Steakhouses,40.70451,-74.0098299,3,664,4
+973,DTUT,doBm7WkYKNG-KRExevrRtA,New York,NY,Bars,40.78085422,-73.94934118,1,481,4
+974,Chola,QqrEF8_ZQCGi63cL10J5oA,New York,NY,Indian,40.76026,-73.96576,2,580,4
+975,Golden Unicorn,6zM0c7vvoddgza_qvKkATw,New York,NY,Dim Sum,40.71367705,-73.99716336,2,1724,3.5
+976,Kaoru,diz6_4TVSP6EdWEZCZ0Acg,New York,NY,Japanese,40.75202,-73.96977,2,301,4.5
+977,Zengo,2IHGMQVQ7zmb89WyiiH1AQ,New York,NY,Latin American,40.74975739,-73.97545661,3,992,3.5
+978,The Original Soupman,HuSaFUqMDLbovpU-XbR9UA,New York,NY,Soup,40.76536117,-73.98343927,1,462,4
+979,Chow House,0dDCDQz7DrKkSvu9h2hcQw,New York,NY,Chinese,40.72915,-74.00072,2,318,4.5
+980,Chloe's Soft Serve Fruit Co,QirEbcHa6wXkkVnDpO5cqQ,New York,NY,Ice Cream & Frozen Yogurt,40.73733,-73.99058,2,504,4
+981,Duane Park,VuR3lhMA80aH42jrBM_C8A,New York,NY,Supper Clubs,40.7249172,-73.9925423,4,440,4
+982,Pi Bakerie and Eaterie,s_YuHngBngWwzpcKNIM71A,New York,NY,Bakeries,40.72361,-74.00329,2,254,4.5
+983,Benjamin Prime,zR92VSkXj1rt5KTJ15bkAw,New York,NY,Steakhouses,40.7514936,-73.97984968,4,252,4.5
+984,Burke & Wills,mWQiNb6IUGqIRLzR3rE-Fg,New York,NY,Australian,40.7833619,-73.979579,3,404,4
+985,Tina's Cuban Cuisine,efxcTuq9Web2AWehfmYMQw,New York,NY,Cuban,40.76306,-73.9757,2,583,4
+986,P.J. Clarke's,54SrQVVhGcvfuIkFabQ8KQ,New York,NY,American (Traditional),40.7589148,-73.9680336,2,876,3.5
+987,Friedman's,zUv1BNm_a9-3DkxrCG3tng,New York,NY,Breakfast & Brunch,40.755311,-73.998389,2,547,4
+988,Au Za'atar,0FaLilJs2VN83hOEBcBnPg,New York,NY,Wine Bars,40.728901,-73.981185,2,752,4
+989,212 Steakhouse,uTXRhiUm5yXLLjC1oGy7ig,New York,NY,Steakhouses,40.75634,-73.966489,3,633,4
+990,Tableside Italian Cook Shoppe,Pu09oBx1ekEZiFt90PsSIw,New York,NY,Italian,40.7266287,-73.9863384,3,231,4.5
+991,Casa Adela,RThvexVhZQ8KA6JAr0UkCQ,New York,NY,Latin American,40.72264,-73.97973,2,447,4
+992,Guggenheim Museum,jv0Gu4wXNuyaoJMBOXqfVQ,New York,NY,Museums,40.78301,-73.95912,1,982,3.5
+993,The Kati Roll Company,kB3QyyhHFVyhGgp35Rnuew,New York,NY,Indian,40.729634,-74.000964,1,860,4
+994,Naruto Ramen,2f0EWTvp3YDtGNKEEXKKhA,New York,NY,Ramen,40.78117,-73.9525,2,893,3.5
+995,Nix,DodCeSN_hkXCJDoJ0uVxKg,New York,NY,American (New),40.73323,-73.99359,2,511,4
+996,Tonkatsu Matsunoya,KJTTqIxuB0BEsYxLaYyAZw,New York,NY,Japanese,40.7533493,-73.97415924,2,360,4
+997,Vic's,xbrQ2dHuQoFJmNxAuOky4A,New York,NY,American (New),40.72693,-73.99319,2,430,4
+998,Cup & Cup,h881bFbXCIZdI99-mPOoyA,New York,NY,Coffee & Tea,40.746245,-73.984846,1,335,4
+999,deep indian kitchen - indikitch,sCHiXF4mZcsiY8_cBHNiqw,New York,NY,Indian,40.7422142,-73.99044037,2,697,4
