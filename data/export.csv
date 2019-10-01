@@ -1,0 +1,101 @@
+,Business,Business ID,City,State,Category,Latitude,Longitude,Price,Reviews,Rating
+0,Versailles Restaurant,hZm7TunlrksQbgS0ssXbUg,Miami,FL,Cuban,25.7650962116388,-80.2527339189549,$$,4428,4.0
+1,CVI.CHE 105,1h8-r9cLeXxW99HhlRUnlA,Miami,FL,Peruvian,25.775383,-80.1884004,$$,3411,4.5
+2,The Salty Donut,ESuHmNFTNcehIInpRVE4jg,Miami,FL,Donuts,25.799394633506,-80.196191,$$,1861,4.5
+3,Kush,rtpuuxmQ1Z-6jyL39wvzZQ,Miami,FL,Burgers,25.795817,-80.194701,$$,2284,4.5
+4,Wynwood Walls,JKqPGItF2La1XH8LxGc1tw,Miami,FL,Public Art,25.8010798482138,-80.2001069750077,0,931,4.5
+5,CRUST,skXvWBZH8zJpqh6QbXrGzw,Miami,FL,Italian,25.77836,-80.20596,$$,891,4.5
+6,Sweet Dogs,qcJR_IqnKz3AJituEd8i1Q,Miami,FL,Hot Dogs,25.76435,-80.27265,$,662,4.5
+7,Bombay Darbar,V3btCvWa1flTBYt2YKea_g,Miami,FL,Indian,25.72938,-80.24079,$$,936,4.5
+8,Fratellino,oxtMfBGmVNE18pFVuw7lFg,Coral Gables,FL,Italian,25.74917,-80.26011,$$,1064,5.0
+9,KYU,MfkZSdJ0w4-SOLJiEyHU5A,Miami,FL,Asian Fusion,25.80089,-80.20017,$$$,1216,4.5
+10,WHISK Gourmet Food & Catering,opz-z4k-WK0KsyyR1Vwg5A,Miami,FL,American (New),25.70289,-80.28466,$$,1111,4.5
+11,Mandolin Aegean Bistro,nvwXcXSSNoV7FDWvYi_OKA,Miami,FL,Mediterranean,25.8158343715716,-80.1916524861649,$$,1547,4.5
+12,SUGARCANE Raw Bar Grill,Gs9HQfdTl3fsVc4nO7DtDg,Miami,FL,Sushi Bars,25.8069387673562,-80.1932905216295,$$$,2019,4.0
+13,Greenstreet Cafe,hZ66PVSH6Miscv2n8KxAEg,Miami,FL,Breakfast & Brunch,25.72676,-80.24405,$$,1467,4.0
+14,Tacos & Tattoos,fylIHQF8VF2DwLWNUCq3og,Miami,FL,Mexican,25.6711452954603,-80.3849353035918,$$,1708,4.0
+15,Azucar Ice Cream Company,I7u1vVujk_CQcs15IReBeQ,Miami,FL,Ice Cream & Frozen Yogurt,25.76597,-80.21969,$,883,4.5
+16,Fratelli Milano,C0oehMtQSl_JOKWIX6ORzQ,Miami,FL,Italian,25.7734433,-80.1898863,$$,1030,4.5
+17,Blue Collar,zg6uzbByuPUwFKicsou2tQ,Miami,FL,American (Traditional),25.83782,-80.184616,$$,1307,4.5
+18,Fireman Derek's Bake Shop & Cafe,HOnK10X9fZ6s-D5vqg-uMA,Miami,FL,Desserts,25.8034052,-80.1952659,$$,794,4.5
+19,Beaker & Gray,4hQHbmo-sEaqKVPvn62H_Q,Miami,FL,Cocktail Bars,25.80233,-80.19473,$$,1158,4.5
+20,Doce Provisions,zGf5kkYEU01NQ04DRYVPNQ,Miami,FL,Cuban,25.7678695,-80.2143218,$$,605,4.5
+21,Truluck's,ys97r_tdXZy1o8lwx3jl3A,Miami,FL,Seafood,25.7666322556485,-80.1901618736801,$$$,952,4.5
+22,Lagniappe,OiAbSSvf6WW1PRfJrQwnUQ,Miami,FL,Music Venues,25.8090801239014,-80.191162109375,$$,838,4.5
+23,Vizcaya Museum & Gardens,B_jlpohkrH5AvbvCghwV3Q,Miami,FL,Museums,25.74428,-80.21117,0,597,4.5
+24,Michael's Genuine Food & Drink,9lv6P-U1KU9G63gcmgjFQA,Miami,FL,American (New),25.81321,-80.19269,$$$,1668,4.0
+25,specialTEA Lounge,Yaq6I5aAraLKZQLjPNa9-w,Miami,FL,Coffee & Tea,25.746051,-80.369099,$,745,4.5
+26,Red Carpet Italian,YMruiRKiR9JaRWbXMeud9w,Miami,FL,Italian,25.764462014499,-80.2513395226845,$$,358,5.0
+27,Tinta y Café,5Rq4O0gzalOQ79NenZUyqg,Miami,FL,Cuban,25.7592231998562,-80.2586163778576,$,620,4.5
+28,The Spillover,bqTmkGBOUV6ReXWk1BVa2w,Miami,FL,Seafood,25.728452,-80.240638,$$,729,4.5
+29,Osteria Vecchio Piemonte,MGYbITlEe6e5n9ECn31gZg,Miami,FL,Italian,25.7010162587277,-80.3631066310896,$$,487,4.5
+30,Zuma,Y6E0G3ATW4597V4jl1uxyA,Miami,FL,Japanese,25.7705248376992,-80.189613327384,$$$$,1269,4.0
+31,Gyu-Kaku Japanese BBQ,wUgicT0LJbrHnav4d8SwSA,Miami,FL,Japanese,25.7614869910215,-80.1943418392868,$$,1227,4.0
+32,Lung Yai Thai Tapas,QAPNSxiFhcNSdmjM0dD8Tw,Miami,FL,Tapas/Small Plates,25.76595,-80.22329,$$,1185,4.0
+33,Lulu,1fuI_Nki75ddxnG9WoI_Vg,Miami,FL,American (New),25.72712,-80.24387,$$,955,4.0
+34,Mojo Donuts & Fried Chicken,BhB5VpKuUjE-OUrB4uSb4Q,Miami,FL,Chicken Shop,25.7325713,-80.3394201,$,514,4.5
+35,Toro Toro,8_cuODO8G0yuzQO_fRW5kA,Miami,FL,Steakhouses,25.7726278759243,-80.1853631123726,$$$,952,4.5
+36,Old's Havana Cuban Bar & Cocina,UXHxLN3DcDGI57uDIfCuJA,Miami,FL,Cuban,25.7655942148975,-80.2192383373502,$$,814,4.5
+37,Al-Amir,ZSYcyBaoHyLmWlU7-Sj13w,Miami,FL,Lebanese,25.7333734324302,-80.2990882453202,$,245,5.0
+38,Doggi's Arepa Bar,csOvPYi5lCIdrqOWhQeuug,Miami,FL,Venezuelan,25.7509798,-80.2154527,$$,1070,4.0
+39,Panther Coffee,XnpCTDsJ_ETcltDY-A7CSw,Miami,FL,Coffee & Tea,25.79994,-80.19924,$$,973,4.0
+40,Crazy About You,ix8ifP1jQM9ektdVAs19sQ,Miami,FL,Mediterranean,25.7620078715623,-80.1889463275432,$$,1449,4.0
+41,Café Roval,OYu_URmWlpi46iQhnmMHJQ,Miami,FL,Seafood,25.82935,-80.18729,$$,707,4.5
+42,1-800-Lucky,eo2W_Hakq3SVGUsUSBHvGw,Miami,FL,Asian Fusion,25.79931,-80.198,$$,1077,4.0
+43,La Camaronera Seafood Joint & Fish Market,LAGUcnPAa8ByFqq7J4WNjQ,Miami,FL,Seafood,25.7725377,-80.2277893,$$,769,4.0
+44,Mi Rinconcito Mexicano,glR7sMvBkT8_Hcq5Mrl0KA,Miami,FL,Tacos,25.76579,-80.22789,$,706,4.0
+45,MyRoots Juice Bar & Kitchen,SJS0THOuL5s14IYUdBSrkQ,Miami,FL,Juice Bars & Smoothies,25.68854,-80.39473,$$,521,4.5
+46,The Taco Stand,9h9nMMvnINJWMt7TjJtePw,Miami,FL,Mexican,25.80088,-80.20138,$,587,4.5
+47,Vegan & Juice,94ePCZEhAXCRt8kPi8fMeQ,Miami,FL,Juice Bars & Smoothies,25.7675054830983,-80.3683320649429,$,289,5.0
+48,Jaguar Latin-American Kitchen,dwHtZFNaxq62OUVG9FxndA,Miami,FL,Latin American,25.728408,-80.242791,$$,847,4.0
+49,Bunbury,Obt7Njta79-1CNtNwhNXiw,Miami,FL,Argentine,25.788458,-80.193363,$$,446,4.5
+50,CVI.CHE 105,1h8-r9cLeXxW99HhlRUnlA,Miami,FL,Peruvian,25.775383,-80.1884004,$$,3411,4.5
+51,The Salty Donut,ESuHmNFTNcehIInpRVE4jg,Miami,FL,Donuts,25.799394633506,-80.196191,$$,1861,4.5
+52,Kush,rtpuuxmQ1Z-6jyL39wvzZQ,Miami,FL,Burgers,25.795817,-80.194701,$$,2284,4.5
+53,Wynwood Walls,JKqPGItF2La1XH8LxGc1tw,Miami,FL,Public Art,25.8010798482138,-80.2001069750077,0,931,4.5
+54,CRUST,skXvWBZH8zJpqh6QbXrGzw,Miami,FL,Italian,25.77836,-80.20596,$$,891,4.5
+55,Sweet Dogs,qcJR_IqnKz3AJituEd8i1Q,Miami,FL,Hot Dogs,25.76435,-80.27265,$,662,4.5
+56,Bombay Darbar,V3btCvWa1flTBYt2YKea_g,Miami,FL,Indian,25.72938,-80.24079,$$,936,4.5
+57,Fratellino,oxtMfBGmVNE18pFVuw7lFg,Coral Gables,FL,Italian,25.74917,-80.26011,$$,1064,5.0
+58,KYU,MfkZSdJ0w4-SOLJiEyHU5A,Miami,FL,Asian Fusion,25.80089,-80.20017,$$$,1216,4.5
+59,WHISK Gourmet Food & Catering,opz-z4k-WK0KsyyR1Vwg5A,Miami,FL,American (New),25.70289,-80.28466,$$,1111,4.5
+60,Mandolin Aegean Bistro,nvwXcXSSNoV7FDWvYi_OKA,Miami,FL,Mediterranean,25.8158343715716,-80.1916524861649,$$,1547,4.5
+61,SUGARCANE Raw Bar Grill,Gs9HQfdTl3fsVc4nO7DtDg,Miami,FL,Sushi Bars,25.8069387673562,-80.1932905216295,$$$,2019,4.0
+62,Greenstreet Cafe,hZ66PVSH6Miscv2n8KxAEg,Miami,FL,Breakfast & Brunch,25.72676,-80.24405,$$,1467,4.0
+63,Tacos & Tattoos,fylIHQF8VF2DwLWNUCq3og,Miami,FL,Mexican,25.6711452954603,-80.3849353035918,$$,1708,4.0
+64,Azucar Ice Cream Company,I7u1vVujk_CQcs15IReBeQ,Miami,FL,Ice Cream & Frozen Yogurt,25.76597,-80.21969,$,883,4.5
+65,Fratelli Milano,C0oehMtQSl_JOKWIX6ORzQ,Miami,FL,Italian,25.7734433,-80.1898863,$$,1030,4.5
+66,Blue Collar,zg6uzbByuPUwFKicsou2tQ,Miami,FL,American (Traditional),25.83782,-80.184616,$$,1307,4.5
+67,Fireman Derek's Bake Shop & Cafe,HOnK10X9fZ6s-D5vqg-uMA,Miami,FL,Desserts,25.8034052,-80.1952659,$$,794,4.5
+68,Beaker & Gray,4hQHbmo-sEaqKVPvn62H_Q,Miami,FL,Cocktail Bars,25.80233,-80.19473,$$,1158,4.5
+69,Doce Provisions,zGf5kkYEU01NQ04DRYVPNQ,Miami,FL,Cuban,25.7678695,-80.2143218,$$,605,4.5
+70,Truluck's,ys97r_tdXZy1o8lwx3jl3A,Miami,FL,Seafood,25.7666322556485,-80.1901618736801,$$$,952,4.5
+71,Lagniappe,OiAbSSvf6WW1PRfJrQwnUQ,Miami,FL,Music Venues,25.8090801239014,-80.191162109375,$$,838,4.5
+72,Vizcaya Museum & Gardens,B_jlpohkrH5AvbvCghwV3Q,Miami,FL,Museums,25.74428,-80.21117,0,597,4.5
+73,Michael's Genuine Food & Drink,9lv6P-U1KU9G63gcmgjFQA,Miami,FL,American (New),25.81321,-80.19269,$$$,1668,4.0
+74,specialTEA Lounge,Yaq6I5aAraLKZQLjPNa9-w,Miami,FL,Coffee & Tea,25.746051,-80.369099,$,745,4.5
+75,Red Carpet Italian,YMruiRKiR9JaRWbXMeud9w,Miami,FL,Italian,25.764462014499,-80.2513395226845,$$,358,5.0
+76,Tinta y Café,5Rq4O0gzalOQ79NenZUyqg,Miami,FL,Cuban,25.7592231998562,-80.2586163778576,$,620,4.5
+77,The Spillover,bqTmkGBOUV6ReXWk1BVa2w,Miami,FL,Seafood,25.728452,-80.240638,$$,729,4.5
+78,Osteria Vecchio Piemonte,MGYbITlEe6e5n9ECn31gZg,Miami,FL,Italian,25.7010162587277,-80.3631066310896,$$,487,4.5
+79,Zuma,Y6E0G3ATW4597V4jl1uxyA,Miami,FL,Japanese,25.7705248376992,-80.189613327384,$$$$,1269,4.0
+80,Gyu-Kaku Japanese BBQ,wUgicT0LJbrHnav4d8SwSA,Miami,FL,Japanese,25.7614869910215,-80.1943418392868,$$,1227,4.0
+81,Lung Yai Thai Tapas,QAPNSxiFhcNSdmjM0dD8Tw,Miami,FL,Tapas/Small Plates,25.76595,-80.22329,$$,1185,4.0
+82,Lulu,1fuI_Nki75ddxnG9WoI_Vg,Miami,FL,American (New),25.72712,-80.24387,$$,955,4.0
+83,Mojo Donuts & Fried Chicken,BhB5VpKuUjE-OUrB4uSb4Q,Miami,FL,Chicken Shop,25.7325713,-80.3394201,$,514,4.5
+84,Toro Toro,8_cuODO8G0yuzQO_fRW5kA,Miami,FL,Steakhouses,25.7726278759243,-80.1853631123726,$$$,952,4.5
+85,Old's Havana Cuban Bar & Cocina,UXHxLN3DcDGI57uDIfCuJA,Miami,FL,Cuban,25.7655942148975,-80.2192383373502,$$,814,4.5
+86,Al-Amir,ZSYcyBaoHyLmWlU7-Sj13w,Miami,FL,Lebanese,25.7333734324302,-80.2990882453202,$,245,5.0
+87,Doggi's Arepa Bar,csOvPYi5lCIdrqOWhQeuug,Miami,FL,Venezuelan,25.7509798,-80.2154527,$$,1070,4.0
+88,Panther Coffee,XnpCTDsJ_ETcltDY-A7CSw,Miami,FL,Coffee & Tea,25.79994,-80.19924,$$,973,4.0
+89,Crazy About You,ix8ifP1jQM9ektdVAs19sQ,Miami,FL,Mediterranean,25.7620078715623,-80.1889463275432,$$,1449,4.0
+90,Café Roval,OYu_URmWlpi46iQhnmMHJQ,Miami,FL,Seafood,25.82935,-80.18729,$$,707,4.5
+91,1-800-Lucky,eo2W_Hakq3SVGUsUSBHvGw,Miami,FL,Asian Fusion,25.79931,-80.198,$$,1077,4.0
+92,La Camaronera Seafood Joint & Fish Market,LAGUcnPAa8ByFqq7J4WNjQ,Miami,FL,Seafood,25.7725377,-80.2277893,$$,769,4.0
+93,Mi Rinconcito Mexicano,glR7sMvBkT8_Hcq5Mrl0KA,Miami,FL,Tacos,25.76579,-80.22789,$,706,4.0
+94,MyRoots Juice Bar & Kitchen,SJS0THOuL5s14IYUdBSrkQ,Miami,FL,Juice Bars & Smoothies,25.68854,-80.39473,$$,521,4.5
+95,The Taco Stand,9h9nMMvnINJWMt7TjJtePw,Miami,FL,Mexican,25.80088,-80.20138,$,587,4.5
+96,Vegan & Juice,94ePCZEhAXCRt8kPi8fMeQ,Miami,FL,Juice Bars & Smoothies,25.7675054830983,-80.3683320649429,$,289,5.0
+97,Jaguar Latin-American Kitchen,dwHtZFNaxq62OUVG9FxndA,Miami,FL,Latin American,25.728408,-80.242791,$$,847,4.0
+98,Bunbury,Obt7Njta79-1CNtNwhNXiw,Miami,FL,Argentine,25.788458,-80.193363,$$,446,4.5
+99,Biscayne Bay Brewing Company,guNgOKI3PneTfLyRIWw-sQ,Miami,FL,Gastropubs,25.7953217564865,-80.3263844576721,$$,453,4.5
