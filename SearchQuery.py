@@ -72,6 +72,16 @@ business_df = pd.DataFrame({
     "Reviews": review_count,
     "Rating": rating
 })
+
+#filters out money column
+business_df['Price'].replace(to_replace=['0'],value=1,inplace=True)
+business_df['Price'].replace(to_replace=['$'],value=1,inplace=True)
+business_df['Price'].replace(to_replace=['$$'],value=2,inplace=True)
+business_df['Price'].replace(to_replace=['$$$'],value=3,inplace=True)
+business_df['Price'].replace(to_replace=['$$$$'],value=4,inplace=True)
+
 business_df
 
-business_df.to_csv('data/'+(location)+'_'+(thing)+'.csv')
+business_df.to_csv('data/export.csv')
+
+# business_df.to_csv('data/'+(location)+'_'+(thing)+'.csv')
