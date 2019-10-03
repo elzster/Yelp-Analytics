@@ -79,11 +79,11 @@ business_df['Price'].replace(to_replace=['$'],value=1,inplace=True)
 business_df['Price'].replace(to_replace=['$$'],value=2,inplace=True)
 business_df['Price'].replace(to_replace=['$$$'],value=3,inplace=True)
 business_df['Price'].replace(to_replace=['$$$$'],value=4,inplace=True)
-
+business_df.drop_duplicates()
 business_df
 
 #drop duplicate values returned
-business_df.drop_duplicates()
+
 
 #export file to csv
 business_df.to_csv('data/export.csv')
