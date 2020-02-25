@@ -35,7 +35,7 @@ def query_search(set_num):
 
     response = requests.get(url, headers=headers, params=url_params)
     return response.json()
-
+    
 for offset_num in range(offset):
     try:
         response = query_search(offset_num)

@@ -1,51 +1,51 @@
 ,Business,Business ID,City,State,Category,Latitude,Longitude,Price,Reviews,Rating
-0,Ono Seafood,GG55nmUtP4VvH3eoGLqhwQ,Honolulu,HI,Seafood,21.281391,-157.813885,1,3115,4.5
-1,Helena's Hawaiian Food,I4Fg_jFodQHQlQBVn1aF3g,Honolulu,HI,Hawaiian,21.33095,-157.8651,2,2742,4.5
-2,Duke's Waikiki,ojq84p8G6Pg0NccdDdN1jA,Honolulu,HI,Hawaiian,21.2766593329125,-157.82779908421,2,5783,4.0
-3,Tikis Grill & Bar,rkDYptk3oCFzm38odi2ZCA,Honolulu,HI,Seafood,21.2722816528123,-157.822815251864,2,3790,4.0
-4,Da Buttah Lobstah,1Im8b5IHim05I1zosr-8bg,Honolulu,HI,Seafood,21.31423,-157.86088,2,51,4.0
-5,Tonkatsu Tamafuji,oy17YNAyTO6bsbgshAbYNw,Honolulu,HI,Japanese,21.2747544891171,-157.81558929335,2,940,4.5
-6,Tonkatsu Ginza Bairin,D9s3QQtmc-FP1WyMlGKnZg,Honolulu,HI,Japanese,21.2800471529532,-157.830973863602,2,1786,4.5
-7,Nico's Pier 38,e92Yu5L9D6n_kt-nHWMsJg,Honolulu,HI,Seafood,21.31891,-157.87674,2,3257,4.0
-8,The Pig & The Lady,Jex4ITxMGOLpow2nea_VgA,Honolulu,HI,Vietnamese,21.311483,-157.863587,2,2152,4.0
-9,Hula Grill Waikiki,0syWUHwfAz1jfuNY6KymPQ,Honolulu,HI,Hawaiian,21.2769126476298,-157.827881611884,2,2557,4.0
-10,Musubi Cafe Iyasume,e_AUsOWI72nSLtzo-HpQrA,Honolulu,HI,Japanese,21.2764427274494,-157.823775991203,1,3140,4.5
-11,Steak Shack,Glu8zh3-L5B0wxiTorH9Xw,Honolulu,HI,Steakhouses,21.2779970999642,-157.833561100851,2,756,4.5
-12,Paia Fish Market Waikiki,5gFPpTCXQvYI0-KJCVeNdw,Honolulu,HI,Seafood,21.27923,-157.82654,2,464,4.5
-13,Aloha Table,GKWj4ld3UQqbMzxnwHHj-A,Honolulu,HI,Hawaiian,21.27983,-157.8282,2,360,4.0
-14,Roy's Waikiki,7vjcWaAOZ1aMH5ysi9liGQ,Honolulu,HI,Seafood,21.278637,-157.831707,3,2428,4.5
-15,Lucky Belly,OD2az4BHKbj1OLfk9rRDbA,Honolulu,HI,Bars,21.31181,-157.86213,2,1702,4.5
-16,O'Kims,tWotMnsl-xySlZd5kKCVAw,Honolulu,HI,Korean,21.3111270947131,-157.862296365201,2,245,4.5
-17,Blue Water Shrimp & Seafood,QhrrsVikphbDwCK4KzYD6A,Honolulu,HI,Seafood,21.2830658,-157.8372664,2,588,4.0
-18,Don e Don,Ol9n0WyuhVKbFH93PKJutw,Honolulu,HI,Korean,21.2975,-157.84034,2,148,4.5
-19,Waioli Grill & Cafe,enA_d7WrS_evKaC9AaAmXA,Honolulu,HI,Japanese,21.278835,-157.81356,2,145,4.5
-20,The Surfing Pig Hawaii,fSpHacSpz9j4aC-a1_tw5A,Honolulu,HI,Cocktail Bars,21.2824306288506,-157.798621272503,2,488,4.5
-21,Scratch Kitchen & Meatery,lmMAx73_PtbQO7GYw3IZdQ,Honolulu,HI,Comfort Food,21.2931262620048,-157.850539190304,2,895,4.0
-22,XO Restaurant,_u0uydPLbh7B2YS4qJSAqQ,Honolulu,HI,American (New),21.2849727613815,-157.8026490595,2,153,4.0
-23,Piggy Smalls,F6mqRSAo7Nwc4oMZvR0E0w,Honolulu,HI,Asian Fusion,21.2931299656708,-157.852707330872,2,992,4.0
-24,Heavenly Island Lifestyle,yFpntnrLeHZnMl8j2srV4g,Honolulu,HI,Breakfast & Brunch,21.279867,-157.827689,2,1928,4.0
-25,Goofy Cafe & Dine,np1X_huOAm9xp2QP_5C_xg,Honolulu,HI,Cafes,21.2842431553515,-157.836902216077,2,2595,4.0
-26,Liliha Bakery,jND55lN9oCEswxpKcQvzXg,Honolulu,HI,Bakeries,21.3242099789429,-157.858041772294,1,2635,4.5
-27,Ramen Nakamura,HitVAr2rKaxyxFOwjXN-GA,Honolulu,HI,Ramen,21.281537,-157.830704,2,1585,4.0
-28,Senia,1lATM1J4bPRDoGK3Jch46A,Honolulu,HI,American (Traditional),21.31138,-157.8635899,3,429,4.5
-29,Fish Hook Cafe,ONY8_8NwIzuWaOgIghxvzw,Honolulu,HI,Poke,21.2837229962646,-157.831982038915,2,260,5.0
-30,EARL kaimuki,7xPDPdi7wuopiov42JK_uA,Honolulu,HI,Sandwiches,21.28252,-157.80013,2,756,4.5
-31,Itchy Butt,hoZ8pAVP7fCS_ydEguCvog,Honolulu,HI,Korean,21.30088,-157.83901,1,541,4.0
-32,Rainbow Drive-In,IjB5DBtI2wVFx8J-Tm74Hg,Honolulu,HI,Hawaiian,21.2758882094531,-157.814526557922,1,3973,4.0
-33,Sweet E's Cafe,vw8oVAGk6sub-h42QTRYGA,Honolulu,HI,Cafes,21.286171,-157.813595,2,1417,4.5
-34,Wagaya,mwpjOAGsKHviqre0mhqOwQ,Honolulu,HI,Ramen,21.2946461981562,-157.828398713509,2,617,4.5
-35,Marukame Udon,o3edBEVjRcYJnQWrSFd9Bg,Honolulu,HI,Japanese,21.279528,-157.825991,1,9233,4.5
-36,Tommy Bahama Restaurant | Bar | Store - Waikiki,ahkEx0XDkSDbL_2QeVOmlg,Honolulu,HI,American (New),21.2811643021006,-157.830705424681,3,987,4.5
-37,Side Street Inn,EknzDsB63qDymetHTxU1vw,Honolulu,HI,Hawaiian,21.278868,-157.81421,2,1516,4.0
-38,Rigo,BBAYgnS7RPQw0b1W-7iKkg,Honolulu,HI,Spanish,21.28342,-157.81368,2,186,4.0
-39,House Without A Key,oh7QGVIOjwXxq81lW_Za6Q,Honolulu,HI,Seafood,21.2775925941243,-157.83196874785,3,988,4.0
-40,Fresh Catch,7bncPlKtc6LBfcSV4E00Lg,Honolulu,HI,Hawaiian,21.28805,-157.81017,2,965,4.5
-41,Alejandros Mexican Food,tMblql2_RxgBJmn65RtTmg,Honolulu,HI,Mexican,21.35241,-157.85787,2,660,4.5
-42,Alan Wong's Honolulu,aYkyqjHbwjiOcZaFmWDhTg,Honolulu,HI,Hawaiian,21.295282,-157.831576,4,2040,4.0
-43,Uncle Bo's Pupu Bar & Grill,sv5XtLix7a2rNME8CFmjeg,Honolulu,HI,American (Traditional),21.2776489257812,-157.81379699707,2,1672,4.0
-44,Mami's Empanadas,jEtyBjixkRY99MEWYX9Itw,Honolulu,HI,Latin American,21.272949,-157.821605,1,359,5.0
-45,Ahi Assassins Fish,3njcbeDFmUugxOFAk-zyig,Honolulu,HI,Poke,21.292571,-157.822322,2,624,4.5
-46,Kikue,4CN7uqzxPBlOSAw-TIUJYg,Honolulu,HI,Japanese,21.28263,-157.79941,0,19,4.0
-47,Hamada General Store,ki53tLEsB6T9nuGIGJa04g,Honolulu,HI,Salad,21.298268,-157.855258,2,46,4.5
-48,La Cucina Ristorante Italiano,XjeM5txSM6i_1uG8hcZV4g,Honolulu,HI,Italian,21.3012349441688,-157.854904532433,2,678,4.5
-49,Cinnamon's at the Ilikai,43YCISAbm884HDESWdnW8A,Honolulu,HI,Breakfast & Brunch,21.284167,-157.838402,2,1492,4.0
+0,Smoke N Clouds,pVI8VVCwPgM40qV7DqVrDQ,Brooklyn,NY,Vape Shops,40.7028634,-73.9874951,2,4,5.0
+1,Kings Of Smoke,QdxuPWiA09UXkKEaqlHt_Q,New York,NY,Vape Shops,40.7188722398476,-73.9908434183168,0,1,5.0
+2,Canal Smoke Shop,z-9RB7fyhUNzSWA6qsXYPw,New York,NY,Vape Shops,40.7203,-74.00345,2,1,5.0
+3,Rozina Smoke Shop,Y91K22UMwa-nwLgyMuerKg,Long Island City,NY,Tobacco Shops,40.750972,-73.939611,2,1,5.0
+4,Manhattan Tobacco,t_mbjLirfKKGL7A4dJSynA,New York,NY,Tobacco Shops,40.7681545,-73.9857203,0,1,5.0
+5,Clinton Novelties Smoke Shop,oiEZ0L0XLw6wp4Ew9hL8pw,New York,NY,Tobacco Shops,40.72072,-73.98412,3,4,4.5
+6,Mikey's Smoke Shop,hBJR0yhqacXqsTh52Vp0Gw,Brooklyn,NY,Tobacco Shops,40.69083,-73.99149,2,2,2.5
+7,Smoke Scene,33dLybEPZXG5KWmARAaWEQ,New York,NY,Tobacco Shops,40.7637122,-73.9811377,2,16,4.5
+8,Smoke N Vape,e7tLfoO_HdRFEQSsJf_gAQ,Manhattan,NY,Tobacco Shops,40.7603912,-73.990799,2,28,4.5
+9,Brooklyn Smoke Shop,q8tmLaEkNBnKufr0aiQxFw,Brooklyn,NY,Tobacco Shops,40.6815652,-73.9759461,2,32,4.5
+10,Grand Smoke Shop,YAFN2mH6-Q7gooTeOMSG5Q,New York,NY,Tobacco Shops,40.714234,-73.961147,4,4,3.0
+11,559 Smoke Shop,-hvU8Lf0fHYnOJPqrg829w,South Slope,NY,Vape Shops,40.66614,-73.99197,0,2,5.0
+12,The Smoking Shop,DCABiBZ3J071F9qOjZdx4g,New York,NY,Tobacco Shops,40.733877,-74.001795,2,55,4.5
+13,Bushwick Smoke Shop,HjOFHa0vp0_dZInbN_9XyQ,Brooklyn,NY,Tobacco Shops,40.70606,-73.9230199,2,13,4.0
+14,Continental Smoke Shop,coSuev3TiZhkFh5t79YdDA,Forest Hills,NY,Tobacco Shops,40.720965,-73.8439,1,16,3.0
+15,Sunrise Optimo Smoke Shop,7iqreM5Erm-ySgEg_HyqAA,Brooklyn,NY,Vape Shops,40.68391,-73.995445,0,2,2.5
+16,East Village Smoke Shop,y1zlYkyOv1vr29zN8JQSOw,New York,NY,Tobacco Shops,40.72939,-73.98434,1,5,4.5
+17,200 Tobacco,h4YNGXpHIkv4Xooy0mSwUg,New York,NY,Vape Shops,40.7548920235106,-73.9885643217532,0,2,5.0
+18,Metro Beer & Smoke,YE29xQI-zOdUzVyrSEKVTQ,Brooklyn,NY,Vape Shops,40.7145,-73.958,0,3,4.5
+19,Barclay Rex,Bo3rlLSe7V6GNr5N-JuYTw,New York,NY,Tobacco Shops,40.704889911312,-74.0086724140497,2,23,4.5
+20,Bayridge Smoke Shop,EaZhaK4j-NExkjDLHg58nA,Brooklyn,NY,Tobacco Shops,40.6232225,-74.0279664,1,7,4.5
+21,Master Piece Vape & Smoke Lounge,xOO-SuSQQwyuj62ItsO_mQ,Bushwick,NY,Vape Shops,40.698314666748,-73.9211273193359,2,24,4.0
+22,Empire Tobacco Shop,yIw0D2WpYJhp6Ij52ISSaQ,Brooklyn,NY,Tobacco Shops,40.693925,-73.963871,2,4,3.0
+23,Herald Smoke Shop,PUDXDZ5ZVpSr5XLao3ArSQ,New York,NY,Tobacco Shops,40.74807,-73.98738,0,1,5.0
+24,DB Smoke shop,hf6flMdJbak_Cpte3Y40vA,Brooklyn,NY,Tobacco Shops,40.68063,-73.97731,2,7,4.5
+25,Midtown Smoke and Vape,w9Vz7XWRZ7oDQANIBBy17Q,New York,NY,Vape Shops,40.7543770597024,-73.9957453399505,2,23,4.0
+26,Lucky Tabacco Shop,cO8f9XXm9v3rMOrEjn532A,Brooklyn,NY,Vape Shops,40.7139329544847,-73.9513175189495,0,1,5.0
+27,Vape N Smoke,Kse04_3Eypjb3QsdeT4cPQ,New York,NY,Vape Shops,40.72936,-73.98691,0,7,4.5
+28,Vape & Smoke,dYzx5Ww0MX6ciKBVn26RiA,Fresh Meadows,NY,Tobacco Shops,40.7398611054761,-73.7888338019603,2,23,4.5
+29,Tobacco N Vape,pUEKeI25YdeUw8vy3wqySQ,Astoria,NY,Tobacco Shops,40.7631631609278,-73.921322,1,14,3.5
+30,Master Piece Smoke Shop,b7o0WhADXtXPpqA_yXQKUg,Brooklyn,NY,Tobacco Shops,40.732165,-73.9550364017487,2,30,4.5
+31,Nassau Grocery,bf85XazWE0NGvC90PY-I6g,New York,NY,Tobacco Shops,40.70925,-74.0088,1,1,2.0
+32,Amazing Store & Smoke Shop,ZgbUx3hEbIYnyJ3tz9zq1g,New York,NY,Tobacco Shops,40.77578,-73.98021,1,6,3.0
+33,Mulberry Street Cigars,1EZgk5mvhWn2veB1Wvoe_A,New York,NY,Tobacco Shops,40.7187388502883,-73.9974748772752,2,25,3.5
+34,Jubilee Vape and Smoke,cMKWvKYptCS53j-IJxzALg,New York,NY,Vape Shops,40.71511,-74.00758,0,5,2.0
+35,Cigar N Vape,x5hdB8E4Hp-6J3D_NKuK5A,Brooklyn,NY,Vape Shops,40.6690315,-73.9867848,2,9,5.0
+36,Smoke Shop Mister,U-aD3KrCa7shsycW8oJDpA,North Bergen,NJ,Head Shops,40.8137024,-74.0098784,1,16,4.0
+37,Tremont Lotto & Hookah Plus,TrrH3OtzWN_TCvjaXDwBgA,Bronx,NY,Tobacco Shops,40.8423080444336,-73.8455429077148,2,12,4.0
+38,Broadway Smoke Shop,0qgg-hhQRyfoYO5ONEeS5A,New York,NY,Vape Shops,40.8253409530344,-73.9516153871933,0,3,5.0
+39,Cigar Tobacco Shop,WYqlxyIeu7TfIbNIIBZ6EA,Bedford-Stuyvesant,NY,Tobacco Shops,40.6806759096774,-73.9547490701079,3,2,5.0
+40,Vape N Cloud,7Rw5Q2YcQ3DqOXzFaiguNg,Brooklyn,NY,Vape Shops,40.677757,-73.949455,0,13,4.0
+41,Bedford Exotics,ueUUnNxXWa8XquevnydPaQ,Brooklyn,NY,Vape Shops,40.717278,-73.957932,1,8,3.0
+42,Smokeology,PMMigAdxiZj92AOiWkPLUQ,New York,NY,Tobacco Shops,40.81188,-73.94217,0,2,4.5
+43,Jersey City Vape & Smoke Shop,3IaVhoIYG2p3BoBkm3Tlxw,Jersey City,NJ,Tobacco Shops,40.72282,-74.04897,2,5,3.0
+44,2nd Ave Smoke Shop,2rrJ-7S_3ibvj1Z7-CWzVg,New York,NY,Tobacco Shops,40.7259407,-73.989212,4,9,4.0
+45,Jubilee Smoke & Vape,zIS1f9H_yFb8-nsTQ8jqJQ,New York,NY,Tobacco Shops,40.776928,-73.9572498,0,7,4.5
+46,Smoke Scene,xgU6TvYwdEbx80PySYUg-g,New York,NY,Tobacco Shops,40.765193,-73.9876845,2,15,3.0
+47,Smoke Shop,Cfn6LOzyDISx-K5MmrgCMA,Jersey City,NJ,Vape Shops,40.731678,-74.0666275,2,7,4.0
+48,Paulus Hook Vape Shop,nFIUiAGZRpXJt3vZJTE8aw,Jersey City,NJ,Tobacco Shops,40.71441,-74.03819,2,3,4.5
+49,Smoke Shop & Convenience Store,yDj04VuZJVZzyjmbNcaj-Q,New York,NY,Vape Shops,40.72753,-74.0007,0,6,4.0
