@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Local Flavor Scout</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  </head>
+  <body>
+    <section class="hero">
+      <header class="site-header">
+        <a class="brand" href="/" aria-label="Local Flavor Scout home">
+          <span class="brand-mark">L</span>
+          <span>Local Flavor Scout</span>
+        </a>
+        <nav class="top-nav" aria-label="Primary categories">
+          <button class="nav-chip" data-term="Restaurants" type="button">Restaurants</button>
+          <button class="nav-chip" data-term="Burgers" type="button">Burgers</button>
+          <button class="nav-chip" data-term="Cafes" type="button">Cafes</button>
+          <button class="nav-chip" data-term="Pizza" type="button">Pizza</button>
+        </nav>
+        <span class="mode-pill" id="sourceLabel">Demo CSV</span>
+      </header>
+
+      <div class="hero-inner">
+        <div class="hero-copy">
+          <p class="eyebrow">Yelp analytics, simplified</p>
+          <h1>Find what is buzzing across local food markets.</h1>
+          <p class="hero-subtitle">Search the original project data or connect live Yelp results when you deploy.</p>
+        </div>
+
+        <form class="search-panel" id="searchForm">
+          <label class="term-field">
+            Search
+            <input name="term" value="Restaurants" placeholder="Best brunch spots, burgers, cafes">
+          </label>
+          <label>
+            Market
+            <select name="location">
+              {% for city in cities %}
+              <option value="{{ city }}">{{ city }}</option>
+              {% endfor %}
+            </select>
+          </label>
+          <label>
+            Source
+            <select name="mode">
+              <option value="demo">Demo CSV</option>
+              <option value="live" {% if not live_enabled %}disabled{% endif %}>Live Yelp API</option>
+            </select>
+          </label>
+          <button type="submit" aria-label="Search">Search</button>
+        </form>
+      </div>
+    </section>
+
+    <main>
+
+      <section class="metrics-grid" aria-label="Search summary">
+        <article>
+          <span>Results</span>
+          <strong id="resultCount">-</strong>
+        </article>
+        <article>
+          <span>Avg Rating</span>
+          <strong id="averageRating">-</strong>
+        </article>
+        <article>
+          <span>Avg Reviews</span>
+          <strong id="averageReviews">-</strong>
+        </article>
+        <article>
+          <span>Top Category</span>
+          <strong id="topCategory">-</strong>
+        </article>
+      </section>
+
+      <section class="content-grid">
+        <div class="results-section">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Top businesses</p>
+              <h2 id="resultsTitle">New York, NY Restaurants</h2>
+            </div>
+          </div>
+          <div class="business-list" id="businessList"></div>
+        </div>
+
+        <aside class="insights-panel">
+          <div>
+            <p class="eyebrow">Category mix</p>
+            <div class="bar-list" id="categoryBreakdown"></div>
+          </div>
+          <div>
+            <p class="eyebrow">Ratings</p>
+            <div class="bar-list compact" id="ratingBreakdown"></div>
+          </div>
+        </aside>
+      </section>
+    </main>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+  </body>
+</html>

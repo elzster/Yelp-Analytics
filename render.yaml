@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: yelp-analytics-webapp
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: YELP_API_KEY
+        sync: false

@@ -1,91 +1,158 @@
-import json
+import argparse
+import os
+from pathlib import Path
+
 import pandas as pd
-import numpy as np
 import requests
-from config import api_key
-print("Welcome to our Yelp Search Program!!!\nHere you can search many categories by city and state,\nAnd export the listings to a near CSV file.\nJust follow the Prompts!\n")
-print("What type of Category would you like to search for? i.e Restaurant")
-thing = input()
-print("What city and state are you searching? i.e. New York City, NY")
-location = input()
-print("Offset Page Range? i.e. 50 results per page")
-offset = int(input())
 
-name = []
-city = []
-state = []
-category = []
-latitude = []
-longitude = []
-price = []
-review_count = []
-business_id = []
-rating = []
 
-def query_search(set_num):
-    url = 'https://api.yelp.com/v3/businesses/search'
-    headers = {
-        'Authorization': 'Bearer {}'.format(api_key),}
-    url_params = { #parameters passed to the API
-    "term": thing,
-    "location": location,
-    'offset': offset_num,
-     "limit":50
-     }
+YELP_SEARCH_URL = "https://api.yelp.com/v3/businesses/search"
+DEFAULT_OUTPUT = Path("data/export.csv")
+PAGE_SIZE = 50
+OUTPUT_COLUMNS = [
+    "Business",
+    "Business ID",
+    "City",
+    "State",
+    "Category",
+    "Latitude",
+    "Longitude",
+    "Price",
+    "Reviews",
+    "Rating",
+]
 
-    response = requests.get(url, headers=headers, params=url_params)
-    return response.json()
-    
-for offset_num in range(offset):
+
+def get_api_key():
+    env_api_key = os.getenv("YELP_API_KEY")
+    if env_api_key:
+        return env_api_key
+
     try:
-        response = query_search(offset_num)
-        businesses=response['businesses']
-        for x in businesses:
-            name.append(x['name'])
-            business_id.append(x['id'])
-            city.append(x['location']['city'])
-            state.append(x['location']['state'])
-            latitude.append(x['coordinates']['latitude'])
-            longitude.append(x['coordinates']['longitude'])
-            review_count.append(x['review_count'])
-            rating.append(x['rating'])
-            category.append(x['categories'][0]['title'])
-            try:
-                price.append(x['price'])
-            except KeyError:
-                price.append(0)
-#             print(response)
-    except AttributeError:
-        print("error at ", offset_num)
-    except KeyError:
-        print("error at ", offset_num)
+        from config import api_key
+    except ImportError as exc:
+        raise SystemExit(
+            "Missing Yelp API key. Set YELP_API_KEY or copy config.example.py "
+            "to config.py and set api_key."
+        ) from exc
 
-business_df = pd.DataFrame({
-    "Business" : name,
-    "Business ID": business_id,
-    "City": city,
-    "State": state,
-    "Category": category,
-    "Latitude": latitude,
-    "Longitude": longitude,
-    "Price":price,
-    "Reviews": review_count,
-    "Rating": rating
-})
+    if not api_key or api_key == "replace-with-your-yelp-api-key":
+        raise SystemExit("Set YELP_API_KEY or set api_key in config.py before running.")
 
-#filters out money column
-business_df['Price'].replace(to_replace=['0'],value=1,inplace=True)
-business_df['Price'].replace(to_replace=['$'],value=1,inplace=True)
-business_df['Price'].replace(to_replace=['$$'],value=2,inplace=True)
-business_df['Price'].replace(to_replace=['$$$'],value=3,inplace=True)
-business_df['Price'].replace(to_replace=['$$$$'],value=4,inplace=True)
-business_df.drop_duplicates()
-business_df
-
-#drop duplicate values returned
+    return api_key
 
 
-#export file to csv
-business_df.to_csv('data/export.csv')
+def prompt_if_missing(value, message):
+    if value:
+        return value
+    return input(message).strip()
 
-# business_df.to_csv('data/'+(location)+'_'+(thing)+'.csv')
+
+def fetch_yelp_page(term, location, offset):
+    headers = {"Authorization": f"Bearer {get_api_key()}"}
+    params = {
+        "term": term,
+        "location": location,
+        "offset": offset,
+        "limit": PAGE_SIZE,
+    }
+    response = requests.get(YELP_SEARCH_URL, headers=headers, params=params, timeout=30)
+    response.raise_for_status()
+    return response.json()
+
+
+def normalize_price(price):
+    if not price:
+        return 0
+    return len(price)
+
+
+def business_to_row(business):
+    categories = business.get("categories") or [{}]
+    coordinates = business.get("coordinates") or {}
+    location = business.get("location") or {}
+
+    return {
+        "Business": business.get("name"),
+        "Business ID": business.get("id"),
+        "City": location.get("city"),
+        "State": location.get("state"),
+        "Category": categories[0].get("title"),
+        "Latitude": coordinates.get("latitude"),
+        "Longitude": coordinates.get("longitude"),
+        "Price": normalize_price(business.get("price")),
+        "Reviews": business.get("review_count"),
+        "Rating": business.get("rating"),
+    }
+
+
+def search_businesses(term, location, pages):
+    rows = []
+
+    for page in range(pages):
+        offset = page * PAGE_SIZE
+        payload = fetch_yelp_page(term, location, offset)
+        businesses = payload.get("businesses", [])
+
+        if not businesses:
+            break
+
+        rows.extend(business_to_row(business) for business in businesses)
+
+    return pd.DataFrame(rows, columns=OUTPUT_COLUMNS)
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Search Yelp businesses and export the results to CSV."
+    )
+    parser.add_argument("--term", help="Search term or category, such as Restaurants")
+    parser.add_argument("--location", help="City and state, such as New York City, NY")
+    parser.add_argument(
+        "--pages",
+        type=int,
+        default=None,
+        help="Number of 50-result pages to fetch",
+    )
+    parser.add_argument(
+        "--output",
+        type=Path,
+        default=DEFAULT_OUTPUT,
+        help="CSV output path",
+    )
+    return parser.parse_args()
+
+
+def main():
+    args = parse_args()
+
+    print(
+        "Welcome to the Yelp Search Program.\n"
+        "Search Yelp by term and location, then export listings to CSV.\n"
+    )
+
+    term = prompt_if_missing(
+        args.term,
+        "What category or term would you like to search for? e.g. Restaurants\n",
+    )
+    location = prompt_if_missing(
+        args.location,
+        "What city and state are you searching? e.g. New York City, NY\n",
+    )
+    pages = args.pages
+    if pages is None:
+        pages = int(input("How many 50-result pages should be fetched?\n").strip())
+
+    if pages < 1:
+        raise SystemExit("Pages must be 1 or higher.")
+
+    business_df = search_businesses(term, location, pages)
+    business_df = business_df.drop_duplicates(subset=["Business ID"])
+
+    args.output.parent.mkdir(parents=True, exist_ok=True)
+    business_df.to_csv(args.output, index=False)
+    print(f"Exported {len(business_df)} businesses to {args.output}")
+
+
+if __name__ == "__main__":
+    main()
