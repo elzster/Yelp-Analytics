@@ -12,6 +12,9 @@
   --plum: #4b2b33;
   --shadow: 0 22px 54px rgba(68, 30, 25, 0.17);
   --site-width: min(1500px, calc(100% - clamp(32px, 7vw, 120px)));
+  --pointer-x: 0;
+  --pointer-y: 0;
+  --scroll-depth: 0;
 }
 
 * {
@@ -23,6 +26,10 @@ body {
   color: var(--ink);
   background: var(--paper);
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+body.is-searching .search-panel {
+  box-shadow: 0 0 0 4px rgba(224, 7, 7, 0.18), var(--shadow);
 }
 
 .hero {
@@ -48,8 +55,13 @@ body {
     radial-gradient(circle at 72% 28%, rgba(255, 238, 208, 0.52) 0 12%, transparent 13%),
     linear-gradient(145deg, rgba(255, 255, 255, 0.16), rgba(255, 255, 255, 0));
   border-radius: 42% 58% 0 0;
-  transform: rotate(-10deg);
+  transform: translate(
+      calc(var(--pointer-x) * -16px),
+      calc(var(--pointer-y) * -10px)
+    )
+    rotate(-10deg);
   pointer-events: none;
+  transition: transform 180ms ease-out;
 }
 
 .site-header {
@@ -131,6 +143,8 @@ body {
   border-left: 8px solid rgba(255, 255, 255, 0.72);
   padding-left: 26px;
   max-width: 760px;
+  transform: translateY(calc(var(--scroll-depth) * -18px));
+  transition: transform 160ms ease-out;
 }
 
 .eyebrow {
@@ -177,6 +191,13 @@ h2 {
   box-shadow: var(--shadow);
   width: 100%;
   align-self: end;
+  transform:
+    perspective(1100px)
+    rotateX(calc(var(--pointer-y) * -2deg))
+    rotateY(calc(var(--pointer-x) * 2.2deg))
+    translateY(calc(var(--scroll-depth) * 16px));
+  transform-origin: 50% 70%;
+  transition: box-shadow 220ms ease, transform 160ms ease-out;
 }
 
 label {
@@ -221,9 +242,97 @@ button[type="submit"]:hover {
   background: var(--red-dark);
 }
 
+.depth-corridor {
+  position: absolute;
+  z-index: 1;
+  left: 50%;
+  bottom: -82px;
+  width: min(980px, 62vw);
+  height: 230px;
+  transform: translateX(-50%) perspective(760px) rotateX(64deg);
+  transform-origin: 50% 100%;
+  pointer-events: none;
+}
+
+.depth-corridor::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.14), transparent),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.18), rgba(224, 7, 7, 0.08) 54%, transparent);
+  clip-path: polygon(44% 0, 56% 0, 100% 100%, 0 100%);
+  filter: blur(0.4px);
+  opacity: 0.92;
+}
+
+.vanish-line {
+  position: absolute;
+  top: 2px;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.92), rgba(224, 7, 7, 0.08));
+  transform-origin: top;
+  opacity: 0.62;
+}
+
+.line-left {
+  left: 45%;
+  transform: rotate(-28deg);
+}
+
+.line-center {
+  left: 50%;
+  opacity: 0.36;
+}
+
+.line-right {
+  right: 45%;
+  transform: rotate(28deg);
+}
+
+.flow-node {
+  position: absolute;
+  display: grid;
+  gap: 3px;
+  min-width: 126px;
+  padding: 10px 12px;
+  color: var(--white);
+  background: rgba(48, 20, 18, 0.68);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 8px;
+  box-shadow: 0 18px 40px rgba(48, 20, 18, 0.22);
+  transform: rotateX(-64deg);
+}
+
+.flow-node span {
+  color: #ffd9c4;
+  font-size: 0.68rem;
+  font-weight: 900;
+}
+
+.flow-node strong {
+  font-size: 0.78rem;
+}
+
+.node-query {
+  left: 6%;
+  top: 88px;
+}
+
+.node-market {
+  left: 42%;
+  top: 42px;
+}
+
+.node-results {
+  right: 4%;
+  top: 124px;
+}
+
 main {
   width: var(--site-width);
-  margin: -52px auto 0;
+  margin: -34px auto 0;
   padding: 0 0 56px;
   position: relative;
   z-index: 2;
@@ -247,6 +356,13 @@ main {
 .metrics-grid article {
   padding: 20px 22px;
   box-shadow: 0 12px 32px rgba(68, 30, 25, 0.08);
+  transform: translateY(calc(var(--scroll-depth) * -8px));
+  transition: transform 180ms ease-out, box-shadow 180ms ease;
+}
+
+.metrics-grid article:hover {
+  box-shadow: 0 18px 40px rgba(68, 30, 25, 0.14);
+  transform: translateY(-3px);
 }
 
 .metrics-grid span {
@@ -267,11 +383,14 @@ main {
   display: grid;
   grid-template-columns: minmax(0, 2.15fr) minmax(340px, 0.85fr);
   gap: 22px;
+  align-items: start;
 }
 
 .results-section,
 .insights-panel {
   padding: 22px;
+  box-shadow: 0 18px 48px rgba(68, 30, 25, 0.08);
+  min-width: 0;
 }
 
 .section-heading {
@@ -284,6 +403,27 @@ main {
 
 .business-list {
   display: grid;
+  max-height: 610px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding-right: 12px;
+  scrollbar-color: var(--red) #f6e8e3;
+  scrollbar-width: thin;
+}
+
+.business-list::-webkit-scrollbar {
+  width: 10px;
+}
+
+.business-list::-webkit-scrollbar-track {
+  background: #f6e8e3;
+  border-radius: 999px;
+}
+
+.business-list::-webkit-scrollbar-thumb {
+  background: var(--red);
+  border: 2px solid #f6e8e3;
+  border-radius: 999px;
 }
 
 .business-card {
@@ -293,6 +433,8 @@ main {
   align-items: center;
   padding: 18px 0;
   border-bottom: 1px solid var(--line);
+  animation: result-rise 460ms ease both;
+  animation-delay: calc(var(--i, 0) * 36ms);
 }
 
 .business-card:last-child {
@@ -311,11 +453,19 @@ main {
   border-radius: 8px;
   font-size: 1.45rem;
   font-weight: 900;
+  transform: translateZ(0);
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.business-card:hover .thumb {
+  box-shadow: 0 12px 22px rgba(121, 33, 30, 0.2);
+  transform: scale(1.04);
 }
 
 .business-card h3 {
   margin: 0 0 6px;
   font-size: 1.06rem;
+  overflow-wrap: anywhere;
 }
 
 .meta {
@@ -341,6 +491,8 @@ main {
   display: grid;
   gap: 28px;
   align-content: start;
+  position: sticky;
+  top: 18px;
 }
 
 .bar-list {
@@ -373,6 +525,8 @@ main {
   width: var(--bar-width);
   background: var(--red);
   border-radius: inherit;
+  transform-origin: left;
+  animation: bar-grow 620ms ease both;
 }
 
 .compact .bar-fill {
@@ -384,11 +538,39 @@ main {
   color: var(--muted);
 }
 
+@keyframes result-rise {
+  from {
+    opacity: 0;
+    transform: translateY(18px) scale(0.985);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes bar-grow {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
 @media (max-width: 1180px) {
   .site-header,
   .hero-inner,
   .content-grid {
     grid-template-columns: 1fr;
+  }
+
+  .business-list {
+    max-height: 680px;
+  }
+
+  .insights-panel {
+    position: static;
   }
 
   .top-nav {
@@ -398,6 +580,10 @@ main {
 
   .hero-inner {
     padding-top: 44px;
+  }
+
+  .depth-corridor {
+    display: none;
   }
 
   .search-panel,

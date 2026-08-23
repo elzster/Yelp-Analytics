@@ -24,6 +24,7 @@ included.
 * `Battle of Burgers from Most Popular Cities.ipynb` - burger comparison notebook
 * `Highest Reviewed Restaurant in New Brunswick.ipynb` - New Brunswick notebook
 * `YelpSearchProgram.py` - standalone Yelp API export script
+* `yelp_service.py` - shared Yelp/API and CSV data utilities used by the web app and CLI
 * `app.py` - Flask web app for exploring Yelp-style market results
 * `Final_Presentation.pptx` - final project presentation
 * `oldrevs/` - older notebook revisions

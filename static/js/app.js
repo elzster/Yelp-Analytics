@@ -1,5 +1,6 @@
 const form = document.querySelector("#searchForm");
 const termInput = form.elements.term;
+const root = document.documentElement;
 const sourceLabel = document.querySelector("#sourceLabel");
 const resultCount = document.querySelector("#resultCount");
 const averageRating = document.querySelector("#averageRating");
@@ -16,7 +17,7 @@ function dollars(price) {
 }
 
 function initials(name) {
-  return name
+  return String(name || "?")
     .split(/\s+/)
     .filter(Boolean)
     .slice(0, 2)
@@ -56,6 +57,7 @@ function renderBusinesses(businesses) {
   businesses.forEach((business, index) => {
     const card = document.createElement("article");
     card.className = "business-card";
+    card.style.setProperty("--i", index);
     card.innerHTML = `
       <div class="thumb" aria-hidden="true">${initials(business.business)}</div>
       <div>
@@ -75,21 +77,26 @@ function renderBusinesses(businesses) {
 
 async function runSearch() {
   const params = new URLSearchParams(new FormData(form));
+  document.body.classList.add("is-searching");
   sourceLabel.textContent = "Loading";
 
-  const response = await fetch(`/api/search?${params.toString()}`);
-  const payload = await response.json();
+  try {
+    const response = await fetch(`/api/search?${params.toString()}`);
+    const payload = await response.json();
 
-  sourceLabel.textContent = payload.source;
-  resultsTitle.textContent = `${payload.location} ${payload.term}`;
-  resultCount.textContent = payload.summary.result_count;
-  averageRating.textContent = payload.summary.average_rating.toFixed(2);
-  averageReviews.textContent = payload.summary.average_reviews.toLocaleString();
-  topCategory.textContent = payload.summary.top_category;
+    sourceLabel.textContent = payload.source;
+    resultsTitle.textContent = `${payload.location} ${payload.term}`;
+    resultCount.textContent = payload.summary.result_count;
+    averageRating.textContent = payload.summary.average_rating.toFixed(2);
+    averageReviews.textContent = payload.summary.average_reviews.toLocaleString();
+    topCategory.textContent = payload.summary.top_category;
 
-  renderBusinesses(payload.businesses);
-  renderBars(categoryBreakdown, payload.summary.category_breakdown);
-  renderBars(ratingBreakdown, payload.summary.rating_breakdown);
+    renderBusinesses(payload.businesses);
+    renderBars(categoryBreakdown, payload.summary.category_breakdown);
+    renderBars(ratingBreakdown, payload.summary.rating_breakdown);
+  } finally {
+    window.setTimeout(() => document.body.classList.remove("is-searching"), 220);
+  }
 }
 
 form.addEventListener("submit", (event) => {
@@ -106,5 +113,21 @@ document.querySelectorAll(".nav-chip").forEach((button) => {
     runSearch();
   });
 });
+
+window.addEventListener("pointermove", (event) => {
+  const x = event.clientX / window.innerWidth - 0.5;
+  const y = event.clientY / window.innerHeight - 0.5;
+  root.style.setProperty("--pointer-x", x.toFixed(3));
+  root.style.setProperty("--pointer-y", y.toFixed(3));
+});
+
+window.addEventListener(
+  "scroll",
+  () => {
+    const depth = Math.min(window.scrollY / 420, 1);
+    root.style.setProperty("--scroll-depth", depth.toFixed(3));
+  },
+  { passive: true }
+);
 
 runSearch();
